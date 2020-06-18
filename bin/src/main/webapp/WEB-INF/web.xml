@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>WebRegPrecise</display-name>
+	
+	<filter>
+		<filter-name>DataProviderFilter</filter-name>
+		<filter-class>com.lbl.regprecise.web.DataProviderFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>DataProviderFilter</filter-name>	
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>ImageGenomeNameServlet</display-name>
+		<servlet-name>ImageGenomeNameServlet</servlet-name>
+		<servlet-class>
+		com.lbl.regprecise.web.ImageGenomeNameServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>
+		ImageRegInteractionServlet</display-name>
+		<servlet-name>ImageRegInteractionServlet</servlet-name>
+		<servlet-class>
+		com.lbl.regprecise.web.ImageRegInteractionServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>
+		ImageOperonServlet</display-name>
+		<servlet-name>ImageOperonServlet</servlet-name>
+		<servlet-class>
+		com.lbl.regprecise.web.ImageOperonServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>
+		ImageVerticalNameServlet</display-name>
+		<servlet-name>ImageVerticalNameServlet</servlet-name>
+		<servlet-class>
+		com.lbl.regprecise.web.ImageVerticalNameServlet</servlet-class>
+	</servlet>
+		
+	<servlet>
+		<servlet-name>COLLECTION_Desulfovibrionales</servlet-name>
+		<jsp-file>/Desulfovibrionales.jsp</jsp-file>
+	</servlet>
+ 
+	<servlet-mapping>
+		<servlet-name>COLLECTION_Desulfovibrionales</servlet-name>
+		<url-pattern>/Desulfovibrionales</url-pattern>
+	</servlet-mapping>	
+	
+	
+	
+	
+	
+	<servlet-mapping>
+		<servlet-name>ImageGenomeNameServlet</servlet-name>
+		<url-pattern>/ImageGenomeNameServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ImageRegInteractionServlet</servlet-name>
+		<url-pattern>/ImageRegInteractionServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ImageOperonServlet</servlet-name>
+		<url-pattern>/ImageOperonServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ImageVerticalNameServlet</servlet-name>
+		<url-pattern>/ImageVerticalNameServlet</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>RegPrecise REST Service</servlet-name>
+		<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+		<init-param>
+			<param-name>com.sun.jersey.config.property.packages</param-name>
+			<!-- <param-value>com.lbl.regprecise.old_rest</param-value> -->
+			<!-- Specify the package to look through -->
+			<param-value>com.lbl.regprecise.web</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>ExportServlet</display-name>
+		<servlet-name>ExportServlet</servlet-name>
+		<servlet-class>
+		com.lbl.regprecise.web.ExportServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RegPrecise REST Service</servlet-name>
+		<url-pattern>/rest/*</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ExportServlet</servlet-name>
+		<url-pattern>/ExportServlet</url-pattern>
+	</servlet-mapping>
+
+
+
+
+
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>
