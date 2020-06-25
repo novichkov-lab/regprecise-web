@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+<web-app id="WebApp_ID" version="2.4"
+	xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 	<display-name>WebRegPrecise</display-name>
-	
+
 	<filter>
 		<filter-name>DataProviderFilter</filter-name>
 		<filter-class>com.lbl.regprecise.web.DataProviderFilter</filter-class>
 	</filter>
 	<filter-mapping>
-		<filter-name>DataProviderFilter</filter-name>	
+		<filter-name>DataProviderFilter</filter-name>
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 
@@ -16,51 +19,51 @@
 		</description>
 		<display-name>ImageGenomeNameServlet</display-name>
 		<servlet-name>ImageGenomeNameServlet</servlet-name>
-		<servlet-class>
-		com.lbl.regprecise.web.ImageGenomeNameServlet</servlet-class>
+		<servlet-class>com.lbl.regprecise.web.ImageGenomeNameServlet
+		</servlet-class>
 	</servlet>
 	<servlet>
 		<description>
 		</description>
-		<display-name>
-		ImageRegInteractionServlet</display-name>
+		<display-name>ImageRegInteractionServlet
+		</display-name>
 		<servlet-name>ImageRegInteractionServlet</servlet-name>
-		<servlet-class>
-		com.lbl.regprecise.web.ImageRegInteractionServlet</servlet-class>
+		<servlet-class>com.lbl.regprecise.web.ImageRegInteractionServlet
+		</servlet-class>
 	</servlet>
 	<servlet>
 		<description>
 		</description>
-		<display-name>
-		ImageOperonServlet</display-name>
+		<display-name>ImageOperonServlet
+		</display-name>
 		<servlet-name>ImageOperonServlet</servlet-name>
-		<servlet-class>
-		com.lbl.regprecise.web.ImageOperonServlet</servlet-class>
+		<servlet-class>com.lbl.regprecise.web.ImageOperonServlet
+		</servlet-class>
 	</servlet>
 	<servlet>
 		<description>
 		</description>
-		<display-name>
-		ImageVerticalNameServlet</display-name>
+		<display-name>ImageVerticalNameServlet
+		</display-name>
 		<servlet-name>ImageVerticalNameServlet</servlet-name>
-		<servlet-class>
-		com.lbl.regprecise.web.ImageVerticalNameServlet</servlet-class>
+		<servlet-class>com.lbl.regprecise.web.ImageVerticalNameServlet
+		</servlet-class>
 	</servlet>
-		
+
 	<servlet>
 		<servlet-name>COLLECTION_Desulfovibrionales</servlet-name>
 		<jsp-file>/Desulfovibrionales.jsp</jsp-file>
 	</servlet>
- 
+
 	<servlet-mapping>
 		<servlet-name>COLLECTION_Desulfovibrionales</servlet-name>
 		<url-pattern>/Desulfovibrionales</url-pattern>
-	</servlet-mapping>	
-	
-	
-	
-	
-	
+	</servlet-mapping>
+
+
+
+
+
 	<servlet-mapping>
 		<servlet-name>ImageGenomeNameServlet</servlet-name>
 		<url-pattern>/ImageGenomeNameServlet</url-pattern>
@@ -84,16 +87,21 @@
 		</description>
 		<display-name>ExportServlet</display-name>
 		<servlet-name>ExportServlet</servlet-name>
-		<servlet-class>
-		com.lbl.regprecise.web.ExportServlet</servlet-class>
+		<servlet-class>com.lbl.regprecise.web.ExportServlet
+		</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ExportServlet</servlet-name>
 		<url-pattern>/ExportServlet</url-pattern>
 	</servlet-mapping>
 
-
-
+ 	<resource-ref>
+		<description>MySQL Hibernate JNDI Datasource</description>
+		<res-ref-name>jdbc/RegPrecise</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+	</resource-ref>
+ 
 
 
 	<welcome-file-list>
