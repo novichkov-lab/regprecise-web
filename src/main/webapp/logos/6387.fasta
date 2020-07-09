@@ -1,0 +1,72 @@
+>Aave_2206(mdh) Score=7 Pos=-156 [Acidovorax avenae subsp. citrulli AAC00-1]
+CATCATATCTTATATAAGACATAAGA
+>Aave_2205(sdhR) Score=7 Pos=-20 [Acidovorax avenae subsp. citrulli AAC00-1]
+TCTTATGTCTTATATAAGATATGATG
+>Aave_2860(aceA) Score=7.5 Pos=-115 [Acidovorax avenae subsp. citrulli AAC00-1]
+TTTTATGTCTTATATAAGACATAAGA
+>Ajs_2401(aceA) Score=6.9 Pos=-115 [Acidovorax sp. JS42]
+ATTTATCTCTTATATAAGACATAAGA
+>Ajs_2791(mdh) Score=7.2 Pos=-91 [Acidovorax sp. JS42]
+GATCATATCTTATATAAGACATAAGA
+>Ajs_2792(sdhR) Score=7.2 Pos=-4 [Acidovorax sp. JS42]
+TCTTATGTCTTATATAAGATATGATC
+>CtesDRAFT_0622(mdh) Score=7.2 Pos=-155 [Comamonas testosteroni KF-1]
+GATCATATCTTATATAAGACATAAGA
+>CtesDRAFT_0860(aceA) Score=6.1 Pos=-109 [Comamonas testosteroni KF-1]
+ATTTCAGTCTTTTATAAGACATAAGA
+>CtesDRAFT_0621(sdhR) Score=7.2 Pos=-4 [Comamonas testosteroni KF-1]
+TCTTATGTCTTATATAAGATATGATC
+>Daci_2429(mdh) Score=7.2 Pos=-157 [Delftia acidovorans SPH-1]
+GATCATATCTTATATAAGACATAAGA
+>Daci_2428(sdhR) Score=7.2 Pos=-87 [Delftia acidovorans SPH-1]
+TCTTATGTCTTATATAAGATATGATC
+>Daci_4617(aceA) Score=5.3 Pos=-1 [Delftia acidovorans SPH-1]
+GATGAGGTCTTCTATAAGACTTAAAT
+>Daci_4617(aceA) Score=5.9 Pos=-31 [Delftia acidovorans SPH-1]
+AATTTAGTCTTGTATAAGACACAAGA
+>Lcho_2708(mdh) Score=7.5 Pos=-175 [Leptothrix cholodnii SP-6]
+ACAGATGTCTTATATAAGACATAAGA
+>Lcho_2711(acnB) Score=6.1 Pos=-114 [Leptothrix cholodnii SP-6]
+TGGCAAGTCTTATATAAGACATAAAA
+>Lcho_1744(aceA) Score=7.1 Pos=-102 [Leptothrix cholodnii SP-6]
+ATTTATATCTTATATAAGACATAAGT
+>Lcho_2707(sdhR) Score=7.5 Pos=-73 [Leptothrix cholodnii SP-6]
+TCTTATGTCTTATATAAGACATCTGT
+>Mpe_A2172(mdh) Score=7.4 Pos=-152 [Methylibium petroleiphilum PM1]
+AAAGATGTCTTATATAAGACATAAGA
+>Mpe_A1889(aceA) Score=6 Pos=-103 [Methylibium petroleiphilum PM1]
+ATAGAAGTCTTATATAAGATAGAAGT
+>Mpe_A2171(sdhR) Score=7.4 Pos=-74 [Methylibium petroleiphilum PM1]
+TCTTATGTCTTATATAAGACATCTTT
+>Pnap_3031(sdhR) Score=7.4 Pos=-38 [Polaromonas naphthalenivorans CJ2]
+TCTTATGTCTTATATAAGATATGATT
+>Pnap_3030(mdh) Score=7.4 Pos=-202 [Polaromonas naphthalenivorans CJ2]
+AATCATATCTTATATAAGACATAAGA
+>Pnap_2855(aceA) Score=6.5 Pos=-91 [Polaromonas naphthalenivorans CJ2]
+TAAATAGTCTTATATAAGACATAAGA
+>Bpro_3598(mdh) Score=7.5 Pos=-239 [Polaromonas sp. JS666]
+TATCATATCTTATATAAGACATAAGA
+>Bpro_2101(aceA) Score=7.1 Pos=-102 [Polaromonas sp. JS666]
+ATTTTTGTCTTATATAAGACATAAGA
+>Bpro_3599(sdhR) Score=7.5 Pos=-49 [Polaromonas sp. JS666]
+TCTTATGTCTTATATAAGATATGATA
+>Rfer_1335(aceA) Score=6.7 Pos=-124 [Rhodoferax ferrireducens DSM 15236]
+AAAAATGTCTTCTATAAGACATAAGA
+>Rfer_1802(sdhR) Score=6.7 Pos=-23 [Rhodoferax ferrireducens DSM 15236]
+TCTTATGTCTTATATAAGATAAGATG
+>Rfer_1803(mdh) Score=6.7 Pos=-138 [Rhodoferax ferrireducens DSM 15236]
+CATCTTATCTTATATAAGACATAAGA
+>Rfer_1335(aceA) Score=5.3 Pos=-94 [Rhodoferax ferrireducens DSM 15236]
+TTTTTAGTCTTATACAAGACCTAAAA
+>Vapar_1431(sdhR) Score=6.8 Pos=-4 [Variovorax paradoxus S110]
+TCTTATGTCTTATATAAGATATGCTC
+>Vapar_1432(mdh) Score=6.8 Pos=-151 [Variovorax paradoxus S110]
+GAGCATATCTTATATAAGACATAAGA
+>Vapar_1869(aceA) Score=7.1 Pos=-97 [Variovorax paradoxus S110]
+AAATATGTCTTCTATAAGACATAAGA
+>Veis_4356(mdh) Score=7.2 Pos=-199 [Verminephrobacter eiseniae EF01-2]
+GATCATATCTTATATAAGACATAAGA
+>Veis_3088(aceA) Score=6.4 Pos=-116 [Verminephrobacter eiseniae EF01-2]
+TTTCATCTCTTCTATAAGACATAAGA
+>Veis_4355(sdhR) Score=7.2 Pos=-33 [Verminephrobacter eiseniae EF01-2]
+TCTTATGTCTTATATAAGATATGATC

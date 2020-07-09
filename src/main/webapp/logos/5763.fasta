@@ -1,0 +1,436 @@
+>VC1611(metA) Score=6.1 Pos=-30 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATAAGTCTGGATGTTT
+>VC1184(csd) Score=5.5 Pos=-34 [Vibrio cholerae O1 biovar eltor str. N16961]
+GGGCATATGGATGTTT
+>VCA0193(metT) Score=6.7 Pos=-79 [Vibrio cholerae O1 biovar eltor str. N16961]
+GGACGTCTAGACTGTT
+>VC0472(metK) Score=6.8 Pos=-131 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGCCGTCTAGATGTAG
+>VC2683(metB) Score=6.6 Pos=-175 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGAAGTGTTGACGTCT
+>VC2683(metB) Score=7.6 Pos=-191 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACATGTAGACGTCT
+>VC0472(metK) Score=5.8 Pos=-123 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGATGTAGAAACGCCT
+>VC0907(metN) Score=6.1 Pos=-107 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTAAAAATATCT
+>VC1704(metE) Score=6.3 Pos=-79 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGCCATCCAGACATCT
+>VC2682(metJ) Score=6 Pos=-108 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCAACACTTCT
+>VC2682(metJ) Score=6.9 Pos=-100 [Vibrio cholerae O1 biovar eltor str. N16961]
+ACACTTCTAGACGTCT
+>VC2682(metJ) Score=7.3 Pos=-92 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCTACATGTCT
+>VC0390(metH) Score=7.8 Pos=-66 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCTAGATTTCT
+>VC0907(metN) Score=6.8 Pos=-123 [Vibrio cholerae O1 biovar eltor str. N16961]
+AACCATTTAGACGTCT
+>VC0907(metN) Score=7.1 Pos=-115 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCTAGACGTAA
+>VC2683(metB) Score=7.4 Pos=-183 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCTAGAAGTGT
+>VC2685(metF) Score=7.4 Pos=-66 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGCCATATAGACGTCT
+>VC2685(metF) Score=7.2 Pos=-58 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGACGTCTAAACGTCA
+>VCA0193(metT) Score=6.7 Pos=-87 [Vibrio cholerae O1 biovar eltor str. N16961]
+GGATGTTTGGACGTCT
+>VC1706(metR) Score=7.4 Pos=-85 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGCCATCTAGATGTTT
+>VC1611(metA) Score=6.6 Pos=-22 [Vibrio cholerae O1 biovar eltor str. N16961]
+GGATGTTTAGACGTCC
+>VV1_0292(metN) Score=7.1 Pos=-114 [Vibrio vulnificus CMCP6]
+AGACGTCTAGACGTAA
+>VV1_1364(metB) Score=8.1 Pos=-135 [Vibrio vulnificus CMCP6]
+AGACATATAGACGTCT
+>VV1_1173(btuB) Score=6.8 Pos=-222 [Vibrio vulnificus CMCP6]
+GGAAGTATAGATGGCT
+>VV1_2808(csd) Score=5.1 Pos=-43 [Vibrio vulnificus CMCP6]
+GGTCATATGGATGTGT
+>VV21534(mtsA) Score=5.6 Pos=-181 [Vibrio vulnificus CMCP6]
+AGACATCCAGACAGAT
+>VV1_1536(metK) Score=7.2 Pos=-98 [Vibrio vulnificus CMCP6]
+AGACGTCTAGATGTAG
+>VV1_2219(metE) Score=7.5 Pos=-255 [Vibrio vulnificus CMCP6]
+AAACATCTAGACGTCT
+>VV1_2219(metE) Score=6.3 Pos=-140 [Vibrio vulnificus CMCP6]
+AGCCATCCAGACATCT
+>VV1_1362(metJ) Score=6 Pos=-108 [Vibrio vulnificus CMCP6]
+AGACGTCAACACTTCT
+>VV1_1362(metJ) Score=6.9 Pos=-100 [Vibrio vulnificus CMCP6]
+ACACTTCTAGACGTCT
+>VV1_1362(metJ) Score=7.7 Pos=-92 [Vibrio vulnificus CMCP6]
+AGACGTCTATATGTCT
+>VV1_1423(metH) Score=7.3 Pos=-67 [Vibrio vulnificus CMCP6]
+AGACGTCTAGACTCCT
+>VV1_0292(metN) Score=6.1 Pos=-106 [Vibrio vulnificus CMCP6]
+AGACGTAAAAATATCT
+>VV1_1366(metF) Score=7.3 Pos=-66 [Vibrio vulnificus CMCP6]
+AGACGTCTAAACGTCG
+>VV1_1364(metB) Score=6.6 Pos=-119 [Vibrio vulnificus CMCP6]
+AGAAGTGTTGACGTCT
+>VV1_1364(metB) Score=7.4 Pos=-127 [Vibrio vulnificus CMCP6]
+AGACGTCTAGAAGTGT
+>VV1_2772(metA) Score=8 Pos=-43 [Vibrio vulnificus CMCP6]
+AGATGTATAGACGTCT
+>VV1_2772(metA) Score=5.6 Pos=-51 [Vibrio vulnificus CMCP6]
+ATAGGTTTAGATGTAT
+>VV1_1366(metF) Score=7.3 Pos=-74 [Vibrio vulnificus CMCP6]
+GGACATATAGACGTCT
+>VV1_0292(metN) Score=7 Pos=-122 [Vibrio vulnificus CMCP6]
+GAACGTTTAGACGTCT
+>VV1_2218(metR) Score=7.1 Pos=-197 [Vibrio vulnificus CMCP6]
+AGATGTCTGGATGGCT
+>VV1_2218(metR) Score=8 Pos=-82 [Vibrio vulnificus CMCP6]
+AGACGTCTAGATGTTT
+>VIBHAR_00049(metB) Score=7.4 Pos=-143 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGAAGTGT
+>VIBHAR_01104(metT) Score=7.6 Pos=-76 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGACGTTG
+>VIBHAR_02028(csd) Score=5.3 Pos=-217 [Vibrio harveyi ATCC BAA-1116]
+ATCCATCAAGATGGTT
+>VIBHAR_05109(mtsA) Score=5.3 Pos=-244 [Vibrio harveyi ATCC BAA-1116]
+AGCCATCCAGACAGAT
+>VIBHAR_01104(metT) Score=7.4 Pos=-84 [Vibrio harveyi ATCC BAA-1116]
+AGCCATTTAGACGTCT
+>VIBHAR_00049(metB) Score=8.1 Pos=-151 [Vibrio harveyi ATCC BAA-1116]
+AGACATATAGACGTCT
+>VIBHAR_01202(metN) Score=7.1 Pos=-153 [Vibrio harveyi ATCC BAA-1116]
+ATACATTTAGACGTCT
+>VIBHAR_01202(metN) Score=7.1 Pos=-145 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGACGTAA
+>VIBHAR_01202(metN) Score=6.1 Pos=-137 [Vibrio harveyi ATCC BAA-1116]
+AGACGTAAAAATATCT
+>VIBHAR_02772(metE) Score=7.7 Pos=-198 [Vibrio harveyi ATCC BAA-1116]
+AAACGTCTAGACGTCT
+>VIBHAR_02772(metE) Score=6.3 Pos=-77 [Vibrio harveyi ATCC BAA-1116]
+AGCCATCCAGACATCT
+>VIBHAR_00050(metJ) Score=6 Pos=-110 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCAACACTTCT
+>VIBHAR_00050(metJ) Score=6.9 Pos=-102 [Vibrio harveyi ATCC BAA-1116]
+ACACTTCTAGACGTCT
+>VIBHAR_00050(metJ) Score=7.7 Pos=-94 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTATATGTCT
+>VIBHAR_03712(metH) Score=7.3 Pos=-66 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGACTCCT
+>VIBHAR_00261(btuB) Score=6.9 Pos=-231 [Vibrio harveyi ATCC BAA-1116]
+AGCAATCTAGATGGCT
+>VIBHAR_00047(metF) Score=7.7 Pos=-72 [Vibrio harveyi ATCC BAA-1116]
+AGACATATAGACGTCT
+>VIBHAR_00047(metF) Score=7.3 Pos=-64 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAAACGTCG
+>VIBHAR_00049(metB) Score=6.6 Pos=-135 [Vibrio harveyi ATCC BAA-1116]
+AGAAGTGTTGACGTCT
+>VIBHAR_02773(metR) Score=7.1 Pos=-203 [Vibrio harveyi ATCC BAA-1116]
+AGATGTCTGGATGGCT
+>VIBHAR_02773(metR) Score=8.1 Pos=-82 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGACGTTT
+>VIBHAR_02491(metA) Score=8 Pos=-44 [Vibrio harveyi ATCC BAA-1116]
+AGATGTATAGACGTCT
+>VIBHAR_03568(metK) Score=7.2 Pos=-97 [Vibrio harveyi ATCC BAA-1116]
+AGACGTCTAGATGTAG
+>VP2765(metB) Score=6.6 Pos=-135 [Vibrio parahaemolyticus RIMD 2210633]
+AGAAGTGTTGACGTCT
+>VPA1481(mtsA) Score=5.3 Pos=-252 [Vibrio parahaemolyticus RIMD 2210633]
+AGCCATCCAGACAGAT
+>VP2765(metB) Score=7.4 Pos=-143 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGAAGTGT
+>VP0706(metN) Score=7.1 Pos=-153 [Vibrio parahaemolyticus RIMD 2210633]
+ATACATTTAGACGTCT
+>VP0706(metN) Score=7.1 Pos=-145 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGACGTAA
+>VP0706(metN) Score=6.1 Pos=-137 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTAAAAATATCT
+>VP1974(metE) Score=6.3 Pos=-81 [Vibrio parahaemolyticus RIMD 2210633]
+AGCCATCCAGACATCT
+>VP1974(metE) Score=6.2 Pos=-210 [Vibrio parahaemolyticus RIMD 2210633]
+GGATATGTAAACGTCT
+>VP1974(metE) Score=7.7 Pos=-202 [Vibrio parahaemolyticus RIMD 2210633]
+AAACGTCTAGACGTCT
+>VP2766(metJ) Score=7.7 Pos=-92 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTATATGTCT
+>VP2766(metJ) Score=6 Pos=-108 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCAACACTTCT
+>VP2766(metJ) Score=6.9 Pos=-100 [Vibrio parahaemolyticus RIMD 2210633]
+ACACTTCTAGACGTCT
+>VP2717(metH) Score=7.3 Pos=-66 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGACTCCT
+>VP0632(metT) Score=7.4 Pos=-21 [Vibrio parahaemolyticus RIMD 2210633]
+AGCCATTTAGACGTCT
+>VP0632(metT) Score=7.6 Pos=-13 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGACGTTG
+>VP2606(metK) Score=7.2 Pos=-97 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGATGTAG
+>VP2938(btuB) Score=6.9 Pos=-231 [Vibrio parahaemolyticus RIMD 2210633]
+AGCAATCTAGATGGCT
+>VP2763(metF) Score=7.7 Pos=-70 [Vibrio parahaemolyticus RIMD 2210633]
+AGACATATAGACGTCT
+>VP2763(metF) Score=7.3 Pos=-62 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAAACGTCG
+>VP0379(metQ2) Score=7.5 Pos=-36 [Vibrio parahaemolyticus RIMD 2210633]
+AGCCGTATGGACGTCT
+>VP2765(metB) Score=8.1 Pos=-151 [Vibrio parahaemolyticus RIMD 2210633]
+AGACATATAGACGTCT
+>VP1976(metR) Score=8.1 Pos=-259 [Vibrio parahaemolyticus RIMD 2210633]
+AGACGTCTAGACGTTT
+>VP1751(metA) Score=7.9 Pos=-45 [Vibrio parahaemolyticus RIMD 2210633]
+AGAAGTATAGACGTCT
+>VSAK1_25825(metT) Score=6.9 Pos=-83 [Vibrio shilonii AK1]
+GGACATTTGGACGTCT
+>VSAK1_25825(metT) Score=7.1 Pos=-75 [Vibrio shilonii AK1]
+GGACGTCTAGACGTTG
+>VSAK1_25825(metT) Score=5.9 Pos=-67 [Vibrio shilonii AK1]
+AGACGTTGACATGTCT
+>VSAK1_06235(csd) Score=5 Pos=-247 [Vibrio shilonii AK1]
+GTACATCAAGATGGAT
+>VSAK1_09473(metB) Score=8.1 Pos=-180 [Vibrio shilonii AK1]
+AGACATATAGACGTCT
+>VSAK1_07864(metK) Score=7.2 Pos=-92 [Vibrio shilonii AK1]
+AGACGTCTAGATGTAG
+>VSAK1_09463(metF) Score=7.2 Pos=-98 [Vibrio shilonii AK1]
+AGACGTCTAAACGTCA
+>VSAK1_09463(metF) Score=7.7 Pos=-106 [Vibrio shilonii AK1]
+AGACATATAGACGTCT
+>VSAK1_13281(btuB) Score=4.8 Pos=-321 [Vibrio shilonii AK1]
+ATATGGCTGGATATCT
+>VSAK1_00952(metE) Score=5.6 Pos=-148 [Vibrio shilonii AK1]
+GGATGTGTAAACATCT
+>VSAK1_00952(metE) Score=6.9 Pos=-140 [Vibrio shilonii AK1]
+AAACATCTAGACGTCC
+>VSAK1_00952(metE) Score=6.2 Pos=-35 [Vibrio shilonii AK1]
+AGCCATCCAGACTGCT
+>VSAK1_09478(metJ) Score=6 Pos=-111 [Vibrio shilonii AK1]
+AGACGTCAACACTTCT
+>VSAK1_09478(metJ) Score=6.9 Pos=-103 [Vibrio shilonii AK1]
+ACACTTCTAGACGTCT
+>VSAK1_09478(metJ) Score=7.7 Pos=-95 [Vibrio shilonii AK1]
+AGACGTCTATATGTCT
+>VSAK1_04630(metH) Score=6.9 Pos=-73 [Vibrio shilonii AK1]
+AGATTTTTAGACGTCT
+>VSAK1_04630(metH) Score=7.8 Pos=-65 [Vibrio shilonii AK1]
+AGACGTCTAGATTTCT
+>VSAK1_09473(metB) Score=6.6 Pos=-164 [Vibrio shilonii AK1]
+AGAAGTGTTGACGTCT
+>VSAK1_09473(metB) Score=7.4 Pos=-172 [Vibrio shilonii AK1]
+AGACGTCTAGAAGTGT
+>VSAK1_06879(metA) Score=5.9 Pos=-40 [Vibrio shilonii AK1]
+AGACGTCCAGATGACC
+>VSAK1_10548(metN) Score=6.8 Pos=-123 [Vibrio shilonii AK1]
+TGCCGTTTAGACGTCT
+>VSAK1_10548(metN) Score=7.1 Pos=-115 [Vibrio shilonii AK1]
+AGACGTCTAGACGTAA
+>VSAK1_10548(metN) Score=6.1 Pos=-107 [Vibrio shilonii AK1]
+AGACGTAAAAATATCT
+>VSAK1_00947(metR) Score=6.6 Pos=-178 [Vibrio shilonii AK1]
+AGCAGTCTGGATGGCT
+>VSAK1_00947(metR) Score=7.5 Pos=-73 [Vibrio shilonii AK1]
+GGACGTCTAGATGTTT
+>VSAK1_06879(metA) Score=7.4 Pos=-48 [Vibrio shilonii AK1]
+AGATGTATAGACGTCC
+>VS_2894(metB) Score=6.1 Pos=-89 [Vibrio splendidus LGP32]
+AGACGTCCGGAAGTGT
+>VS_2894(metB) Score=7.5 Pos=-97 [Vibrio splendidus LGP32]
+AGACATATAGACGTCC
+>VS_II0189(mtsA) Score=4.7 Pos=-177 [Vibrio splendidus LGP32]
+AGACCACTAAACGGTC
+>VS_2655(metK) Score=6.8 Pos=-129 [Vibrio splendidus LGP32]
+AGCCGTCTAGATGTAG
+>VS_2895(metJ) Score=5.4 Pos=-107 [Vibrio splendidus LGP32]
+AGACGTCAACACTTCC
+>VS_2382(metN) Score=6.8 Pos=-114 [Vibrio splendidus LGP32]
+AGCCGTCTAGACGTAA
+>VS_2382(metN) Score=6.1 Pos=-106 [Vibrio splendidus LGP32]
+AGACGTAAAAATATCT
+>VS_2895(metJ) Score=7.2 Pos=-91 [Vibrio splendidus LGP32]
+GGACGTCTATATGTCT
+>VS_0315(metH) Score=7.3 Pos=-66 [Vibrio splendidus LGP32]
+AGACGTCTAGACTCCT
+>VS_1145(metE) Score=7 Pos=-208 [Vibrio splendidus LGP32]
+AAACGTCTAGATGTCC
+>VS_II1202(metT) Score=7.6 Pos=-75 [Vibrio splendidus LGP32]
+AGACGTCTAGACGTTG
+>VS_2894(metB) Score=6.1 Pos=-81 [Vibrio splendidus LGP32]
+GGAAGTGTTGACGTCT
+>VS_2998(btuB) Score=7 Pos=-215 [Vibrio splendidus LGP32]
+GGATGTATAGATGGCT
+>VS_II1202(metT) Score=6.7 Pos=-83 [Vibrio splendidus LGP32]
+GGGCGTTTAGACGTCT
+>VS_1144(metR) Score=7.4 Pos=-89 [Vibrio splendidus LGP32]
+GGACATCTAGACGTTT
+>VS_1677(metA) Score=6.6 Pos=-33 [Vibrio splendidus LGP32]
+AGACGTCTACATATCT
+>VS_1144(metR) Score=6.7 Pos=-210 [Vibrio splendidus LGP32]
+AGGCGTCTGGATGGCT
+>VS_1677(metA) Score=8 Pos=-41 [Vibrio splendidus LGP32]
+AGATGTATAGACGTCT
+>VS_1145(metE) Score=6.4 Pos=-87 [Vibrio splendidus LGP32]
+AGCCATCCAGACGCCT
+>VF_A0768(csd) Score=5.7 Pos=-43 [Vibrio fischeri ES114]
+GGGCATATGGACGTTT
+>VF_0439(metK) Score=6.5 Pos=-68 [Vibrio fischeri ES114]
+AAACGTATAGACTTAT
+>VF_1566(mtsA) Score=6.6 Pos=-96 [Vibrio fischeri ES114]
+AGCCGTCTAGATGTAA
+>VF_2267(metB) Score=6.6 Pos=-256 [Vibrio fischeri ES114]
+AGAAGTGTTGACGTCT
+>VF_2267(metB) Score=8.1 Pos=-272 [Vibrio fischeri ES114]
+AGACATATAGACGTCT
+>VF_2267(metB) Score=7.4 Pos=-264 [Vibrio fischeri ES114]
+AGACGTCTAGAAGTGT
+>VF_1566(mtsA) Score=6.4 Pos=-104 [Vibrio fischeri ES114]
+AAACATATAGCCGTCT
+>VF_2309(metF) Score=7.7 Pos=-86 [Vibrio fischeri ES114]
+AGACATATAGACGTCT
+>VF_0439(metK) Score=6.6 Pos=-100 [Vibrio fischeri ES114]
+AGACGTCTAGATGGAA
+>VF_1721(metE) Score=7.1 Pos=-152 [Vibrio fischeri ES114]
+AAACATCTAGACGGCT
+>VF_1721(metE) Score=6.1 Pos=-31 [Vibrio fischeri ES114]
+AGCCATCCAAACGGCT
+>VF_2268(metJ) Score=6 Pos=-108 [Vibrio fischeri ES114]
+AGACGTCAACACTTCT
+>VF_2268(metJ) Score=6.9 Pos=-100 [Vibrio fischeri ES114]
+ACACTTCTAGACGTCT
+>VF_2268(metJ) Score=7.7 Pos=-92 [Vibrio fischeri ES114]
+AGACGTCTATATGTCT
+>VF_0337(metH) Score=7.8 Pos=-69 [Vibrio fischeri ES114]
+AGACGTCTAGATTTCT
+>VF_0686(metN) Score=7.1 Pos=-70 [Vibrio fischeri ES114]
+AGACGTCTAGACGTAA
+>VF_0686(metN) Score=6.1 Pos=-62 [Vibrio fischeri ES114]
+AGACGTAAAAATATCT
+>VF_1722(metR) Score=7.6 Pos=-84 [Vibrio fischeri ES114]
+AGCCGTCTAGATGTTT
+>VF_1722(metR) Score=6.6 Pos=-205 [Vibrio fischeri ES114]
+AGCCGTTTGGATGGCT
+>VF_2063(metA) Score=7.2 Pos=-40 [Vibrio fischeri ES114]
+AGAAGTATAGACGTAT
+>VSAL_I0552(metK) Score=5.7 Pos=-101 [Vibrio salmonicida LFI1238]
+GGCCGTCTAGATGGAA
+>VSAL_II0879(csd) Score=6.3 Pos=-112 [Vibrio salmonicida LFI1238]
+GGACATATGGATGTTT
+>VSAL_I2747(metB) Score=7.1 Pos=-94 [Vibrio salmonicida LFI1238]
+AGAAGTATTGACGTCT
+>VSAL_I2747(metB) Score=7.4 Pos=-102 [Vibrio salmonicida LFI1238]
+AGACGTCTAGAAGTAT
+>VSAL_I2747(metB) Score=7.8 Pos=-110 [Vibrio salmonicida LFI1238]
+AGATATATAGACGTCT
+>VSAL_I1988(mtsA) Score=6.6 Pos=-92 [Vibrio salmonicida LFI1238]
+AGCCGTCTAGATGTAA
+>VSAL_I2762(metF) Score=7.2 Pos=-84 [Vibrio salmonicida LFI1238]
+AGACATATAGACGTCC
+>VSAL_I2762(metF) Score=5.6 Pos=-76 [Vibrio salmonicida LFI1238]
+AGACGTCCAAACATGA
+>VSAL_I2746(metJ) Score=6.4 Pos=-109 [Vibrio salmonicida LFI1238]
+AGACGTCAATACTTCT
+>VSAL_I2746(metJ) Score=6.8 Pos=-101 [Vibrio salmonicida LFI1238]
+ATACTTCTAGACGTCT
+>VSAL_I2746(metJ) Score=6.9 Pos=-93 [Vibrio salmonicida LFI1238]
+AGACGTCTATATATCT
+>VSAL_I0442(metH) Score=7.8 Pos=-68 [Vibrio salmonicida LFI1238]
+AGACGTCTAGATTTCT
+>VSAL_I0886(metN) Score=6.4 Pos=-179 [Vibrio salmonicida LFI1238]
+ATACGTTTAGCCGTCT
+>VSAL_I0886(metN) Score=6.8 Pos=-171 [Vibrio salmonicida LFI1238]
+AGCCGTCTAGACGTAA
+>VSAL_I0886(metN) Score=6.1 Pos=-163 [Vibrio salmonicida LFI1238]
+AGACGTAAAAATATCT
+>VSAL_I0860(metR) Score=6.6 Pos=-205 [Vibrio salmonicida LFI1238]
+AGCCGTTTGGATGGCT
+>VSAL_I0860(metR) Score=7.6 Pos=-84 [Vibrio salmonicida LFI1238]
+AGCCGTCTAGATGTTT
+>VSAL_I2499(metA) Score=7 Pos=-45 [Vibrio salmonicida LFI1238]
+AGACGTATAGAATGCT
+>VSAL_I2499(metA) Score=6.4 Pos=-53 [Vibrio salmonicida LFI1238]
+AGGAGTATAGACGTAT
+>VSAL_I0552(metK) Score=6.5 Pos=-69 [Vibrio salmonicida LFI1238]
+AAACGTATAGACTTAT
+>VAS14_16434(metT) Score=7.5 Pos=-78 [Vibrio angustum S14]
+AGACGTCTAGATGTTG
+>VAS14_04733(metE) Score=6.6 Pos=-163 [Vibrio angustum S14]
+AGATGGCTAAACGTCT
+>VAS14_21442(metB) Score=6.7 Pos=-89 [Vibrio angustum S14]
+AGATGTGTTGACGTCT
+>VAS14_21442(metB) Score=6.9 Pos=-97 [Vibrio angustum S14]
+AGACGTCCAGATGTGT
+>VAS14_21442(metB) Score=7.5 Pos=-105 [Vibrio angustum S14]
+AGACATATAGACGTCC
+>VAS14_04448(mtsA) Score=7 Pos=-303 [Vibrio angustum S14]
+AGACGTCTAGATGTAA
+>VAS14_21447(metJ) Score=7.2 Pos=-215 [Vibrio angustum S14]
+GGACGTCTATATGTCT
+>VAS14_21447(metJ) Score=7 Pos=-223 [Vibrio angustum S14]
+ACACATCTGGACGTCT
+>VAS14_21447(metJ) Score=5.7 Pos=-231 [Vibrio angustum S14]
+AGACGTCAACACATCT
+>VAS14_13649(csd) Score=6 Pos=-217 [Vibrio angustum S14]
+ATACATCAAGATGGCT
+>VAS14_13164(mmuM) Score=6.9 Pos=-18 [Vibrio angustum S14]
+AGCAGTATGGATGTCT
+>VAS14_19426(metH) Score=5.2 Pos=-12 [Vibrio angustum S14]
+GGATGTAGTGACGTGT
+>VAS14_21086(metN) Score=7 Pos=-172 [Vibrio angustum S14]
+AGCCATTTGGACGTCT
+>VAS14_21086(metN) Score=5.8 Pos=-164 [Vibrio angustum S14]
+GGACGTCTAGCCGTAA
+>VAS14_21086(metN) Score=5.4 Pos=-156 [Vibrio angustum S14]
+AGCCGTAAAAATAGCT
+>VAS14_16434(metT) Score=7.7 Pos=-86 [Vibrio angustum S14]
+AGATGTTTAGACGTCT
+>VAS14_04738(metR) Score=6.2 Pos=-87 [Vibrio angustum S14]
+AGACGTTTAGCCATCT
+>VAS14_04738(metR) Score=7.4 Pos=-79 [Vibrio angustum S14]
+AGCCATCTAGATGTTT
+>VAS14_19416(metA) Score=6.2 Pos=-39 [Vibrio angustum S14]
+AGACGGCTAAACATCT
+>VAS14_19416(metA) Score=6.7 Pos=-47 [Vibrio angustum S14]
+GGAAGTTTAGACGGCT
+>VAS14_20221(metK) Score=6.7 Pos=-107 [Vibrio angustum S14]
+AGACGTCTAGACGGAA
+>VAS14_04733(metE) Score=7 Pos=-171 [Vibrio angustum S14]
+AAACATCTAGATGGCT
+>PBPRA2837(metT) Score=7.2 Pos=-85 [Photobacterium profundum SS9]
+GGATGTTTAGACGTCT
+>PBPRA2837(metT) Score=7.1 Pos=-77 [Photobacterium profundum SS9]
+AGACGTCTAGAAGTTG
+>PBPRA0261(metB) Score=6.1 Pos=-90 [Photobacterium profundum SS9]
+GGAAGTGTTGACGTCT
+>PBPRA0261(metB) Score=7 Pos=-98 [Photobacterium profundum SS9]
+AGACGTCTGGAAGTGT
+>PBPRA0261(metB) Score=8.1 Pos=-106 [Photobacterium profundum SS9]
+AGACATATAGACGTCT
+>PBPRA2239(mtsA) Score=6.6 Pos=-239 [Photobacterium profundum SS9]
+AGACGTCTAGATGGAA
+>PBPRA0263(metF) Score=7.7 Pos=-82 [Photobacterium profundum SS9]
+AGACATATAGACGTCT
+>PBPRA0263(metF) Score=7.1 Pos=-74 [Photobacterium profundum SS9]
+AGACGTCTAAACGGTT
+>PBPRA0260(metJ) Score=5.4 Pos=-106 [Photobacterium profundum SS9]
+AGACGTCAACACTTCC
+>PBPRA0260(metJ) Score=7.7 Pos=-90 [Photobacterium profundum SS9]
+AGACGTCTATATGTCT
+>PBPRA1379(metE) Score=5.5 Pos=-196 [Photobacterium profundum SS9]
+GGAAGTGTAAACATCT
+>PBPRA1379(metE) Score=7.5 Pos=-188 [Photobacterium profundum SS9]
+AAACATCTAGACGTCT
+>PBPRA3294(metH) Score=6.7 Pos=-77 [Photobacterium profundum SS9]
+AGGTATTTAGACGTCT
+>PBPRA3294(metH) Score=7.2 Pos=-69 [Photobacterium profundum SS9]
+AGACGTCTAGATTTCC
+>PBPRA2940(metN) Score=5 Pos=-161 [Photobacterium profundum SS9]
+TTACGTTTAGCCATCT
+>PBPRA2940(metN) Score=5.7 Pos=-153 [Photobacterium profundum SS9]
+AGCCATCTAGCCGTAA
+>PBPRA2940(metN) Score=5.5 Pos=-121 [Photobacterium profundum SS9]
+AGCCATCCAGACACCC
+>PBPRA1378(metR) Score=6.2 Pos=-232 [Photobacterium profundum SS9]
+AGCGGTATGGATGGCT
+>PBPRA1378(metR) Score=8 Pos=-82 [Photobacterium profundum SS9]
+AGACGTCTAGATGTTT
+>PBPRA0369(metA) Score=7.9 Pos=-45 [Photobacterium profundum SS9]
+AGATATCTAGACGTCT
+>PBPRA0369(metA) Score=7.1 Pos=-37 [Photobacterium profundum SS9]
+AGACGTCTAAACATCT
+>PBPRA3134(metK) Score=6.6 Pos=-126 [Photobacterium profundum SS9]
+AGCCGTCTAGACGGAG

@@ -1,0 +1,96 @@
+>b3092(uxaC) Score=6.2 Pos=-71 [Escherichia coli str. K-12 substr. MG1655]
+AAATTGGTGTGATAACTTT
+>b1521(uxaB) Score=4.3 Pos=-33 [Escherichia coli str. K-12 substr. MG1655]
+CAGGTTGTATGACTAATCA
+>b3093(exuT) Score=6.2 Pos=-129 [Escherichia coli str. K-12 substr. MG1655]
+AAAGTTGTATGACAAGTTA
+>b3094(exuR) Score=6 Pos=-47 [Escherichia coli str. K-12 substr. MG1655]
+AAAGTGGTATAACAAATAT
+>CKO_01541(uxaB) Score=4.5 Pos=-34 [Citrobacter koseri ATCC BAA-895]
+CAGGTTGTATGACTAATTA
+>CKO_04494(uxaC) Score=6.2 Pos=-8 [Citrobacter koseri ATCC BAA-895]
+AAATTGGTGTGATAACTTT
+>CKO_04495(exuT) Score=5.7 Pos=-227 [Citrobacter koseri ATCC BAA-895]
+GAAGTTGTATGACAAGTTA
+>CKO_04496(exuR) Score=6 Pos=-47 [Citrobacter koseri ATCC BAA-895]
+AAAGTGGTATAACAAATAT
+>CKO_02295(lfaR) Score=5.8 Pos=-157 [Citrobacter koseri ATCC BAA-895]
+TAAGTTGTGTGACAAGTTC
+>CKO_02296(lfaT) Score=4.6 Pos=-59 [Citrobacter koseri ATCC BAA-895]
+AAATTTGTGTGACACCAAA
+>CKO_00608(uxuB) Score=4.4 Pos=-191 [Citrobacter koseri ATCC BAA-895]
+AAGTTGTTATACCAAATTA
+>CKO_00609(uxuA) Score=5.3 Pos=-31 [Citrobacter koseri ATCC BAA-895]
+AATTTGGTATAACAACTTG
+>KPN_01640(uxaB) Score=4.3 Pos=-34 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CAGGTTGTATGACTACTAT
+>KPN_03520(uxaC) Score=6.2 Pos=-90 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAATTGGTGTGATAACTTT
+>KPN_03521(exuT) Score=6.2 Pos=-240 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAAGTTGTATGACAAGTTA
+>KPN_03522(exuR) Score=5.8 Pos=-48 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAAGTGGTATAACAAATCG
+>KPN_00854(lfaR) Score=4.5 Pos=-195 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TCATTGGTATAACTAGTAT
+>KPN_02605(uxuB) Score=3.7 Pos=-193 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAAGTtGTtatACcAaTaa
+>KPN_02604(uxuA) Score=5.5 Pos=-34 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTATTGGTATAACAACTTT
+>Ent638_3546(uxaC) Score=6.2 Pos=-70 [Enterobacter sp. 638]
+AAATTGGTGTGATAACTTT
+>Ent638_3547(exuT) Score=6.2 Pos=-116 [Enterobacter sp. 638]
+AAAGTTGTATGACAAGTTA
+>Ent638_3548(exuR) Score=6.1 Pos=-45 [Enterobacter sp. 638]
+AAAGTGGTATAACAAATCA
+>Ent638_1314(lfaR) Score=5.6 Pos=-175 [Enterobacter sp. 638]
+GAAGTTGTGTGACAAGTTC
+>Ent638_2768(uxuB) Score=3.8 Pos=-193 [Enterobacter sp. 638]
+AAAGTtGTtatACcAaTaT
+>Ent638_1313(lfaT) Score=4.4 Pos=-60 [Enterobacter sp. 638]
+TAATCTGTGTGACAACCGA
+>Ent638_2767(uxuA) Score=5.7 Pos=-32 [Enterobacter sp. 638]
+ATATTGGTATAACAACTTT
+>y3601(exuT) Score=5.6 Pos=-515 [Yersinia pestis KIM]
+AAAtctGTATGACAAgTTa
+>y3600(uxaC) Score=6 Pos=-69 [Yersinia pestis KIM]
+TAATTGGTGTGATAACTTT
+>y3602(exuR) Score=5.8 Pos=-105 [Yersinia pestis KIM]
+TAAGTGGTATAACAAATCC
+>y2903(uxuB) Score=5.3 Pos=-91 [Yersinia pestis KIM]
+AAACTGGTCTAACAACTTT
+>y2902(uxuA) Score=5.2 Pos=-240 [Yersinia pestis KIM]
+AAATCGGTATAACAACATT
+>Spro_4321(uxaC) Score=6.2 Pos=-70 [Serratia proteamaculans 568]
+AAATTGGTGTGATAACTTT
+>Spro_4322(exuT) Score=5.6 Pos=-157 [Serratia proteamaculans 568]
+AAATCTGTATGACAAGTTA
+>Spro_4323(exuR) Score=5.8 Pos=-57 [Serratia proteamaculans 568]
+TAAGTGGTATAACAAATCC
+>Spro_3600(lfaR) Score=4.8 Pos=-196 [Serratia proteamaculans 568]
+TAATTGGACTGATAAATCT
+>Spro_3239(uxuB) Score=5.3 Pos=-64 [Serratia proteamaculans 568]
+AAACTGGTCTGATAACTTC
+>Spro_3599(lfaT) Score=5.2 Pos=-209 [Serratia proteamaculans 568]
+GAATTGGTATACCAACTTT
+>Spro_3238(uxuA) Score=5 Pos=-80 [Serratia proteamaculans 568]
+AATTTGGTATAACAAGATT
+>ECA0645(uxaC) Score=5.4 Pos=-67 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TAATTGGTGTGATATCTTT
+>ECA0644(exuT) Score=6.2 Pos=-185 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAAGTTGTATGACAAATTA
+>ECA0643(exuR) Score=5.9 Pos=-98 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TAAGTGGTATAACAAATCA
+>ECA1966(lfaR) Score=4.8 Pos=-176 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAATTGGTTTACCAAATTG
+>ETAE_1036(gntP) Score=5.3 Pos=-93 [Edwardsiella tarda EIB202]
+AAAGTGGTGTGATAACCGT
+>ETAE_0436(uxaC) Score=6.1 Pos=-69 [Edwardsiella tarda EIB202]
+AAATTGGTGTGATAACTTC
+>ETAE_0435(exuT) Score=5.2 Pos=-282 [Edwardsiella tarda EIB202]
+GAATCTGTATGACAAGTTA
+>ETAE_0434(exuR) Score=5.8 Pos=-68 [Edwardsiella tarda EIB202]
+AAAGTGGTATAACAACTCG
+>ETAE_2291(uxuB) Score=4.7 Pos=-89 [Edwardsiella tarda EIB202]
+CAAGTGGTCTAACACCTTT
+>ETAE_2289(uxuA) Score=4.7 Pos=-101 [Edwardsiella tarda EIB202]
+GATTTGGTATGACAGATTA

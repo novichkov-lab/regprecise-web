@@ -1,0 +1,52 @@
+>BSU30560(pckA) Score=5.1 Pos=-61 [Bacillus subtilis subsp. subtilis str. 168]
+AATATATGTTATACTAATTCA
+>BSU29020(gapB) Score=5.5 Pos=-67 [Bacillus subtilis subsp. subtilis str. 168]
+TTAATGTGTTATACTAATTTT
+>RBAM_027580(pckA) Score=4.7 Pos=-63 [Bacillus amyloliquefaciens FZB42]
+GATATATGTTATACTAATTCC
+>RBAM_026060(gapB) Score=5.1 Pos=-68 [Bacillus amyloliquefaciens FZB42]
+TTAATGTGTTATACTATATAT
+>BPUM_2687(pckA) Score=4.6 Pos=-58 [Bacillus pumilus SAFR-032]
+TGAATGTGTTATACTAATCGA
+>BPUM_2547(gapB) Score=4.4 Pos=-69 [Bacillus pumilus SAFR-032]
+CTAATGTGATATACTAATTTC
+>BPUM_2547(gapB) Score=5.1 Pos=-38 [Bacillus pumilus SAFR-032]
+TTATTGAGTATAACACATAAT
+>BLi03052(gapB) Score=5.4 Pos=-68 [Bacillus licheniformis DSM 13]
+ATAATGTGTTATACTTATTTT
+>BLi03197(pckA) Score=5.4 Pos=-67 [Bacillus licheniformis DSM 13]
+TAAATGTGTTATACTAATTCT
+>BLi03197(pckA) Score=4.3 Pos=-45 [Bacillus licheniformis DSM 13]
+CATTAATGTTATACACATTAA
+>Aflv_0514(gapB) Score=5.2 Pos=-38 [Anoxybacillus flavithermus WK1]
+ATAAATAGTATAACACATATA
+>Aflv_0514(gapB) Score=5 Pos=-70 [Anoxybacillus flavithermus WK1]
+TAAAAATGTTATACTATTTTT
+>Aflv_0413(pckA) Score=5 Pos=28 [Anoxybacillus flavithermus WK1]
+AAAATGTGTTATACTTTTTAC
+>GK2726(gapB) Score=4.8 Pos=-69 [Geobacillus kaustophilus HTA426]
+AAAATATGATATACTATTTAT
+>GK2726(gapB) Score=4.4 Pos=-38 [Geobacillus kaustophilus HTA426]
+GAAAATAGTATAACATATATG
+>GK2850(pckA) Score=5.2 Pos=-55 [Geobacillus kaustophilus HTA426]
+AAAATGTGTTATACTATTTTC
+>BC4762(pckA) Score=4.8 Pos=-69 [Bacillus cereus ATCC 14579]
+TAATTGTGTTATACTCTTGTT
+>BC4583(gapB) Score=4.7 Pos=-37 [Bacillus cereus ATCC 14579]
+ATAAATAGTATAACGCATTCA
+>BC4583(gapB) Score=4.8 Pos=-68 [Bacillus cereus ATCC 14579]
+TTTTTGTGTTATACTATTATT
+>BH3302(pckA) Score=5.3 Pos=-60 [Bacillus halodurans C-125]
+TAAATGTGTTATACTAAATAA
+>BH3149(gapB) Score=4.8 Pos=-66 [Bacillus halodurans C-125]
+TAAAAGTGATATACTATTTAT
+>ABC2879(pckA) Score=4.6 Pos=-51 [Bacillus clausii KSM-K16]
+AAAATGTGTTATACTAAAGCC
+>ABC2705(gapB) Score=4.7 Pos=-71 [Bacillus clausii KSM-K16]
+TATTTATGTTATACTATTTCA
+>OB2315(pckA) Score=5.3 Pos=-88 [Oceanobacillus iheyensis HTE831]
+TTAATGTGTTATACTAATAAT
+>OB2160(gapB) Score=4.4 Pos=-36 [Oceanobacillus iheyensis HTE831]
+GTTATGAGTATATCATAATTA
+>OB2160(gapB) Score=5.2 Pos=-66 [Oceanobacillus iheyensis HTE831]
+AATTTGTGTTATACTAATTAT

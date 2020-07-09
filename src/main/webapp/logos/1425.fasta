@@ -1,0 +1,50 @@
+>RBAM_031720(paiA) Score=7 Pos=-105 [Bacillus amyloliquefaciens FZB42]
+TTTATGTTGCAAATACAACAAAAT
+>RBAM_031720(paiA) Score=6.5 Pos=-58 [Bacillus amyloliquefaciens FZB42]
+TTTTCATTGCAAATACAACAAAAA
+>RBAM_037790(yybA) Score=6.9 Pos=-44 [Bacillus amyloliquefaciens FZB42]
+ATTATATTGCATATGCAACAAAAA
+>RBAM_037800(yyaT) Score=6.9 Pos=-100 [Bacillus amyloliquefaciens FZB42]
+TTTTTGTTGCATATGCAATATAAT
+>RBAM_031710(yyaS) Score=7 Pos=-46 [Bacillus amyloliquefaciens FZB42]
+ATTTTGTTGTATTTGCAACATAAA
+>RBAM_031710(yyaS) Score=6.5 Pos=-93 [Bacillus amyloliquefaciens FZB42]
+TTTTTGTTGTATTTGCAATGAAAA
+>ABC3242(yybA) Score=7.2 Pos=-45 [Bacillus clausii KSM-K16]
+TTTTTGTTGCATTTACAACAAAAA
+>ABC3242(yybA) Score=6.8 Pos=-90 [Bacillus clausii KSM-K16]
+TTTTTATTGCAAATACAATAAAAT
+>ABC0420(ABC0420) Score=6.9 Pos=-79 [Bacillus clausii KSM-K16]
+TTTTTGTTGCATTTTCAACAAAAA
+>BH3077(yybA) Score=6.6 Pos=-42 [Bacillus halodurans C-125]
+TTATTGTTGCATTTGCAATATAAA
+>BH3077(yybA) Score=7 Pos=-89 [Bacillus halodurans C-125]
+TTTTTGTTGCATTTACAACAAATT
+>BH3078(yyaS) Score=7 Pos=-44 [Bacillus halodurans C-125]
+AATTTGTTGTAAATGCAACAAAAA
+>BH3078(yyaS) Score=6.6 Pos=-91 [Bacillus halodurans C-125]
+TTTATATTGCAAATGCAACAATAA
+>BLi00580(yyaS) Score=6.9 Pos=-92 [Bacillus licheniformis DSM 13]
+TTTTTGTTGCAAATGCAATATAAT
+>BLi00580(yyaS) Score=6.8 Pos=-45 [Bacillus licheniformis DSM 13]
+ATATTGTTGCATTTGCAATAAAAA
+>BLi00581(yybA) Score=6.9 Pos=-42 [Bacillus licheniformis DSM 13]
+ATTATATTGCATTTGCAACAAAAA
+>BLi00581(yybA) Score=6.8 Pos=-89 [Bacillus licheniformis DSM 13]
+TTTTTATTGCAAATGCAACAATAT
+>BSU40720(yyaT) Score=7.2 Pos=-100 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTGTTGCAATTACAACAAAAA
+>BSU32150(paiA) Score=7 Pos=-151 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTATTGCATTTACAACAAAAT
+>BSU40710(yybA) Score=7.2 Pos=-43 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTGTTGTAATTGCAACAAAAA
+>BSU32150(paiA) Score=6.2 Pos=-199 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTGTTGTAAATACAGCAAAGT
+>OB1246(yybA) Score=6.6 Pos=-43 [Oceanobacillus iheyensis HTE831]
+TAAATGTTGCATTTGCAACAAAAA
+>OB1246(yybA) Score=7 Pos=-91 [Oceanobacillus iheyensis HTE831]
+TTTTTGTTGCAAATACAACATAAT
+>Pjdr2_5021(yybA) Score=6.7 Pos=-47 [Paenibacillus sp. JDR-2]
+TTATTGTTGTAAATGCAACAAATT
+>Pjdr2_5022(yyaT) Score=6.7 Pos=-109 [Paenibacillus sp. JDR-2]
+AATTTGTTGCATTTACAACAATAA

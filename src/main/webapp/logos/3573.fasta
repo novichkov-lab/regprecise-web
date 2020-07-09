@@ -1,0 +1,48 @@
+>LBA0400(scrB) Score=6.2 Pos=-80 [Lactobacillus acidophilus NCFM]
+TATGATAAACGTTTGACACA
+>LBA0401(scrA) Score=6.1 Pos=-174 [Lactobacillus acidophilus NCFM]
+TGTGTCAAACGTTTATCATA
+>LBA0401(scrA) Score=6.5 Pos=-86 [Lactobacillus acidophilus NCFM]
+TGTGTCAAACGATTGACATA
+>LBA0400(scrB) Score=6.4 Pos=-168 [Lactobacillus acidophilus NCFM]
+TATGTCAATCGTTTGACACA
+>LAF_1580(scrB) Score=5.5 Pos=-73 [Lactobacillus fermentum IFO 3956]
+TATGCTAATCGATTGACAGC
+>LAF_1578(scrA) Score=5.9 Pos=-106 [Lactobacillus fermentum IFO 3956]
+TATGTCAAACGGTTGACAAT
+>LJ0518(scrB) Score=5.9 Pos=-164 [Lactobacillus johnsonii NCC 533]
+TATGTCAAGCGCTTATCATA
+>LJ0518(scrB) Score=5.3 Pos=-87 [Lactobacillus johnsonii NCC 533]
+ACTGTTATTCGTTTGACATA
+>LJ0519(scrA) Score=6.1 Pos=-91 [Lactobacillus johnsonii NCC 533]
+TATGATAAGCGCTTGACATA
+>LJ0519(scrA) Score=5.7 Pos=-168 [Lactobacillus johnsonii NCC 533]
+TATGTCAAACGAATAACAGT
+>lp_0187(scrB) Score=6 Pos=-171 [Lactobacillus plantarum WCFS1]
+TATGTCAAGCGTTTGATACA
+>lp_0187(scrB) Score=6.4 Pos=-82 [Lactobacillus plantarum WCFS1]
+AATGTCAAACGATTGACATA
+>lp_0185(scrA) Score=6.5 Pos=-193 [Lactobacillus plantarum WCFS1]
+TATGTCAATCGTTTGACATT
+>lp_0185(scrA) Score=6.1 Pos=-104 [Lactobacillus plantarum WCFS1]
+TGTATCAAACGCTTGACATA
+>LSA1793(scrB) Score=5.9 Pos=-77 [Lactobacillus sakei subsp. sakei 23K]
+AATGACATACGTTTGACATA
+>LSA1792(scrA) Score=6.1 Pos=-169 [Lactobacillus sakei subsp. sakei 23K]
+TATGTCAAACGTATGTCATT
+>LSA1792(scrA) Score=6.3 Pos=-101 [Lactobacillus sakei subsp. sakei 23K]
+TATGATAATCGTTTGACATA
+>LSA1793(scrB) Score=6.2 Pos=-145 [Lactobacillus sakei subsp. sakei 23K]
+TATGTCAAACGATTATCATA
+>LSL_0065(scrB) Score=5.9 Pos=-81 [Lactobacillus salivarius subsp. salivarius UCC118]
+TATGTTATACGATTGACAGT
+>LSL_0066(scrA) Score=6.2 Pos=-107 [Lactobacillus salivarius subsp. salivarius UCC118]
+TGTGATAAACGATTGACATA
+>PEPE_0519(scrB) Score=6 Pos=-171 [Pediococcus pentosaceus ATCC 25745]
+TATGTCAAGCGTTTGATACA
+>PEPE_0519(scrB) Score=6.4 Pos=-82 [Pediococcus pentosaceus ATCC 25745]
+AATGTCAAACGATTGACATA
+>PEPE_0518(scrA) Score=6.1 Pos=-104 [Pediococcus pentosaceus ATCC 25745]
+TGTATCAAACGCTTGACATA
+>PEPE_0518(scrA) Score=6.5 Pos=-193 [Pediococcus pentosaceus ATCC 25745]
+TATGTCAATCGTTTGACATT

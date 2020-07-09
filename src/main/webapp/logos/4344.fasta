@@ -1,0 +1,54 @@
+>LVIS_1200(artPQ) Score=4.6 Pos=-161 [Lactobacillus brevis ATCC 367]
+AATGTATAAATTTTTATA
+>LVIS_1200(artPQ) Score=4.9 Pos=-96 [Lactobacillus brevis ATCC 367]
+AGTGTATAAAAATAGATA
+>LSEI_1344(artPQ) Score=4.2 Pos=-56 [Lactobacillus casei ATCC 334]
+ATTGCATAAAAATCAATT
+>LSEI_2810(artP2) Score=4.4 Pos=-46 [Lactobacillus casei ATCC 334]
+AATGAGTATATATTCAAT
+>LAF_0624(artM) Score=3.6 Pos=-63 [Lactobacillus fermentum IFO 3956]
+CTTGCATAATAATTCGTT
+>LAF_1625(argG) Score=2.3 Pos=-136 [Lactobacillus fermentum IFO 3956]
+CTTGCATTTTTATTTGAT
+>LAF_0726(argC) Score=4.9 Pos=-220 [Lactobacillus fermentum IFO 3956]
+TGTGTATAAATATTTAGT
+>LAF_0727(carA) Score=3.3 Pos=-120 [Lactobacillus fermentum IFO 3956]
+CGTTCATAAATAACCAAT
+>lp_0527(carA) Score=4.9 Pos=-169 [Lactobacillus plantarum WCFS1]
+ATTGAAAAAATATTCATT
+>lp_0775(argG) Score=4.1 Pos=-139 [Lactobacillus plantarum WCFS1]
+TCTGCATAAAAATTCTAT
+>lp_0528(argC) Score=4.5 Pos=-117 [Lactobacillus plantarum WCFS1]
+AATGAATATTTTTTCAAT
+>lp_2111(artPQ) Score=3.8 Pos=-17 [Lactobacillus plantarum WCFS1]
+CTTGCATAAATAATCATA
+>LAR_0081(carA) Score=3.6 Pos=-136 [Lactobacillus reuteri JCM 1112]
+CATACATATATATTCAAT
+>LAR_0702(argG) Score=4.7 Pos=-164 [Lactobacillus reuteri JCM 1112]
+ATTAAATAATTATTCTAT
+>LAR_0698(artPQ) Score=4.7 Pos=-253 [Lactobacillus reuteri JCM 1112]
+ATTGCATAAATAAACATT
+>LAR_0081(carA) Score=4.7 Pos=-261 [Lactobacillus reuteri JCM 1112]
+TTTGCATAAAAATTCATT
+>LGG_01356(artPQ) Score=4.3 Pos=-56 [Lactobacillus rhamnosus GG]
+ATTGCATAAAAATTGAAT
+>LGG_02816(artP2) Score=4.4 Pos=-46 [Lactobacillus rhamnosus GG]
+AATGAGTATATATTCAAT
+>LSA1057(artPQ) Score=4.5 Pos=-55 [Lactobacillus sakei subsp. sakei 23K]
+ATTGCATAAATATTTATA
+>LSL_0306(argG) Score=3.5 Pos=-47 [Lactobacillus salivarius subsp. salivarius UCC118]
+AATGAATAGATTATGAAT
+>LSL_1541(artPQ) Score=3.5 Pos=-162 [Lactobacillus salivarius subsp. salivarius UCC118]
+GTTACATAAATATATTTT
+>LSL_1541(artPQ) Score=4.3 Pos=-82 [Lactobacillus salivarius subsp. salivarius UCC118]
+CTTGCATAAATAAACAAT
+>LEUM_0629(artM) Score=3 Pos=-59 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+GATGCATATAAATTATAA
+>LEUM_0060(argC) Score=3.4 Pos=-71 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTTGCATATTTATTGTAT
+>LEUM_0655(artP2) Score=5.3 Pos=-62 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+ATTGTATAAAAATTCAAA
+>LEUM_1459(argG) Score=3.8 Pos=-73 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+ATTGCATATTTAATCAAA
+>PEPE_1137(artPQ) Score=5.2 Pos=-94 [Pediococcus pentosaceus ATCC 25745]
+AATGTATAAAAATTCATA

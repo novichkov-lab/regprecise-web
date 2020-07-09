@@ -1,0 +1,68 @@
+>CKO_00488(sgaR) Score=6.1 Pos=-175 [Citrobacter koseri ATCC BAA-895]
+CAAAGATAGCGCTATCAAAA
+>CKO_00488(sgaR) Score=6.2 Pos=-141 [Citrobacter koseri ATCC BAA-895]
+ATGTGATAGCGCTATCAAAA
+>CKO_00489(sgaA) Score=6.1 Pos=-128 [Citrobacter koseri ATCC BAA-895]
+TTTTGATAGCGCTATCTTTG
+>CKO_00489(sgaA) Score=6.2 Pos=-162 [Citrobacter koseri ATCC BAA-895]
+TTTTGATAGCGCTATCACAT
+>ETAE_3025(sgaR) Score=5.8 Pos=-242 [Edwardsiella tarda EIB202]
+CAATGGTAGCGCTATCTAGT
+>ETAE_3025(sgaR) Score=6.1 Pos=-208 [Edwardsiella tarda EIB202]
+TCGTGATAGCGCTATCATTT
+>ETAE_3026(sgaA) Score=6.1 Pos=-122 [Edwardsiella tarda EIB202]
+AAATGATAGCGCTATCACGA
+>ETAE_3026(sgaA) Score=5.8 Pos=-88 [Edwardsiella tarda EIB202]
+ACTAGATAGCGCTACCATTG
+>Ent638_2847(sgaR) Score=5.6 Pos=-161 [Enterobacter sp. 638]
+CAAAGATAGCGCTACCAATC
+>Ent638_2847(sgaR) Score=6.2 Pos=-127 [Enterobacter sp. 638]
+TTGTGATAGCGCTATCAAAT
+>Ent638_2846(sgaA) Score=6.2 Pos=-129 [Enterobacter sp. 638]
+ATTTGATAGCGCTATCACAA
+>Ent638_2846(sgaA) Score=5.6 Pos=-95 [Enterobacter sp. 638]
+GATTGGTAGCGCTATCTTTG
+>ECA3772(sgaR) Score=5.3 Pos=-228 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAAAGGTAGCGCTAACTGAT
+>ECA3773(sgaA) Score=5.3 Pos=-91 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATCAGTTAGCGCTACCTTTT
+>KPN_01748(sgaR) Score=5.4 Pos=-138 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CAAAGTTAGCGCTAACAAAG
+>KPN_01747(sgaA) Score=5.4 Pos=-90 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTTTGTTAGCGCTAACTTTG
+>plu1978(sgaR) Score=6.2 Pos=-177 [Photorhabdus luminescens subsp. laumondii TTO1]
+AAATGATAGCGCTATCTATG
+>plu1978(sgaR) Score=6.3 Pos=-143 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTGTGATAGCGCTATCATTT
+>plu1979(sgaA) Score=6.3 Pos=-115 [Photorhabdus luminescens subsp. laumondii TTO1]
+AAATGATAGCGCTATCACAA
+>plu1979(sgaA) Score=6.2 Pos=-81 [Photorhabdus luminescens subsp. laumondii TTO1]
+CATAGATAGCGCTATCATTT
+>PMI1778(sgaR) Score=5.8 Pos=-171 [Proteus mirabilis HI4320]
+TAATGGTAGCGCTATCTAGA
+>PMI1778(sgaR) Score=5.8 Pos=-137 [Proteus mirabilis HI4320]
+TTGTGATAGCGCTATTATTT
+>PMI1777(sgaA) Score=5.8 Pos=-75 [Proteus mirabilis HI4320]
+TCTAGATAGCGCTACCATTA
+>PMI1777(sgaA) Score=5.8 Pos=-109 [Proteus mirabilis HI4320]
+AAATAATAGCGCTATCACAA
+>STM2345(sgaR) Score=6.2 Pos=-141 [Salmonella typhimurium LT2]
+TTGTGATAGCGCTATCAAAT
+>STM2345(sgaR) Score=5.3 Pos=-175 [Salmonella typhimurium LT2]
+CAAAGATAGCGCTACCAGCG
+>STM2344(sgaA) Score=6.2 Pos=-131 [Salmonella typhimurium LT2]
+ATTTGATAGCGCTATCACAA
+>STM2344(sgaA) Score=5.3 Pos=-97 [Salmonella typhimurium LT2]
+CGCTGGTAGCGCTATCTTTG
+>y1619(sgaR) Score=6.3 Pos=-156 [Yersinia pestis KIM]
+TTGTGATAGCGCTATCATTT
+>y1619(sgaR) Score=5.9 Pos=-177 [Yersinia pestis KIM]
+ATCTGGTAGCGCTATCAAAA
+>y1619(sgaR) Score=5.9 Pos=-190 [Yersinia pestis KIM]
+AATTGATAGCGCTATCTGGT
+>y1618(sgaA) Score=6.3 Pos=-128 [Yersinia pestis KIM]
+AAATGATAGCGCTATCACAA
+>y1618(sgaA) Score=5.9 Pos=-107 [Yersinia pestis KIM]
+TTTTGATAGCGCTACCAGAT
+>y1618(sgaA) Score=5.9 Pos=-94 [Yersinia pestis KIM]
+ACCAGATAGCGCTATCAATT

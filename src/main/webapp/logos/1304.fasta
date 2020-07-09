@@ -1,0 +1,38 @@
+>b4479(dgoR) Score=4 Pos=-76 [Escherichia coli str. K-12 substr. MG1655]
+TGGTACTACAA
+>b4479(dgoR) Score=4.1 Pos=-119 [Escherichia coli str. K-12 substr. MG1655]
+TTGTACTACAT
+>b4479(dgoR) Score=5.5 Pos=-140 [Escherichia coli str. K-12 substr. MG1655]
+TTGTAGTACAA
+>STM3830(dgoR) Score=4 Pos=-76 [Salmonella typhimurium LT2]
+TAGTACTACAA
+>STM3830(dgoR) Score=5.5 Pos=-140 [Salmonella typhimurium LT2]
+TTGTAGTACAA
+>STM3830(dgoR) Score=4.1 Pos=-119 [Salmonella typhimurium LT2]
+TTGTACTACAT
+>KPN_04098(dgoR) Score=4.8 Pos=-76 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TAGTAGTACAA
+>KPN_04098(dgoR) Score=4.1 Pos=-119 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGTACTACAT
+>KPN_04098(dgoR) Score=5.5 Pos=-140 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGTAGTACAA
+>Ent638_0006(dgoR) Score=4.3 Pos=-76 [Enterobacter sp. 638]
+TTGTACTGCAA
+>Ent638_0006(dgoR) Score=4.1 Pos=-119 [Enterobacter sp. 638]
+TTGTACTACAT
+>Ent638_0006(dgoR) Score=5.5 Pos=-140 [Enterobacter sp. 638]
+TTGTAGTACAA
+>Spro_0710 Score=3.6 Pos=-118 [Serratia proteamaculans 568]
+TTGTATTACCT
+>Spro_0710 Score=4.8 Pos=-140 [Serratia proteamaculans 568]
+TTGTATTACAA
+>Spro_0041(dgoR) Score=3.3 Pos=-68 [Serratia proteamaculans 568]
+AGGTACTACAA
+>Spro_0041(dgoR) Score=3.9 Pos=-24 [Serratia proteamaculans 568]
+TTGTGCTGCAA
+>Spro_0041(dgoR) Score=5.5 Pos=-89 [Serratia proteamaculans 568]
+TTGTAGTACAA
+>ECA4419(dgoR) Score=4 Pos=-129 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGGTACTACAA
+>ECA4419(dgoR) Score=5.5 Pos=-150 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGTAGTACAA

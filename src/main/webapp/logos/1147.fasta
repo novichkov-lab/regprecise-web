@@ -1,0 +1,54 @@
+>b0750(nadA) Score=6.4 Pos=-90 [Escherichia coli str. K-12 substr. MG1655]
+TGTTTAGCATATAAAACA
+>b0931(pncB) Score=5.9 Pos=-47 [Escherichia coli str. K-12 substr. MG1655]
+TGTTTATTGTACTAAACG
+>b2574(nadB) Score=6.4 Pos=-24 [Escherichia coli str. K-12 substr. MG1655]
+TGTTTAGTAAATTAAACA
+>STM0756(nadA) Score=6.4 Pos=-90 [Salmonella typhimurium LT2]
+TGTTTAGCATATAAAACA
+>STM1004(pncB) Score=5.9 Pos=-47 [Salmonella typhimurium LT2]
+TGTTTATTGTACTAAACG
+>STM2641(nadB) Score=6.4 Pos=-24 [Salmonella typhimurium LT2]
+TGTTTAGTAAATTAAACA
+>CKO_02134(pncB) Score=5.9 Pos=-47 [Citrobacter koseri ATCC BAA-895]
+TGTTTATTGTACTAAACG
+>CKO_02390(nadA) Score=6.4 Pos=-88 [Citrobacter koseri ATCC BAA-895]
+TGTTTAGCATATAAAACA
+>CKO_00208(nadB) Score=6.4 Pos=-24 [Citrobacter koseri ATCC BAA-895]
+TGTTTAGTAAATTAAACA
+>KPN_00967(pncB) Score=5.6 Pos=-118 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTCAATATATTAAACT
+>KPN_00754(nadA) Score=6.4 Pos=-88 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTTAGCATATAAAACA
+>KPN_02899(nadB) Score=6.4 Pos=-24 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTTAGTAAATTAAACA
+>Ent638_1450(pncB) Score=5.9 Pos=-47 [Enterobacter sp. 638]
+TGTTTATTGTACTAAACG
+>Ent638_1241(nadA) Score=6.5 Pos=-92 [Enterobacter sp. 638]
+TGTTTAGTATATAAAACA
+>Ent638_3061(nadB) Score=6.4 Pos=-24 [Enterobacter sp. 638]
+TGTTTAGTAAATTAAACA
+>EAM_1187(nadA) Score=6.2 Pos=-125 [Erwinia amylovora ATCC 49946]
+TGTTTATCATATAAAACA
+>y3052(nadA) Score=6 Pos=-95 [Yersinia pestis KIM]
+TGTTTAGGATAAAAAACA
+>Spro_1732(pncB) Score=5.3 Pos=-249 [Serratia proteamaculans 568]
+TGTTTAAAATAATTAACA
+>Spro_1282(nadA) Score=5.3 Pos=-154 [Serratia proteamaculans 568]
+TTTTTAATGAATTAAACA
+>Spro_1282(nadA) Score=6.4 Pos=-82 [Serratia proteamaculans 568]
+TGTTTAGTATATAAAACG
+>Spro_0668(nadR) Score=6.3 Pos=-26 [Serratia proteamaculans 568]
+TGTTTAGCATATTAAACG
+>ECA1378(nadA) Score=5.7 Pos=-81 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTTTAGGATAAAAAACT
+>ECA0463(nadR) Score=5.6 Pos=-31 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTTTAGTAGGCTAAACA
+>PMI0588(pnuC) Score=5.8 Pos=-176 [Proteus mirabilis HI4320]
+TATTTATTATATAAAACA
+>PMI0588(pnuC) Score=5.4 Pos=-125 [Proteus mirabilis HI4320]
+TGTTTAATATTTTAAACT
+>PMI0164(niaP) Score=6.5 Pos=-48 [Proteus mirabilis HI4320]
+TGTTTAGTATACTAAACA
+>plu1468(nadA) Score=6.6 Pos=-94 [Photorhabdus luminescens subsp. laumondii TTO1]
+TGTTTAGTATATTAAACA

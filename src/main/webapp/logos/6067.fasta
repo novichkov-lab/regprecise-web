@@ -1,0 +1,16 @@
+>RALTA_A1417(argE) Score=9 Pos=-172 [Cupriavidus taiwanensis]
+AGTGGCTC-(15)-ATATGGAC-(8)-GGTACCAA
+>H16_B0981(gabT) Score=9.7 Pos=-134 [Ralstonia eutropha H16]
+ATTGGCAC-(15)-AGCGGTAC-(9)-GGGCCAAG
+>Rmet_1610(argE) Score=9 Pos=-112 [Ralstonia metallidurans CH34]
+AGTGGCTC-(15)-ATATGGAC-(8)-GGTACCAA
+>Rmet_1614(ddpA) Score=7.1 Pos=-34 [Ralstonia metallidurans CH34]
+CTTGCTTC-(15)-AGGGATTC-(8)-GGGGCAAG
+>Rpic_3721(gabT) Score=12.5 Pos=-102 [Ralstonia pickettii 12J]
+AGTGGTTC-(15)-ATTGGGTC-(10)-GAGCCAAT
+>Rpic_1467(gbtA) Score=12.5 Pos=-210 [Ralstonia pickettii 12J]
+AATGGCTC-(15)-ATTGGGTC-(8)-AGAACAAT
+>RSc0029(gabT) Score=13.1 Pos=-97 [Ralstonia solanacearum GMI1000]
+ATTGGCTC-(15)-ATTGGGTC-(10)-GGGCCAAT
+>RS02922(gbtA) Score=12.4 Pos=-131 [Ralstonia solanacearum GMI1000]
+AATGGCTC-(15)-ATTGGGTC-(8)-AAGACCAT

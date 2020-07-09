@@ -1,0 +1,38 @@
+>b3131(agaR) Score=-1.1 Pos=-34 [Escherichia coli str. K-12 substr. MG1655]
+GAAATGAAACGAAAG
+>b3132(agaZ) Score=5.4 Pos=-134 [Escherichia coli str. K-12 substr. MG1655]
+CTTTCATTATGTTTC
+>b3132(agaZ) Score=5.9 Pos=-90 [Escherichia coli str. K-12 substr. MG1655]
+CTTTCGTTTTATTTT
+>b3136(agaS) Score=5.6 Pos=-150 [Escherichia coli str. K-12 substr. MG1655]
+ATTTCGTTTTATTTC
+>b3136(agaS) Score=5.1 Pos=-119 [Escherichia coli str. K-12 substr. MG1655]
+CTTTCAGTTTCTTTT
+>b3132(agaZ) Score=5.9 Pos=-229 [Escherichia coli str. K-12 substr. MG1655]
+CTTTCGTTTCATTTC
+>CKO_04529(agaR) Score=-1.1 Pos=-35 [Citrobacter koseri ATCC BAA-895]
+GAAATGAAACGAAAG
+>CKO_04536(agaS) Score=5.4 Pos=-119 [Citrobacter koseri ATCC BAA-895]
+CTTTCGATTTCTTTT
+>CKO_04530(agaZ) Score=5.9 Pos=-247 [Citrobacter koseri ATCC BAA-895]
+CTTTCGTTTCATTTC
+>CKO_04530(agaZ) Score=5.4 Pos=-152 [Citrobacter koseri ATCC BAA-895]
+CTTTCATTATGTTTC
+>CKO_04530(agaZ) Score=5.9 Pos=-108 [Citrobacter koseri ATCC BAA-895]
+CTTTCGTTTTATTTT
+>CKO_04536(agaS) Score=5.3 Pos=-252 [Citrobacter koseri ATCC BAA-895]
+CTTTCTTTTTCTTTC
+>CKO_04536(agaS) Score=5.7 Pos=-150 [Citrobacter koseri ATCC BAA-895]
+TTTTCGTTTTATTTC
+>Ent638_3571(agaR) Score=-1.1 Pos=-35 [Enterobacter sp. 638]
+GAAATGAAACGAAAG
+>Ent638_3577(agaS) Score=5.7 Pos=-144 [Enterobacter sp. 638]
+TTTTCGTTTTATTTC
+>Ent638_3572(agaZ) Score=5.9 Pos=-90 [Enterobacter sp. 638]
+CTTTCGTTTTATTTT
+>Ent638_3572(agaZ) Score=5.9 Pos=-230 [Enterobacter sp. 638]
+CTTTCGTTTCATTTC
+>Ent638_3572(agaZ) Score=5.6 Pos=-134 [Enterobacter sp. 638]
+CTTTCGTTATGTTTC
+>Ent638_3577(agaS) Score=4.6 Pos=-113 [Enterobacter sp. 638]
+CTTTCACTTTCCTTT

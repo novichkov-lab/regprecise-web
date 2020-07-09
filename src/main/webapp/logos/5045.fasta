@@ -1,0 +1,56 @@
+>NT05HA_1087(gntU) Score=5.9 Pos=-171 [Aggregatibacter aphrophilus NJ8700]
+AAATGTTATCGGTAACAATC
+>NT05HA_1087(gntU) Score=6.2 Pos=-40 [Aggregatibacter aphrophilus NJ8700]
+GTATGTTACCAGTAACATTT
+>NT05HA_1088(gntK) Score=6.2 Pos=-195 [Aggregatibacter aphrophilus NJ8700]
+AAATGTTACTGGTAACATAC
+>NT05HA_1088(gntK) Score=5.9 Pos=-64 [Aggregatibacter aphrophilus NJ8700]
+GATTGTTACCGATAACATTT
+>PM0793(gntU) Score=5.6 Pos=-202 [Pasteurella multocida subsp. multocida str. Pm70]
+AAACGTTACTGGTAACATCA
+>PM0793(gntU) Score=6.2 Pos=-40 [Pasteurella multocida subsp. multocida str. Pm70]
+TTATGTTACTGGTAACAATA
+>PM0792(gntK) Score=6.2 Pos=-232 [Pasteurella multocida subsp. multocida str. Pm70]
+TATTGTTACCAGTAACATAA
+>PM0792(gntK) Score=5.6 Pos=-70 [Pasteurella multocida subsp. multocida str. Pm70]
+TGATGTTACCAGTAACGTTT
+>MS0956(idnD) Score=5.5 Pos=-167 [Mannheimia succiniciproducens MBEL55E]
+AACAGTTACCGATAACAATA
+>MS0956(idnD) Score=5.6 Pos=-36 [Mannheimia succiniciproducens MBEL55E]
+GTATGTTACCAGTAACCAAT
+>MS0957(gntK) Score=5.6 Pos=-201 [Mannheimia succiniciproducens MBEL55E]
+ATTGGTTACTGGTAACATAC
+>MS0957(gntK) Score=5.5 Pos=-70 [Mannheimia succiniciproducens MBEL55E]
+TATTGTTATCGGTAACTGTT
+>Asuc_1155(idnD) Score=6.1 Pos=-36 [Actinobacillus succinogenes 130Z]
+ATATGTTACTGGTAACAATC
+>Asuc_1154(gntK) Score=6.1 Pos=-209 [Actinobacillus succinogenes 130Z]
+GATTGTTACCAGTAACATAT
+>Asuc_1154(gntK) Score=6.2 Pos=-67 [Actinobacillus succinogenes 130Z]
+AAATGTTACTGGTAACAGAT
+>Asuc_1155(idnD) Score=6.2 Pos=-178 [Actinobacillus succinogenes 130Z]
+ATCTGTTACCAGTAACATTT
+>HSM_0703(idnD) Score=5.3 Pos=-189 [Haemophilus somnus 2336]
+AAAAGTTACCAATAACACTT
+>HSM_0703(idnD) Score=6.1 Pos=-37 [Haemophilus somnus 2336]
+ATATGTTACCAGTAACAGAA
+>HSM_0704(gntK) Score=6.1 Pos=-227 [Haemophilus somnus 2336]
+TTCTGTTACTGGTAACATAT
+>HSM_0704(gntK) Score=5.3 Pos=-75 [Haemophilus somnus 2336]
+AAGTGTTATTGGTAACTTTT
+>APP7_1726(gntK) Score=6.2 Pos=-155 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AATTGTTACTGGTAACATAA
+>APP7_1726(gntK) Score=6 Pos=-66 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAATGTTACCTGTAACATTA
+>APP7_1725(gntU) Score=6 Pos=-131 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAATGTTACAGGTAACATTA
+>APP7_1725(gntU) Score=6.2 Pos=-42 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TTATGTTACCAGTAACAATT
+>HAPS_1788(gntK) Score=6.3 Pos=-179 [Haemophilus parasuis SH0165]
+AATTGTTACTGGTAACATAT
+>HAPS_1788(gntK) Score=5.6 Pos=-40 [Haemophilus parasuis SH0165]
+TTCAGTTATCGGTAACATTT
+>HAPS_1787(gntU) Score=6.3 Pos=-38 [Haemophilus parasuis SH0165]
+ATATGTTACCAGTAACAATT
+>HAPS_1787(gntU) Score=5.6 Pos=-177 [Haemophilus parasuis SH0165]
+AAATGTTACCGATAACTGAA

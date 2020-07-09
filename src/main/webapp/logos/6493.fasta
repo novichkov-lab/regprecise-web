@@ -1,0 +1,50 @@
+>Avin_05220(kdgD) Score=4.9 Pos=-72 [Azotobacter vinelandii AvOP]
+AAGTCATACGATAACGT
+>Avin_05190(gguR) Score=4.5 Pos=-213 [Azotobacter vinelandii AvOP]
+ATGTCATCATATGACTT
+>Avin_05190(gguR) Score=4.5 Pos=-63 [Azotobacter vinelandii AvOP]
+CTATTGTCGTACGACTT
+>PSEEN2658(kdgD) Score=5.5 Pos=-71 [Pseudomonas entomophila L48]
+ATGTTGTACGATAACTT
+>PSEEN0730(gguT) Score=5.3 Pos=-105 [Pseudomonas entomophila L48]
+GTGTTGTCGTACAACTT
+>PSEEN0729(gguR) Score=5.3 Pos=-201 [Pseudomonas entomophila L48]
+AAGTTGTACGACAACAC
+>PSEEN2654(gguR) Score=4.8 Pos=-63 [Pseudomonas entomophila L48]
+ATGTGATCGTACAACTG
+>Pmen_1215(kdgD) Score=5.1 Pos=-275 [Pseudomonas mendocina ymp]
+ATGTTGTCGTATGACCT
+>Pmen_1215(kdgD) Score=4.7 Pos=-76 [Pseudomonas mendocina ymp]
+TTGTTGTACGATAACGT
+>Pmen_3299(udh) Score=4.8 Pos=-316 [Pseudomonas mendocina ymp]
+ACGTTGTCATACAACTT
+>Pmen_3299(udh) Score=5 Pos=-60 [Pseudomonas mendocina ymp]
+AAGTCATACGACAACGT
+>Pmen_3306(aldE) Score=4.8 Pos=-54 [Pseudomonas mendocina ymp]
+CAGTTGTACGATGACAC
+>Pmen_3305(gguR) Score=4.8 Pos=-63 [Pseudomonas mendocina ymp]
+GTGTCATCGTACAACTG
+>Pmen_1214(gudD2) Score=4.7 Pos=-450 [Pseudomonas mendocina ymp]
+ACGTTATCGTACAACAA
+>Pmen_1214(gudD2) Score=5.1 Pos=-251 [Pseudomonas mendocina ymp]
+AGGTCATACGACAACAT
+>PP4758(gguT) Score=5.1 Pos=-79 [Pseudomonas putida KT2440]
+ATCTTGTCGTACAACTT
+>PP3599(kdgD) Score=5.3 Pos=-71 [Pseudomonas putida KT2440]
+AGGTTGTACGATAACTT
+>PP1171(udh) Score=5.1 Pos=-43 [Pseudomonas putida KT2440]
+AAGTCATACGACAACCT
+>PP4759(gguR) Score=5.1 Pos=-104 [Pseudomonas putida KT2440]
+AAGTTGTACGACAAGAT
+>PP3603(gguR) Score=4.6 Pos=-47 [Pseudomonas putida KT2440]
+ATGTGATCGTACAACCG
+>PSPTO4549(kdgD) Score=5.1 Pos=-77 [Pseudomonas syringae pv. tomato str. DC3000]
+CAGTTGTACGATGACTT
+>PSPTO3323(kgsD) Score=5.1 Pos=-163 [Pseudomonas syringae pv. tomato str. DC3000]
+AAGTTGTACGATGACTG
+>PSPTO1053(udh) Score=5.1 Pos=-48 [Pseudomonas syringae pv. tomato str. DC3000]
+AAGTCATACGACAACAG
+>PSPTO5219(exuT) Score=4.2 Pos=-385 [Pseudomonas syringae pv. tomato str. DC3000]
+CAGTCATCGTATAACGA
+>PSPTO5219(exuT) Score=5.6 Pos=-265 [Pseudomonas syringae pv. tomato str. DC3000]
+ATGTTGTACGACAACAT

@@ -1,0 +1,60 @@
+>Sputcn32_2048(omp(Ara)) Score=5.4 Pos=-503 [Shewanella putrefaciens CN-32]
+ATGTAATACAATACTACTG
+>Sputcn32_2047(abnA) Score=5.4 Pos=-88 [Shewanella putrefaciens CN-32]
+CAGTAGTATTGTATTACAT
+>Sputcn32_2063(arb43) Score=6.1 Pos=-45 [Shewanella putrefaciens CN-32]
+TGGTATTACTATAATACTA
+>Sputcn32_2062(araC) Score=6.1 Pos=-178 [Shewanella putrefaciens CN-32]
+TAGTATTATAGTAATACCA
+>Sputcn32_2068(araB) Score=6.1 Pos=-80 [Shewanella putrefaciens CN-32]
+TAGTAGTATTGTAGTACTA
+>Sputcn32_2068(araB) Score=5.3 Pos=-107 [Shewanella putrefaciens CN-32]
+AAATAATATTGTAATACCA
+>Sputw3181_1964(omp(Ara)) Score=5.4 Pos=-504 [Shewanella sp W3-18-1]
+ATGTAATACAATACTACTG
+>Sputw3181_1965(abnA) Score=5.4 Pos=-88 [Shewanella sp W3-18-1]
+CAGTAGTATTGTATTACAT
+>Sputw3181_1949(arb43) Score=6.1 Pos=-45 [Shewanella sp W3-18-1]
+TGGTATTACTATAATACTA
+>Sputw3181_1950(araC) Score=6.1 Pos=-178 [Shewanella sp W3-18-1]
+TAGTATTATAGTAATACCA
+>Sputw3181_1944(araB) Score=6.1 Pos=-80 [Shewanella sp W3-18-1]
+TAGTAGTATTGTAGTACTA
+>Sputw3181_1944(araB) Score=5.3 Pos=-107 [Shewanella sp W3-18-1]
+AAATAATATTGTAATACCA
+>Shewana3_2085(omp(Ara)) Score=5.8 Pos=-520 [Shewanella sp ANA-3]
+AAGTAATACAATACTACTG
+>Shewana3_2086(abnA) Score=5.8 Pos=-85 [Shewanella sp ANA-3]
+CAGTAGTATTGTATTACTT
+>Shewana3_2069(arb43) Score=6 Pos=-45 [Shewanella sp ANA-3]
+TGGTATTACTATAATACCA
+>Shewana3_2070(araC) Score=6 Pos=-123 [Shewanella sp ANA-3]
+TGGTATTATAGTAATACCA
+>Shewana3_2064(araB) Score=6.1 Pos=-81 [Shewanella sp ANA-3]
+TAGTAATATTGTAGTACTA
+>Shewana3_2064(araB) Score=4.8 Pos=-108 [Shewanella sp ANA-3]
+AAATCATATTGTATTACTA
+>Shewmr4_1998(omp(Ara)) Score=5.8 Pos=-521 [Shewanella sp MR-4]
+AAGTAATACAATACTACTG
+>Shewmr4_1999(abnA) Score=5.8 Pos=-85 [Shewanella sp MR-4]
+CAGTAGTATTGTATTACTT
+>Shewmr4_1982(arb43) Score=6 Pos=-45 [Shewanella sp MR-4]
+TGGTATTACTATAATACCA
+>Shewmr4_1983(araC) Score=6 Pos=-150 [Shewanella sp MR-4]
+TGGTATTATAGTAATACCA
+>Shewmr4_1977(araB) Score=6.1 Pos=-81 [Shewanella sp MR-4]
+TAGTAATATTGTAGTACTA
+>Shewmr4_1977(araB) Score=4.8 Pos=-108 [Shewanella sp MR-4]
+AAATCATATTGTATTACTA
+>Shewmr7_1977(omp(Ara)) Score=5.8 Pos=-521 [Shewanella sp MR-7]
+AAGTAATACAATACTACTG
+>Shewmr7_1976(abnA) Score=5.8 Pos=-85 [Shewanella sp MR-7]
+CAGTAGTATTGTATTACTT
+>Shewmr7_1992(arb43) Score=6 Pos=-45 [Shewanella sp MR-7]
+TGGTATTACTATAATACCA
+>Shewmr7_1991(araC) Score=6 Pos=-150 [Shewanella sp MR-7]
+TGGTATTATAGTAATACCA
+>Shewmr7_1997(araB) Score=6.1 Pos=-81 [Shewanella sp MR-7]
+TAGTAATATTGTAGTACTA
+>Shewmr7_1997(araB) Score=4.8 Pos=-108 [Shewanella sp MR-7]
+AAATCATATTGTATTACTA

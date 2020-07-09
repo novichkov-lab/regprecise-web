@@ -1,0 +1,42 @@
+>Blon_2064(galR) Score=6.5 Pos=-122 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATGTGCG---TTGCGTG
+>Blon_2064(galR) Score=7.5 Pos=-18 [Bifidobacterium longum subsp. infantis ATCC 15697]
+GTGTGCG---ATGTTCA
+>Blon_0538(galE1) Score=7.7 Pos=-124 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTGTGCG---ATGTTCG
+>BAD_1333(galR) Score=6.8 Pos=-103 [Bifidobacterium adolescentis ATCC 15703]
+ACGTTCG---TTGTTCG
+>BAD_0391(galE1) Score=7.1 Pos=-69 [Bifidobacterium adolescentis ATCC 15703]
+GTGTGCG---GTGTTCA
+>BAD_1333(galR) Score=7.6 Pos=0 [Bifidobacterium adolescentis ATCC 15703]
+ATGTGCG---ATGTTCA
+>BIFANG_00824(galR) Score=6.9 Pos=-18 [Bifidobacterium angulatum DSM 20098]
+GCGTGCG---ATGTGCA
+>BLA_0557(galR) Score=7.7 Pos=0 [Bifidobacterium animalis subsp. lactis AD011]
+ATGTGCG---ATGTTCG
+>BLA_0557(galR) Score=6.7 Pos=-72 [Bifidobacterium animalis subsp. lactis AD011]
+ATATGCG---TTGTTCG
+>BLA_0437(galE1) Score=6.9 Pos=-106 [Bifidobacterium animalis subsp. lactis AD011]
+GTGTTCG---GTGTTCG
+>BbifN4_010100001540(galR) Score=7.6 Pos=-117 [Bifidobacterium bifidum NCIMB 41171]
+ATGTGCG---ATGTTCA
+>BbifN4_010100008300(galE1) Score=6.5 Pos=-149 [Bifidobacterium bifidum NCIMB 41171]
+TTGTTCT---ATGTTCA
+>BIFBRE_00714(galR) Score=7.7 Pos=-18 [Bifidobacterium breve DSM 20213]
+GTGTGCG---ATGTTCG
+>BIFBRE_00714(galR) Score=6.9 Pos=-122 [Bifidobacterium breve DSM 20213]
+ATGTGCG---TTGCGCG
+>BDP_1796(galR) Score=7.7 Pos=-18 [Bifidobacterium dentium Bd1]
+GTGTGCG---ATGTTCG
+>BDP_1796(galR) Score=7 Pos=-111 [Bifidobacterium dentium Bd1]
+GCGTGCG---TTGTGCG
+>BDP_0531(galE1) Score=7.6 Pos=-144 [Bifidobacterium dentium Bd1]
+ATGTGCG---ATGTTCA
+>BIFGAL_00449(galR) Score=7.6 Pos=-75 [Bifidobacterium gallicum DSM 20093]
+ATGTGCG---ATGTTCA
+>BL1212(galR) Score=7.7 Pos=63 [Bifidobacterium longum NCC2705]
+GTGTGCG---ATGTTCG
+>BL1212(galR) Score=6.9 Pos=-40 [Bifidobacterium longum NCC2705]
+ATGTGCG---TTGCGCG
+>BL1671(galE1) Score=7.7 Pos=-124 [Bifidobacterium longum NCC2705]
+TTGTGCG---ATGTTCG

@@ -1,0 +1,96 @@
+>BSU15880(fapR) Score=4.6 Pos=-41 [Bacillus subtilis subsp. subtilis str. 168]
+CTATTAGTACCTAGTC
+>BSU09540(plsC) Score=4.7 Pos=-79 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTAGTACCAGGTA
+>BSU11720(fabI) Score=4.4 Pos=-50 [Bacillus subtilis subsp. subtilis str. 168]
+GATCAGGTACTAATAC
+>BSU11330(fabHA) Score=4.5 Pos=-77 [Bacillus subtilis subsp. subtilis str. 168]
+GAATTAGTACCTGATA
+>BSU10170(fabHB) Score=4.6 Pos=-58 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTAGTACCAGATA
+>RBAM_010400(fabHB) Score=4.9 Pos=-60 [Bacillus amyloliquefaciens FZB42]
+AAATTAGTACCAAGTA
+>RBAM_011330(fabHA) Score=4.5 Pos=-74 [Bacillus amyloliquefaciens FZB42]
+GAATTAGTACCTGATA
+>RBAM_015710(fapR) Score=4.6 Pos=-41 [Bacillus amyloliquefaciens FZB42]
+CTATTAGTACCTAGTC
+>RBAM_011730(fabI) Score=4.4 Pos=-52 [Bacillus amyloliquefaciens FZB42]
+GATCAGGTACTAAAAC
+>RBAM_009770(plsC) Score=4.7 Pos=-81 [Bacillus amyloliquefaciens FZB42]
+TTATTAGTACCAGGTA
+>BPUM_1487(fapR) Score=4.6 Pos=-41 [Bacillus pumilus SAFR-032]
+CTATTAGTACCTAGTC
+>BPUM_1101(fabI) Score=4.4 Pos=-49 [Bacillus pumilus SAFR-032]
+GATCAGGTACTAATAC
+>BPUM_0755(BPUM_0755) Score=4.8 Pos=-37 [Bacillus pumilus SAFR-032]
+AAATTAGTACTAAATA
+>BPUM_1057(fabHA) Score=4.6 Pos=-70 [Bacillus pumilus SAFR-032]
+AAATTAGTACCAGATA
+>BPUM_0903(plsC) Score=4.7 Pos=-74 [Bacillus pumilus SAFR-032]
+TTTTTAGTACCAGGTA
+>BLi01809(fapR) Score=4.6 Pos=-43 [Bacillus licheniformis DSM 13]
+CTATTAGTACCTAGTC
+>BLi01221(fabHA) Score=4.3 Pos=-72 [Bacillus licheniformis DSM 13]
+GGATTAGTACCAGATA
+>BLi01097(fabHB) Score=4.4 Pos=-58 [Bacillus licheniformis DSM 13]
+ATTTTAGTACCAGATA
+>BLi02606(accB) Score=4.1 Pos=-55 [Bacillus licheniformis DSM 13]
+CTTTTAGTACTAACTG
+>BLi01022(plsC) Score=4.7 Pos=-82 [Bacillus licheniformis DSM 13]
+TTTTTAGTACCAGGTA
+>BLi01266(fabI) Score=4.4 Pos=-46 [Bacillus licheniformis DSM 13]
+GATCAGGTACTAATAA
+>Aflv_2107(fabI) Score=4 Pos=-45 [Anoxybacillus flavithermus WK1]
+TACTAGGTTCTAATAA
+>Aflv_1775(fapR) Score=4.6 Pos=34 [Anoxybacillus flavithermus WK1]
+ctaTTAGTACCtAGTA
+>Aflv_2140(fabHA) Score=4.9 Pos=-23 [Anoxybacillus flavithermus WK1]
+AAATTAGTACCAAGTA
+>GK0804(fabHA) Score=4.9 Pos=-113 [Geobacillus kaustophilus HTA426]
+AAATTAGTACCAAGTA
+>GK1187(fapR) Score=4.5 Pos=-42 [Geobacillus kaustophilus HTA426]
+CTTTTAGTACCTAGTC
+>GK0834(fabI) Score=4 Pos=-42 [Geobacillus kaustophilus HTA426]
+CACCTGGTGCTAAGAA
+>BC4184(accB) Score=4 Pos=-243 [Bacillus cereus ATCC 14579]
+GTATTATTACTAGGTA
+>BC4184(accB) Score=3.9 Pos=-236 [Bacillus cereus ATCC 14579]
+TACTAGGTATTAAATT
+>BC1173(fabHA) Score=4.9 Pos=-48 [Bacillus cereus ATCC 14579]
+AAATTAGTACCAAGTC
+>BC1216(fabI) Score=4.4 Pos=-46 [Bacillus cereus ATCC 14579]
+TATCAGGTACTAATAA
+>BC3852(fapR) Score=4.1 Pos=-36 [Bacillus cereus ATCC 14579]
+CTGTTAGTACCTAGTC
+>BC0226 Score=4.2 Pos=-204 [Bacillus cereus ATCC 14579]
+AATTTTGTACCAATTA
+>BC3159(BC3159) Score=4.8 Pos=-37 [Bacillus cereus ATCC 14579]
+AAATTAGTACTAAATA
+>BH2494(fapR) Score=4.6 Pos=-110 [Bacillus halodurans C-125]
+CTCTTAGTACCTAGTC
+>BH0764(fabHB) Score=4.6 Pos=-65 [Bacillus halodurans C-125]
+AAATTAGTACCAGATC
+>BH2843(fabI) Score=4.3 Pos=-63 [Bacillus halodurans C-125]
+TAATTAGGACCAAGTA
+>BH2883(fabHA) Score=4.1 Pos=-69 [Bacillus halodurans C-125]
+TAGTAGGTACTAATAA
+>ABC2547(fabHA) Score=4.4 Pos=-53 [Bacillus clausii KSM-K16]
+GATCAGGTACTAATTT
+>ABC2304(fapR) Score=4.7 Pos=-57 [Bacillus clausii KSM-K16]
+GTCTTAGTACCTAGTC
+>ABC2517(fabI) Score=4.3 Pos=-37 [Bacillus clausii KSM-K16]
+CTATTAGTACCTGATA
+>OB1204(fabHA) Score=4.9 Pos=-61 [Oceanobacillus iheyensis HTE831]
+AAATTAGTACCAAGTC
+>OB0223(fabI) Score=4.5 Pos=-55 [Oceanobacillus iheyensis HTE831]
+TACCAGGTACTAATAA
+>OB1886(accB) Score=4.4 Pos=-68 [Oceanobacillus iheyensis HTE831]
+ATATTAGTACCTAATC
+>OB1521(fapR) Score=4.8 Pos=-46 [Oceanobacillus iheyensis HTE831]
+CTATTAGTACCAAGTC
+>Pjdr2_3495(fapR) Score=4.6 Pos=-91 [Paenibacillus sp. JDR-2]
+TATTTAGTACCAGGTT
+>Pjdr2_4960 Score=4.5 Pos=-118 [Paenibacillus sp. JDR-2]
+TATCAGGTACTAATTC
+>Pjdr2_1440(fabHB) Score=4.7 Pos=-56 [Paenibacillus sp. JDR-2]
+GTATTAGTACCAGGTA

@@ -1,0 +1,36 @@
+>BACCOPRO_01924(susA) Score=5.6 Pos=-88 [Bacteroides coprophilus DSM 18228]
+AATTTATATTTTTA
+>BACDOR_02286(susA) Score=5.2 Pos=-167 [Bacteroides dorei DSM 17855]
+CGTTTATATTTTCA
+>BACDOR_02286(susA) Score=5.8 Pos=-100 [Bacteroides dorei DSM 17855]
+CATTTATATTTTTA
+>BACDOR_02280(susC) Score=5.6 Pos=-193 [Bacteroides dorei DSM 17855]
+CATTTATATTTTTT
+>BACDOR_02280(susC) Score=5.8 Pos=-116 [Bacteroides dorei DSM 17855]
+CATTTATATTTTTA
+>BACOVA_03520(susA) Score=5.3 Pos=-163 [Bacteroides ovatus ATCC 8483]
+CACTTGTATTTTTC
+>BACOVA_03519(susB) Score=5.1 Pos=-184 [Bacteroides ovatus ATCC 8483]
+GACTTATATTTATC
+>BACOVA_03519(susB) Score=5.2 Pos=-117 [Bacteroides ovatus ATCC 8483]
+AACTTGTATTTTTA
+>BACPLE_02372(susA) Score=5.1 Pos=-148 [Bacteroides plebeius DSM 17135]
+CATTTATATTTTAG
+>BACPLE_02372(susA) Score=4.8 Pos=-82 [Bacteroides plebeius DSM 17135]
+TATTTATATTTTAT
+>BACPLE_02371(susB) Score=5.2 Pos=-109 [Bacteroides plebeius DSM 17135]
+GATTTATATTTTCC
+>BT3704(susA) Score=5.3 Pos=-163 [Bacteroides thetaiotaomicron VPI-5482]
+CACTTGTATTTTTC
+>BT3704(susA) Score=5.4 Pos=-96 [Bacteroides thetaiotaomicron VPI-5482]
+CATTTATATTTTCT
+>BT3703(susB) Score=5.1 Pos=-184 [Bacteroides thetaiotaomicron VPI-5482]
+AACTTATATTTATC
+>BT3703(susB) Score=5.2 Pos=-117 [Bacteroides thetaiotaomicron VPI-5482]
+AACTTGTATTTTTA
+>BVU_1382(susA) Score=5.2 Pos=-167 [Bacteroides vulgatus ATCC 8482]
+CGTTTATATTTTCA
+>BVU_1382(susA) Score=5.8 Pos=-100 [Bacteroides vulgatus ATCC 8482]
+CATTTATATTTTTA
+>BVU_1380(susC) Score=5.3 Pos=-214 [Bacteroides vulgatus ATCC 8482]
+CTTTTATATTTTTA

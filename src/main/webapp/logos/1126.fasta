@@ -1,0 +1,92 @@
+>b3773(ilvY) Score=4.7 Pos=-70 [Escherichia coli str. K-12 substr. MG1655]
+ATTGCGGAAATTGATAT
+>b3773(ilvY) Score=5.2 Pos=-39 [Escherichia coli str. K-12 substr. MG1655]
+ATTGCAATTTTTGCAAC
+>b3774(ilvC) Score=5.2 Pos=-127 [Escherichia coli str. K-12 substr. MG1655]
+GTTGCAAAAATTGCAAT
+>b3774(ilvC) Score=4.7 Pos=-96 [Escherichia coli str. K-12 substr. MG1655]
+ATATCAATTTCCGCAAT
+>STM3908(ilvY) Score=4.7 Pos=-70 [Salmonella typhimurium LT2]
+ATTGCGGAAATTGATAT
+>STM3908(ilvY) Score=4.8 Pos=-39 [Salmonella typhimurium LT2]
+GTTGCGGTTTATGCAAC
+>STM3909(ilvC) Score=4.8 Pos=-141 [Salmonella typhimurium LT2]
+GTTGCATAAACCGCAAC
+>STM3909(ilvC) Score=4.7 Pos=-110 [Salmonella typhimurium LT2]
+ATATCAATTTCCGCAAT
+>CKO_00112(ilvY) Score=4.7 Pos=-142 [Citrobacter koseri ATCC BAA-895]
+ATTGCGGAAATTGATAT
+>CKO_00112(ilvY) Score=5.1 Pos=-111 [Citrobacter koseri ATCC BAA-895]
+ATTGCAATTTCTGCAAC
+>CKO_00113(ilvC) Score=5.1 Pos=-143 [Citrobacter koseri ATCC BAA-895]
+GTTGCAGAAATTGCAAT
+>CKO_00113(ilvC) Score=4.7 Pos=-112 [Citrobacter koseri ATCC BAA-895]
+ATATCAATTTCCGCAAT
+>KPN_04272(ilvY) Score=4.7 Pos=-70 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTGCGGAAATTGATAT
+>KPN_04272(ilvY) Score=4.9 Pos=-39 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTTGCATTTTATGAAAT
+>KPN_04273(ilvC) Score=4.9 Pos=-130 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTTCATAAAATGCAAC
+>KPN_04273(ilvC) Score=4.7 Pos=-99 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATATCAATTTCCGCAAT
+>Ent638_4010(ilvY) Score=4.7 Pos=-70 [Enterobacter sp. 638]
+ATTGCGGAAATTGATAT
+>Ent638_4010(ilvY) Score=5 Pos=-39 [Enterobacter sp. 638]
+GTTGCAATTTCTGCAAC
+>Ent638_4009(ilvC) Score=5 Pos=-137 [Enterobacter sp. 638]
+GTTGCAGAAATTGCAAC
+>Ent638_4009(ilvC) Score=4.7 Pos=-106 [Enterobacter sp. 638]
+ATATCAATTTCCGCAAT
+>EAM_0156(ilvY) Score=4.7 Pos=-70 [Erwinia amylovora ATCC 49946]
+ATTGCTTAAATTGATAT
+>EAM_0156(ilvY) Score=4.8 Pos=-39 [Erwinia amylovora ATCC 49946]
+GTTGCACATTCTGCAAC
+>EAM_0157(ilvC) Score=4.8 Pos=-143 [Erwinia amylovora ATCC 49946]
+GTTGCAGAATGTGCAAC
+>EAM_0157(ilvC) Score=4.7 Pos=-112 [Erwinia amylovora ATCC 49946]
+ATATCAATTTAAGCAAT
+>y0344(ilvY) Score=4.7 Pos=-100 [Yersinia pestis KIM]
+ATTGCGGAAATTGATAT
+>y0344(ilvY) Score=5.1 Pos=-69 [Yersinia pestis KIM]
+ATTGCAGTTTCTGCAAT
+>y0345(ilvC) Score=5.1 Pos=-230 [Yersinia pestis KIM]
+ATTGCAGAAACTGCAAT
+>y0345(ilvC) Score=4.7 Pos=-199 [Yersinia pestis KIM]
+ATATCAATTTCCGCAAT
+>Spro_4752(ilvY) Score=4.6 Pos=-41 [Serratia proteamaculans 568]
+GTTGCTTAAATTGATAT
+>Spro_4751(ilvC) Score=4.6 Pos=-125 [Serratia proteamaculans 568]
+ATATCAATTTAAGCAAC
+>ECA4222(ilvY) Score=4.6 Pos=-71 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTTGCTTAAATTGATAT
+>ECA4222(ilvY) Score=4.4 Pos=-40 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATTGCACTATCTGCAAG
+>ECA4221(ilvC) Score=4.4 Pos=-144 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTTGCAGATAGTGCAAT
+>ECA4221(ilvC) Score=4.6 Pos=-113 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATATCAATTTAAGCAAC
+>ETAE_0093(ilvY) Score=4.6 Pos=-68 [Edwardsiella tarda EIB202]
+GTTGCTTAAATTGATAT
+>ETAE_0093(ilvY) Score=4.9 Pos=-37 [Edwardsiella tarda EIB202]
+ATTGCGTATTTTGCAAC
+>ETAE_0094(ilvC) Score=4.9 Pos=-178 [Edwardsiella tarda EIB202]
+GTTGCAAAATACGCAAT
+>ETAE_0094(ilvC) Score=4.6 Pos=-147 [Edwardsiella tarda EIB202]
+ATATCAATTTAAGCAAC
+>PMI3304(ilvY) Score=4.7 Pos=-80 [Proteus mirabilis HI4320]
+ATTGCTTAAATTGATAT
+>PMI3304(ilvY) Score=5 Pos=-49 [Proteus mirabilis HI4320]
+GTTGCAATAAATGCAAC
+>PMI3305(ilvC) Score=5 Pos=-140 [Proteus mirabilis HI4320]
+GTTGCATTTATTGCAAC
+>PMI3305(ilvC) Score=4.7 Pos=-109 [Proteus mirabilis HI4320]
+ATATCAATTTAAGCAAT
+>plu4669(ilvY) Score=4.7 Pos=-81 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTGCTTAAATTGATAT
+>plu4669(ilvY) Score=5.1 Pos=-50 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTGCATTTTATGCAAC
+>plu4668(ilvC) Score=5.1 Pos=-156 [Photorhabdus luminescens subsp. laumondii TTO1]
+GTTGCATAAAATGCAAT
+>plu4668(ilvC) Score=4.7 Pos=-125 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATATCAATTTAAGCAAT

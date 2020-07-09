@@ -1,0 +1,26 @@
+>BACCELL_01637(susC_Hya-1) Score=8.3 Pos=-132 [Bacteroides cellulosilyticus DSM 14838]
+TGTACAAATTC----------CGAACTATTAA
+>BACCELL_01636(hyaS) Score=8.2 Pos=-98 [Bacteroides cellulosilyticus DSM 14838]
+TGTACGTTTTT----------TGTACTCTACT
+>BACEGG_03395(hyaS) Score=7.8 Pos=-98 [Bacteroides eggerthii DSM 20697]
+TGGACTTTTCA----------TGTACTATTCT
+>BACEGG_03393(susC_Hya-1) Score=7.7 Pos=-129 [Bacteroides eggerthii DSM 20697]
+TGTACAAAATT----------CGAACGATTAC
+>BACOVA_01997(hyaS) Score=8.6 Pos=-100 [Bacteroides ovatus ATCC 8483]
+TGTACTATTTT----------TGTACATTCCT
+>BACOVA_01998(susC_Hya-1) Score=8.6 Pos=-139 [Bacteroides ovatus ATCC 8483]
+TGTATGATTTT----------TGAATAATTCT
+>BACPLE_00367(susC_Hya-1) Score=7.5 Pos=-86 [Bacteroides plebeius DSM 17135]
+TGAACTATTTT----------TCTATAATAAA
+>BACSTE_02458(susC_Nan-6) Score=7.7 Pos=-137 [Bacteroides stercoris ATCC 43183]
+TGTACAATATC----------CGGACAATTAG
+>BACSTE_02459(hyaS) Score=8 Pos=-98 [Bacteroides stercoris ATCC 43183]
+TGTACTTTTTA----------TGTACTCTTTT
+>BACSTE_02277(susC_Hya-1) Score=8.3 Pos=-94 [Bacteroides stercoris ATCC 43183]
+TGTATGAATTT----------TGGACAATTAC
+>BT3333(hyaS) Score=8.3 Pos=-98 [Bacteroides thetaiotaomicron VPI-5482]
+TGGACTATTTT----------TGTACATTCCT
+>BT3332(susC_Hya-1) Score=8.7 Pos=-140 [Bacteroides thetaiotaomicron VPI-5482]
+TGTATTATTTT----------TGAATAATTCT
+>BACUNI_01022(susC_Nan-6) Score=8.3 Pos=-140 [Bacteroides uniformis ATCC 8492]
+TGTACGAATTC----------CGAACTATTAA

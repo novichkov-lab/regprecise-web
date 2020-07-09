@@ -1,0 +1,44 @@
+>SMc03095 Score=6.2 Pos=-59 [Sinorhizobium meliloti 1021]
+ACCTCAAGTACGGTTGAGGT
+>SMc00183(PF03358) Score=6.5 Pos=-67 [Sinorhizobium meliloti 1021]
+ACCTCAACTATAGTTGAGGT
+>SMc01217(PF07690) Score=5.7 Pos=-62 [Sinorhizobium meliloti 1021]
+ACCTCAACCGCGATTGAGGT
+>SMc00182(soxR) Score=6.5 Pos=-31 [Sinorhizobium meliloti 1021]
+ACCTCAACTATAGTTGAGGT
+>NGR_c15730(PF07690) Score=5.7 Pos=-63 [Rhizobium sp. NGR234]
+ACCTCAAGAGCGCTTGAGGT
+>NGR_c16770(PF03358) Score=6.5 Pos=-68 [Rhizobium sp. NGR234]
+ACCTCAACTAAGCTTGAGGT
+>NGR_c16780(soxR) Score=6.5 Pos=-31 [Rhizobium sp. NGR234]
+ACCTCAAGCTTAGTTGAGGT
+>RL3412(PF03992) Score=6 Pos=-63 [Rhizobium leguminosarum bv. viciae 3841]
+ACCTCAGGTTAACTTGAGGA
+>RL4165(PF00903) Score=6 Pos=-69 [Rhizobium leguminosarum bv. viciae 3841]
+ACCTCAACCGATGTTGAGGT
+>RL4398(PF03358) Score=6.3 Pos=-74 [Rhizobium leguminosarum bv. viciae 3841]
+ACCTCAAGATTAGTTGAGGT
+>RL4397(soxR) Score=6.3 Pos=-29 [Rhizobium leguminosarum bv. viciae 3841]
+ACCTCAACTAATCTTGAGGT
+>RHE_CH02961(PF03992) Score=6 Pos=-60 [Rhizobium etli CFN 42]
+ACCTCAACCATAGTTGAGGA
+>RHE_CH03863(soxR) Score=6 Pos=-29 [Rhizobium etli CFN 42]
+ACCTCAACTAATATTGAGGT
+>Atu2361(PF07690) Score=6 Pos=-56 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACCTCAACTATGGTTGAGGA
+>Atu0942(PF07690) Score=5.3 Pos=-78 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACCTCAATGGCGCTTGAGGT
+>Atu4583(sodB) Score=5.8 Pos=-96 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACCTCAACCGTGATTGAGGT
+>Atu3915(soxR) Score=6.1 Pos=-91 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACCTCAACTATAGTTGAGGA
+>mlr3125(PF07690) Score=5.6 Pos=-161 [Mesorhizobium loti MAFF303099]
+AGCTCAACCGCGGTTGAGGT
+>mlr7819(PF03992) Score=6.3 Pos=-75 [Mesorhizobium loti MAFF303099]
+ACCTCAACTTAAGTTGAGAT
+>mlr2720(soxR) Score=6 Pos=-37 [Mesorhizobium loti MAFF303099]
+AGCTCAACATAACTTGAGGT
+>Xaut_1054 Score=5.6 Pos=-145 [Xanthobacter autotrophicus Py2]
+ACCTAAACCATACTCGAGGT
+>Xaut_1053(soxR) Score=5.6 Pos=26 [Xanthobacter autotrophicus Py2]
+ACCTCGAGTATGGTTTAGGT

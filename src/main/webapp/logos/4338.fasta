@@ -1,0 +1,140 @@
+>MAB_1046c(yciC2) Score=4.7 Pos=-19 [Mycobacterium abscessus ATCC 19977]
+TAATGGTTATCATTATCATGT
+>MAB_0577c(znuA) Score=6.5 Pos=-43 [Mycobacterium abscessus ATCC 19977]
+TAATGAAAATCGTTTTCATTA
+>MAB_0334c(rpmB1) Score=5.3 Pos=-35 [Mycobacterium abscessus ATCC 19977]
+TGTCGAAAATGATTCCCATTA
+>MAB_0334c(rpmB1) Score=5.8 Pos=-90 [Mycobacterium abscessus ATCC 19977]
+AAATGCAAACGATTTTCATTA
+>MAB_1046c(yciC2) Score=6.1 Pos=-25 [Mycobacterium abscessus ATCC 19977]
+TAATGATAATGGTTATCATTA
+>MAB_0335(yciC) Score=5.3 Pos=-106 [Mycobacterium abscessus ATCC 19977]
+TAATGGGAATCATTTTCGACA
+>MAB_0335(yciC) Score=5.8 Pos=-51 [Mycobacterium abscessus ATCC 19977]
+TAATGAAAATCGTTTGCATTT
+>MAV_0583(znuA) Score=6.3 Pos=-63 [Mycobacterium avium 104]
+TAATGGAAACGATTTTCATTA
+>MAV_4879(ppe3) Score=4.4 Pos=-69 [Mycobacterium avium 104]
+GGTTGATAACGATAATCATTT
+>MAV_4879(ppe3) Score=5.9 Pos=-63 [Mycobacterium avium 104]
+TAACGATAATCATTTTCATTA
+>MAV_4871(Rv0282) Score=6.2 Pos=-232 [Mycobacterium avium 104]
+TAATGAAAATGATTTTCAGTA
+>MAV_4874(yciC3) Score=5.5 Pos=-81 [Mycobacterium avium 104]
+AGATGAAAACGATTACCAATA
+>MAV_4874(yciC3) Score=5.8 Pos=-136 [Mycobacterium avium 104]
+TATTGAAAATCATTTTCGACA
+>MAV_4349(ppe3) Score=4.7 Pos=-71 [Mycobacterium avium 104]
+TGCTGATAACGATAATCATTT
+>MAV_4349(ppe3) Score=5.4 Pos=-65 [Mycobacterium avium 104]
+TAACGATAATCATTTTCACTT
+>MAV_4875(rpmB1) Score=5.8 Pos=-38 [Mycobacterium avium 104]
+TGTCGAAAATGATTTTCAATA
+>MAV_4875(rpmB1) Score=5.5 Pos=-93 [Mycobacterium avium 104]
+TATTGGTAATCGTTTTCATCT
+>Mflv_1313(yciC3) Score=5.8 Pos=-87 [Mycobacterium flavescens PYR-GCK]
+TATTGAAAATCATTTTCGACA
+>Mflv_1313(yciC3) Score=5.3 Pos=-32 [Mycobacterium flavescens PYR-GCK]
+TATTGAAGATCATTCCCATTA
+>Mflv_3560(Mflv_3560) Score=6.1 Pos=-39 [Mycobacterium flavescens PYR-GCK]
+TTTTGACAATGATTTTCATTA
+>Mflv_1312(rpmB1) Score=5.3 Pos=-99 [Mycobacterium flavescens PYR-GCK]
+TAATGGGAATGATCTTCAATA
+>Mflv_1312(rpmB1) Score=5.8 Pos=-44 [Mycobacterium flavescens PYR-GCK]
+TGTCGAAAATGATTTTCAATA
+>Mflv_1454(znuA) Score=5.3 Pos=-2 [Mycobacterium flavescens PYR-GCK]
+TAATGAAAACGGTTATCGTAT
+>ML2537(Rv0282) Score=4.8 Pos=-153 [Mycobacterium leprae TN]
+ATATGATAATCGTATTCAGTA
+>MMAR_0293(yciC) Score=6.4 Pos=-51 [Mycobacterium marinum M]
+TAATGAAAATCGTTTTCAATA
+>MMAR_0292(rpmB1) Score=5.8 Pos=-43 [Mycobacterium marinum M]
+TGTCGAAAATGATTTTCAATA
+>MMAR_0293(yciC) Score=5.8 Pos=-107 [Mycobacterium marinum M]
+TATTGAAAATCATTTTCGACA
+>MMAR_0538(ppe3) Score=5.3 Pos=-36 [Mycobacterium marinum M]
+TAATGACAATCATATTCATCT
+>MMAR_0541(Rv0282) Score=5.6 Pos=-265 [Mycobacterium marinum M]
+TAATGAAAATCATGTTCACTA
+>MMAR_0292(rpmB1) Score=6.4 Pos=-99 [Mycobacterium marinum M]
+TATTGAAAACGATTTTCATTA
+>MMAR_5071(znuA) Score=6.1 Pos=-32 [Mycobacterium marinum M]
+TAATGGAAACGGTTGTCATTA
+>MSMEG_4486(znr) Score=6 Pos=-20 [Mycobacterium smegmatis str. MC2 155]
+TAATGAAAACGATTTCCAATT
+>MSMEG_6048(yciC2) Score=5.3 Pos=-76 [Mycobacterium smegmatis str. MC2 155]
+TAACGATAACCGTTTGCATTA
+>MSMEG_6048(yciC2) Score=6.1 Pos=-30 [Mycobacterium smegmatis str. MC2 155]
+TATTGAAAATCATTTTCGATA
+>MSMEG_6068(rpmB1) Score=6.3 Pos=-55 [Mycobacterium smegmatis str. MC2 155]
+TATTGAAAACGATTGTCATTA
+>MSMEG_6047(znuA) Score=6.1 Pos=-90 [Mycobacterium smegmatis str. MC2 155]
+TATCGAAAATGATTTTCAATA
+>MSMEG_6047(znuA) Score=5.3 Pos=-44 [Mycobacterium smegmatis str. MC2 155]
+TAATGCAAACGGTTATCGTTA
+>MSMEG_6052(znuC2) Score=5.9 Pos=-31 [Mycobacterium smegmatis str. MC2 155]
+TAATGATAATCGTTTTCAAAA
+>MSMEG_6069(yciC) Score=6.3 Pos=-54 [Mycobacterium smegmatis str. MC2 155]
+TAATGACAATCGTTTTCAATA
+>Mjls_3457(znr) Score=5.7 Pos=-2 [Mycobacterium sp. JLS]
+TAATGAAAATCGTTTCCAGCA
+>Mjls_5110(znuB2) Score=6.2 Pos=-90 [Mycobacterium sp. JLS]
+TGTTGAAAATGATTTTCATTA
+>Mjls_5116(rpmB1) Score=5.7 Pos=-34 [Mycobacterium sp. JLS]
+TGTCGAAAATGGTTTTCAATA
+>Mjls_5116(rpmB1) Score=5.7 Pos=-89 [Mycobacterium sp. JLS]
+TGTTGAGAACGATTGTCAATA
+>Mjls_5117(yciC) Score=5.7 Pos=-88 [Mycobacterium sp. JLS]
+TATTGAAAACCATTTTCGACA
+>Mjls_5117(yciC) Score=5.7 Pos=-33 [Mycobacterium sp. JLS]
+TATTGACAATCGTTCTCAACA
+>Mjls_5104(znuA) Score=5.5 Pos=-88 [Mycobacterium sp. JLS]
+AAATGCAAACCGTTATCATTA
+>Mjls_5111(znuC2) Score=6.2 Pos=-2 [Mycobacterium sp. JLS]
+TAATGAAAATCATTTTCAACA
+>Rv2059(znuA) Score=5.8 Pos=-85 [Mycobacterium tuberculosis H37Rv]
+TATTGAAAATCATTTTCGACA
+>Rv0106(yciC) Score=6.2 Pos=-31 [Mycobacterium tuberculosis H37Rv]
+TAATGGCAATCATTTTCAATA
+>Rv2058c(rpmB2) Score=5.6 Pos=-103 [Mycobacterium tuberculosis H37Rv]
+TATCGATAACAGTTTTCATTA
+>Rv2058c(rpmB2) Score=5.8 Pos=-48 [Mycobacterium tuberculosis H37Rv]
+TGTCGAAAATGATTTTCAATA
+>Rv0280(ppe3) Score=5.7 Pos=-43 [Mycobacterium tuberculosis H37Rv]
+TAATGAAAATCATGTTCATCA
+>Rv0282(Rv0282) Score=5.7 Pos=-186 [Mycobacterium tuberculosis H37Rv]
+TAATGAAAATCATGTTCAGTA
+>Rv0105c(rpmB1) Score=6.2 Pos=-99 [Mycobacterium tuberculosis H37Rv]
+TATTGAAAATGATTGCCATTA
+>Rv0105c(rpmB1) Score=5.2 Pos=-45 [Mycobacterium tuberculosis H37Rv]
+TGTCGAAAACTATTTTCAACA
+>Rv2059(znuA) Score=5.6 Pos=-30 [Mycobacterium tuberculosis H37Rv]
+TAATGAAAACTGTTATCGATA
+>Rv0106(yciC) Score=5.2 Pos=-85 [Mycobacterium tuberculosis H37Rv]
+TGTTGAAAATAGTTTTCGACA
+>Mvan_5488(yciC3) Score=5.5 Pos=-90 [Mycobacterium vanbaalenii PYR-1]
+TATTGGAAATCGTTTTCGACA
+>Mvan_5488(yciC3) Score=5.8 Pos=-35 [Mycobacterium vanbaalenii PYR-1]
+TATTGGAAATCATTCCCATTA
+>Mvan_5321(yciC2) Score=6.3 Pos=-8 [Mycobacterium vanbaalenii PYR-1]
+TATTGAAAATGATTATCATTA
+>Mvan_5321(yciC2) Score=5.2 Pos=-64 [Mycobacterium vanbaalenii PYR-1]
+CAACGATAACCGTTTTCATTA
+>Mvan_5325(znuB2) Score=6.4 Pos=-39 [Mycobacterium vanbaalenii PYR-1]
+TATTGAAAATGATTGTCATTA
+>Mvan_5489(rpmB1) Score=5.5 Pos=-33 [Mycobacterium vanbaalenii PYR-1]
+TGTCGAAAACGATTTCCAATA
+>Mvan_5489(rpmB1) Score=5.8 Pos=-88 [Mycobacterium vanbaalenii PYR-1]
+TAATGGGAATGATTTCCAATA
+>Mvan_3819(znr) Score=5.9 Pos=-2 [Mycobacterium vanbaalenii PYR-1]
+TAATGAAAACGGTTTCCAGTA
+>Mvan_5320(znuA) Score=6.3 Pos=-81 [Mycobacterium vanbaalenii PYR-1]
+TAATGATAATCATTTTCAATA
+>Mvan_5320(znuA) Score=5.2 Pos=-25 [Mycobacterium vanbaalenii PYR-1]
+TAATGAAAACGGTTATCGTTG
+>Mvan_5333(rpmE2) Score=6.2 Pos=-40 [Mycobacterium vanbaalenii PYR-1]
+TAATGGAAATGGTTTTCAATA
+>Mvan_5326(znuC2) Score=6.4 Pos=-2 [Mycobacterium vanbaalenii PYR-1]
+TAATGACAATCATTTTCAATA
+>Mvan_5332(yciC) Score=5.9 Pos=-31 [Mycobacterium vanbaalenii PYR-1]
+TAATGGAAATGATTTTCGTTA

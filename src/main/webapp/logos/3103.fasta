@@ -1,0 +1,68 @@
+>c1A220(psrA) Score=6.3 Pos=-28 [Azoarcus sp. EbN1]
+ATTAAAACGATCGTTTGAAT
+>Tmz1t_0804(psrA) Score=4.7 Pos=-34 [Thauera sp. MZ1T]
+AAGAAAACGTATGATTCAAA
+>Tmz1t_0804(psrA) Score=6.2 Pos=-21 [Thauera sp. MZ1T]
+ATTCAAACAAACGTTTGAAA
+>Daro_1543(psrA) Score=6 Pos=-34 [Dechloromonas aromatica RCB]
+ATTCAAACGAACGTATGAAT
+>Daro_1548(fadL) Score=4.7 Pos=-122 [Dechloromonas aromatica RCB]
+TTTCCAACAGTCATTTGAAT
+>Daro_1548(fadL) Score=5.8 Pos=-83 [Dechloromonas aromatica RCB]
+TTTCAAACGTTTGTTTGAGA
+>Daro_1549(acdB) Score=6 Pos=-58 [Dechloromonas aromatica RCB]
+ATTCAAACGTTCGTTTTATT
+>CV2724(psrA) Score=5.6 Pos=-84 [Chromobacterium violaceum ATCC 12472]
+GTTAAAACGTAAGTTTGAAA
+>CV2724(psrA) Score=5.3 Pos=-71 [Chromobacterium violaceum ATCC 12472]
+TTTGAAACGCTTGTTCGAAA
+>CV2721(fadL) Score=4.8 Pos=-136 [Chromobacterium violaceum ATCC 12472]
+CATTAAACGAACGTTTGGAA
+>CV2720(acdB) Score=5.1 Pos=-257 [Chromobacterium violaceum ATCC 12472]
+ATAAAAGCGAGTGTTTGATA
+>CV1459(fadD) Score=4.7 Pos=-137 [Chromobacterium violaceum ATCC 12472]
+GATCAAACCGCGGTTTGATC
+>CV3350 Score=6.1 Pos=-24 [Chromobacterium violaceum ATCC 12472]
+ATCCAAACGACCGTTTGAAT
+>CV3818(etfB) Score=5.9 Pos=-101 [Chromobacterium violaceum ATCC 12472]
+AACCAAACGCTCGTTTGAAT
+>CV2194(fabK) Score=6 Pos=-78 [Chromobacterium violaceum ATCC 12472]
+ATTAAAACATTCGTTTGAAA
+>CV1785(acdH) Score=5.7 Pos=-106 [Chromobacterium violaceum ATCC 12472]
+ATTTAAACAAACGTTTGAAC
+>CV3916(etfD) Score=5.7 Pos=-108 [Chromobacterium violaceum ATCC 12472]
+GTTTAAACGCTTGTTTGATT
+>CV3412(fabF) Score=5.6 Pos=-91 [Chromobacterium violaceum ATCC 12472]
+TTCCAAACGCGCGTTTGAAC
+>CV4051(fadD) Score=5.2 Pos=-18 [Chromobacterium violaceum ATCC 12472]
+ATTAAAACCATCGTTTGCAT
+>LHK_01607(psrA) Score=5.4 Pos=-38 [Laribacter hongkongensis HLHK9]
+ATTAAAACGTAAGTTTCAAA
+>LHK_01607(psrA) Score=5.6 Pos=-25 [Laribacter hongkongensis HLHK9]
+TTTCAAACAACTGTTTGGAT
+>LHK_01608(fadL) Score=5.6 Pos=-142 [Laribacter hongkongensis HLHK9]
+TATAAAACGGCTGTTTGAAA
+>LHK_01608(fadL) Score=4.9 Pos=-63 [Laribacter hongkongensis HLHK9]
+TCTCAAACGATCGTTTGCCT
+>LHK_02202 Score=5.6 Pos=-22 [Laribacter hongkongensis HLHK9]
+TTTCAAACGATCGTTTGCTT
+>LHK_01931(fadD) Score=5.6 Pos=-107 [Laribacter hongkongensis HLHK9]
+AATCAAACGACCGTTTGGCT
+>LHK_02913(etfB) Score=6.1 Pos=-187 [Laribacter hongkongensis HLHK9]
+ATTCAAACGACTGTTTGAAG
+>LHK_00049(fadH) Score=6 Pos=43 [Laribacter hongkongensis HLHK9]
+AATCAAACGGTCGTTTGACA
+>LHK_02264(acdH) Score=6 Pos=-54 [Laribacter hongkongensis HLHK9]
+ATCCAAACATTCGTTTGAAA
+>LHK_02264(acdH) Score=5.5 Pos=-21 [Laribacter hongkongensis HLHK9]
+TTTCAAACGGTCGTTTAACC
+>LHK_00066 Score=5.9 Pos=-68 [Laribacter hongkongensis HLHK9]
+ATTCAAACAGTCGTTTGATG
+>LHK_02892(etfD) Score=5.9 Pos=-97 [Laribacter hongkongensis HLHK9]
+ATTCAAACGGCCGTTTGACG
+>LHK_02384 Score=5.8 Pos=-88 [Laribacter hongkongensis HLHK9]
+GTTCAAACGATCGTTTTATT
+>LHK_02406(scp) Score=5.8 Pos=-40 [Laribacter hongkongensis HLHK9]
+TATCAAACACTCGTTTGATA
+>LHK_00568(fabF) Score=5.4 Pos=-90 [Laribacter hongkongensis HLHK9]
+AGGCAAACGCCCGTTTGACA

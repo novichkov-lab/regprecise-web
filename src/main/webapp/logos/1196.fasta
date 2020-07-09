@@ -1,0 +1,28 @@
+>b4062(soxS) Score=7.4 Pos=-75 [Escherichia coli str. K-12 substr. MG1655]
+ACCTCAAGTTAACTTGAGGA
+>b4063(soxR) Score=7.4 Pos=-30 [Escherichia coli str. K-12 substr. MG1655]
+TCCTCAAGTTAACTTGAGGT
+>STM4265(soxS) Score=7.4 Pos=-76 [Salmonella typhimurium LT2]
+ACCTCAAGTTAACTTGAGGA
+>STM4266(soxR) Score=7.4 Pos=-30 [Salmonella typhimurium LT2]
+TCCTCAAGTTAACTTGAGGT
+>CKO_03828(soxS) Score=7.4 Pos=-76 [Citrobacter koseri ATCC BAA-895]
+ACCTCAAGTTAACTTGAGGA
+>CKO_03827(soxR) Score=7.4 Pos=-30 [Citrobacter koseri ATCC BAA-895]
+TCCTCAAGTTAACTTGAGGT
+>KPN_01861(PF00903) Score=6.9 Pos=-59 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATCTCAAGTTAACTTGAGGT
+>KPN_04462(soxS) Score=7.4 Pos=-74 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ACCTCAAGTTAACTTGAGGA
+>KPN_04463(soxR) Score=7.4 Pos=-57 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TCCTCAAGTTAACTTGAGGT
+>Ent638_2697(PF00903) Score=6.3 Pos=-64 [Enterobacter sp. 638]
+ACCTCAAGTTAACTTTAGCT
+>Ent638_0266(soxS) Score=7.4 Pos=-87 [Enterobacter sp. 638]
+ACCTCAAGTTAACTTGAGGA
+>Ent638_0267(soxR) Score=7.4 Pos=-31 [Enterobacter sp. 638]
+TCCTCAAGTTAACTTGAGGT
+>EAM_0316(soxS) Score=7.1 Pos=-92 [Erwinia amylovora ATCC 49946]
+ACCTCAAGTAAACTTGAGGA
+>EAM_0317(soxR) Score=7.1 Pos=-30 [Erwinia amylovora ATCC 49946]
+TCCTCAAGTTTACTTGAGGT

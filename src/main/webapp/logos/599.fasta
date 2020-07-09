@@ -1,0 +1,134 @@
+>SO_2458(malT) Score=5.6 Pos=-393 [Shewanella oneidensis MR-1]
+gaTGaATACGTATGtAAg
+>SO_2162(omp(Mal)) Score=6.1 Pos=-202 [Shewanella oneidensis MR-1]
+ATTGAATACGTATGCACA
+>SO_2450(susB) Score=5.4 Pos=-90 [Shewanella oneidensis MR-1]
+GTGGAATACGTATGCAAG
+>SO_2162(omp(Mal)) Score=6.2 Pos=-351 [Shewanella oneidensis MR-1]
+CCTGCATACGTATGCAAA
+>Shewana3_2312(omp(Mal)) Score=6.1 Pos=-204 [Shewanella sp ANA-3]
+ATTGAATACGTATGCACA
+>Shewana3_2312(omp(Mal)) Score=6.2 Pos=-353 [Shewanella sp ANA-3]
+CCTGCATACGTATGCAAA
+>Shewana3_2311(malZ) Score=6.2 Pos=-163 [Shewanella sp ANA-3]
+TTTGCATACGTATGCAGG
+>Shewana3_2311(malZ) Score=6.1 Pos=-312 [Shewanella sp ANA-3]
+TGTGCATACGTATTCAAT
+>Shewana3_1925(malT) Score=5.6 Pos=-377 [Shewanella sp ANA-3]
+GATGAATACGTATGTAAG
+>Shewana3_1931(susB) Score=6 Pos=-90 [Shewanella sp ANA-3]
+GGTGAATACGTATGCAAA
+>Shewmr4_2133(malZ) Score=6.1 Pos=-312 [Shewanella sp MR-4]
+TGTGCATACGTATTCAAT
+>Shewmr4_2133(malZ) Score=6.2 Pos=-163 [Shewanella sp MR-4]
+TTTGCATACGTATGCAGG
+>Shewmr4_2134(omp(Mal)) Score=6.1 Pos=-204 [Shewanella sp MR-4]
+ATTGAATACGTATGCACA
+>Shewmr4_2134(omp(Mal)) Score=6.2 Pos=-353 [Shewanella sp MR-4]
+CCTGCATACGTATGCAAA
+>Shewmr4_1870(malT) Score=5.6 Pos=-378 [Shewanella sp MR-4]
+GATGAATACGTATGTAAG
+>Shewmr4_1876(susB) Score=6 Pos=-90 [Shewanella sp MR-4]
+GGTGAATACGTATGCAAA
+>Shewmr7_2210(omp(Mal)) Score=6.2 Pos=-353 [Shewanella sp MR-7]
+CCTGCATACGTATGCAAA
+>Shewmr7_2209(malZ) Score=6.1 Pos=-312 [Shewanella sp MR-7]
+TGTGCATACGTATTCAAT
+>Shewmr7_2209(malZ) Score=6.2 Pos=-163 [Shewanella sp MR-7]
+TTTGCATACGTATGCAGG
+>Shewmr7_2210(omp(Mal)) Score=6.1 Pos=-204 [Shewanella sp MR-7]
+ATTGAATACGTATGCACA
+>Shewmr7_2108(malT) Score=5.6 Pos=-378 [Shewanella sp MR-7]
+GATGAATACGTATGTAAG
+>Shewmr7_2102(susB) Score=6 Pos=-90 [Shewanella sp MR-7]
+GGTGAATACGTATGCAAA
+>Sbal_2347(malT) Score=5.6 Pos=-518 [Shewanella baltica OS155]
+gaTGaATACGTATGtAAg
+>Sbal_2287(malZ) Score=6 Pos=-312 [Shewanella baltica OS155]
+AGTGCATACGTATTCAAT
+>Sbal_2287(malZ) Score=6.2 Pos=-163 [Shewanella baltica OS155]
+TCTGCATACGTATGCAGG
+>Sbal_2288(omp(Mal)) Score=6 Pos=-201 [Shewanella baltica OS155]
+ATTGAATACGTATGCACT
+>Sbal_2288(omp(Mal)) Score=6.2 Pos=-350 [Shewanella baltica OS155]
+CCTGCATACGTATGCAGA
+>Sbal_2329(susB) Score=5.9 Pos=-90 [Shewanella baltica OS155]
+GGTGAATACGTATGCAGG
+>Sden_2029(omp(Mal)) Score=6.1 Pos=-205 [Shewanella denitrificans OS217]
+ATTGAATACGTATGCATA
+>Sden_2029(omp(Mal)) Score=6.2 Pos=-354 [Shewanella denitrificans OS217]
+ACTGCATACGTATGCAAA
+>Sden_2028(malZ) Score=6.2 Pos=-143 [Shewanella denitrificans OS217]
+TTTGCATACGTATGCAGT
+>Sden_2028(malZ) Score=6.1 Pos=-292 [Shewanella denitrificans OS217]
+TATGCATACGTATTCAAT
+>Sden_2002(susB) Score=5.7 Pos=-100 [Shewanella denitrificans OS217]
+CCTGAATACGTATGTAGT
+>Sden_2003(malT) Score=5.6 Pos=-294 [Shewanella denitrificans OS217]
+GATGAATACGTATGTAGT
+>Sden_1800(amyA) Score=6 Pos=-112 [Shewanella denitrificans OS217]
+TATGCATACGTATTCATA
+>Sfri_1788(malZ) Score=6.2 Pos=-147 [Shewanella frigidimarina NCIMB 400]
+TTTGCATACGTATGCAGG
+>Sfri_1788(malZ) Score=6 Pos=-296 [Shewanella frigidimarina NCIMB 400]
+TATGCATACGTATTCAAC
+>Sfri_1787(omp(Mal)) Score=6.2 Pos=-375 [Shewanella frigidimarina NCIMB 400]
+CCTGCATACGTATGCAAA
+>Sfri_1787(omp(Mal)) Score=6 Pos=-226 [Shewanella frigidimarina NCIMB 400]
+GTTGAATACGTATGCATA
+>Sfri_1777(susB) Score=6.1 Pos=-92 [Shewanella frigidimarina NCIMB 400]
+ACTGAATACGTATGCAAA
+>Sfri_1776(malT) Score=5.6 Pos=-353 [Shewanella frigidimarina NCIMB 400]
+CATGAATACGTATGTAGT
+>Sama_1662(malZ) Score=6.1 Pos=-167 [Shewanella amazonensis SB2B]
+TGTGCATACGTATGCAGC
+>Sama_1662(malZ) Score=6.1 Pos=-317 [Shewanella amazonensis SB2B]
+AGTGCATACGTATTCAAA
+>Sama_1108(susB) Score=6 Pos=-89 [Shewanella amazonensis SB2B]
+GCTGAATACGTATGCAGC
+>Sama_1657(malT) Score=5.6 Pos=-268 [Shewanella amazonensis SB2B]
+GATGAATACGTATGTAAG
+>Sama_1661(omp(Mal)) Score=6.1 Pos=-206 [Shewanella amazonensis SB2B]
+TTTGAATACGTATGCACT
+>Sama_1661(omp(Mal)) Score=6.1 Pos=-356 [Shewanella amazonensis SB2B]
+GCTGCATACGTATGCACA
+>Sama_0286(omp(Mal)2) Score=6 Pos=-140 [Shewanella amazonensis SB2B]
+TGTGAATACGTATGCATA
+>Shew_1889(malZ) Score=6.1 Pos=-311 [Shewanella loihica PV-4]
+TATGCATACGTATTCAAA
+>Shew_1889(malZ) Score=6.2 Pos=-160 [Shewanella loihica PV-4]
+TTTGCATACGTATGCAGT
+>Shew_1876(susB) Score=5.9 Pos=-164 [Shewanella loihica PV-4]
+GGTGAATACGTATGCAGC
+>Shew_1874(malT) Score=5.6 Pos=-316 [Shewanella loihica PV-4]
+GATGAATACGTATGTAAT
+>Shew_1888(omp(Mal)) Score=6.1 Pos=-192 [Shewanella loihica PV-4]
+TTTGAATACGTATGCATA
+>Shew_1888(omp(Mal)) Score=6.2 Pos=-343 [Shewanella loihica PV-4]
+ACTGCATACGTATGCAAA
+>swp_2681(malT) Score=5.5 Pos=-469 [Shewanella piezotolerans WP3]
+caTGaATACGTATGtAtt
+>swp_2670(malZ) Score=5.9 Pos=-154 [Shewanella piezotolerans WP3]
+ATTACATACGTATGCAGA
+>swp_2670(malZ) Score=6.1 Pos=-303 [Shewanella piezotolerans WP3]
+TATGCATACGTATTCAAT
+>swp_2676(susB) Score=6.1 Pos=-111 [Shewanella piezotolerans WP3]
+TTTGAATACGTATGCAAG
+>swp_2671(omp(Mal)) Score=6.1 Pos=-187 [Shewanella piezotolerans WP3]
+ATTGAATACGTATGCATA
+>swp_2671(omp(Mal)) Score=5.9 Pos=-336 [Shewanella piezotolerans WP3]
+TCTGCATACGTATGTAAT
+>swp_3412(omp(Mal)2) Score=6 Pos=-143 [Shewanella piezotolerans WP3]
+TATGAATACGTATGCAGC
+>Swoo_2210(malZ) Score=6.1 Pos=-198 [Shewanella woodyi ATCC 51908]
+TATGCATACGTATTCAAA
+>Swoo_2210(malZ) Score=6.2 Pos=-47 [Shewanella woodyi ATCC 51908]
+TATGCATACGTATGCAGA
+>Swoo_2202(malT) Score=5.9 Pos=-282 [Shewanella woodyi ATCC 51908]
+CATGAATACGTATGCAAG
+>Swoo_2209(omp(Mal)) Score=6.1 Pos=-194 [Shewanella woodyi ATCC 51908]
+TTTGAATACGTATGCATA
+>Swoo_2209(omp(Mal)) Score=6.2 Pos=-345 [Shewanella woodyi ATCC 51908]
+TCTGCATACGTATGCATA
+>Swoo_3416(amyA2) Score=6.1 Pos=-178 [Shewanella woodyi ATCC 51908]
+AATGAATACGTATGCAAA

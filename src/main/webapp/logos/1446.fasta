@@ -1,0 +1,58 @@
+>APP7_0857(tyrR) Score=6.1 Pos=-80 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGTAAACAAAAGTTTCCAA
+>APP7_0187(aroF) Score=5.4 Pos=-34 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+CTGTATTTAAAATTTTACAG
+>APP7_0642(tyrP) Score=5.9 Pos=-97 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+GTGTAATAATATGTTTACAG
+>Asuc_0958(tyrR) Score=4.8 Pos=-80 [Actinobacillus succinogenes 130Z]
+GTGTAAAGATAAGTTGACGT
+>Asuc_1570(aroF) Score=5.4 Pos=-41 [Actinobacillus succinogenes 130Z]
+TCGTACATAAAAATTTACAG
+>NT05HA_0604(tyrR) Score=5.8 Pos=-83 [Aggregatibacter aphrophilus NJ8700]
+CTGTAAATAAAAGTTGCCAA
+>NT05HA_0124(tpl) Score=4.5 Pos=-170 [Aggregatibacter aphrophilus NJ8700]
+ATTTAAATTAAATTTAACAA
+>HD1229(tyrR) Score=6.2 Pos=-80 [Haemophilus ducreyi 35000HP]
+TTGTAAACAAAAGTTTCCAA
+>HD0444(aroF) Score=4.9 Pos=-32 [Haemophilus ducreyi 35000HP]
+ATGTATCAAAAATTTTACAC
+>HI0410(tyrR) Score=5.6 Pos=-74 [Haemophilus influenzae Rd KW20]
+ATGTAAAATAATATTTACAC
+>HI1290(tyrA) Score=5.8 Pos=-43 [Haemophilus influenzae Rd KW20]
+TTGTAATTAATTTTTTACAA
+>HI1290(tyrA) Score=4.8 Pos=-20 [Haemophilus influenzae Rd KW20]
+ATGTAAGATAAAAATTACAG
+>HAPS_1204(tyrR) Score=6.1 Pos=-84 [Haemophilus parasuis SH0165]
+TTGTAAACAAAAATTTCCAA
+>HAPS_1274(aroF) Score=4.8 Pos=-35 [Haemophilus parasuis SH0165]
+CTGTATTGATTTTTTTACAA
+>HAPS_0526(tyrP) Score=5.2 Pos=-174 [Haemophilus parasuis SH0165]
+TTGTAAAAGAAAGTTTACTA
+>HAPS_0525(tyrP) Score=5.6 Pos=-89 [Haemophilus parasuis SH0165]
+GTGTAATTATTTTTTTACAT
+>HSM_1080(tyrA) Score=5 Pos=-57 [Haemophilus somnus 2336]
+TTGTAAGTTATTTTTTACAA
+>HSM_1080(tyrA) Score=5.7 Pos=-34 [Haemophilus somnus 2336]
+TTGTAATAATAAATGTACAA
+>HSM_1247(tyrP) Score=5.7 Pos=-99 [Haemophilus somnus 2336]
+ATGTAAACATAATATTACAT
+>HSM_1247(tyrP) Score=5.7 Pos=-78 [Haemophilus somnus 2336]
+TTGTAAAAATAAAATTACAC
+>MS0762(tyrR) Score=5.8 Pos=-30 [Mannheimia succiniciproducens MBEL55E]
+ATGTAAATAAAAGTTGCCAT
+>MS1104(aroF) Score=5.8 Pos=-47 [Mannheimia succiniciproducens MBEL55E]
+ATGTACATATAAATTTACAT
+>MS0977(tyrP) Score=5.5 Pos=-40 [Mannheimia succiniciproducens MBEL55E]
+CCGTAAAAAAATAATTACAT
+>PM0908(tyrR) Score=5.3 Pos=-85 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGTAAATTTATCTTTCCAG
+>PM0665(aroF) Score=5.1 Pos=-86 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGTAAATTATTTATTACAT
+>PM0665(aroF) Score=5.9 Pos=-63 [Pasteurella multocida subsp. multocida str. Pm70]
+GTGTATATAAATGTTTACAT
+>PM0732(tyrP) Score=4.7 Pos=-101 [Pasteurella multocida subsp. multocida str. Pm70]
+CTGTAAAATAATAATAACAC
+>PM0732(tyrP) Score=5.9 Pos=-82 [Pasteurella multocida subsp. multocida str. Pm70]
+CTGTAAAAAAATGGTTACAT
+>PM0811(tpl) Score=6 Pos=-134 [Pasteurella multocida subsp. multocida str. Pm70]
+GTGTAAATAATAATTTACAA

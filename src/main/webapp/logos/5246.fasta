@@ -1,0 +1,88 @@
+>ATW7_17172(susB) Score=5.7 Pos=-85 [Alteromonadales bacterium TW-7]
+AAATGAATACGTATGTAGAT
+>ATW7_17257(omp(Mal)2) Score=6.1 Pos=-108 [Alteromonadales bacterium TW-7]
+TACTGCATACGTATTCATCA
+>ATW7_07424(amyA) Score=5.9 Pos=-86 [Alteromonadales bacterium TW-7]
+ACCTGAATACGTATGCAGCA
+>ATW7_07444(malZ) Score=5.9 Pos=-124 [Alteromonadales bacterium TW-7]
+TTGTGCATACGTATGCAGTC
+>ATW7_11801(amyA2) Score=6.1 Pos=-110 [Alteromonadales bacterium TW-7]
+TAATGCATACGTATTCAGTT
+>ATW7_07439(omp(Mal)) Score=6 Pos=-139 [Alteromonadales bacterium TW-7]
+GCTTGAATACGTATGCATAA
+>MADE_01251(malQ) Score=5.2 Pos=-124 [Alteromonas macleodii 'Deep ecotype']
+TATTGCAATCGTATTCAGAT
+>MADE_01881(omp(Mal)2) Score=5.7 Pos=-130 [Alteromonas macleodii 'Deep ecotype']
+AAATGAATACGTATGCACAG
+>MADE_01887(amyA) Score=6 Pos=-130 [Alteromonas macleodii 'Deep ecotype']
+TTTTGAATACGTATGCATGT
+>MADE_03950(aglA) Score=4.9 Pos=-120 [Alteromonas macleodii 'Deep ecotype']
+CAATGAATACGTATGTTTAT
+>MADE_01888(susA) Score=5.5 Pos=-97 [Alteromonas macleodii 'Deep ecotype']
+CGGTGAATACGTATGCAGAG
+>MADE_01879(omp(Mal)) Score=6.1 Pos=-134 [Alteromonas macleodii 'Deep ecotype']
+TATTGAATACGTATGCAGGC
+>CPS_0993(omp(Mal)) Score=5.9 Pos=-207 [Colwellia psychrerythraea 34H]
+CGTTGCATACGTATTCAATG
+>CPS_0993(omp(Mal)) Score=5.8 Pos=-166 [Colwellia psychrerythraea 34H]
+CTCTGAATACGTATGCAACG
+>CPS_3370(amyA3) Score=5.5 Pos=-129 [Colwellia psychrerythraea 34H]
+TTATGAATACGTATGTAGGG
+>CPS_0984(malZ) Score=5.7 Pos=-149 [Colwellia psychrerythraea 34H]
+TTATACATACGTATGCAAAG
+>CPS_0996(pulA) Score=5.7 Pos=-94 [Colwellia psychrerythraea 34H]
+GCTTGAATACGTATGTAAGA
+>CPS_1693(omp(Mal)2) Score=6.3 Pos=-129 [Colwellia psychrerythraea 34H]
+TTTTGAATACGTATGCAAAA
+>CPS_0984(malZ) Score=6 Pos=-220 [Colwellia psychrerythraea 34H]
+TCTTGAATACGTATGCAAGG
+>CPS_0984(malZ) Score=6.1 Pos=-180 [Colwellia psychrerythraea 34H]
+TATTACATACGTATGCAATT
+>CPS_0983(aglA) Score=6.1 Pos=-131 [Colwellia psychrerythraea 34H]
+AATTGCATACGTATGTAATA
+>CPS_0983(aglA) Score=6 Pos=-91 [Colwellia psychrerythraea 34H]
+CCTTGCATACGTATTCAAGA
+>CPS_0983(aglA) Score=5.7 Pos=-162 [Colwellia psychrerythraea 34H]
+CTTTGCATACGTATGTATAA
+>CPS_0975(malT) Score=5.7 Pos=-219 [Colwellia psychrerythraea 34H]
+TAGTGAATACGTATGTAACA
+>GHTCC_010100010210(glgP) Score=5.4 Pos=-122 [Glaciecola sp. HTCC2999]
+AAATGCATACGAATTCAGTC
+>GHTCC_010100004775(malQ) Score=6 Pos=-83 [Glaciecola sp. HTCC2999]
+TTTTGCAAACGTATTCAATA
+>GHTCC_010100005130(amyA) Score=4.8 Pos=-99 [Glaciecola sp. HTCC2999]
+ATATGAAATCGTATGCAGGG
+>GHTCC_010100006907(cgt) Score=5.7 Pos=-79 [Glaciecola sp. HTCC2999]
+ATGTGAATACGTATGTAAAA
+>Patl_1635(malQ) Score=5.7 Pos=-90 [Pseudoalteromonas atlantica T6c]
+TAATGCAAACGTATTCAACT
+>Patl_2197(glgP) Score=5.8 Pos=-166 [Pseudoalteromonas atlantica T6c]
+GGTTGAATACGTATTCAACC
+>Patl_1940(omp(Mal)2) Score=6 Pos=-167 [Pseudoalteromonas atlantica T6c]
+TGTTGAATACGTATGCAGTG
+>Patl_2859(amyA2) Score=5.8 Pos=-131 [Pseudoalteromonas atlantica T6c]
+ATTTACATACGTATTCATTT
+>Patl_2340(amyA) Score=5.4 Pos=-95 [Pseudoalteromonas atlantica T6c]
+TGATGAATACGTATGTAGGG
+>Patl_2187(malT) Score=5.9 Pos=-213 [Pseudoalteromonas atlantica T6c]
+ATCTGAATACGTATGCAAGC
+>Patl_1938(omp(Mal)) Score=6.2 Pos=-144 [Pseudoalteromonas atlantica T6c]
+TACTGAATACGTATGCAAGA
+>PSHAa2848(susB) Score=5.7 Pos=-87 [Pseudoalteromonas haloplanktis TAC125]
+CCCTGAATACGTATGCAACC
+>PSHAa1351(malZ) Score=6.1 Pos=-129 [Pseudoalteromonas haloplanktis TAC125]
+TAGTGCATACGTATGCAGTA
+>PSHAa1355(amyA) Score=5.8 Pos=-91 [Pseudoalteromonas haloplanktis TAC125]
+AACTGAATACGTATGCAGCG
+>PSHAa1352(omp(Mal)) Score=6.1 Pos=-117 [Pseudoalteromonas haloplanktis TAC125]
+TGTTGAATACGTATGCATAA
+>PTD2_01461(susB) Score=5.7 Pos=-83 [Pseudoalteromonas tunicata D2]
+GTGTGAATACGTATGCAAGC
+>PTD2_18670(malZ) Score=5.9 Pos=-125 [Pseudoalteromonas tunicata D2]
+AAATGCATACGTATGCATGC
+>PTD2_20842(amyA2) Score=6.1 Pos=-83 [Pseudoalteromonas tunicata D2]
+TTTTGCATACGTATTCAAAG
+>PTD2_18700(amyA) Score=6.1 Pos=-83 [Pseudoalteromonas tunicata D2]
+GACTGAATACGTATGCAATT
+>PTD2_18680(omp(Mal)) Score=6.1 Pos=-153 [Pseudoalteromonas tunicata D2]
+TTTTGAATACGTATGCAGTC

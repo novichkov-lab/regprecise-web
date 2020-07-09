@@ -1,0 +1,42 @@
+>CPS_2237(colA2) Score=5 Pos=-49 [Colwellia psychrerythraea 34H]
+ATTGTATGCAAT
+>CPS_2237(colA2) Score=4.3 Pos=-32 [Colwellia psychrerythraea 34H]
+ATTTTATTCAAT
+>CPS_1449(hypD) Score=5.3 Pos=-100 [Colwellia psychrerythraea 34H]
+ATTGTATACAAT
+>CPS_4142(hypR) Score=4 Pos=6 [Colwellia psychrerythraea 34H]
+ATAGTATATAAA
+>CPS_4791(omp, COG1629 (CirA)) Score=4.2 Pos=-162 [Colwellia psychrerythraea 34H]
+ATAATATACAAT
+>CPS_1459(prdP) Score=4.7 Pos=-115 [Colwellia psychrerythraea 34H]
+AGTGTATACAAT
+>ATW7_13113(hypE) Score=5.3 Pos=-276 [Alteromonadales bacterium TW-7]
+ATTGTATACAAT
+>ATW7_13133(ATW7_13133) Score=5.3 Pos=-36 [Alteromonadales bacterium TW-7]
+ATTGTATACAAT
+>ATW7_13098(hypD) Score=4.7 Pos=-45 [Alteromonadales bacterium TW-7]
+ACTGTATACAAT
+>ATW7_13123(hypO) Score=5.3 Pos=-211 [Alteromonadales bacterium TW-7]
+ATTGTATACAAT
+>ATW7_13103(hypR) Score=3.9 Pos=-33 [Alteromonadales bacterium TW-7]
+AATGTATGCTAA
+>ATW7_13093(omp, COG1629 (CirA)) Score=5.3 Pos=-86 [Alteromonadales bacterium TW-7]
+ATTGTATACAAT
+>PTD2_14397(hypD) Score=5 Pos=-65 [Pseudoalteromonas tunicata D2]
+ATTGCATACAAT
+>PTD2_04421(colA2) Score=4.9 Pos=-179 [Pseudoalteromonas tunicata D2]
+ATTGTATACATT
+>PTD2_04421(colA2) Score=4.2 Pos=-132 [Pseudoalteromonas tunicata D2]
+AATGTAAACAAT
+>PTD2_06274(ypdF) Score=5 Pos=-69 [Pseudoalteromonas tunicata D2]
+ATTGTATGCAAT
+>PTD2_03171(prdP) Score=3.7 Pos=-144 [Pseudoalteromonas tunicata D2]
+ATGTTATACAGT
+>PTD2_03171(prdP) Score=4 Pos=-128 [Pseudoalteromonas tunicata D2]
+ATTGTATAATTT
+>PTD2_03171(prdP) Score=5 Pos=-24 [Pseudoalteromonas tunicata D2]
+ATTGCATACAAT
+>PTD2_14392(hypO) Score=5 Pos=6 [Pseudoalteromonas tunicata D2]
+ATTGTATGCAAT
+>PTD2_02396(omp, COG1629 (CirA)) Score=5.3 Pos=-54 [Pseudoalteromonas tunicata D2]
+ATTGTATACAAT

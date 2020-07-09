@@ -1,0 +1,32 @@
+>DVU1058(nikM) Score=7.3 Pos=-121 [Desulfovibrio vulgaris Hildenborough]
+GTGTTAT-------------GTAACAC
+>DVU2769(nikK) Score=6.8 Pos=-83 [Desulfovibrio vulgaris Hildenborough]
+GTGACAC-------------GTGTAAC
+>DvMF_2859(nikK) Score=6.8 Pos=-89 [Desulfovibrio vulgaris str. Miyazaki F]
+GTGACAC-------------GTGTAAC
+>DvMF_2398(nikD) Score=5.4 Pos=-265 [Desulfovibrio vulgaris str. Miyazaki F]
+GCAACAC-------------GTGACCC
+>DvMF_0274(hysB) Score=6.8 Pos=-244 [Desulfovibrio vulgaris str. Miyazaki F]
+GTAACAC-------------ATAACAC
+>Dde_1189(nikK) Score=7.3 Pos=-105 [Desulfovibrio desulfuricans G20]
+GTGTTAT-------------GTAACAC
+>Dde_2134(hysB) Score=5.7 Pos=-65 [Desulfovibrio desulfuricans G20]
+GTCTCAG-------------GTAAAAC
+>Dde_2281(hydA2) Score=5.2 Pos=-122 [Desulfovibrio desulfuricans G20]
+GTGGTAG-------------ATAGCAC
+>Dde_2281(hydA2) Score=7.4 Pos=-82 [Desulfovibrio desulfuricans G20]
+GTATTAC-------------GTAACAC
+>Ddes_1470(nikK) Score=5.4 Pos=-93 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTGCTAC-------------GTGTAAC
+>Ddes_1032(nikA) Score=7 Pos=-85 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTGTCAC-------------TTGACAC
+>DESPIG_00816(nikK) Score=5.2 Pos=-134 [Desulfovibrio piger ATCC 29098]
+GTGTAAA-------------CTAACGC
+>Desal_1884(nikL) Score=6.7 Pos=-71 [Desulfovibrio salexigens DSM 2638]
+GTACCAC-------------GTGACAC
+>LI0864 Score=6.5 Pos=-98 [Lawsonia intracellularis PHE/MN1-00]
+GTATCAT-------------GTATTAC
+>LI0864 Score=5.5 Pos=-68 [Lawsonia intracellularis PHE/MN1-00]
+ATGATAT-------------GTTACAC
+>Dbac_1970(hysB) Score=6.3 Pos=-216 [Desulfomicrobium baculatum DSM 4028]
+GTGTTAT-------------GTAACAT

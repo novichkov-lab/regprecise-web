@@ -1,0 +1,44 @@
+>SO_4468(SO4468) Score=5.6 Pos=-38 [Shewanella oneidensis MR-1]
+CTAGACGACTGGTCTAATTT
+>SO_4469(SO4469) Score=6 Pos=-52 [Shewanella oneidensis MR-1]
+CTAGACGACTGGTCTACTAA
+>Sputcn32_0378(SO4468) Score=5.7 Pos=-25 [Shewanella putrefaciens CN-32]
+CTAGACGACCGGTCTAATTT
+>Sputcn32_0377(SO4469) Score=5.9 Pos=-64 [Shewanella putrefaciens CN-32]
+TTAGACGACTGGTCTACTAA
+>Sputw3181_0228(SO4468) Score=5.7 Pos=-25 [Shewanella sp W3-18-1]
+CTAGACGACCGGTCTAATTT
+>Sputw3181_0227(SO4469) Score=5.9 Pos=-64 [Shewanella sp W3-18-1]
+TTAGACGACTGGTCTACTAA
+>Shewana3_0262(SO4468) Score=5.8 Pos=-38 [Shewanella sp ANA-3]
+CTAGACGACTGGTCTAATAT
+>Shewana3_0261(SO4469) Score=6 Pos=-52 [Shewanella sp ANA-3]
+CTAGACGACTGGTCTACTAA
+>Shewmr4_0261(SO4468) Score=5.6 Pos=-38 [Shewanella sp MR-4]
+CTAGACGACTGGTCTAATTT
+>Shewmr4_0260(SO4469) Score=6 Pos=-51 [Shewanella sp MR-4]
+CTAGACGACTGGTCTACTAA
+>Shewmr7_3760(SO4468) Score=5.6 Pos=-38 [Shewanella sp MR-7]
+CTAGACGACTGGTCTAATTT
+>Shewmr7_3761(SO4469) Score=6 Pos=-51 [Shewanella sp MR-7]
+CTAGACGACTGGTCTACTAA
+>Sbal_0272(SO4468) Score=5.6 Pos=-37 [Shewanella baltica OS155]
+CTAGACGACCGGTCTATTTT
+>Sbal_0271(SO4469) Score=5.9 Pos=-104 [Shewanella baltica OS155]
+TTAGACGACTGGTCTACTAA
+>Sden_1388(SO4468) Score=5.9 Pos=-36 [Shewanella denitrificans OS217]
+CTAGACGACCGGTCTAATTG
+>Sden_1387(Sden_1387) Score=5.9 Pos=-31 [Shewanella denitrificans OS217]
+CTAGACGACCGGTCTATTAA
+>Sama_0476(SO4468) Score=5.6 Pos=-37 [Shewanella amazonensis SB2B]
+CTAGACGACTGGTCTAATCG
+>Sama_0475(Sden_1387) Score=5.6 Pos=-37 [Shewanella amazonensis SB2B]
+CTAGACGACTGGTCTAATTT
+>swp_0257(SO4468) Score=5.6 Pos=-37 [Shewanella piezotolerans WP3]
+CTAGACGACCGGTCTAATAC
+>swp_0256(SO4469) Score=6 Pos=-62 [Shewanella piezotolerans WP3]
+CTAGACGACTGGTCTACTAA
+>Ssed_0287(SO4468) Score=5.5 Pos=-36 [Shewanella sediminis HAW-EB3]
+CTAGACGACCGGTCTATTCT
+>Ssed_0286(SO4469) Score=6 Pos=-59 [Shewanella sediminis HAW-EB3]
+CTAGACGACTGGTCTACTAA

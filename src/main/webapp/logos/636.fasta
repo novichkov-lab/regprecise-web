@@ -1,0 +1,62 @@
+>SO_3494(SO3494) Score=6.2 Pos=-273 [Shewanella oneidensis MR-1]
+TAAATACCGATTGGTAAAAA
+>SO_3493(mexE) Score=6.2 Pos=99 [Shewanella oneidensis MR-1]
+TTTtTACCAATCGGTATttA
+>Sputcn32_2793(SO3494) Score=5.9 Pos=-266 [Shewanella putrefaciens CN-32]
+TATGTACCGACTGGTATTAA
+>Sputcn32_2793(SO3494) Score=6 Pos=-339 [Shewanella putrefaciens CN-32]
+TAAATACCGACTGGTAAAAA
+>Sputcn32_2792(mexE) Score=6 Pos=-97 [Shewanella putrefaciens CN-32]
+TTTTTACCAGTCGGTATTTA
+>Sputcn32_2792(mexE) Score=5.9 Pos=-170 [Shewanella putrefaciens CN-32]
+TTAATACCAGTCGGTACATA
+>Sputw3181_1219(SO3494) Score=5.9 Pos=-266 [Shewanella sp W3-18-1]
+TATGTACCGACTGGTATTAA
+>Sputw3181_1219(SO3494) Score=6 Pos=-339 [Shewanella sp W3-18-1]
+TAAATACCGACTGGTAAAAA
+>Sputw3181_1220(mexE) Score=5.9 Pos=-170 [Shewanella sp W3-18-1]
+TTAATACCAGTCGGTACATA
+>Sputw3181_1220(mexE) Score=6 Pos=-97 [Shewanella sp W3-18-1]
+TTTTTACCAGTCGGTATTTA
+>Shewana3_1076(SO3494) Score=5.2 Pos=-213 [Shewanella sp ANA-3]
+TTTGTACCGATGAGTATTTA
+>Shewana3_1076(SO3494) Score=6 Pos=-285 [Shewanella sp ANA-3]
+TAAATACCGACTGGTAAAAA
+>Shewana3_1077(mexE) Score=5.2 Pos=-166 [Shewanella sp ANA-3]
+TAAATACTCATCGGTACAAA
+>Shewana3_1077(mexE) Score=6 Pos=-94 [Shewanella sp ANA-3]
+TTTTTACCAGTCGGTATTTA
+>Shewmr4_1072(SO3494) Score=5.2 Pos=-216 [Shewanella sp MR-4]
+TTTGTACCGATAAGTATTTA
+>Shewmr4_1072(SO3494) Score=6 Pos=-289 [Shewanella sp MR-4]
+TAAATACCGACTGGTAAAAA
+>Shewmr4_1073(mexE) Score=5.2 Pos=-166 [Shewanella sp MR-4]
+TAAATACTTATCGGTACAAA
+>Shewmr4_1073(mexE) Score=6 Pos=-93 [Shewanella sp MR-4]
+TTTTTACCAGTCGGTATTTA
+>Shewmr7_1144(SO3494) Score=6.2 Pos=-288 [Shewanella sp MR-7]
+TAAATACCGATTGGTAAAAA
+>Shewmr7_1144(SO3494) Score=5.2 Pos=-215 [Shewanella sp MR-7]
+TTTGTACCGATAAGTATTTA
+>Shewmr7_1145(mexE) Score=6.2 Pos=-93 [Shewanella sp MR-7]
+TTTTTACCAATCGGTATTTA
+>Shewmr7_1145(mexE) Score=5.2 Pos=-166 [Shewanella sp MR-7]
+TAAATACTTATCGGTACAAA
+>Sbal_3183(SO3494) Score=6.2 Pos=-502 [Shewanella baltica OS155]
+TATGTACCGATTGGTATTAA
+>Sbal_3182(mexE) Score=6 Pos=-72 [Shewanella baltica OS155]
+TTTTTACCAGTCGGTATTTA
+>Sbal_3182(mexE) Score=6.2 Pos=-145 [Shewanella baltica OS155]
+TTAATACCAATCGGTACATA
+>Sden_3079(mexE) Score=5.2 Pos=-70 [Shewanella denitrificans OS217]
+ATCATACCGACCGGTACAAA
+>Sden_3079(mexE) Score=5.8 Pos=-119 [Shewanella denitrificans OS217]
+AAATTACCAATCGGTACAAA
+>Sfri_3984(SO3494) Score=6.3 Pos=-262 [Shewanella frigidimarina NCIMB 400]
+TTTGTACCGATTGGTATTAA
+>Sfri_3984(SO3494) Score=6.3 Pos=-334 [Shewanella frigidimarina NCIMB 400]
+TTTATACCAATCGGTACAAA
+>Sfri_3985(mexE) Score=6.3 Pos=-169 [Shewanella frigidimarina NCIMB 400]
+TTAATACCAATCGGTACAAA
+>Sfri_3985(mexE) Score=6.3 Pos=-97 [Shewanella frigidimarina NCIMB 400]
+TTTGTACCGATTGGTATAAA

@@ -1,0 +1,56 @@
+>SAG0325(pflA) Score=4.8 Pos=-59 [Streptococcus agalactiae 2603V/R]
+TCGTAATTGACTTTGTTACGT
+>SAG0326(pflR) Score=5.7 Pos=-82 [Streptococcus agalactiae 2603V/R]
+ACGTAACAAAGTCAATTACGA
+>SDEG_0170(pflR) Score=6.1 Pos=-80 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ACGTAAATAAATCAATTACGA
+>SDEG_0175(pflB) Score=4.9 Pos=-41 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AAGAAACATTTATAATTTCGT
+>SDEG_0169(pflA) Score=5.8 Pos=-63 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TCGTAATTGATTTATTTACGT
+>Sez_1815(pflA) Score=5.8 Pos=34 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TCGTAATTGATTTATTTACGT
+>Sez_1814(pflR) Score=6.1 Pos=-83 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ACGTAAATAAATCAATTACGA
+>Sez_1808(pflB) Score=5.1 Pos=-42 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AAGAAAGTTATTTAATTTCGT
+>SGO_1794(pflA) Score=5.2 Pos=-60 [Streptococcus gordonii str. Challis substr. CH1]
+TCGTAATTGTATTTATTGCGT
+>SGO_1793(pflR) Score=5.8 Pos=-79 [Streptococcus gordonii str. Challis substr. CH1]
+ACGCAATAAATACAATTACGA
+>SGO_1788(pflB) Score=5.6 Pos=-39 [Streptococcus gordonii str. Challis substr. CH1]
+AAGAAATAAAAATAATTTCAT
+>SMU.491(pflR) Score=6 Pos=-85 [Streptococcus mutans UA159]
+ACGAAACAAAATCAATTACGA
+>SMU.490(pflA) Score=5.1 Pos=-66 [Streptococcus mutans UA159]
+TCGTAATTGATTTTGTTTCGT
+>SMU.493(pflB) Score=5.1 Pos=-41 [Streptococcus mutans UA159]
+AAGAAATTTAATATATTACGA
+>SP_0246(pflR) Score=5.9 Pos=-82 [Streptococcus pneumoniae TIGR4]
+ACGAAAGAAAAACAATTACGA
+>SP_0251(pflB) Score=5.7 Pos=-37 [Streptococcus pneumoniae TIGR4]
+AAGAAATAAAAATATTTTCGA
+>SP_0245(pflA) Score=5.2 Pos=-60 [Streptococcus pneumoniae TIGR4]
+TCGTAATTGTTTTTCTTTCGT
+>SPy2049(pflB) Score=4.4 Pos=-41 [Streptococcus pyogenes M1 GAS]
+AAGAAACGTTTATAATTTCGT
+>SPy2055(pflA) Score=5.8 Pos=-63 [Streptococcus pyogenes M1 GAS]
+TCGTAATTGATTTATTTACGT
+>SPy2054(pflR) Score=6.1 Pos=-83 [Streptococcus pyogenes M1 GAS]
+ACGTAAATAAATCAATTACGA
+>SSA_0278(pflR) Score=5.6 Pos=-85 [Streptococcus sanguinis SK36]
+TAGAAAGAAAAACAATTACGA
+>SSA_0285(pflB) Score=5.3 Pos=-39 [Streptococcus sanguinis SK36]
+AAGAAATAAATTAAATTTCAT
+>SSA_0277(pflA) Score=4.9 Pos=-33 [Streptococcus sanguinis SK36]
+TCGTAATTGTTTTTCTTTCTA
+>SSU05_0706(pflR) Score=4.9 Pos=-91 [Streptococcus suis 05ZYH33]
+AAGAAAGTTTTACAATTACGA
+>SSU05_0705(pflA) Score=5 Pos=-61 [Streptococcus suis 05ZYH33]
+TCGTAATTGTAAAACTTTCTT
+>SUB0156(pflA) Score=5.9 Pos=-61 [Streptococcus uberis 0140J]
+ACGTAATTGATTTATTTACGT
+>SUB0160(pflB) Score=5.3 Pos=-42 [Streptococcus uberis 0140J]
+AAGAAACAAAAATGTTTACGA
+>SUB0157(pflR) Score=6 Pos=-86 [Streptococcus uberis 0140J]
+ACGTAAATAAATCAATTACGT

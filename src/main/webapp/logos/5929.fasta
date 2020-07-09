@@ -1,0 +1,50 @@
+>BACPEC_02754(bioB) Score=8.7 Pos=-154 [Bacteroides pectinophilus ATCC 43243]
+TTGTCAAC---------------GTTAACAT
+>BACPEC_02755(bioY2) Score=8.7 Pos=-142 [Bacteroides pectinophilus ATCC 43243]
+ATGTTAAC---------------GTTGACAA
+>BLAHAN_02475(bioY) Score=8.9 Pos=-94 [Blautia hansenii DSM 20583]
+TTGTAAAC---------------GTTGACAA
+>BRYFOR_01898(bioY) Score=8.9 Pos=-154 [Bryantella formatexigens DSM 14469]
+TTGTAAAC---------------GTTGACAA
+>BRYFOR_01898(bioY) Score=8.4 Pos=-96 [Bryantella formatexigens DSM 14469]
+ATGTAAAC---------------GTTTACAA
+>Cbac1_010100014191(SSF54637) Score=9 Pos=-97 [Clostridiales bacterium 1_7_47_FAA]
+TTGTTAAC---------------GTTGACAA
+>CLOBOL_00883(SSF54637) Score=9 Pos=-66 [Clostridium bolteae ATCC BAA-613]
+TTGTTAAC---------------GTTGACAA
+>CLONEX_00515(bioY) Score=9 Pos=-85 [Clostridium nexile DSM 1787]
+TTGTTAAC---------------GTTGACAA
+>CLOSCI_02690(bioY) Score=8.7 Pos=-142 [Clostridium scindens ATCC 35704]
+TTGTTAAC---------------GTTGACAT
+>CLOSCI_01529(bioB) Score=8.2 Pos=-85 [Clostridium scindens ATCC 35704]
+CTGTAAAC---------------GTTGACAA
+>DORFOR_03064(bioB) Score=8.8 Pos=-110 [Dorea formicigenerans ATCC 27755]
+TTGTCAAC---------------GTTGACAT
+>DORLON_02721(bioB) Score=8.6 Pos=-65 [Dorea longicatena DSM 13814]
+ATGTTAAC---------------GTTAACAA
+>DORLON_01236(bioY) Score=8.9 Pos=-88 [Dorea longicatena DSM 13814]
+TTGTAAAC---------------GTTGACAA
+>DORLON_00987(bioY) Score=8.7 Pos=-123 [Dorea longicatena DSM 13814]
+TTGTTAAC---------------GTTGACAT
+>EUBELI_01172(bioY) Score=8.8 Pos=-95 [Eubacterium eligens ATCC 27750]
+ATGTCAAC---------------GTTGACAA
+>EUBELI_20420(bioB) Score=8.5 Pos=-14 [Eubacterium eligens ATCC 27750]
+ATGTCAAC---------------GTTGACAT
+>EUBREC_0920(bioB) Score=9 Pos=-70 [Eubacterium rectale ATCC 33656]
+TTGTTAAC---------------GTTGACAA
+>EUBREC_3289(bioY) Score=8.9 Pos=-104 [Eubacterium rectale ATCC 33656]
+TTGTAAAC---------------GTTGACAA
+>ROSINTL182_04738(bioY) Score=8.4 Pos=-86 [Roseburia intestinalis L1-82]
+ATGTTAAC---------------GTTGACAT
+>ROSINTL182_04738(bioY) Score=8.9 Pos=-33 [Roseburia intestinalis L1-82]
+TTGTTAAC---------------GTTAACAA
+>ROSINTL182_00207(bioY) Score=8.9 Pos=-66 [Roseburia intestinalis L1-82]
+TTGTAAAC---------------GTTGACAA
+>RUMGNA_00689(bioB) Score=8.7 Pos=-84 [Ruminococcus gnavus ATCC 29149]
+TTGTAAAC---------------GTTTACAA
+>RUMGNA_01549(bioY) Score=8.7 Pos=-86 [Ruminococcus gnavus ATCC 29149]
+ATGTTAAC---------------GTTGACAA
+>RUMLAC_00062(bioB) Score=8.6 Pos=-135 [Ruminococcus lactaris ATCC 29176]
+ATGTAAAC---------------GTTGACAA
+>RUMLAC_01841(bioY) Score=9 Pos=-102 [Ruminococcus lactaris ATCC 29176]
+TTGTTAAC---------------GTTGACAA

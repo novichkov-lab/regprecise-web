@@ -1,0 +1,32 @@
+>PA2274(PF03992) Score=6.4 Pos=-67 [Pseudomonas aeruginosa PAO1]
+ACCTCAAGTTTGCTTGAGGT
+>PA4205(mexG) Score=6.9 Pos=-125 [Pseudomonas aeruginosa PAO1]
+ACCTCAACTTAACTTGAGGT
+>PA3718(PF07690) Score=6.7 Pos=-83 [Pseudomonas aeruginosa PAO1]
+ACCTCAAGTTAACTTGAGCT
+>PA2273(soxR) Score=6.4 Pos=-30 [Pseudomonas aeruginosa PAO1]
+ACCTCAAGCAAACTTGAGGT
+>PSEEN3529(PF03992) Score=6.3 Pos=-71 [Pseudomonas entomophila L48]
+ACCTTGAGTTAACTGGAGGT
+>PSEEN3530(soxR) Score=6.3 Pos=-34 [Pseudomonas entomophila L48]
+ACCTCCAGTTAACTCAAGGT
+>PSEEN2338(PF01042) Score=6.3 Pos=-59 [Pseudomonas entomophila L48]
+ACCTCGACTTAACCCGAGGT
+>PP2235(PF03992) Score=6.1 Pos=-71 [Pseudomonas putida KT2440]
+ACCTTGACTTTACTTGAGGT
+>PP2064(mexH) Score=6.2 Pos=-76 [Pseudomonas putida KT2440]
+ACCTCAAGTAAAGTTGAGCT
+>PP2506(PF09933) Score=6.3 Pos=-26 [Pseudomonas putida KT2440]
+ACCTCGAGTTAAGTCAAGGT
+>PP3522(PF01042) Score=6.6 Pos=-60 [Pseudomonas putida KT2440]
+ACCTCGAGTTAACTTAAGGT
+>PP2060(soxR) Score=6 Pos=-29 [Pseudomonas putida KT2440]
+AGCTCAACTTAACTTTAGGT
+>PFL_4160(soxR) Score=6.1 Pos=-50 [Pseudomonas fluorescens Pf-5]
+ACCTCTAGTTAAGTCAAGGT
+>PFL_4159(PF03992) Score=6.1 Pos=-78 [Pseudomonas fluorescens Pf-5]
+ACCTTGACTTAACTAGAGGT
+>Pmen_1341(soxR) Score=6.6 Pos=-35 [Pseudomonas mendocina ymp]
+ACCTCAACTTAACTTAAGGT
+>Pmen_1342(PF03358) Score=6.6 Pos=-63 [Pseudomonas mendocina ymp]
+ACCTTAAGTTAAGTTGAGGT

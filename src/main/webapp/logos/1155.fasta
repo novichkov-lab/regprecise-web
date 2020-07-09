@@ -1,0 +1,50 @@
+>b0463(acrA) Score=6.4 Pos=-106 [Escherichia coli str. K-12 substr. MG1655]
+ATTTGTGAATGTATGTACCATA
+>b2684(mprA) Score=6.9 Pos=-51 [Escherichia coli str. K-12 substr. MG1655]
+ATTTGTCACTGTCGTTACTATA
+>STM0476(acrA) Score=5.9 Pos=-106 [Salmonella typhimurium LT2]
+ATTTATGGATGTATGTACCATA
+>STM2813(mprA) Score=6.9 Pos=-51 [Salmonella typhimurium LT2]
+ATTTGTCACTGTCGTTACTATA
+>CKO_02688(acrA) Score=6.1 Pos=-106 [Citrobacter koseri ATCC BAA-895]
+ATTTGTGGATGTATGTACCATA
+>CKO_04033(mprA) Score=6.9 Pos=-51 [Citrobacter koseri ATCC BAA-895]
+ATTTGTCACTGTCGTTACTATA
+>KPN_00444(acrA) Score=6.4 Pos=-107 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTTGTGAATGTATGTACCATA
+>KPN_03013(mprA) Score=6.2 Pos=-150 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTTGTCACAATAGTTATTATA
+>Ent638_0943(acrA) Score=5.7 Pos=-107 [Enterobacter sp. 638]
+ATTTATGAATGTATGTAACATA
+>Ent638_3162(mprA) Score=6.9 Pos=-51 [Enterobacter sp. 638]
+ATTTGTCACTGTCGTTACTATA
+>EAM_1017(acrA) Score=6.3 Pos=-98 [Erwinia amylovora ATCC 49946]
+ATTTGCGAATGTATGTACTATA
+>EAM_2603(mprA) Score=5.2 Pos=-51 [Erwinia amylovora ATCC 49946]
+ATTAATCACCATCATTATTATA
+>y1050(acrA) Score=5.6 Pos=-109 [Yersinia pestis KIM]
+ATTCACGAATGTATGTACCATA
+>y0923(mprA) Score=6.1 Pos=-26 [Yersinia pestis KIM]
+ATTAGTAACTATCGTTACTGTA
+>Spro_1127(acrA) Score=5.4 Pos=-107 [Serratia proteamaculans 568]
+ATTCGCGTATGTATGTACCATA
+>Spro_3741(mprA) Score=6.1 Pos=-50 [Serratia proteamaculans 568]
+ATTAATCACTATCGTTACTATC
+>ECA1170(acrA) Score=4.5 Pos=-107 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATTCAAGTATGTATGTAACATA
+>ECA3511(mprA) Score=5.4 Pos=-53 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTTAGTAACATTAGTTACTATG
+>ETAE_1011(acrA) Score=5.9 Pos=-106 [Edwardsiella tarda EIB202]
+ATTGATGAATGTATGTACCATA
+>ETAE_2765(mprA) Score=5.1 Pos=-51 [Edwardsiella tarda EIB202]
+ACTGATAACCAAAGTTACTATA
+>PMI0132(acrA) Score=3.8 Pos=-117 [Proteus mirabilis HI4320]
+GATTTTGACTGAAGTTAATTTA
+>PMI0132(acrA) Score=5.5 Pos=-90 [Proteus mirabilis HI4320]
+ATTCATGTATGTTTGTACTATA
+>PMI0132(acrA) Score=3.7 Pos=-58 [Proteus mirabilis HI4320]
+ATTCATCAACTTAATTATTTTT
+>plu3851(acrA) Score=4.8 Pos=-94 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTCACGTATGTTTGTATTATA
+>plu1277(mprA) Score=4.1 Pos=-51 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTTGATAACAAAAGTTATCTTA

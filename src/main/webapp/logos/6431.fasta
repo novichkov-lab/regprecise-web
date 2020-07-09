@@ -1,0 +1,64 @@
+>Aave_2589(gguR) Score=5.3 Pos=-38 [Acidovorax avenae subsp. citrulli AAC00-1]
+ATGTTGTCGTACAACGC
+>Aave_2588(tctC1) Score=4.8 Pos=-38 [Acidovorax avenae subsp. citrulli AAC00-1]
+CAGTTGTATGATGACGT
+>Aave_2588(tctC1) Score=4.6 Pos=-31 [Acidovorax avenae subsp. citrulli AAC00-1]
+ATGATGACGTACAACAT
+>Aave_2590(udh) Score=5.3 Pos=-17 [Acidovorax avenae subsp. citrulli AAC00-1]
+GCGTTGTACGACAACAT
+>Ajs_1995(gguR) Score=5.3 Pos=-39 [Acidovorax sp. JS42]
+ATGTTGTCTGATAACGT
+>Ajs_1994(tctC1) Score=5.1 Pos=-51 [Acidovorax sp. JS42]
+ATGTTGTACGATGACGT
+>Ajs_1994(tctC1) Score=4.3 Pos=-44 [Acidovorax sp. JS42]
+ACGATGACGTATAACTT
+>Ajs_1996(gudD2) Score=5.3 Pos=-74 [Acidovorax sp. JS42]
+ACGTTATCAGACAACAT
+>CtesDRAFT_4119(gguR) Score=5.5 Pos=-38 [Comamonas testosteroni KF-1]
+ATGTTGTCGTACAACTG
+>CtesDRAFT_4118(gudD2) Score=5.5 Pos=-80 [Comamonas testosteroni KF-1]
+CAGTTGTACGACAACAT
+>CtesDRAFT_4120(tctC1) Score=4.4 Pos=-41 [Comamonas testosteroni KF-1]
+TAGTTGTATGATGACTG
+>Daci_0253(gguR) Score=5.6 Pos=-26 [Delftia acidovorans SPH-1]
+ACGTTGTCGTACAACTT
+>Daci_0252(tctC1) Score=5.3 Pos=-43 [Delftia acidovorans SPH-1]
+CAGTTGTACGACAACTG
+>Daci_0254(gudD2) Score=5.6 Pos=-73 [Delftia acidovorans SPH-1]
+AAGTTGTACGACAACGT
+>Lcho_2484(garD) Score=4.8 Pos=-210 [Leptothrix cholodnii SP-6]
+ACGTCATCGTATAACTT
+>Lcho_2484(garD) Score=5.7 Pos=-66 [Leptothrix cholodnii SP-6]
+ATGTTGTACGACAACAT
+>Lcho_1117(kdgD) Score=5.1 Pos=-65 [Leptothrix cholodnii SP-6]
+ATGTTGTACGATGACAT
+>Lcho_1117(kdgD) Score=4.4 Pos=-58 [Leptothrix cholodnii SP-6]
+ACGATGACATACAACAT
+>Lcho_1115(udh) Score=5.4 Pos=-95 [Leptothrix cholodnii SP-6]
+ACGTTGTACGACAACTG
+>Lcho_1116(gguR) Score=5.4 Pos=-73 [Leptothrix cholodnii SP-6]
+CAGTTGTCGTACAACGT
+>Lcho_2484(garD) Score=4.1 Pos=-217 [Leptothrix cholodnii SP-6]
+TTGTTGTACGTCATCGT
+>Mpe_A0972(tctC1) Score=4.1 Pos=-77 [Methylibium petroleiphilum PM1]
+ACGATGACGTACAACTA
+>Mpe_A0972(tctC1) Score=5.1 Pos=-84 [Methylibium petroleiphilum PM1]
+ATGTTGTACGATGACGT
+>Mpe_A0971(gguR) Score=4.9 Pos=-67 [Methylibium petroleiphilum PM1]
+CGGTTGTCATACAACTG
+>Pnap_1590(gguR) Score=4.7 Pos=-58 [Polaromonas naphthalenivorans CJ2]
+ACGTTGTCTGATGACTC
+>Pnap_1591(udh) Score=4.7 Pos=-98 [Polaromonas naphthalenivorans CJ2]
+GAGTCATCAGACAACGT
+>Bpro_3110(gguR) Score=4.6 Pos=-59 [Polaromonas sp. JS666]
+AGGTTGTCTGATGACTG
+>Bpro_3109(udh) Score=4.6 Pos=-97 [Polaromonas sp. JS666]
+CAGTCATCAGACAACCT
+>Vapar_1727(gguR) Score=5.1 Pos=-39 [Variovorax paradoxus S110]
+CTGTTGTCGTACAACTA
+>Vapar_1728(tctC1) Score=4.6 Pos=-44 [Variovorax paradoxus S110]
+TAGTTGTACGATGACTG
+>Vapar_1728(tctC1) Score=4.2 Pos=-37 [Variovorax paradoxus S110]
+ACGATGACTGACAACAC
+>Vapar_1726(udh) Score=5.1 Pos=-39 [Variovorax paradoxus S110]
+TAGTTGTACGACAACAG

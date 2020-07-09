@@ -1,0 +1,98 @@
+>Cagg_2469(fpr) Score=5.2 Pos=-56 [Chloroflexus aggregans DSM 9485]
+CTGTGCTGTATATCACAA
+>Cagg_0775(nuoM3) Score=4.9 Pos=-295 [Chloroflexus aggregans DSM 9485]
+ATGTGAGGTATGTCACAA
+>Cagg_0500(ndh) Score=5.3 Pos=-33 [Chloroflexus aggregans DSM 9485]
+TTGTGAACAATTTCACCA
+>Cagg_3394(acs) Score=5.3 Pos=-56 [Chloroflexus aggregans DSM 9485]
+TTGTTATATCTATCACAA
+>Cagg_2669(Cagg_2669) Score=5 Pos=-28 [Chloroflexus aggregans DSM 9485]
+TCGTGATGTTTGTCACGA
+>Cagg_2026(Cagg_2669) Score=4.7 Pos=-56 [Chloroflexus aggregans DSM 9485]
+AAGTGAATAATATCACTA
+>Cagg_2026(Cagg_2669) Score=4.5 Pos=-145 [Chloroflexus aggregans DSM 9485]
+GTGACACATATTTCACAA
+>Cagg_1949(Cagg_1949) Score=5.1 Pos=-68 [Chloroflexus aggregans DSM 9485]
+ATGTGGTATATTTCACAT
+>Cagg_0991(atpB) Score=4.3 Pos=-105 [Chloroflexus aggregans DSM 9485]
+TTGTGAAAGACTGAACAA
+>Cagg_1631(nuoA) Score=5.2 Pos=-55 [Chloroflexus aggregans DSM 9485]
+TTGTGATATACTTCTCAT
+>Cagg_0899(hepT) Score=5.4 Pos=-125 [Chloroflexus aggregans DSM 9485]
+TTGTGGCGAATATCACAA
+>Cagg_0157(rex) Score=4.7 Pos=-47 [Chloroflexus aggregans DSM 9485]
+TTGTGCTACACTTCACAT
+>Chy400_1671(fpr) Score=4.5 Pos=-61 [Chloroflexus sp. Y-400-fl]
+CTGTGCTGTAAATCACAA
+>Chy400_3880(nuoM3) Score=5.2 Pos=-250 [Chloroflexus sp. Y-400-fl]
+ACGTGATATTTATCACAA
+>Chy400_3620(ndh) Score=5.3 Pos=-33 [Chloroflexus sp. Y-400-fl]
+TTGTGAATGATTTCACTA
+>Chy400_0662(acs) Score=5.4 Pos=-54 [Chloroflexus sp. Y-400-fl]
+TTGTTATCTATATCACAA
+>Chy400_1583(Cagg_1949) Score=4.8 Pos=-63 [Chloroflexus sp. Y-400-fl]
+ATGTGGTATATTTCACAC
+>Chy400_3293(atpB) Score=4 Pos=-109 [Chloroflexus sp. Y-400-fl]
+TTGTGAAAGATCGAACAA
+>Chy400_4040(hepT) Score=5.7 Pos=-123 [Chloroflexus sp. Y-400-fl]
+TTGTGGTGAATATCACAA
+>Chy400_3940(rex) Score=4.7 Pos=-55 [Chloroflexus sp. Y-400-fl]
+TTGTGCTACACTTCACAT
+>Chy400_2142(nuoA) Score=5.2 Pos=-54 [Chloroflexus sp. Y-400-fl]
+TTGTGATATACTTCTCAT
+>Chy400_0034 Score=4.1 Pos=-34 [Chloroflexus sp. Y-400-fl]
+TCGTGAAAGAATCCACGA
+>Haur_4980(nuoA) Score=5.1 Pos=-117 [Herpetosiphon aurantiacus ATCC 23779]
+CTGTGATATACTTCGCAA
+>Haur_2345(hepT) Score=4.6 Pos=-44 [Herpetosiphon aurantiacus ATCC 23779]
+ACGCGATAACTTTCACAA
+>Haur_4427(rex) Score=4.3 Pos=-121 [Herpetosiphon aurantiacus ATCC 23779]
+TTGCACTATACTTCACAA
+>Haur_0429(pckA) Score=4.1 Pos=-117 [Herpetosiphon aurantiacus ATCC 23779]
+TTGTGAAGTTTTTCCTTA
+>Rcas_2846(pckA) Score=3.9 Pos=-42 [Roseiflexus castenholzii DSM 13941]
+TCGTGATGTGTTGCACGG
+>Rcas_2088(nuoA) Score=5 Pos=-64 [Roseiflexus castenholzii DSM 13941]
+TTGTGATATACTCAACAA
+>Rcas_4255(fpr) Score=3.9 Pos=-115 [Roseiflexus castenholzii DSM 13941]
+CTGTTCCTTTCATCACAA
+>Rcas_3898(Cagg_2669) Score=5.2 Pos=-53 [Roseiflexus castenholzii DSM 13941]
+TCGTGAAGCATATCACGA
+>Rcas_3898(Cagg_2669) Score=5.3 Pos=-79 [Roseiflexus castenholzii DSM 13941]
+TTGTGATTATTATTACAA
+>Rcas_3936(Cagg_1949) Score=4.3 Pos=-44 [Roseiflexus castenholzii DSM 13941]
+TTGTGCAAGATTTCACGG
+>Rcas_1271(atpB) Score=4.4 Pos=-36 [Roseiflexus castenholzii DSM 13941]
+TTGTGAAAGTGTTCTCAA
+>Rcas_2323(hepT) Score=5.8 Pos=-48 [Roseiflexus castenholzii DSM 13941]
+TTGTTATGTATTTCACAA
+>Rcas_1392(rex) Score=4.3 Pos=-109 [Roseiflexus castenholzii DSM 13941]
+TAGTGCTACACTTCACAT
+>Rcas_3744(bchY) Score=4.7 Pos=-69 [Roseiflexus castenholzii DSM 13941]
+TTGTGATGTTTGTCACCT
+>Rcas_3558(cyoA) Score=4.1 Pos=-127 [Roseiflexus castenholzii DSM 13941]
+TCGTGCAACTTTTCACGT
+>Rcas_4304(ctaB) Score=4.7 Pos=-113 [Roseiflexus castenholzii DSM 13941]
+TTGTGAAGTTTGACACAA
+>RoseRS_2263(cyoA) Score=4.1 Pos=-131 [Roseiflexus sp. RS-1]
+TCGTGCAACTTTTCACGT
+>RoseRS_3257(bchY) Score=4.5 Pos=-56 [Roseiflexus sp. RS-1]
+TTGTGAATGTTATCACCT
+>RoseRS_0005(fpr) Score=3.8 Pos=-106 [Roseiflexus sp. RS-1]
+CTGTTCCATCCATCACAA
+>RoseRS_0596(Cagg_2669) Score=5.1 Pos=-51 [Roseiflexus sp. RS-1]
+TCGTGAAGTGTATCACGA
+>RoseRS_0596(Cagg_2669) Score=5 Pos=-73 [Roseiflexus sp. RS-1]
+TTGTGATTATTATTGCAA
+>RoseRS_2002(Cagg_1949) Score=4.6 Pos=-40 [Roseiflexus sp. RS-1]
+TTGTGCAAGATTTCACGT
+>RoseRS_0518(atpB) Score=4.4 Pos=-44 [Roseiflexus sp. RS-1]
+TTGTGAAAGTGTTCTCAA
+>RoseRS_1698(hepT) Score=5.3 Pos=-48 [Roseiflexus sp. RS-1]
+TTGTTCAGTATTTCACAA
+>RoseRS_4103(rex) Score=4.3 Pos=-157 [Roseiflexus sp. RS-1]
+TAGTGCTACACTTCACAT
+>RoseRS_2496(pckA) Score=5.3 Pos=-42 [Roseiflexus sp. RS-1]
+TCGTGATGTGTTTCACGA
+>RoseRS_0224(ctaB) Score=4.7 Pos=-116 [Roseiflexus sp. RS-1]
+TTGTGAAGTTTGACACAA

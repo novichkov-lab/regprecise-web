@@ -1,0 +1,60 @@
+>PA5015(aceE) Score=6.2 Pos=-129 [Pseudomonas aeruginosa PAO1]
+CTGTAGTAAAACTACAA
+>PA5015(aceE) Score=5.7 Pos=-181 [Pseudomonas aeruginosa PAO1]
+ATGTAGTTTTACTACTA
+>PA5438(hexR1) Score=6.4 Pos=-45 [Pseudomonas aeruginosa PAO1]
+TTGTAGTATAACTACAA
+>PA5439(zwf) Score=6.4 Pos=-57 [Pseudomonas aeruginosa PAO1]
+TTGTAGTTATACTACAA
+>PA3185(aldE) Score=6 Pos=-67 [Pseudomonas aeruginosa PAO1]
+ATGTAGTAAAACTACAC
+>PSEEN5145(aceE) Score=6.2 Pos=-125 [Pseudomonas entomophila L48]
+TTGTAGTAAAACTACAC
+>PSEEN5145(aceE) Score=5.6 Pos=-177 [Pseudomonas entomophila L48]
+GTGTAGTTTTACTACTA
+>PSEEN5500(zwf) Score=6.3 Pos=-45 [Pseudomonas entomophila L48]
+TTGTAGTTATACTACAT
+>PSEEN5499(hexR1) Score=6.3 Pos=-60 [Pseudomonas entomophila L48]
+ATGTAGTATAACTACAA
+>PP0339(aceE) Score=5.7 Pos=-177 [Pseudomonas putida KT2440]
+ATGTAGTTTTACTACTA
+>PP0339(aceE) Score=6.3 Pos=-125 [Pseudomonas putida KT2440]
+ATGTAGTAAAACTACAA
+>PP5350(hexR1) Score=6.3 Pos=-60 [Pseudomonas putida KT2440]
+ATGTAGTATAACTACAA
+>PP5351(zwf) Score=6.3 Pos=-45 [Pseudomonas putida KT2440]
+TTGTAGTTATACTACAT
+>PSPTO5005(aceE) Score=6.2 Pos=-127 [Pseudomonas syringae pv. tomato str. DC3000]
+TTGTAGTAAAACTACAC
+>PSPTO5005(aceE) Score=5.4 Pos=-179 [Pseudomonas syringae pv. tomato str. DC3000]
+CTGTAGTTTTACTACTG
+>PSPTO5515(hexR1) Score=6.3 Pos=-61 [Pseudomonas syringae pv. tomato str. DC3000]
+ATGTAGTATAACTACAA
+>PFL_6160(hexR1) Score=6.2 Pos=-63 [Pseudomonas fluorescens Pf-5]
+CTGTAGTATAACTACAA
+>PFL_0509(aceE) Score=5.4 Pos=-178 [Pseudomonas fluorescens Pf-5]
+CTGTAGTTTTACTACTC
+>PFL_0509(aceE) Score=6.2 Pos=-126 [Pseudomonas fluorescens Pf-5]
+TTGTAGTAAAACTACAC
+>Pmen_0576(aceE) Score=6.3 Pos=-128 [Pseudomonas mendocina ymp]
+ATGTAGTAAAACTACAA
+>Pmen_0576(aceE) Score=5.8 Pos=-181 [Pseudomonas mendocina ymp]
+TTGTAGTTTTACTACTA
+>Pmen_4485(hexR1) Score=6.3 Pos=-105 [Pseudomonas mendocina ymp]
+ATGTAGTATAACTACAA
+>Pmen_4486(zwf) Score=6.3 Pos=-131 [Pseudomonas mendocina ymp]
+TTGTAGTTATACTACAT
+>PST_0183(hexR1) Score=5.6 Pos=-195 [Pseudomonas stutzeri A1501]
+TTGTAGTATAACTACCG
+>PST_0182(zwf) Score=5.6 Pos=-59 [Pseudomonas stutzeri A1501]
+CGGTAGTTATACTACAA
+>PST_3852(aceE) Score=5.6 Pos=-179 [Pseudomonas stutzeri A1501]
+CTGTAGTTTTACTACTA
+>PST_3852(aceE) Score=6.2 Pos=-128 [Pseudomonas stutzeri A1501]
+TTGTAGTAAAACTACAG
+>Avin_02030(hexR1) Score=6.1 Pos=-61 [Azotobacter vinelandii AvOP]
+ATGTAGTATAACTACAG
+>Avin_02020(zwf) Score=6.1 Pos=-43 [Azotobacter vinelandii AvOP]
+CTGTAGTTATACTACAT
+>Avin_44900(aceE) Score=6.4 Pos=-114 [Azotobacter vinelandii AvOP]
+TTGTAGTAAAACTACAA

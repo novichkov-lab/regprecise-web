@@ -1,0 +1,134 @@
+>BSU26830(zinT) Score=6.5 Pos=-42 [Bacillus subtilis subsp. subtilis str. 168]
+TAAATCGTAATGTTTTCGATTTA
+>BSU03360(yciC) Score=5.8 Pos=-37 [Bacillus subtilis subsp. subtilis str. 168]
+TAAATCGTAATCATTCTATTTTA
+>BSU08880(rpsN2) Score=6.6 Pos=-40 [Bacillus subtilis subsp. subtilis str. 168]
+TAAATCGTAACAATTTCGATTTA
+>BSU30700(rpmE2) Score=7 Pos=-39 [Bacillus subtilis subsp. subtilis str. 168]
+TAAAACGTAATTATTACGATTTA
+>BSU02850(adcA) Score=5.8 Pos=-52 [Bacillus subtilis subsp. subtilis str. 168]
+AAAATCGTTATCATTTTGATTTA
+>BSU02850(adcA) Score=5.6 Pos=-92 [Bacillus subtilis subsp. subtilis str. 168]
+CAAAACGTAATGACTTCGGTTTA
+>BSU03340(folE2) Score=6.7 Pos=-44 [Bacillus subtilis subsp. subtilis str. 168]
+TAAATAGTAATTATTACGATTTG
+>RBAM_003550(yciC) Score=5.7 Pos=-38 [Bacillus amyloliquefaciens FZB42]
+TAAATCGTAATCATTCTATTTTG
+>RBAM_003550(yciC) Score=6.6 Pos=-103 [Bacillus amyloliquefaciens FZB42]
+TAAATAGTAACGATTACGATTTA
+>RBAM_009150(rpsN2) Score=6.7 Pos=-37 [Bacillus amyloliquefaciens FZB42]
+CAAAACGTAATTATTACGATTTG
+>RBAM_022140(rpmGA1) Score=6.8 Pos=-40 [Bacillus amyloliquefaciens FZB42]
+TAAAACGTAATAATTACGATTTG
+>RBAM_027710(rpmE2) Score=6.8 Pos=-39 [Bacillus amyloliquefaciens FZB42]
+TAAAACGTAATTATTACGATTTG
+>RBAM_003110(adcA) Score=5.5 Pos=-42 [Bacillus amyloliquefaciens FZB42]
+GAAATCGTCATCATTCTGATTTA
+>RBAM_003110(adcA) Score=5.8 Pos=-105 [Bacillus amyloliquefaciens FZB42]
+CAAAACGTAATTACTTCGTTTTA
+>BPUM_2243(znuC) Score=5.4 Pos=-46 [Bacillus pumilus SAFR-032]
+TAAATCGTAATCATTCTTTTTAT
+>BPUM_3311(yciC) Score=6.6 Pos=-69 [Bacillus pumilus SAFR-032]
+CAAATCGTAATCATTACTTTTTA
+>BPUM_3310(rpmGA1) Score=6.5 Pos=-42 [Bacillus pumilus SAFR-032]
+CAAATCGTAACCATTACGAATTA
+>BPUM_2709(rpmE2) Score=6.5 Pos=-44 [Bacillus pumilus SAFR-032]
+TAAAGCGTAATGATTACGTTTTG
+>BPUM_2707(ytiB) Score=6.5 Pos=-151 [Bacillus pumilus SAFR-032]
+TGTATCGTAATAATTACGATTTG
+>BPUM_2707(ytiB) Score=6.1 Pos=-188 [Bacillus pumilus SAFR-032]
+TAGATAGAAATGATTACGATTTA
+>BLi03212(yciC) Score=6.2 Pos=-38 [Bacillus licheniformis DSM 13]
+CAAATCGAAACAATTACGTTTTA
+>BLi00765(yciC) Score=7 Pos=-46 [Bacillus licheniformis DSM 13]
+TAAATCGTAATAATTACGATTTG
+>BLi01970(sufE2) Score=6.8 Pos=-98 [Bacillus licheniformis DSM 13]
+TAAATCGTAATTATTATGATTTA
+>BLi00952(rpsN2) Score=6.7 Pos=-44 [Bacillus licheniformis DSM 13]
+TAAATCGTAATCATTACGCTTTG
+>BLi02553(rpmGA1) Score=6.6 Pos=-37 [Bacillus licheniformis DSM 13]
+TAAAGCGTAATGATTACGTTTTA
+>BLi03211(ytiB) Score=6.2 Pos=-111 [Bacillus licheniformis DSM 13]
+TAAAACGTAATTGTTTCGATTTG
+>BLi03214(rpmE2) Score=6.6 Pos=-39 [Bacillus licheniformis DSM 13]
+TAAAACGTAATTATTACGTTTTG
+>BLi01934 Score=5.9 Pos=-41 [Bacillus licheniformis DSM 13]
+CAAATCGGAATAATTCTGTTTTA
+>BLi01934 Score=6.7 Pos=-245 [Bacillus licheniformis DSM 13]
+CAAATCGTAATAATTACGTTTTG
+>BLi00762(folE2) Score=6 Pos=-44 [Bacillus licheniformis DSM 13]
+TAAATAGGAACTATTTCGATTTA
+>BLi00762(folE2) Score=5.9 Pos=-120 [Bacillus licheniformis DSM 13]
+CTAAACGAAATCATTTCGATTTA
+>Aflv_0867(znuC) Score=5.7 Pos=-36 [Anoxybacillus flavithermus WK1]
+TGAATCGGAATCATTTTGAATTA
+>Aflv_0397(yciC) Score=7 Pos=-40 [Anoxybacillus flavithermus WK1]
+TAAATCGTAATGATTACGTTTTA
+>Aflv_1438(rpmGA1) Score=6.3 Pos=-45 [Anoxybacillus flavithermus WK1]
+CAAAACGTAATGATTACTATTTT
+>GK2471(znuC) Score=5.8 Pos=-39 [Geobacillus kaustophilus HTA426]
+CAAATCGGAATGATTCTGAATTA
+>BC4279(znuC) Score=6 Pos=-39 [Bacillus cereus ATCC 14579]
+TAAATCGGAATCATTCTGAATTA
+>BC1705(yciC) Score=7 Pos=-39 [Bacillus cereus ATCC 14579]
+TAAAACGTAATCATTACGATTTA
+>BC1705(yciC) Score=6.9 Pos=-93 [Bacillus cereus ATCC 14579]
+TAAATCGTAATCATTATGATTTA
+>BC4339(rpmGA1) Score=7 Pos=-55 [Bacillus cereus ATCC 14579]
+TAAATCGTAATCATTACGTTTTA
+>BC1926 Score=6.7 Pos=-68 [Bacillus cereus ATCC 14579]
+TAAATCGTAATTATTACGCTTTG
+>BH1394(znuC) Score=5 Pos=-72 [Bacillus halodurans C-125]
+TAAATCGGAATGATTCTTAATAT
+>BH1790(yciC) Score=5.5 Pos=-54 [Bacillus halodurans C-125]
+CAAATCGTAATGATAACTTTTAT
+>BH1790(yciC) Score=6.7 Pos=-195 [Bacillus halodurans C-125]
+CAAAGCGTAATTATTACGATTTA
+>BH0366(BH0366) Score=6.6 Pos=-40 [Bacillus halodurans C-125]
+TAAATAGGAATTATTACGATTTA
+>BH0998(folE2) Score=6.2 Pos=-41 [Bacillus halodurans C-125]
+TAAATCGTAATTATTCTTATTTA
+>ABC1702(znuC) Score=5.1 Pos=-39 [Bacillus clausii KSM-K16]
+TAAATCGGAAGCATTCTGAATAA
+>ABC1118(zinT) Score=6.8 Pos=-54 [Bacillus clausii KSM-K16]
+CAAAACGTAATAATTACGATTTA
+>ABC4020(yciC) Score=6.9 Pos=-40 [Bacillus clausii KSM-K16]
+TAATTCGTAATCATTACGATTTA
+>ABC4019(rpsN2) Score=6.1 Pos=-45 [Bacillus clausii KSM-K16]
+TAAATCGTAATAATAATGATTTT
+>ABC1118(zinT) Score=6.8 Pos=-54 [Bacillus clausii KSM-K16]
+CAAAACGTAATAATTACGATTTA
+>ABC1119 Score=6.2 Pos=-85 [Bacillus clausii KSM-K16]
+TAAATCGTAATTGATACGATTTG
+>OB1278(zinT) Score=6 Pos=-41 [Oceanobacillus iheyensis HTE831]
+CGAATCGTAATCATTACGATTAC
+>OB1278(zinT) Score=6.2 Pos=-57 [Oceanobacillus iheyensis HTE831]
+TAAATCGTAACCATTACGAATCG
+>OB3429(yciC) Score=6.3 Pos=-82 [Oceanobacillus iheyensis HTE831]
+TTAATCGTAATGATTACGTTTTT
+>OB3432(rpsN2) Score=6 Pos=-247 [Oceanobacillus iheyensis HTE831]
+TTAATCGTAATCGTTACGATGTA
+>OB3433 Score=5 Pos=-55 [Oceanobacillus iheyensis HTE831]
+TTATTCGTAATGATTACGGATAT
+>OB3434(OB3434) Score=6.9 Pos=-40 [Oceanobacillus iheyensis HTE831]
+TAAATCGTAATGATTACGTTTTG
+>OB2396(znuC) Score=6 Pos=-297 [Oceanobacillus iheyensis HTE831]
+TAATTCGTAACGATTCCTATTTA
+>OB2396(znuC) Score=5.1 Pos=-274 [Oceanobacillus iheyensis HTE831]
+CATTTCATAATCATTACGCTATT
+>Pjdr2_3068(yciC) Score=5.1 Pos=-35 [Paenibacillus sp. JDR-2]
+TTAATAGTAATGATTACGGAAAA
+>Pjdr2_3065 Score=5.8 Pos=-67 [Paenibacillus sp. JDR-2]
+CTAATCGTAATAGTTACGAAATA
+>Pjdr2_3065 Score=5.2 Pos=-118 [Paenibacillus sp. JDR-2]
+TTATACGTAATTATTACGTTCAA
+>Pjdr2_3065 Score=5.6 Pos=-162 [Paenibacillus sp. JDR-2]
+TTAATCGTAATGTTGACGATTAA
+>Pjdr2_3068 Score=5.1 Pos=-35 [Paenibacillus sp. JDR-2]
+TTAATAGTAATGATTACGGAAAA
+>Pjdr2_3065(adcC) Score=5.8 Pos=-67 [Paenibacillus sp. JDR-2]
+CTAATCGTAATAGTTACGAAATA
+>Pjdr2_3065(adcC) Score=5.2 Pos=-118 [Paenibacillus sp. JDR-2]
+TTATACGTAATTATTACGTTCAA
+>Pjdr2_3065(adcC) Score=5.6 Pos=-162 [Paenibacillus sp. JDR-2]
+TTAATCGTAATGTTGACGATTAA

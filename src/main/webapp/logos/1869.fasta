@@ -1,0 +1,44 @@
+>PA5106(hutF) Score=5.4 Pos=-43 [Pseudomonas aeruginosa PAO1]
+GTATATGTATATACAAATAA
+>PA5100(hutU) Score=5.9 Pos=-121 [Pseudomonas aeruginosa PAO1]
+ATACTTGTATGTACAAGCAT
+>PA5105(hutC) Score=5.4 Pos=-77 [Pseudomonas aeruginosa PAO1]
+TTATTTGTATATACATATAC
+>PSEEN5097(hutU) Score=6.5 Pos=-84 [Pseudomonas entomophila L48]
+ATGCTTGTACATACAAGTAA
+>PSEEN3026(COG1457 (CodB)) Score=5.1 Pos=-101 [Pseudomonas entomophila L48]
+AGACTTGTATATACATGCTC
+>PSEEN5100(hutF) Score=5.2 Pos=-41 [Pseudomonas entomophila L48]
+GTATATGTATATACAAGTTG
+>PSEEN5099(hutC) Score=5.2 Pos=-88 [Pseudomonas entomophila L48]
+CAACTTGTATATACATATAC
+>PP5036(hutF) Score=5.4 Pos=-40 [Pseudomonas putida KT2440]
+GTATATGTATATACAAGTTA
+>PP5033(hutU) Score=6.5 Pos=-82 [Pseudomonas putida KT2440]
+ATGCTTGTACATACAAGTAA
+>PP5035(hutC) Score=5.5 Pos=-88 [Pseudomonas putida KT2440]
+TAACTTGTATATACATATAC
+>PSPTO5171(hutF) Score=5 Pos=-41 [Pseudomonas syringae pv. tomato str. DC3000]
+GTATATGTATATACAAATTA
+>PSPTO5270(hutU) Score=4.6 Pos=-10 [Pseudomonas syringae pv. tomato str. DC3000]
+TTGATTGCATATGCTTGTAT
+>PSPTO5270(hutU) Score=5.9 Pos=0 [Pseudomonas syringae pv. tomato str. DC3000]
+ATGCTTGTATGTACAAGTAG
+>PSPTO5172(hutC) Score=5.3 Pos=-142 [Pseudomonas syringae pv. tomato str. DC3000]
+TAATTTGTATATACATATAC
+>PFL_0398(hutF) Score=5.4 Pos=-42 [Pseudomonas fluorescens Pf-5]
+GTATATGTATATACAAATAA
+>PFL_0401(hutU) Score=6.1 Pos=-86 [Pseudomonas fluorescens Pf-5]
+ATGCTTGTATGTACAAGTAA
+>PFL_0401(hutU) Score=4.6 Pos=-96 [Pseudomonas fluorescens Pf-5]
+TTGATTGCATATGCTTGTAT
+>PFL_0399(hutC) Score=5.4 Pos=-85 [Pseudomonas fluorescens Pf-5]
+TTATTTGTATATACATATAC
+>Pmen_4074(hutD) Score=4.6 Pos=-212 [Pseudomonas mendocina ymp]
+TGTTTTGTATATACAATATG
+>Pmen_4074(hutD) Score=4.2 Pos=-27 [Pseudomonas mendocina ymp]
+GACCATGTATATACATTTGG
+>Pmen_4073(hutI) Score=3.8 Pos=-220 [Pseudomonas mendocina ymp]
+CCAAATGTATATACATGGTC
+>Pmen_4073(hutI) Score=4.4 Pos=-35 [Pseudomonas mendocina ymp]
+CATATTGTATATACAAAACA

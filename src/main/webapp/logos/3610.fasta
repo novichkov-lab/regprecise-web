@@ -1,0 +1,96 @@
+>LACR_0956(pipR) Score=5.3 Pos=-146 [Lactococcus lactis subsp. cremoris SK11]
+TATGGACACAACGTCCAAA
+>L103086(pipR) Score=5.2 Pos=-148 [Lactococcus lactis subsp. lactis Il1403]
+TATGGACAATACGTCCAAA
+>L103741(pip) Score=5.2 Pos=-34 [Lactococcus lactis subsp. lactis Il1403]
+TTTGGACGTATTGTCCATA
+>L103741(pip) Score=4.4 Pos=-113 [Lactococcus lactis subsp. lactis Il1403]
+ATTTAAAAATCTGTCCAAA
+>SAG2134(pip) Score=5.4 Pos=-31 [Streptococcus agalactiae 2603V/R]
+AATGAACAATATGTCCAAA
+>SAG2134(pip) Score=5.9 Pos=-108 [Streptococcus agalactiae 2603V/R]
+TTTAAACACAGTGTCCAAA
+>SAG2135(pipR) Score=5.4 Pos=-126 [Streptococcus agalactiae 2603V/R]
+TTTGGACATATTGTTCATT
+>SAG2135(pipR) Score=5.9 Pos=-49 [Streptococcus agalactiae 2603V/R]
+TTTGGACACTGTGTTTAAA
+>SDEG_2116(pipR) Score=6.2 Pos=-43 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTTGGACATTATGTCTAAA
+>SDEG_2115(pip) Score=6.2 Pos=-89 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTTAGACATAATGTCCAAA
+>Sez_1916(pip) Score=5.4 Pos=-32 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTTGAACAGTATGTCTATT
+>Sez_1917(pipR) Score=5.4 Pos=-49 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AATAGACATACTGTTCAAA
+>GALLO_2231(pipR) Score=5.9 Pos=-119 [Streptococcus gallolyticus UCN34]
+TTTGGACACAGTGTTCAAA
+>GALLO_2231(pipR) Score=6 Pos=-40 [Streptococcus gallolyticus UCN34]
+TTTGGACACTCTGTCTAAA
+>GALLO_2230(pip) Score=6 Pos=-110 [Streptococcus gallolyticus UCN34]
+TTTAGACAGAGTGTCCAAA
+>GALLO_2230(pip) Score=5.9 Pos=-31 [Streptococcus gallolyticus UCN34]
+TTTGAACACTGTGTCCAAA
+>SGO_0090(pipR) Score=5.4 Pos=-41 [Streptococcus gordonii str. Challis substr. CH1]
+ATTGGACATACTGTGCAAA
+>SGO_0090(pipR) Score=5.8 Pos=-118 [Streptococcus gordonii str. Challis substr. CH1]
+ATTATACATAATGTCTAAA
+>SGO_0091(pip) Score=5.4 Pos=-111 [Streptococcus gordonii str. Challis substr. CH1]
+TTTGCACAGTATGTCCAAT
+>SGO_0091(pip) Score=5.8 Pos=-34 [Streptococcus gordonii str. Challis substr. CH1]
+TTTAGACATTATGTATAAT
+>smi_2080(pipR) Score=5.5 Pos=-38 [Streptococcus mitis B6]
+TTTAGACATATGGTCTAAT
+>smi_2080(pipR) Score=5.9 Pos=-115 [Streptococcus mitis B6]
+TTTAAACATATTGTCTAAA
+>smi_2079(pip) Score=5.5 Pos=-108 [Streptococcus mitis B6]
+ATTAGACCATATGTCTAAA
+>smi_2079(pip) Score=5.9 Pos=-31 [Streptococcus mitis B6]
+TTTAGACAATATGTTTAAA
+>SMU.2134(pipR) Score=5.9 Pos=-119 [Streptococcus mutans UA159]
+TTTATACATTCTGTCTAAA
+>SMU.2134(pipR) Score=5.8 Pos=-42 [Streptococcus mutans UA159]
+TTTAGACACTGTGTATAAT
+>SMU.2133c(pip) Score=5.9 Pos=-31 [Streptococcus mutans UA159]
+TTTAGACAGAATGTATAAA
+>SMU.2133c(pip) Score=5.8 Pos=-108 [Streptococcus mutans UA159]
+ATTATACACAGTGTCTAAA
+>SP_2234(pipR) Score=5.5 Pos=-38 [Streptococcus pneumoniae TIGR4]
+TTTAGACATATAGTCTAAT
+>SP_2234(pipR) Score=5.9 Pos=-115 [Streptococcus pneumoniae TIGR4]
+TTTAAACATATTGTCTAAA
+>SP_2233(pip) Score=5.5 Pos=-159 [Streptococcus pneumoniae TIGR4]
+ATTAGACTATATGTCTAAA
+>SP_2233(pip) Score=5.9 Pos=-82 [Streptococcus pneumoniae TIGR4]
+TTTAGACAATATGTTTAAA
+>SPy2177(pipR) Score=6.2 Pos=-43 [Streptococcus pyogenes M1 GAS]
+TTTGGACATTATGTCTAAA
+>SPy2177(pipR) Score=5.4 Pos=-122 [Streptococcus pyogenes M1 GAS]
+AATGGACATACTGTTCAAA
+>SPy2176(pip) Score=5.4 Pos=-31 [Streptococcus pyogenes M1 GAS]
+TTTGAACAGTATGTCCATT
+>SPy2176(pip) Score=6.2 Pos=-110 [Streptococcus pyogenes M1 GAS]
+TTTAGACATAATGTCCAAA
+>SSA_2343(pip) Score=4.9 Pos=-110 [Streptococcus sanguinis SK36]
+ATTAGACACGGTGTCCAGT
+>SSA_2343(pip) Score=5.7 Pos=-33 [Streptococcus sanguinis SK36]
+TTTGGACACTGTGTATAAT
+>SSU05_0260(pipR) Score=6.2 Pos=-39 [Streptococcus suis 05ZYH33]
+TTTAGACACTGTGTCTAAA
+>SSU05_0261(pip) Score=6.2 Pos=-60 [Streptococcus suis 05ZYH33]
+TTTAGACACAGTGTCTAAA
+>str1993(pip) Score=5.3 Pos=-107 [Streptococcus thermophilus CNRZ1066]
+TTTATATAATGTGTCCAAA
+>str1993(pip) Score=5.2 Pos=-29 [Streptococcus thermophilus CNRZ1066]
+AATATACACGATGTCTAAA
+>str1995(pipR) Score=5.2 Pos=-118 [Streptococcus thermophilus CNRZ1066]
+TTTAGACATCGTGTATATT
+>str1995(pipR) Score=5.3 Pos=-40 [Streptococcus thermophilus CNRZ1066]
+TTTGGACACATTATATAAA
+>SUB1815(pip) Score=5.9 Pos=-111 [Streptococcus uberis 0140J]
+ATTAGACAATGTGTCTAAA
+>SUB1815(pip) Score=4.8 Pos=-32 [Streptococcus uberis 0140J]
+TTTATAAAGAATGTCCATT
+>SUB1816(pipR) Score=4.8 Pos=-117 [Streptococcus uberis 0140J]
+AATGGACATTCTTTATAAA
+>SUB1816(pipR) Score=5.9 Pos=-38 [Streptococcus uberis 0140J]
+TTTAGACACATTGTCTAAT

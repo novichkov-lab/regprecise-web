@@ -1,0 +1,48 @@
+>CORAM0001_1898(bioA) Score=4.7 Pos=-50 [Corynebacterium amycolatum SK46]
+CCCGAACGTCGTTCAAG
+>CORAM0001_0217(bioWF) Score=5.5 Pos=-47 [Corynebacterium amycolatum SK46]
+CTTGAACAGTGTTAAAG
+>CORAM0001_0836(bioY) Score=5 Pos=-30 [Corynebacterium amycolatum SK46]
+CCTGAACAGTGCTCAAC
+>cauri_0069(bioB) Score=6 Pos=-30 [Corynebacterium aurimucosum ATCC 700975]
+CTTGAACGGTGTTCAAG
+>cauri_1503(bioY) Score=5.6 Pos=3 [Corynebacterium aurimucosum ATCC 700975]
+CTTGAACAGTGTTCAAA
+>DIP1191(bioA) Score=6 Pos=-103 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAACGCTGTTCAAT
+>DIP1191(bioA) Score=5.6 Pos=-26 [Corynebacterium diphtheriae NCTC 13129]
+ATTAAACGGTGTTCAAT
+>DIP1381(bioW) Score=5.4 Pos=-20 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAACACTGTTTAAC
+>DIP1124(bioB) Score=5.4 Pos=-24 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAAAGGTGTTCAAT
+>DIP0105(bioB) Score=5.6 Pos=-15 [Corynebacterium diphtheriae NCTC 13129]
+ATTAAACACCGTTCAAT
+>CE1851(bioY) Score=5.6 Pos=2 [Corynebacterium efficiens YS-314]
+GTTGAACGGTGTTCAGT
+>CE1421(bioA) Score=5.7 Pos=-303 [Corynebacterium efficiens YS-314]
+GTTGAACGGTGTTCAAT
+>CE1421(bioA) Score=6.1 Pos=-224 [Corynebacterium efficiens YS-314]
+ATTGAACACTGTTCAAT
+>CE1851(bioY) Score=4.6 Pos=-30 [Corynebacterium efficiens YS-314]
+GTTTAACACCGTTCAAA
+>CE0089(bioB) Score=6.1 Pos=-38 [Corynebacterium efficiens YS-314]
+ATTGAACACTGTTCAAT
+>cg2147(bioY) Score=5 Pos=-63 [Corynebacterium glutamicum ATCC 13032]
+CATGAACGCTGTTCAAA
+>cg2147(bioY) Score=5.6 Pos=-31 [Corynebacterium glutamicum ATCC 13032]
+GTTGAACACTGTTCAGG
+>cg2885(bioA) Score=6.1 Pos=-65 [Corynebacterium glutamicum ATCC 13032]
+ATTGAACACTGTTCAAT
+>cg0095(bioB) Score=5.1 Pos=-156 [Corynebacterium glutamicum ATCC 13032]
+TTTGAACAGTGTTCAAA
+>cg0095(bioB) Score=6.1 Pos=-135 [Corynebacterium glutamicum ATCC 13032]
+CTTGAACACTGTTCAAG
+>jk1118(bioY) Score=6.1 Pos=-39 [Corynebacterium jeikeium K411]
+ATTGAACAGTGTTCAAG
+>jk0682(bioB) Score=5.4 Pos=-76 [Corynebacterium jeikeium K411]
+ACTAAACAGCGTTCAAG
+>ckrop_0861(bioA) Score=5.8 Pos=-29 [Corynebacterium kroppenstedtii DSM 44385]
+ACTGAACACTGTTCAGT
+>ckrop_0784(bioB) Score=6 Pos=-87 [Corynebacterium kroppenstedtii DSM 44385]
+ATTGAACAGTGTTCAGG

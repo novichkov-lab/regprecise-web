@@ -1,0 +1,58 @@
+>Gmet_2854(rpoH) Score=7.3 Pos=-64 [Geobacter metallireducens GS-15]
+TTAGCACTCAGACAAACCGAGTGCTAA
+>Gmet_0028(groS) Score=7.4 Pos=-81 [Geobacter metallireducens GS-15]
+TTAGCACTCAGCTGTATCGAGTGCTAA
+>Gmet_3534(hrcA) Score=7.4 Pos=-46 [Geobacter metallireducens GS-15]
+TTAGCACTCACCAACTCTGAGTGCTAA
+>GSU0655(rpoH) Score=7.4 Pos=-52 [Geobacter sulfurreducens PCA]
+TTAGCACTCAGACGTACCGAGTGCTAA
+>GSU3339(groS) Score=7.4 Pos=-80 [Geobacter sulfurreducens PCA]
+TTAGCACTCAGTCGTATCGAGTGCTAA
+>GSU0031(hrcA) Score=7.4 Pos=-48 [Geobacter sulfurreducens PCA]
+TTAGCACTCACGTCCCTTGAGTGCTAA
+>Gura_3950(rpoH) Score=6.8 Pos=-92 [Geobacter uraniumreducens Rf4]
+TTAGCACTCTTAACTTGAGAGTGCCAA
+>Gura_4306(groS) Score=7.2 Pos=-85 [Geobacter uraniumreducens Rf4]
+TTAGCACTCGGCAGCTTGGAGTGCTAA
+>Gura_0209(hrcA) Score=7.4 Pos=-47 [Geobacter uraniumreducens Rf4]
+TTAGCACTCGAATTCCTTGAGTGCTAA
+>Geob_0795(rpoH) Score=7.2 Pos=-58 [Geobacter sp. FRC-32]
+TTAGCACTCGATTCTGAAGAGTGCTAA
+>Geob_1105(hrcA) Score=7.5 Pos=-49 [Geobacter sp. FRC-32]
+TTAGCACTCAAATTCTTTGAGTGCTAA
+>Geob_0399(groS) Score=7 Pos=-81 [Geobacter sp. FRC-32]
+TTAGCACTCAGCTACAAGGAGTGCTAA
+>GM21_0586(rpoH) Score=6.8 Pos=-69 [Geobacter sp. M21]
+TTAGCGCTCACATGGGCAGAGTGCTAA
+>GM21_0232(groS) Score=7.6 Pos=-78 [Geobacter sp. M21]
+TTAGCACTCAGCAGTTTTGAGTGCTAA
+>GM21_3576(hrcA) Score=7.4 Pos=-47 [Geobacter sp. M21]
+TTAGCACTCGAACTTTTTGAGTGCTAA
+>Glov_0181(rpoH) Score=7.1 Pos=-56 [Geobacter lovleyi SZ]
+TTAGCAGTCAGCACCATAGAGTGCTAA
+>Glov_1330(rpoH) Score=6.9 Pos=-51 [Geobacter lovleyi SZ]
+TTAGCAGTCTTGTGTGTCGAGTGCTAA
+>Glov_2928(groS) Score=6.9 Pos=-79 [Geobacter lovleyi SZ]
+TTAGCACTCACCGCTTTAGAGTGCTAG
+>Glov_2831(hrcA) Score=7.4 Pos=-79 [Geobacter lovleyi SZ]
+TTAGCACTCAAGTTTATAGAGTGCTAA
+>Ppro_0114(rpoH) Score=6.9 Pos=-56 [Pelobacter propionicus DSM 2379]
+TTAGCAGTCACCGCACGAGAGTGCTAA
+>Ppro_0664(rpoH) Score=6.6 Pos=-63 [Pelobacter propionicus DSM 2379]
+TTGGCAGTCGGACGGCTTGAGTGCTAA
+>Ppro_2803(groS) Score=7.3 Pos=-77 [Pelobacter propionicus DSM 2379]
+TTAGCACTCGGTCATCGTGAGTGCTAA
+>Ppro_1406(hrcA) Score=6.8 Pos=-44 [Pelobacter propionicus DSM 2379]
+TTAGCACTCTCCAGTCATGAGTGCTAT
+>Pcar_0109(hrcA) Score=7.4 Pos=-42 [Pelobacter carbinolicus str. DSM 2380]
+TTAGCACTCAATAAGCTAGAGTGCTAA
+>Pcar_2382(rpoH) Score=7.1 Pos=-59 [Pelobacter carbinolicus str. DSM 2380]
+TTAGCACTCGCCATCAACGAGTGCTAA
+>Pcar_2771(groS) Score=7.2 Pos=-159 [Pelobacter carbinolicus str. DSM 2380]
+TTAGCACTCATGTAAACCGAGTGCTAA
+>Dace_0267(hrcA) Score=7.2 Pos=-86 [Desulfuromonas acetoxidans DSM 684]
+TTAGCACTCCGGATGTTTGAGTGCTAA
+>Dace_1569(rpoH) Score=7.3 Pos=-63 [Desulfuromonas acetoxidans DSM 684]
+TTAGCACTCAAGGCAAGAGAGTGCTAA
+>Dace_1149(groS) Score=7.2 Pos=-105 [Desulfuromonas acetoxidans DSM 684]
+TTAGCACTCCCTTTTGCTGAGTGCTAA

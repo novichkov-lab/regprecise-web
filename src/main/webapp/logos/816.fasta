@@ -1,0 +1,172 @@
+>Lxx20890(bioQ) Score=5.2 Pos=-43 [Leifsonia xyli subsp. xyli str. CTCB07]
+ACTGAACGGTGTTCACC
+>Lxx20890(bioQ) Score=5.5 Pos=-28 [Leifsonia xyli subsp. xyli str. CTCB07]
+CCTGAACAGCGTTCACT
+>Lxx20880(bioY) Score=5.5 Pos=-44 [Leifsonia xyli subsp. xyli str. CTCB07]
+AGTGAACGCTGTTCAGG
+>Lxx20880(bioY) Score=5.2 Pos=-29 [Leifsonia xyli subsp. xyli str. CTCB07]
+GGTGAACACCGTTCAGT
+>KRH_02440(bioB) Score=5.9 Pos=-26 [Kocuria rhizophila DC2201]
+CCTGAACACCGTTCAAT
+>KRH_02440(bioB) Score=5.6 Pos=-8 [Kocuria rhizophila DC2201]
+ATTGAACAATGTTCAAG
+>KRH_02430(bioQ) Score=5.6 Pos=-271 [Kocuria rhizophila DC2201]
+CTTGAACATTGTTCAAT
+>KRH_02430(bioQ) Score=5.9 Pos=-253 [Kocuria rhizophila DC2201]
+ATTGAACGGTGTTCAGG
+>BlinB01003681(bioB) Score=6 Pos=-23 [Brevibacterium linens BL2]
+CCTGAACAGTGTTCAAT
+>BlinB01003562(bioB2) Score=6 Pos=-68 [Brevibacterium linens BL2]
+ATTGAACACTGTTCAGG
+>BlinB01002267(bioY) Score=5.8 Pos=-21 [Brevibacterium linens BL2]
+CCTGAACAGTGTTCAGT
+>CMM_1624(bioQ) Score=4.7 Pos=-47 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+CCTGAACGATGTTCACC
+>CMM_1624(bioQ) Score=5.4 Pos=-32 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+CCTGAACGGCGTTCACT
+>CMM_1625(bioY) Score=5.4 Pos=-65 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+AGTGAACGCCGTTCAGG
+>CMM_1625(bioY) Score=4.7 Pos=-50 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+GGTGAACATCGTTCAGG
+>Mvan_2793(bioB) Score=5.9 Pos=-62 [Mycobacterium vanbaalenii PYR-1]
+CCTGAACGGTGTTCAAT
+>Mvan_2789(bioF) Score=5.4 Pos=-109 [Mycobacterium vanbaalenii PYR-1]
+CCTGAACGGTGTTTAAT
+>Mvan_2792(bioQ) Score=5.9 Pos=-30 [Mycobacterium vanbaalenii PYR-1]
+ATTGAACACCGTTCAGG
+>ROP_07700(bioB) Score=5.3 Pos=-88 [Rhodococcus opacus B4]
+CGTGAACACCGTTCAAC
+>ROP_07700(bioB) Score=5.4 Pos=-72 [Rhodococcus opacus B4]
+CTTGTACGGTGTTCAAT
+>ROP_07830(bioA) Score=5.7 Pos=-41 [Rhodococcus opacus B4]
+CTTGAACGGTGTTCAAC
+>ROP_07820(bioF) Score=5.7 Pos=-24 [Rhodococcus opacus B4]
+GTTGAACACCGTTCAAG
+>ROP_07710(bioQ) Score=5.4 Pos=-99 [Rhodococcus opacus B4]
+ATTGAACACCGTACAAG
+>ROP_07710(bioQ) Score=5.3 Pos=-83 [Rhodococcus opacus B4]
+GTTGAACGGTGTTCACG
+>ROP_52960(bioY) Score=5.4 Pos=-38 [Rhodococcus opacus B4]
+CTTGAACGTCGTTCAAG
+>ROP_53000(bioY) Score=5.4 Pos=-38 [Rhodococcus opacus B4]
+CTTGAACGTCGTTCAAG
+>RER_34880(bioB) Score=5.3 Pos=-58 [Rhodococcus erythropolis PR4]
+CGTGAACACCGTTCAAC
+>RER_34880(bioB) Score=5.4 Pos=-42 [Rhodococcus erythropolis PR4]
+CTTGTACGGTGTTCAAT
+>RER_35050(bioA) Score=5.7 Pos=-37 [Rhodococcus erythropolis PR4]
+CTTGAACACCGTTCAAC
+>RER_35040(bioF) Score=5.7 Pos=-18 [Rhodococcus erythropolis PR4]
+GTTGAACGGTGTTCAAG
+>RER_34890(bioQ) Score=5.4 Pos=-124 [Rhodococcus erythropolis PR4]
+ATTGAACACCGTACAAG
+>RER_34890(bioQ) Score=5.3 Pos=-108 [Rhodococcus erythropolis PR4]
+GTTGAACGGTGTTCACG
+>ckrop_0784(bioB) Score=6 Pos=-87 [Corynebacterium kroppenstedtii DSM 44385]
+ATTGAACAGTGTTCAGG
+>ckrop_0861(bioA) Score=5.8 Pos=-29 [Corynebacterium kroppenstedtii DSM 44385]
+ACTGAACACTGTTCAGT
+>jk0682(bioB) Score=5.4 Pos=-76 [Corynebacterium jeikeium K411]
+ACTAAACAGCGTTCAAG
+>jk1118(bioY) Score=6.1 Pos=-39 [Corynebacterium jeikeium K411]
+ATTGAACAGTGTTCAAG
+>cauri_0069(bioB) Score=6 Pos=-30 [Corynebacterium aurimucosum ATCC 700975]
+CTTGAACGGTGTTCAAG
+>cauri_1503(bioY) Score=5.6 Pos=3 [Corynebacterium aurimucosum ATCC 700975]
+CTTGAACAGTGTTCAAA
+>CORAM0001_1066(bioB) Score=4.6 Pos=-107 [Corynebacterium amycolatum SK46]
+ATTGAACCCTGTTCGAC
+>CORAM0001_1898(bioA) Score=4.7 Pos=-50 [Corynebacterium amycolatum SK46]
+CCCGAACGTCGTTCAAG
+>CORAM0001_0217(bioWF) Score=5.5 Pos=-47 [Corynebacterium amycolatum SK46]
+CTTGAACAGTGTTAAAG
+>CORAM0001_0836(bioY) Score=5 Pos=-30 [Corynebacterium amycolatum SK46]
+CCTGAACAGTGCTCAAC
+>Mjls_3090(bioB) Score=5.9 Pos=-110 [Mycobacterium sp. JLS]
+CCTGAACGGTGTTCAAT
+>Mjls_3094(bioF) Score=5.9 Pos=-43 [Mycobacterium sp. JLS]
+CCTGAACGGTGTTCAAT
+>Mjls_3091(bioQ) Score=5.9 Pos=-30 [Mycobacterium sp. JLS]
+ATTGAACACCGTTCAGG
+>PPA1407(bioB) Score=5 Pos=9 [Propionibacterium acnes KPA171202]
+ATTGAATCCCGTTCAAT
+>PPA1407(bioB) Score=5.6 Pos=26 [Propionibacterium acnes KPA171202]
+CCTGAACGGCGTTCAGG
+>PPA0967(bioA) Score=6 Pos=-121 [Propionibacterium acnes KPA171202]
+CCTGAACACTGTTCAAG
+>PPA1866(bioWF) Score=5.5 Pos=-50 [Propionibacterium acnes KPA171202]
+ATTGAATGGTGTTCAAT
+>PPA1406(bioQ) Score=5.6 Pos=-55 [Propionibacterium acnes KPA171202]
+CCTGAACGCCGTTCAGG
+>PPA1406(bioQ) Score=5 Pos=-38 [Propionibacterium acnes KPA171202]
+ATTGAACGGGATTCAAT
+>PPA1400(bioY) Score=5.9 Pos=-75 [Propionibacterium acnes KPA171202]
+ACTGAACGGTGTTCAAT
+>cg0095(bioB) Score=5.1 Pos=-156 [Corynebacterium glutamicum ATCC 13032]
+TTTGAACAGTGTTCAAA
+>cg0095(bioB) Score=6.1 Pos=-135 [Corynebacterium glutamicum ATCC 13032]
+CTTGAACACTGTTCAAG
+>cg2885(bioA) Score=6.1 Pos=-65 [Corynebacterium glutamicum ATCC 13032]
+ATTGAACACTGTTCAAT
+>cg2147(bioY) Score=5 Pos=-63 [Corynebacterium glutamicum ATCC 13032]
+CATGAACGCTGTTCAAA
+>cg2147(bioY) Score=5.6 Pos=-31 [Corynebacterium glutamicum ATCC 13032]
+GTTGAACACTGTTCAGG
+>DIP1124(bioB) Score=5.4 Pos=-24 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAAAGGTGTTCAAT
+>DIP1124(bioB) Score=5.4 Pos=11 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAACACAGTTCAGG
+>DIP0105(bioB2) Score=5.6 Pos=-15 [Corynebacterium diphtheriae NCTC 13129]
+ATTAAACACCGTTCAAT
+>DIP1191(bioA) Score=6 Pos=-103 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAACGCTGTTCAAT
+>DIP1191(bioA) Score=5.6 Pos=-26 [Corynebacterium diphtheriae NCTC 13129]
+ATTAAACGGTGTTCAAT
+>DIP1381(bioW) Score=5.4 Pos=-20 [Corynebacterium diphtheriae NCTC 13129]
+ATTGAACACTGTTTAAC
+>MSMEG_3194(bioB) Score=5.9 Pos=-52 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACACCGTTCAAG
+>MSMEG_3194(bioB) Score=5.4 Pos=-32 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACACCGTTCAGC
+>MSMEG_3189(bioF) Score=5.9 Pos=-133 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACGGTGTTCAAT
+>MSMEG_3193(bioQ) Score=5.4 Pos=-50 [Mycobacterium smegmatis str. MC2 155]
+GCTGAACGGTGTTCAGG
+>MSMEG_3193(bioQ) Score=5.9 Pos=-30 [Mycobacterium smegmatis str. MC2 155]
+CTTGAACGGTGTTCAGG
+>nfa18320(bioB) Score=5.9 Pos=-85 [Nocardia farcinica IFM 10152]
+CCTGAACACCGTTCAAG
+>nfa18180(bioA) Score=6.1 Pos=-60 [Nocardia farcinica IFM 10152]
+CTTGAACACTGTTCAAG
+>nfa18190(bioF) Score=5.9 Pos=-31 [Nocardia farcinica IFM 10152]
+CCTGAACGGTGTTCAAG
+>nfa18310(bioQ) Score=5.9 Pos=-65 [Nocardia farcinica IFM 10152]
+CTTGAACGGTGTTCAGG
+>CE0089(bioB) Score=6.1 Pos=-38 [Corynebacterium efficiens YS-314]
+ATTGAACACTGTTCAAT
+>CE1421(bioA) Score=5.7 Pos=-303 [Corynebacterium efficiens YS-314]
+GTTGAACGGTGTTCAAT
+>CE1421(bioA) Score=6.1 Pos=-224 [Corynebacterium efficiens YS-314]
+ATTGAACACTGTTCAAT
+>CE1851(bioY) Score=4.6 Pos=-30 [Corynebacterium efficiens YS-314]
+GTTTAACACCGTTCAAA
+>CE1851(bioY) Score=5.6 Pos=2 [Corynebacterium efficiens YS-314]
+GTTGAACGGTGTTCAGT
+>Noca_3415(bioB) Score=5.2 Pos=-96 [Nocardioides sp. JS614]
+CCTGAACGCTGTTCACC
+>Noca_3415(bioB) Score=5.2 Pos=-81 [Nocardioides sp. JS614]
+CCTGAACGCTGTTCACC
+>Noca_3415(bioB) Score=5.2 Pos=-66 [Nocardioides sp. JS614]
+CCTGAACGCTGTTCACC
+>Noca_3415(bioB) Score=5.2 Pos=-51 [Nocardioides sp. JS614]
+CCTGAACGCTGTTCACC
+>Noca_3415(bioB) Score=5.7 Pos=-36 [Nocardioides sp. JS614]
+CCTGAACGCTGTTCAGG
+>Noca_3348(bioQ) Score=5.1 Pos=-95 [Nocardioides sp. JS614]
+CCTGAACGGTGGTCAGG
+>Noca_3348(bioQ) Score=5.2 Pos=-80 [Nocardioides sp. JS614]
+GGTGAACGGTGTTCAGG
+>Noca_3349(bioY) Score=5.2 Pos=-54 [Nocardioides sp. JS614]
+CCTGAACACCGTTCACC
+>Noca_3349(bioY) Score=5.1 Pos=-39 [Nocardioides sp. JS614]
+CCTGACCACCGTTCAGG

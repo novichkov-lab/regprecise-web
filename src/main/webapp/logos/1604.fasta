@@ -1,0 +1,52 @@
+>HCH_05372(COG1040) Score=8.1 Pos=30 [Hahella chejuensis KCTC 2396]
+CTGTCAACC--------------GGTTAACAG
+>HCH_05371(bioB) Score=8.1 Pos=-164 [Hahella chejuensis KCTC 2396]
+CTGTTAACC--------------GGTTGACAG
+>Maqu_2757(COG1040) Score=8.1 Pos=21 [Marinobacter aqueolei]
+CTGTCAACC--------------GGTTAACAG
+>Maqu_2757(COG1040) Score=7.5 Pos=-42 [Marinobacter aqueolei]
+CTGTTAACC--------------GGTTTACGG
+>Maqu_2756(bioB) Score=7.5 Pos=-41 [Marinobacter aqueolei]
+CCGTAAACC--------------GGTTAACAG
+>Maqu_2756(bioB) Score=8.1 Pos=-104 [Marinobacter aqueolei]
+CTGTTAACC--------------GGTTGACAG
+>MELB17_04752(bioA) Score=7 Pos=-78 [Marinobacter sp. ELB17]
+CTGTTAACT--------------GGTTAACAG
+>MELB17_06979(bioB) Score=7.5 Pos=-40 [Marinobacter sp. ELB17]
+CCGTAAACC--------------GGTTAACAG
+>MELB17_06979(bioB) Score=8.1 Pos=-102 [Marinobacter sp. ELB17]
+CTGTTAACC--------------GGTTGACAG
+>MELB17_06974(COG1040) Score=8.1 Pos=21 [Marinobacter sp. ELB17]
+CTGTCAACC--------------GGTTAACAG
+>MELB17_06974(COG1040) Score=7.5 Pos=-41 [Marinobacter sp. ELB17]
+CTGTTAACC--------------GGTTTACGG
+>RED65_04570(bioB) Score=8.3 Pos=-152 [Oceanobacter sp. RED65]
+CTGTAAACC--------------GGTTGACTG
+>Mmwyl1_3458(COG1040) Score=8.4 Pos=15 [Marinomonas sp. MWYL1]
+CTGTCAACA--------------GGTTTACAA
+>Mmwyl1_3457(bioB) Score=8.4 Pos=-85 [Marinomonas sp. MWYL1]
+TTGTAAACC--------------TGTTGACAG
+>Sde_3140(COG1040) Score=9 Pos=-33 [Saccharophagus degradans 2-40]
+CTGTCAACC--------------GGTTTACAA
+>Sde_3139(bioB) Score=9 Pos=-90 [Saccharophagus degradans 2-40]
+TTGTAAACC--------------GGTTGACAG
+>TERTU_0490(bioB) Score=8.7 Pos=-110 [Teredinibacter turnerae T7901]
+TTGTAAACT--------------GGTTGACAA
+>TERTU_0489(COG1040) Score=8.7 Pos=-49 [Teredinibacter turnerae T7901]
+TTGTCAACC--------------AGTTTACAA
+>CJA_0426(bioB) Score=8.5 Pos=-63 [Cellvibrio japonicus Ueda107]
+TAGTAAACC--------------GGTTGACAG
+>CJA_0425(COG1040) Score=8.5 Pos=-147 [Cellvibrio japonicus Ueda107]
+CTGTCAACC--------------GGTTTACTA
+>Csal_1167(bioB) Score=7.3 Pos=-46 [Chromohalobacter salexigens DSM 3043]
+TGGTCAACC--------------AGTTGACCA
+>Csal_1167(bioB) Score=8.8 Pos=-102 [Chromohalobacter salexigens DSM 3043]
+TTGTCAACC--------------GGTTGACAT
+>MED297_08751(bioB) Score=6.8 Pos=-83 [Reinekea sp. MED297]
+ATGTAAAGT--------------AATTGACAA
+>MED297_08746(COG1040) Score=6.8 Pos=-231 [Reinekea sp. MED297]
+TTGTCAATT--------------ACTTTACAT
+>ABO_2221(COG1040) Score=7.9 Pos=4 [Alcanivorax borkumensis SK2]
+CTGTCAACC--------------AGTTTACTG
+>ABO_2220(bioB) Score=7.9 Pos=-83 [Alcanivorax borkumensis SK2]
+CAGTAAACT--------------GGTTGACAG

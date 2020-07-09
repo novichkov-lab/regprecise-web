@@ -1,0 +1,84 @@
+>Csac_1534(echA) Score=5 Pos=-45 [Caldicellulosiruptor saccharolyticus DSM 8903]
+TTGTTAACAAATTAACTT
+>Csac_1220(rex) Score=5.2 Pos=-39 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTCAAAAAAATATCAA
+>Csac_1860(hydC) Score=5.2 Pos=-38 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTTAAATTTCTAACAA
+>Csac_2425 Score=5.5 Pos=-187 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTTATAATATTAACAA
+>Csac_0622(adhA3) Score=5.1 Pos=-30 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTTAATTTTTTAACAG
+>Csac_0622(adhA3) Score=4.7 Pos=-53 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTTTATATAATAATAA
+>Csac_0622(adhA3) Score=4.8 Pos=-70 [Caldicellulosiruptor saccharolyticus DSM 8903]
+TTGACAAAAAACAAACAA
+>Csac_0407(adhA2) Score=5.6 Pos=-46 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATGTTAAAATTATAACAA
+>TTE0695(adhB) Score=5.2 Pos=-96 [Thermoanaerobacter tengcongensis MB4]
+TTGACAAATTTTTAACTA
+>TTE0695(adhB) Score=5.1 Pos=-63 [Thermoanaerobacter tengcongensis MB4]
+TTGCAAAAAATTTAACAA
+>TTE0694(fnorB) Score=5.5 Pos=-116 [Thermoanaerobacter tengcongensis MB4]
+TTGGTAAAAAAATAACAA
+>TTE0123(echA) Score=5.9 Pos=-144 [Thermoanaerobacter tengcongensis MB4]
+TTGTTAAAATAATAACAA
+>TTE0696(adhA) Score=5.2 Pos=-213 [Thermoanaerobacter tengcongensis MB4]
+TTGATATAAATTTTACAA
+>TTE1568(hydG) Score=5.5 Pos=-93 [Thermoanaerobacter tengcongensis MB4]
+TTGTTGAAAATTTAACAA
+>TTE0890(hydC) Score=5 Pos=-82 [Thermoanaerobacter tengcongensis MB4]
+ATGATATAATATTAACGA
+>TTE0696(adhA) Score=5.2 Pos=-246 [Thermoanaerobacter tengcongensis MB4]
+TTGATTATTTTTTAACAA
+>TTE0543(rex) Score=4.7 Pos=-60 [Thermoanaerobacter tengcongensis MB4]
+TTGACAAGAAATTTACAA
+>TTE0890(hydC) Score=5.2 Pos=-104 [Thermoanaerobacter tengcongensis MB4]
+TTGTTAAAAAATTAATGA
+>TTE0622(TTE0622) Score=5.2 Pos=-73 [Thermoanaerobacter tengcongensis MB4]
+TTGATAAATATTTGACAT
+>TTE2131(PF00724) Score=5.5 Pos=-35 [Thermoanaerobacter tengcongensis MB4]
+CTGTTAATAAATTAACAA
+>TTE0545(bcd) Score=5.4 Pos=-33 [Thermoanaerobacter tengcongensis MB4]
+ATGTTAAAAAAATATCAA
+>TTE2486(ndh) Score=5 Pos=-58 [Thermoanaerobacter tengcongensis MB4]
+ATGATAAAATATTGACTA
+>TTE2486(ndh) Score=5.2 Pos=-34 [Thermoanaerobacter tengcongensis MB4]
+TTGTTATAATTATATCAA
+>TTE1884(noxE) Score=4.8 Pos=-107 [Thermoanaerobacter tengcongensis MB4]
+TTGATATTTTATTGACAT
+>TTE1884(noxE) Score=4.5 Pos=-158 [Thermoanaerobacter tengcongensis MB4]
+TTGTCAACAAAAAATCAA
+>TTE2157(COG4739) Score=5.5 Pos=-94 [Thermoanaerobacter tengcongensis MB4]
+TTGATAAAATTTTATCAA
+>Teth514_0653(adhB) Score=5.4 Pos=-113 [Thermoanaerobacter ethanolicus X514]
+TTGATAAATTTTTAACTA
+>Teth514_0653(adhB) Score=5.6 Pos=-80 [Thermoanaerobacter ethanolicus X514]
+TTGTAAAAAATTTAACAA
+>Teth514_0652(fnorB) Score=5.3 Pos=-113 [Thermoanaerobacter ethanolicus X514]
+TTGGCAAAAAAATAACAA
+>Teth514_0564(adhA) Score=5.7 Pos=-33 [Thermoanaerobacter ethanolicus X514]
+TTGTTATAAATTTAACAA
+>Teth514_0654(adhA) Score=5.2 Pos=-31 [Thermoanaerobacter ethanolicus X514]
+TTGATATAAATTTTACAA
+>Teth514_0654(adhA) Score=5.2 Pos=-64 [Thermoanaerobacter ethanolicus X514]
+TTGATTATTTTTTAACAA
+>Teth514_0530(hydG) Score=5.5 Pos=-87 [Thermoanaerobacter ethanolicus X514]
+TTGTTGAAAAATTAACAA
+>Teth514_2142(hydC) Score=4.6 Pos=-84 [Thermoanaerobacter ethanolicus X514]
+ATGATATAATATTGACGA
+>Teth514_2142(hydC) Score=5.6 Pos=-106 [Thermoanaerobacter ethanolicus X514]
+TTGTTAAAAATTTAATAA
+>Teth514_0496(rex) Score=5.3 Pos=-59 [Thermoanaerobacter ethanolicus X514]
+TTGACAAAAAATTTACAA
+>Teth514_0252(TTE0622) Score=4.8 Pos=-74 [Thermoanaerobacter ethanolicus X514]
+TTGATATTTATTTGACAT
+>Teth514_1131(noxE) Score=5 Pos=-162 [Thermoanaerobacter ethanolicus X514]
+TTGTTAATAAAAAATCAA
+>Teth514_1131(noxE) Score=4.8 Pos=-112 [Thermoanaerobacter ethanolicus X514]
+TTGATATTTTATTGACAT
+>Teth514_0627(adhE) Score=5.4 Pos=-151 [Thermoanaerobacter ethanolicus X514]
+TTGTTAAATGAATAACAA
+>Teth514_0627(adhE) Score=5.4 Pos=-32 [Thermoanaerobacter ethanolicus X514]
+TTGTTAAATTATTAACAC
+>Teth514_0970(COG4739) Score=5.5 Pos=-98 [Thermoanaerobacter ethanolicus X514]
+TTGATAAAATTTTATCAA

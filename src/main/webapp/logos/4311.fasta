@@ -1,0 +1,228 @@
+>HI0932(eno) Score=4.2 Pos=-23 [Haemophilus influenzae Rd KW20]
+TAACTTAATTGAGGAA
+>HI0644(torY) Score=4.6 Pos=-48 [Haemophilus influenzae Rd KW20]
+TAACTATAAGTAGTTA
+>HI1047(dmsA) Score=4.5 Pos=-105 [Haemophilus influenzae Rd KW20]
+TACCTATTAATGATTA
+>HI1069(nrfA) Score=4.7 Pos=-99 [Haemophilus influenzae Rd KW20]
+TACCTCTTTTTGAGTA
+>HI0835(frdA) Score=4.6 Pos=-151 [Haemophilus influenzae Rd KW20]
+TAGCTTTTTTGAGGTA
+>HI0809(pckA) Score=3.8 Pos=-126 [Haemophilus influenzae Rd KW20]
+TCACTAAAAAGAGGTA
+>HI0932(eno) Score=4.2 Pos=-37 [Haemophilus influenzae Rd KW20]
+TAACCCGTTTTAATTA
+>HI1089(ccmA) Score=4.6 Pos=-84 [Haemophilus influenzae Rd KW20]
+TACTTCTAAAGAGTTA
+>HI1210(mdh) Score=3.8 Pos=-19 [Haemophilus influenzae Rd KW20]
+TAACACATAAGGAGTA
+>HI1047(dmsA) Score=4.7 Pos=-47 [Haemophilus influenzae Rd KW20]
+TAACTCGTTTTAGTTA
+>HI0884(arcA) Score=3.7 Pos=-83 [Haemophilus influenzae Rd KW20]
+CACTTTTTTATTGTTA
+>NT05HA_0812(hybO) Score=4.6 Pos=-190 [Aggregatibacter aphrophilus NJ8700]
+TACCTATTTCTAATTA
+>NT05HA_1299(frdA) Score=5 Pos=-153 [Aggregatibacter aphrophilus NJ8700]
+TAACTTTTTTGAGGTA
+>NT05HA_1781(eno) Score=4.1 Pos=-35 [Aggregatibacter aphrophilus NJ8700]
+TAACCCGTTTTGATTA
+>NT05HA_1606(pckA) Score=4.1 Pos=-70 [Aggregatibacter aphrophilus NJ8700]
+TAACAGTTTTTAGGTA
+>NT05HA_1606(pckA) Score=4 Pos=-20 [Aggregatibacter aphrophilus NJ8700]
+TAACACTAAAGAGGTG
+>NT05HA_1350(cydA) Score=4.6 Pos=-258 [Aggregatibacter aphrophilus NJ8700]
+TACTTATTTGGGGTTA
+>NT05HA_0112(focA) Score=4.1 Pos=-202 [Aggregatibacter aphrophilus NJ8700]
+TACTCCTATCTAATTA
+>NT05HA_0026(ccmA) Score=4.1 Pos=-101 [Aggregatibacter aphrophilus NJ8700]
+TACTGCTAAAGAGTTA
+>NT05HA_0856(torY) Score=4.4 Pos=-68 [Aggregatibacter aphrophilus NJ8700]
+TAACCAATTATGGTTA
+>NT05HA_1312(adhE) Score=3.7 Pos=-49 [Aggregatibacter aphrophilus NJ8700]
+TAATTCTAACCAGTTA
+>NT05HA_2016(napD) Score=4.2 Pos=-155 [Aggregatibacter aphrophilus NJ8700]
+TACCCTGTTATAGTGA
+>NT05HA_1109(mdh) Score=4.6 Pos=-31 [Aggregatibacter aphrophilus NJ8700]
+TACCCATTTTTAATTA
+>NT05HA_1388(arcA) Score=3.7 Pos=-117 [Aggregatibacter aphrophilus NJ8700]
+TACCTATAATGTTGTA
+>NT05HA_0037(nrfA) Score=4.1 Pos=-250 [Aggregatibacter aphrophilus NJ8700]
+TACCTAAAAATTGTTA
+>NT05HA_0037(nrfA) Score=4.3 Pos=-190 [Aggregatibacter aphrophilus NJ8700]
+TACTTATAAATGGGTA
+>NT05HA_1617(nqrA) Score=4.6 Pos=-371 [Aggregatibacter aphrophilus NJ8700]
+TACCTCTTTGTGATTA
+>PM1542(pckA) Score=4.1 Pos=-80 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACAGTTTTTAGGTA
+>PM0023(nrfA) Score=4.7 Pos=-288 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACTCTAAATAGGTA
+>PM0023(nrfA) Score=4.8 Pos=-205 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTTATTTAGAGGTA
+>PM1453(adhE) Score=3.9 Pos=-76 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTACTTTTCAGGTA
+>PM1328(nqrA) Score=4 Pos=-350 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTCATTAAGAGTAA
+>PM1328(nqrA) Score=4.5 Pos=-375 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACCCTTTATAAGTA
+>PM0005(ccmA) Score=4.1 Pos=-98 [Pasteurella multocida subsp. multocida str. Pm70]
+CACCTCTAAAGAGGTA
+>PM1918(dcuB) Score=4.5 Pos=-21 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACATTTTAGAGGTA
+>PM1754(dmsA) Score=4.8 Pos=20 [Pasteurella multocida subsp. multocida str. Pm70]
+TACCTCTTTTTGGTTG
+>PM0550(mdh) Score=4 Pos=-20 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACCCATAAGGAGTA
+>PM1852(lctP) Score=4.3 Pos=-74 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTCATAAATAGTTA
+>PM0201(frdA) Score=5 Pos=-142 [Pasteurella multocida subsp. multocida str. Pm70]
+TAACTTTTTTGAGGTA
+>MS0256(eno) Score=3.9 Pos=-34 [Mannheimia succiniciproducens MBEL55E]
+TACCCATTTTAGATTA
+>MS2293(pckA) Score=4.5 Pos=-80 [Mannheimia succiniciproducens MBEL55E]
+TAACATTTTTTAGGTA
+>MS0291(hcp) Score=4.4 Pos=-156 [Mannheimia succiniciproducens MBEL55E]
+TACCTGTTAAGAGGTA
+>MS1819(nrfA) Score=4.2 Pos=-268 [Mannheimia succiniciproducens MBEL55E]
+TAACTAATTTAAGTTA
+>MS1819(nrfA) Score=4.6 Pos=-254 [Mannheimia succiniciproducens MBEL55E]
+TAACTATAAAGAGGTA
+>MS1504(arcA) Score=4.1 Pos=-32 [Mannheimia succiniciproducens MBEL55E]
+TAACTAATTTTTATTA
+>MS0715(cydA) Score=4.4 Pos=-133 [Mannheimia succiniciproducens MBEL55E]
+TAACTTTATGGGGTGA
+>MS0601(ccmA) Score=4.1 Pos=-103 [Mannheimia succiniciproducens MBEL55E]
+CACCTCTAAAGAGGTA
+>MS1877(dcuB) Score=4.3 Pos=-22 [Mannheimia succiniciproducens MBEL55E]
+TAACTCTTTCGGGGAA
+>MS0400(focA) Score=4.3 Pos=-206 [Mannheimia succiniciproducens MBEL55E]
+TTACTCTATTTGGGTA
+>MS2283(napF) Score=4.4 Pos=-91 [Mannheimia succiniciproducens MBEL55E]
+TACCCCTTTCGGGTTG
+>MS0309(nqrA) Score=4.1 Pos=-278 [Mannheimia succiniciproducens MBEL55E]
+TTCCCTATTTTAGTTA
+>MS0309(nqrA) Score=4.2 Pos=-159 [Mannheimia succiniciproducens MBEL55E]
+TAATTTTATTTGGTTG
+>MS0587(torY) Score=4.6 Pos=-51 [Mannheimia succiniciproducens MBEL55E]
+TAACTATAAGTAGTTA
+>MS1266(mdh) Score=3.9 Pos=-42 [Mannheimia succiniciproducens MBEL55E]
+TACCAATTTCAAGTTA
+>MS1266(mdh) Score=5 Pos=-154 [Mannheimia succiniciproducens MBEL55E]
+TAACTATTTTTAGTTA
+>MS0753(lctP) Score=3.8 Pos=-172 [Mannheimia succiniciproducens MBEL55E]
+CACCTCTTTATTATTA
+>MS0293(norB) Score=4.2 Pos=-138 [Mannheimia succiniciproducens MBEL55E]
+TACTTATTTTTAAGTG
+>MS1652(frdA) Score=4.4 Pos=-155 [Mannheimia succiniciproducens MBEL55E]
+TCACTTTTTTGAGGTA
+>MS0740(ompW) Score=4.1 Pos=-78 [Mannheimia succiniciproducens MBEL55E]
+TAACCTATTATTGGTA
+>Asuc_0879(arcA) Score=4.2 Pos=-42 [Actinobacillus succinogenes 130Z]
+TACCCCATATTAGGGA
+>Asuc_0221(pckA) Score=4.5 Pos=-78 [Actinobacillus succinogenes 130Z]
+TAACATTTTTTAGGTA
+>Asuc_0704(nrfA) Score=4.7 Pos=-377 [Actinobacillus succinogenes 130Z]
+TAACTTATTATAGTTA
+>Asuc_0704(nrfA) Score=4.6 Pos=-321 [Actinobacillus succinogenes 130Z]
+TACCTATTGTTAGGTA
+>Asuc_1915(torY) Score=4.4 Pos=-47 [Actinobacillus succinogenes 130Z]
+TACCCCTATTGGGGTG
+>Asuc_2051(eno) Score=4.2 Pos=-52 [Actinobacillus succinogenes 130Z]
+TACTATATTTGAGTTA
+>Asuc_0352(hcp) Score=4.3 Pos=-152 [Actinobacillus succinogenes 130Z]
+TACCTCATAATAAGTA
+>Asuc_1813(frdA) Score=3.7 Pos=-121 [Actinobacillus succinogenes 130Z]
+TAGTTAAAAAGAGGTA
+>Asuc_0591(adhE) Score=4.5 Pos=-69 [Actinobacillus succinogenes 130Z]
+TACCTCTAAAGAAGTA
+>Asuc_2040(napF) Score=4.2 Pos=-76 [Actinobacillus succinogenes 130Z]
+TACCCCATGATAGGTA
+>Asuc_1612(mdh) Score=3.7 Pos=-39 [Actinobacillus succinogenes 130Z]
+TACCCAGTTCAAGTTA
+>Asuc_1970(lctP) Score=4.3 Pos=-134 [Actinobacillus succinogenes 130Z]
+TACCTAGATAGAGTGA
+>Asuc_1602(norB) Score=4.3 Pos=-139 [Actinobacillus succinogenes 130Z]
+TACCTATTTTTGAGTG
+>Asuc_1277(hybO) Score=3.7 Pos=-146 [Actinobacillus succinogenes 130Z]
+TTCTCATTTATAATTA
+>Asuc_0843(ccmA) Score=4.8 Pos=-93 [Actinobacillus succinogenes 130Z]
+TACCTCTAAATGGTTA
+>Asuc_2051(eno) Score=3.9 Pos=-34 [Actinobacillus succinogenes 130Z]
+TACCCATTTTAGATTA
+>HSM_0381(pckA) Score=4 Pos=-51 [Haemophilus somnus 2336]
+TACCACTAAATGATTA
+>HSM_1613(eno) Score=3.9 Pos=-35 [Haemophilus somnus 2336]
+TACTTATTTTAGATTA
+>HSM_0782(frdA) Score=4 Pos=-108 [Haemophilus somnus 2336]
+TAACAAAAAAGAGTTA
+>HSM_0718(ccmA) Score=3.8 Pos=-96 [Haemophilus somnus 2336]
+TACAACTAAAGAGTTA
+>HSM_0129(cydA) Score=3.7 Pos=-219 [Haemophilus somnus 2336]
+TTACTTTTAGTAGTAA
+>HSM_0129(cydA) Score=4.5 Pos=-197 [Haemophilus somnus 2336]
+TACCGTTTTTGGGTTA
+>HSM_0492(napD) Score=4.5 Pos=-139 [Haemophilus somnus 2336]
+TACTCATTTTTGGTTA
+>HSM_1119(lctP) Score=4.3 Pos=-193 [Haemophilus somnus 2336]
+TAATCATTAAGAGGTA
+>APP7_1734(dmsA) Score=4.8 Pos=-40 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCCTTATTTAGTTA
+>APP7_0859(pckA) Score=4 Pos=-235 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTTTTTTTACTAA
+>APP7_0048(arcA) Score=4.5 Pos=-107 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAACTCTTTCTAGTAA
+>APP7_0152(nqrA) Score=4.8 Pos=-298 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAACTCTTAAGGGGTA
+>APP7_1068(adhE) Score=4.2 Pos=-102 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+CACCTCTAAAGAGTTA
+>APP7_1590(frdA) Score=5.1 Pos=-136 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTTTTTTGAGGTA
+>APP7_1068(adhE) Score=3.8 Pos=-70 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACAAATATTTAGGTA
+>APP7_1423(ccmA) Score=4.8 Pos=-85 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTCTAAAGAGGTA
+>APP7_0301(cydA) Score=4.3 Pos=-109 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTATTTGGTATTA
+>APP7_0731(torY) Score=4.2 Pos=-36 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACTACTAAAGAGTTA
+>APP7_1608(hcp) Score=4 Pos=-157 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCCTATTCTAAGTA
+>APP7_1367(dcuB) Score=4 Pos=-18 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAATTTTTTGGAGTTT
+>APP7_1093(focA) Score=4.5 Pos=-102 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTCAATATAATTA
+>APP7_0099(nrfA) Score=4.3 Pos=-204 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAACACTAAAGAGGTA
+>APP7_0099(nrfA) Score=4 Pos=-323 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAATTTTATTTAATGA
+>APP7_1502(napF) Score=4.4 Pos=-79 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTCGTTGGAGTGA
+>APP7_1144(ompW) Score=4.6 Pos=-133 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCTCGTTGTAGGTA
+>APP7_1347(mdh) Score=4.4 Pos=-26 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAACTATTATTGATTA
+>APP7_0524(lctP) Score=4.9 Pos=-205 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TAACTCATTAGAGTTA
+>APP7_1382(hybO) Score=4.2 Pos=-117 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACCCATTTAGATGTA
+>HD0786(ccmA) Score=4.5 Pos=-85 [Haemophilus ducreyi 35000HP]
+TACCTCTAAAGAAGTA
+>HD0791(ccmE) Score=4.8 Pos=-133 [Haemophilus ducreyi 35000HP]
+TACTTCTTTATAGGTA
+>HD0791(ccmE) Score=4.1 Pos=-43 [Haemophilus ducreyi 35000HP]
+TAATTTTTTTGTGTGA
+>HD0278(arcA) Score=4.1 Pos=-110 [Haemophilus ducreyi 35000HP]
+TAACCCTTTCTAGTGG
+>HD0991(focA) Score=4.2 Pos=-95 [Haemophilus ducreyi 35000HP]
+TACCTCAATTTAATTG
+>HD0237(dcuB) Score=4.5 Pos=-96 [Haemophilus ducreyi 35000HP]
+TACCTCTCTTGAGGTA
+>HD0379(nqrA) Score=4.5 Pos=-307 [Haemophilus ducreyi 35000HP]
+TACTACTTTTGAGTTA
+>HD1782(cydA) Score=4.2 Pos=-153 [Haemophilus ducreyi 35000HP]
+TTCTTATTTAGGGTTA
+>HD1393(torY) Score=4.4 Pos=-143 [Haemophilus ducreyi 35000HP]
+TACCTAATTTGCGTTA
+>HD0264(mdh) Score=4.4 Pos=-25 [Haemophilus ducreyi 35000HP]
+TAACCATTTATGATTA
+>HD0072(napF) Score=4.3 Pos=-80 [Haemophilus ducreyi 35000HP]
+TACCTAAATGGAGTGA

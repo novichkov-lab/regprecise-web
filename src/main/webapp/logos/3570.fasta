@@ -1,0 +1,28 @@
+>LACR_1627(ypiA) Score=6.3 Pos=-50 [Lactococcus lactis subsp. cremoris SK11]
+AGTTGACTTGAAGTGGACT
+>LACR_2072(nmlR) Score=5.6 Pos=-39 [Lactococcus lactis subsp. cremoris SK11]
+TATTGACTTAAAGTTCACT
+>L0246(nmlR) Score=5.6 Pos=-39 [Lactococcus lactis subsp. lactis Il1403]
+TATTGACTTAAAGTTCACT
+>L179660(ypiA) Score=6.5 Pos=-65 [Lactococcus lactis subsp. lactis Il1403]
+AGTTGACTTGAAGTGAACT
+>SAG0429(adhC) Score=6.8 Pos=-66 [Streptococcus agalactiae 2603V/R]
+CCTTGACTTGGAGTTAACT
+>SAG0428(adhC) Score=6.8 Pos=-58 [Streptococcus agalactiae 2603V/R]
+TCTTGACTTGAAGTTAACT
+>GALLO_0910(nmlR) Score=6.3 Pos=-61 [Streptococcus gallolyticus UCN34]
+GCTTGACTTGGAGTTAGCT
+>GALLO_1312(adhC) Score=7.1 Pos=-73 [Streptococcus gallolyticus UCN34]
+ACTTGACTTGGAGTTAACT
+>SMU.1867c(adhC) Score=6.4 Pos=-61 [Streptococcus mutans UA159]
+ACTTGACTTAGAGTCCACT
+>SMU.677(nmlR) Score=6.6 Pos=-66 [Streptococcus mutans UA159]
+ACTTGACTTGAAGTAGACT
+>SP_1856(nmlR) Score=6.9 Pos=-91 [Streptococcus pneumoniae TIGR4]
+GCTTGACTTGGAGTCAACT
+>SSU05_1388(adhC) Score=6.5 Pos=-12 [Streptococcus suis 05ZYH33]
+ACTTGACTTAGAGTGAACT
+>SUB1076(adhC) Score=6.9 Pos=-57 [Streptococcus uberis 0140J]
+GCTTGACTTGAAGTTAACT
+>SUB0101(adhC) Score=5.8 Pos=-92 [Streptococcus uberis 0140J]
+ACTTGACTTAGAGCCCACT

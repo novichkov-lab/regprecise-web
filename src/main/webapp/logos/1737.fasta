@@ -1,0 +1,42 @@
+>ELI_11505(omr) Score=5.1 Pos=-89 [Erythrobacter litoralis HTCC2594]
+ATAATGTTATTCTGTATCATCCG
+>ELI_02180(tonB2) Score=6 Pos=-85 [Erythrobacter litoralis HTCC2594]
+TAGATGTTATGTTGTCACATTAC
+>NAP1_14638(omr) Score=5.6 Pos=-56 [Erythrobacter sp. NAP1]
+ACGTTGTTACATTGTAACGTTAT
+>NAP1_01425(tonB2) Score=5.8 Pos=-97 [Erythrobacter sp. NAP1]
+CAAATGTTATGTTGCAACATTCT
+>Saro_0754(omr) Score=5.6 Pos=-109 [Novosphingobium aromaticivorans DSM 12444]
+GATATGTTATCTTGTAACATGAC
+>Saro_3289(PF03203) Score=5.5 Pos=-35 [Novosphingobium aromaticivorans DSM 12444]
+ACTATGTAACATTATAACATAAA
+>Sala_1894(omr) Score=5.3 Pos=-67 [Sphingopyxis alaskensis RB2256]
+TCATTGTGACAGTATATCATTAC
+>Sala_2946(tonB1) Score=5.6 Pos=-91 [Sphingopyxis alaskensis RB2256]
+ATGACGTGATGTTATAACATCAT
+>Sala_0375(PF03203) Score=5.6 Pos=-71 [Sphingopyxis alaskensis RB2256]
+ACAATGTGATGTTGTAACCTTGG
+>SJA_C1-31170(omr) Score=5.3 Pos=-68 [Sphingobium japonicum UT26S]
+GTATTGATATGCTATATCATTTC
+>SJA_C1-07260(PF03203) Score=5.7 Pos=-49 [Sphingobium japonicum UT26S]
+GCGATGATATGTTGTAACTTTCC
+>SJA_C1-02890(tonB1) Score=5.2 Pos=-88 [Sphingobium japonicum UT26S]
+TAAATTTAATGTTGCAACATATC
+>SJA_C1-18900(omr) Score=5.8 Pos=-111 [Sphingobium japonicum UT26S]
+GAGATGTTATCTTGTATCATCGT
+>Swit_1463(PF03203) Score=5.4 Pos=-55 [Sphingomonas wittichii RW1]
+GCAATGATATATTGTATCTTCGA
+>Swit_2441(tonB1) Score=5.1 Pos=-70 [Sphingomonas wittichii RW1]
+CCATCGTAATGATGTATCATTGC
+>ZMO1822(omr3) Score=5.2 Pos=-154 [Zymomonas mobilis subsp. mobilis ZM4]
+TTAATGTTTTATTATAAAATAAT
+>ZMO0902(omr2) Score=6 Pos=-46 [Zymomonas mobilis subsp. mobilis ZM4]
+GAAATGTTATGTTATCACATAAC
+>ZMO1540(feoA) Score=6 Pos=-186 [Zymomonas mobilis subsp. mobilis ZM4]
+ACATTGTTATGTTATAATATTAC
+>ZMO0866(czdD) Score=5.3 Pos=-53 [Zymomonas mobilis subsp. mobilis ZM4]
+GTAATGTGATATTATAACTTTTG
+>ZMO0885(PF03203) Score=5 Pos=-110 [Zymomonas mobilis subsp. mobilis ZM4]
+CCGCCGTTACGTTGTAACATATA
+>ZMO0795(omr1) Score=5.3 Pos=-35 [Zymomonas mobilis subsp. mobilis ZM4]
+GATATGATATATTATATCATCTA

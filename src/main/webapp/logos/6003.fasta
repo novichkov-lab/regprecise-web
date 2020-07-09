@@ -1,0 +1,94 @@
+>Franean1_0686(COG2331) Score=5.6 Pos=-42 [Frankia sp. EAN1pec]
+TTGGCAGTCCTTACCACCGAGTGCCAA
+>Franean1_2109(hrcA) Score=6.9 Pos=-152 [Frankia sp. EAN1pec]
+TTGGCACTCACGGCGGCCGAGTGCCAG
+>Franean1_3353(groL2) Score=6.7 Pos=-140 [Frankia sp. EAN1pec]
+CTGGCACTCAGCTAGGTCGAGTGCCAA
+>Franean1_3854(groL2) Score=6.9 Pos=-139 [Frankia sp. EAN1pec]
+TTAGCACTCGACAGGGTTGAGTGCCAA
+>Franean1_0175(groL2) Score=6.6 Pos=-188 [Frankia sp. EAN1pec]
+CTTGCACTCACCCATGCCGAGTGCTAA
+>Franean1_0175(groL2) Score=6.8 Pos=-154 [Frankia sp. EAN1pec]
+TTGGCACTCTCCCCATGGGAGTGCCAA
+>Franean1_6002(groS) Score=6.9 Pos=-105 [Frankia sp. EAN1pec]
+TTGGCACTCGGCACTTGAGAGTGCCAG
+>Francci3_4042(COG2331) Score=6.5 Pos=-42 [Frankia sp. CcI3]
+TTGGCAGTCTCCACGTCAGAGTGCCAA
+>Francci3_1264(hrcA) Score=6.8 Pos=-95 [Frankia sp. CcI3]
+TTGGCACTCACTGCGGCCGAGTGCCAA
+>Francci3_4398(groL2) Score=6.7 Pos=-168 [Frankia sp. CcI3]
+CTGGCACTCTCGCCTAGGGAGTGCCAA
+>Francci3_4398(groL2) Score=6.7 Pos=-202 [Frankia sp. CcI3]
+CTTGCACTCACCCAGGCCGAGTGCTAA
+>Francci3_0632(groS) Score=7 Pos=-108 [Frankia sp. CcI3]
+TTGGCACTCGGCACGTGAGAGTGCCAG
+>Namu_0179(hsp18) Score=6.8 Pos=-98 [Nakamurella multipartita DSM 44233]
+TTGGCACTCTCGGTCGTCGAGTGCTAA
+>Namu_4645(COG2331) Score=6.4 Pos=-61 [Nakamurella multipartita DSM 44233]
+CTGGCACTGGGCACTGTCGAGTGCCAA
+>Namu_1571(hrcA) Score=6.1 Pos=-57 [Nakamurella multipartita DSM 44233]
+TTGGCAGCCGGAGCGGGCGAGTGCCAA
+>Namu_4827(groL2) Score=6.3 Pos=-192 [Nakamurella multipartita DSM 44233]
+TTGGCACTCGGAACCAACGAGTGCCAG
+>Namu_4827(groL2) Score=6.8 Pos=-226 [Nakamurella multipartita DSM 44233]
+CTTGCACTCTCCGCGGTCGAGTGCTAA
+>Namu_1207(groS) Score=6.5 Pos=-156 [Nakamurella multipartita DSM 44233]
+CTGGCACTCCCATGGCTAGAGTGCTAG
+>Acel_0609(hsp18) Score=6.6 Pos=-54 [Acidothermus cellulolyticus 11B]
+CTAGCACTCGACAGCACCGAGTGCTAA
+>Acel_0161(COG2331) Score=5.9 Pos=-37 [Acidothermus cellulolyticus 11B]
+TTAGCAATCGAAGCTACCGAGTGCTAA
+>Acel_0783(hrcA) Score=6.6 Pos=-78 [Acidothermus cellulolyticus 11B]
+CTGGCACTCGACAACCCTGAGTGCCAA
+>Acel_0101(groL2) Score=6.5 Pos=-179 [Acidothermus cellulolyticus 11B]
+CTTGCACTCTCGACCCTTGAGTGCTAA
+>Acel_0101(groL2) Score=6.2 Pos=-144 [Acidothermus cellulolyticus 11B]
+CTAGCACTCCACATCGGAGAGTGACAA
+>Acel_0362(groS) Score=6.4 Pos=-179 [Acidothermus cellulolyticus 11B]
+CTGGCACTCTCCTTGACGGAGTGCTAA
+>Acel_0362(groS) Score=6.5 Pos=-133 [Acidothermus cellulolyticus 11B]
+CTGGCACTCTCGACCCGAGGGTGCCAA
+>Noca_0787(COG2331) Score=6.7 Pos=-76 [Nocardioides sp. JS614]
+TTGGCACTCGTCAGGGCCGAGTGCCAG
+>Noca_1903(hrcA) Score=6.6 Pos=-73 [Nocardioides sp. JS614]
+TTGGCACTCAGGACTTTCGAGTGCCAG
+>Noca_3982(groL2) Score=6.7 Pos=-195 [Nocardioides sp. JS614]
+CTTGCACTCTCAGGGGTCGAGTGCTAA
+>Noca_3982(groL2) Score=6.8 Pos=-160 [Nocardioides sp. JS614]
+CTGGCACTCTCCCCCGGAGAGTGACAA
+>Noca_3647(groS) Score=6.5 Pos=-168 [Nocardioides sp. JS614]
+CTGGCACTCAGTTGGCGAGAGTGCTAG
+>Noca_3647(groS) Score=6.8 Pos=-133 [Nocardioides sp. JS614]
+TTGGCACTCTCCACCGGAGTGTGCCAG
+>PPA0915(hrcA) Score=6.7 Pos=-67 [Propionibacterium acnes KPA171202]
+GTGGCACTCGGCACCCGAGAGTGCCAA
+>PPA0453(groL2) Score=6.5 Pos=-195 [Propionibacterium acnes KPA171202]
+TTGGCACTCGACAAGCGAGAGTGCTAC
+>PPA0453(groL2) Score=6.5 Pos=-230 [Propionibacterium acnes KPA171202]
+TTTGCACTCGCTGGGTGTGAGTGCTAA
+>PPA1773(groS) Score=6.5 Pos=-132 [Propionibacterium acnes KPA171202]
+TTGGCACTCTCGTGGTGAGTGTGCCAA
+>PPA1773(groS) Score=6.4 Pos=-179 [Propionibacterium acnes KPA171202]
+CTGGCACTCCCGTTGCCTGAGTGCCAA
+>Amir_0626(COG2331) Score=6.4 Pos=-50 [Actinosynnema mirum DSM 43827]
+TTGGCACTCGTGACGTGGGAGTGCCAA
+>Amir_0442(groL2) Score=6.9 Pos=-178 [Actinosynnema mirum DSM 43827]
+CTGGCACTCGGCACTGCTGAGTGCCAG
+>Amir_0442(groL2) Score=6.8 Pos=-213 [Actinosynnema mirum DSM 43827]
+CTTGCACTCTCGGGTGGCGAGTGCTAA
+>Amir_6544(groS) Score=6.7 Pos=-128 [Actinosynnema mirum DSM 43827]
+TTGGCACTCGAATGGGTAGAGTGCTAG
+>Svir_32690(COG2331) Score=6.6 Pos=-72 [Saccharomonospora viridis DSM 43017]
+TTAGCACTCTCGGCAATCGAGTGCCAG
+>Svir_34390(groL2) Score=6.9 Pos=-168 [Saccharomonospora viridis DSM 43017]
+TTGGCACTCGGCACCGTCGAGTGCTAG
+>Svir_34390(groL2) Score=6.6 Pos=-203 [Saccharomonospora viridis DSM 43017]
+CTTGCACTCTCACCCTGAGAGTGCTAA
+>Svir_04660(groS) Score=6.6 Pos=-133 [Saccharomonospora viridis DSM 43017]
+CTAGCACTCAGCTGGCTAGAGTGCTAA
+>SACE_0527(groL2) Score=6.8 Pos=-180 [Saccharopolyspora erythraea NRRL 2338]
+CTGGCACTCAGCAAGGTCGAGTGCCAG
+>SACE_0527(groL2) Score=6.8 Pos=-215 [Saccharopolyspora erythraea NRRL 2338]
+CTTGCACTCGCCACGCGAGAGTGCTAA
+>SACE_6715(groS) Score=6.8 Pos=-131 [Saccharopolyspora erythraea NRRL 2338]
+CTGGCACTCGCGTGGGTAGAGTGCTAG

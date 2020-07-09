@@ -1,0 +1,28 @@
+>LVIS_0331(mntH) Score=4.3 Pos=-213 [Lactobacillus brevis ATCC 367]
+ATTTTTGGTAAGCCAAAAAT
+>LVIS_0225(mntH) Score=5 Pos=-19 [Lactobacillus brevis ATCC 367]
+AAGGAAGGGAGTCTTAAAAT
+>LSEI_2423(mntC) Score=5.7 Pos=-32 [Lactobacillus casei ATCC 334]
+GAATTAGGTCACCCTAAAAA
+>LSEI_2413(mntH) Score=6.4 Pos=-71 [Lactobacillus casei ATCC 334]
+AAGTTAGGGAGACCTAAAAG
+>LAF_1828(mntH) Score=4.8 Pos=-91 [Lactobacillus fermentum IFO 3956]
+TTTTTATGCTAACCTAACAA
+>lp_1095(mntC) Score=5.2 Pos=-82 [Lactobacillus plantarum WCFS1]
+AAGTTAACTGCACCTAACAA
+>lp_2992(mntH) Score=5.3 Pos=-98 [Lactobacillus plantarum WCFS1]
+TTTGTAGGCATACCTAAAAA
+>LAR_1743(mntH) Score=4.8 Pos=-89 [Lactobacillus reuteri JCM 1112]
+TTTTTATGTTACCCTAACAA
+>LGG_02411(mntH) Score=6.4 Pos=-72 [Lactobacillus rhamnosus GG]
+AAGTTAGGGAGACCTAAAAG
+>LGG_02421(mntC) Score=5.6 Pos=-31 [Lactobacillus rhamnosus GG]
+GAATTAGGTCACCCTAAAAT
+>LSA0180(mntC) Score=6.3 Pos=-34 [Lactobacillus sakei subsp. sakei 23K]
+AAGTTAGGTATACCTAAAAG
+>LSA1699(mntH) Score=5.8 Pos=-77 [Lactobacillus sakei subsp. sakei 23K]
+AAGTTAGGGCATCCTAAAAT
+>LSA0246(mntH) Score=5.5 Pos=7 [Lactobacillus sakei subsp. sakei 23K]
+AAGTTAAGGGACCCAAAAAG
+>LSL_0904(mntH) Score=5.2 Pos=-87 [Lactobacillus salivarius subsp. salivarius UCC118]
+AGTTAAGGTAGACCTAAAAA

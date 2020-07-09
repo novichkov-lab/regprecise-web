@@ -1,0 +1,36 @@
+>BPSL2546(metR) Score=4.9 Pos=-41 [Burkholderia pseudomallei K96243]
+ATGAATTTTTTTCAA
+>BPSL2545(metE) Score=4.9 Pos=-90 [Burkholderia pseudomallei K96243]
+TTGAAAAAAATTCAT
+>BMA0467(metE) Score=4.9 Pos=-90 [Burkholderia mallei ATCC 23344]
+TTGAAAAAAATTCAT
+>BMA0468(metR) Score=4.9 Pos=-41 [Burkholderia mallei ATCC 23344]
+ATGAATTTTTTTCAA
+>Bcep18194_B0361(metR) Score=5 Pos=0 [Burkholderia sp. 383]
+ATGGCATTATTTCAT
+>Bcep18194_C7370(PF08908) Score=4.7 Pos=-166 [Burkholderia sp. 383]
+ATGAGATTAATTCAC
+>Bcep18194_C7372(metR2) Score=4.9 Pos=-20 [Burkholderia sp. 383]
+ATGAATTTTACTCAT
+>Bcep18194_B0362(metE) Score=5 Pos=-82 [Burkholderia sp. 383]
+ATGAAATAATGCCAT
+>Bamb_4647(metR) Score=5 Pos=-60 [Burkholderia cepacia AMMD]
+ATGGCATTATTTCAT
+>Bamb_4646(metE) Score=5 Pos=-83 [Burkholderia cepacia AMMD]
+ATGAAATAATGCCAT
+>Bcep1808_3538(metR) Score=5 Pos=0 [Burkholderia vietnamiensis G4]
+ATGGCATTATTTCAT
+>Bcep1808_3537(metE) Score=5 Pos=-82 [Burkholderia vietnamiensis G4]
+ATGAAATAATGCCAT
+>bglu_1g08420(metR) Score=4.7 Pos=-40 [Burkholderia glumae BGR1]
+ATGAAAAATATTCAG
+>bglu_1g08430(metE) Score=4.7 Pos=-106 [Burkholderia glumae BGR1]
+CTGAATATTTTTCAT
+>bglu_2g04940(metR) Score=4.8 Pos=-75 [Burkholderia glumae BGR1]
+ATGGATTGTTTTCAT
+>bglu_2g04930(metE) Score=4.8 Pos=-87 [Burkholderia glumae BGR1]
+ATGAAAACAATCCAT
+>Bphy_5471(metR) Score=5.3 Pos=-45 [Burkholderia phymatum STM815]
+ATGGATTAATTTCAT
+>Bphy_5470(metE) Score=5.3 Pos=-81 [Burkholderia phymatum STM815]
+ATGAAATTAATCCAT

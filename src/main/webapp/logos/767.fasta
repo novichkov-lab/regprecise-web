@@ -1,0 +1,72 @@
+>BSU10370(bioY2) Score=8.5 Pos=-88 [Bacillus subtilis subsp. subtilis str. 168]
+ATGTAAAC---------------GTTGACAT
+>BSU32030(bioY1) Score=8.7 Pos=-87 [Bacillus subtilis subsp. subtilis str. 168]
+TTGTTAAC---------------GTTGACAA
+>BSU30240(bioW) Score=8.8 Pos=-85 [Bacillus subtilis subsp. subtilis str. 168]
+TTGTTAAC---------------GTTAACAA
+>RBAM_010550(bioY2) Score=8.6 Pos=-87 [Bacillus amyloliquefaciens FZB42]
+ATGTTAAC---------------GTTGACAT
+>RBAM_029080(bioY1) Score=7.9 Pos=-84 [Bacillus amyloliquefaciens FZB42]
+TAGTAAAC---------------GTTGACAA
+>RBAM_018290(bioW) Score=8.2 Pos=-64 [Bacillus amyloliquefaciens FZB42]
+GTGTTAAC---------------GTTAACAT
+>RBAM_018290(bioW) Score=7.2 Pos=-126 [Bacillus amyloliquefaciens FZB42]
+CAGTTAAC---------------GTTGACAT
+>BPUM_2376(bioY2) Score=8.6 Pos=-88 [Bacillus pumilus SAFR-032]
+ATGTTAAC---------------GTTGACAT
+>BPUM_2863(bioY1) Score=8.7 Pos=-83 [Bacillus pumilus SAFR-032]
+TTGTTAAC---------------GTTGACAA
+>BPUM_2779(bioB) Score=8.7 Pos=-48 [Bacillus pumilus SAFR-032]
+ATGTTAAC---------------GTTAACAT
+>BLi03385(bioY1) Score=8.7 Pos=-89 [Bacillus licheniformis DSM 13]
+TTGTTAAC---------------GTTGACAA
+>BLi00766(bioW) Score=8.7 Pos=-55 [Bacillus licheniformis DSM 13]
+ATGTTAAC---------------GTTAACAT
+>Aflv_2398(bioY1) Score=8.1 Pos=-31 [Anoxybacillus flavithermus WK1]
+TCGTTAAC---------------GTTAACAA
+>Aflv_1376(bioB) Score=8.7 Pos=-55 [Anoxybacillus flavithermus WK1]
+TTGTTAAC---------------GTTGACAT
+>Aflv_1163(bioF) Score=8.5 Pos=-45 [Anoxybacillus flavithermus WK1]
+ATGTAAAC---------------GTTTACAA
+>Aflv_1070(bioD) Score=8.7 Pos=-52 [Anoxybacillus flavithermus WK1]
+TTGTTAAC---------------GTTGACAA
+>GK2944(bioY1) Score=8.6 Pos=-31 [Geobacillus kaustophilus HTA426]
+TTGTTAAC---------------GTTTACAT
+>GK1570(bioB) Score=7.8 Pos=-86 [Geobacillus kaustophilus HTA426]
+AAGTAAAC---------------GTTGACAA
+>GK2128(bioF) Score=8.4 Pos=-46 [Geobacillus kaustophilus HTA426]
+ATGTAAAC---------------GTTTACAT
+>GK3018(bioY) Score=8.5 Pos=-84 [Geobacillus kaustophilus HTA426]
+ATGTAAAC---------------GTTGACAA
+>GK3098(bioH) Score=8.5 Pos=-330 [Geobacillus kaustophilus HTA426]
+ATGTAAAC---------------GTTTACAA
+>BC3629(bioY2) Score=7.7 Pos=-46 [Bacillus cereus ATCC 14579]
+ATGTTACC---------------GTTTACAA
+>BC3629(bioY2) Score=8.6 Pos=-111 [Bacillus cereus ATCC 14579]
+TTGTAAAC---------------GTTGACAA
+>BC4119(bioA) Score=8.7 Pos=-45 [Bacillus cereus ATCC 14579]
+ATGTTAAC---------------GTTAACAT
+>BC4917(bioY1) Score=8.7 Pos=107 [Bacillus cereus ATCC 14579]
+ATGTTAAC---------------GTTAACAT
+>BH3358(bioY1) Score=7.8 Pos=-33 [Bacillus halodurans C-125]
+ATGTTAAC---------------GTAAACAT
+>BH3358(bioY1) Score=8.6 Pos=-87 [Bacillus halodurans C-125]
+ATGTCAAC---------------GTTGACAA
+>BH3907(bioF) Score=8.8 Pos=-66 [Bacillus halodurans C-125]
+ATGTTAAC---------------GTTAACAA
+>BH1748(bioB) Score=8.7 Pos=-56 [Bacillus halodurans C-125]
+TTGTTAAC---------------GTTTACAA
+>BH0783(bioD) Score=8.7 Pos=-42 [Bacillus halodurans C-125]
+ATGTTAAC---------------GTTAACAT
+>ABC0344(yhfT) Score=8.5 Pos=-87 [Bacillus clausii KSM-K16]
+ATGTAAAC---------------GTTGACAA
+>ABC2607(bioY2) Score=8.7 Pos=-82 [Bacillus clausii KSM-K16]
+TTGTTAAC---------------GTTGACAA
+>OB1717(bioY2) Score=8.6 Pos=-81 [Oceanobacillus iheyensis HTE831]
+TTGTAAAC---------------GTTGACAA
+>OB2346(bioY1) Score=8.6 Pos=-81 [Oceanobacillus iheyensis HTE831]
+TTGTCAAC---------------GTTGACAA
+>Pjdr2_3366(bioY2) Score=8.8 Pos=-158 [Paenibacillus sp. JDR-2]
+TTGTTAAC---------------GTTAACAt
+>Pjdr2_1461(bioA) Score=8.8 Pos=40 [Paenibacillus sp. JDR-2]
+TTGTTAAC---------------GTTAACAA

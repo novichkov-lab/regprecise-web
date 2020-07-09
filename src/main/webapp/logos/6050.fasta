@@ -1,0 +1,36 @@
+>Deide_07060(argF) Score=4.3 Pos=-166 [Deinococcus deserti VCD115]
+TGCATACTTACACA
+>Deide_00700(carB) Score=4.6 Pos=-62 [Deinococcus deserti VCD115]
+TGCATAACCATACA
+>Deide_00720(argG) Score=5 Pos=-155 [Deinococcus deserti VCD115]
+TGTATAGCTATGCG
+>Deide_00720(argG) Score=4.1 Pos=-134 [Deinococcus deserti VCD115]
+CGCATAACCATTCA
+>Dgeo_2070(carB) Score=4.6 Pos=-64 [Deinococcus geothermalis DSM 11300]
+TGCATAACCTTGCA
+>Dgeo_2067(argG) Score=5 Pos=-163 [Deinococcus geothermalis DSM 11300]
+TGCATAGCTATACG
+>Dgeo_2067(argG) Score=4 Pos=-142 [Deinococcus geothermalis DSM 11300]
+CGTATAACGATACA
+>DR0674(argG) Score=5.2 Pos=-155 [Deinococcus radiodurans R1]
+TGCATAGCTATGCG
+>DR0674(argG) Score=4.2 Pos=-135 [Deinococcus radiodurans R1]
+TGCATAGTCATTCA
+>DR0080(argF) Score=4.2 Pos=-31 [Deinococcus radiodurans R1]
+CGCATAACTTTGAG
+>TaqDRAFT_5409(carB) Score=4.4 Pos=-68 [Thermus aquaticus Y51MC23]
+CGCATACCTTTGCC
+>TaqDRAFT_3560(argF) Score=4.8 Pos=-38 [Thermus aquaticus Y51MC23]
+TGCATAAGTTTGCA
+>TaqDRAFT_4745(argG) Score=4.7 Pos=-44 [Thermus aquaticus Y51MC23]
+TGTATACTTATACA
+>TaqDRAFT_3560(argF) Score=4.4 Pos=-147 [Thermus aquaticus Y51MC23]
+CGCAAAGCCATGCG
+>TTC0247(carB) Score=4.4 Pos=-69 [Thermus thermophilus HB27]
+TGCATATTTATGCC
+>TTC0838(argF) Score=4.1 Pos=-148 [Thermus thermophilus HB27]
+CGCAAGGCCATGCG
+>TTC0838(argF) Score=4.7 Pos=-38 [Thermus thermophilus HB27]
+TGCATAAGTTTGCG
+>TTC1701(argG) Score=4.8 Pos=-46 [Thermus thermophilus HB27]
+TGTATACTTATGCA

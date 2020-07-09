@@ -1,0 +1,130 @@
+>ELI_08825 Score=5.1 Pos=-71 [Erythrobacter litoralis HTCC2594]
+GTTGACGGGCGCGTAAAG
+>ELI_00045(acdB) Score=5.5 Pos=-60 [Erythrobacter litoralis HTCC2594]
+CTTTACGAAAACGTCAAC
+>ELI_09605(acdQ) Score=5.1 Pos=-44 [Erythrobacter litoralis HTCC2594]
+CCTAACGTTAGCGTCAAG
+>ELI_00050(acdA) Score=5.7 Pos=-73 [Erythrobacter litoralis HTCC2594]
+GTTGACGTTTTCGTAAAG
+>ELI_01475(acdA3) Score=5.6 Pos=-58 [Erythrobacter litoralis HTCC2594]
+GTTGACGCAAACGTAAGG
+>ELI_13505(etfB) Score=5.7 Pos=-72 [Erythrobacter litoralis HTCC2594]
+GTTTACGTAAACGCAAGC
+>ELI_13505(etfB) Score=6 Pos=-78 [Erythrobacter litoralis HTCC2594]
+CTTGACGTTTACGTAAAC
+>ELI_05890(liuR) Score=5.3 Pos=-37 [Erythrobacter litoralis HTCC2594]
+CTTGACCTTTACGTAAAG
+>ELI_05890(liuR) Score=4.7 Pos=-31 [Erythrobacter litoralis HTCC2594]
+CTTTACGTAAAGGGCATG
+>NAP1_08185 Score=5.4 Pos=-70 [Erythrobacter sp. NAP1]
+GTTTACGCGAGCGTAAAG
+>NAP1_10032(acdQ) Score=5 Pos=-55 [Erythrobacter sp. NAP1]
+GATAACGTAAGCGTCAAC
+>NAP1_01850 Score=5.6 Pos=-37 [Erythrobacter sp. NAP1]
+CTTGACGTTTGCGTAAGC
+>NAP1_15383(acdB) Score=5.5 Pos=-52 [Erythrobacter sp. NAP1]
+CTTTACGGATACGTCAAC
+>NAP1_15378(acdA) Score=5.6 Pos=-90 [Erythrobacter sp. NAP1]
+GTTGACGTATCCGTAAAG
+>NAP1_09247(fpr) Score=4.9 Pos=-60 [Erythrobacter sp. NAP1]
+GTTGACGGACACGTCACC
+>NAP1_00605(acdA3) Score=5.3 Pos=-32 [Erythrobacter sp. NAP1]
+GTTTACGTAAACGGGAAG
+>NAP1_12578(etfB) Score=6 Pos=-104 [Erythrobacter sp. NAP1]
+CTTGACGTTTACGTAAAC
+>NAP1_12578(etfB) Score=5.7 Pos=-98 [Erythrobacter sp. NAP1]
+GTTTACGTAAACGCAAGC
+>NAP1_05180(liuR) Score=5.4 Pos=-30 [Erythrobacter sp. NAP1]
+GTTCACGTAAAGGTAAAG
+>NAP1_05180(liuR) Score=5.8 Pos=-36 [Erythrobacter sp. NAP1]
+CTTGACGTTCACGTAAAG
+>NAP1_10032(acdQ) Score=4.5 Pos=-61 [Erythrobacter sp. NAP1]
+AATGACGATAACGTAAGC
+>Saro_3457(paaG) Score=5.1 Pos=-315 [Novosphingobium aromaticivorans DSM 12444]
+CTTTACGTAAAGGTCATG
+>Saro_1064 Score=5.2 Pos=-36 [Novosphingobium aromaticivorans DSM 12444]
+GTTGACGTAAACGGGAGC
+>Saro_0999(acdQ) Score=5.3 Pos=-168 [Novosphingobium aromaticivorans DSM 12444]
+TTTTACGTTTACGTCAGC
+>Saro_0999(acdQ) Score=4.3 Pos=-162 [Novosphingobium aromaticivorans DSM 12444]
+GTTTACGTCAGCTTAGGG
+>Saro_3169(etfB) Score=5.4 Pos=-57 [Novosphingobium aromaticivorans DSM 12444]
+GTTTACGTAAGCGCAAAT
+>Saro_3169(etfB) Score=5.9 Pos=-63 [Novosphingobium aromaticivorans DSM 12444]
+GTTGACGTTTACGTAAGC
+>Saro_2106(liuR) Score=5 Pos=-37 [Novosphingobium aromaticivorans DSM 12444]
+ATTGACGCTTACGTAAGG
+>Saro_2106(liuR) Score=4.5 Pos=-31 [Novosphingobium aromaticivorans DSM 12444]
+GCTTACGTAAGGGGCAGG
+>Sala_1854 Score=4.9 Pos=-36 [Sphingopyxis alaskensis RB2256]
+CATGACGTTTCCGTCAAC
+>Sala_0922 Score=5.1 Pos=-44 [Sphingopyxis alaskensis RB2256]
+GCTTACGTTAAGGTCAAT
+>Sala_1185(etfD) Score=4.7 Pos=-99 [Sphingopyxis alaskensis RB2256]
+GTTGACGGGCGCGTCAAT
+>Sala_1487(acdB3) Score=4.8 Pos=-41 [Sphingopyxis alaskensis RB2256]
+GTGAACGTAAAGGTAAAG
+>Sala_0922 Score=4.4 Pos=-50 [Sphingopyxis alaskensis RB2256]
+CTTTCCGCTTACGTTAAG
+>Sala_1487(acdB3) Score=5.9 Pos=-47 [Sphingopyxis alaskensis RB2256]
+CTTTACGTGAACGTAAAG
+>Sala_1639 Score=5.2 Pos=-35 [Sphingopyxis alaskensis RB2256]
+CTTGACGTTCACGTTAAG
+>Sala_1639 Score=5 Pos=-29 [Sphingopyxis alaskensis RB2256]
+GTTCACGTTAAGGGAAAG
+>Sala_2313(acdH5) Score=5.9 Pos=-36 [Sphingopyxis alaskensis RB2256]
+CTTGACGTTTACGTCAAC
+>Sala_0761 Score=4.8 Pos=-23 [Sphingopyxis alaskensis RB2256]
+GTTTACGTAAAGGGAGAG
+>Sala_0761 Score=6 Pos=-29 [Sphingopyxis alaskensis RB2256]
+CTTGACGTTTACGTAAAG
+>Sala_1247(acdH) Score=5.9 Pos=-64 [Sphingopyxis alaskensis RB2256]
+CTTGACGTTTACGTCAAC
+>Sala_1247(acdH) Score=5.1 Pos=-58 [Sphingopyxis alaskensis RB2256]
+GTTTACGTCAACGTCGGG
+>Sala_1104(acdL2) Score=5.4 Pos=-64 [Sphingopyxis alaskensis RB2256]
+CTTGCCGTTTACGTAAAG
+>Sala_1104(acdL2) Score=5.1 Pos=-58 [Sphingopyxis alaskensis RB2256]
+GTTTACGTAAAGGTGAGC
+>Sala_3077(acdQ) Score=5.5 Pos=-63 [Sphingopyxis alaskensis RB2256]
+GTTGACGCTTGCGTAAAG
+>Sala_0583(acdB4) Score=5.6 Pos=-75 [Sphingopyxis alaskensis RB2256]
+CCTTACGTTTACGTAAAG
+>Sala_3159(acdH3) Score=5.5 Pos=-87 [Sphingopyxis alaskensis RB2256]
+GTGGACGTAAACGTAAGG
+>Sala_3159(acdH3) Score=5.4 Pos=-93 [Sphingopyxis alaskensis RB2256]
+CTTGACGTGGACGTAAAC
+>Sala_0178(etfB) Score=5.4 Pos=-60 [Sphingopyxis alaskensis RB2256]
+GTTTACGTAAGCGCAAAT
+>Sala_0178(etfB) Score=5.9 Pos=-66 [Sphingopyxis alaskensis RB2256]
+GTTGACGTTTACGTAAGC
+>Sala_3074(acdH4) Score=6 Pos=-34 [Sphingopyxis alaskensis RB2256]
+GTTTACGTGAACGTAAAG
+>Sala_3074(acdH4) Score=4.4 Pos=-28 [Sphingopyxis alaskensis RB2256]
+GTGAACGTAAAGGGAAAG
+>Sala_1538(liuR) Score=5.3 Pos=-1 [Sphingopyxis alaskensis RB2256]
+ATTGACGTTCACGTCAAC
+>Sala_1538(liuR) Score=5.3 Pos=5 [Sphingopyxis alaskensis RB2256]
+GTTCACGTCAACGGAAAC
+>Sala_0297 Score=5.9 Pos=-56 [Sphingopyxis alaskensis RB2256]
+GTTGACGTAAACGTCAAT
+>Sala_1808(acdB2) Score=6.2 Pos=-54 [Sphingopyxis alaskensis RB2256]
+GTTGACGTAAACGTCAAC
+>Sala_0379 Score=6 Pos=-41 [Sphingopyxis alaskensis RB2256]
+CTTGACGTTAACGTCAAC
+>Sala_1854 Score=5.2 Pos=-30 [Sphingopyxis alaskensis RB2256]
+GTTTCCGTCAACGTAAGC
+>SJA_C1-12520(fadD) Score=5.3 Pos=-44 [Sphingobium japonicum UT26S]
+CTTTACGCTTGCGTAAAG
+>SJA_C1-12520(fadD) Score=4.5 Pos=-38 [Sphingobium japonicum UT26S]
+GCTTGCGTAAAGGGAAAG
+>SJA_C1-17900 Score=5.3 Pos=-50 [Sphingobium japonicum UT26S]
+GTTTTCGTAAACGGAAAC
+>SJA_C1-20790(fadA) Score=5.9 Pos=-66 [Sphingobium japonicum UT26S]
+CTTTACGTAAACGTAAAT
+>SJA_C1-09700(liuR) Score=6.1 Pos=-37 [Sphingobium japonicum UT26S]
+CTTGACGTAAACGTAAAG
+>SJA_C1-17900 Score=5.8 Pos=-56 [Sphingobium japonicum UT26S]
+GTTGACGTTTTCGTAAAC
+>Swit_4100(etfD) Score=4.7 Pos=-90 [Sphingomonas wittichii RW1]
+GTTGACGAAGGCGTCAAT

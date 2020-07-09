@@ -1,0 +1,36 @@
+>SAG0431(sczA) Score=6.1 Pos=-36 [Streptococcus agalactiae 2603V/R]
+TGTTCAATACTGAACA
+>SAG0430 Score=6.1 Pos=-111 [Streptococcus agalactiae 2603V/R]
+TGTTCAGTATTGAACA
+>SGO_0088(sczA) Score=4.3 Pos=-119 [Streptococcus gordonii str. Challis substr. CH1]
+TATTCAAAAGCAAACA
+>SGO_0930(czcD) Score=5.7 Pos=-113 [Streptococcus gordonii str. Challis substr. CH1]
+TGTTCAGAACTGTACA
+>SGO_0929(sczA) Score=5.7 Pos=76 [Streptococcus gordonii str. Challis substr. CH1]
+TGTACAGTTCTGAACA
+>SGO_0089 Score=4.3 Pos=-56 [Streptococcus gordonii str. Challis substr. CH1]
+TGTTTGCTTTTGAATA
+>smi_0517(sczA) Score=5.8 Pos=-35 [Streptococcus mitis B6]
+TATTCAGTTCTGAACA
+>smi_0518(czcD) Score=5.8 Pos=-113 [Streptococcus mitis B6]
+TGTTCAGAACTGAATA
+>SP_1858(sczA) Score=5.8 Pos=-35 [Streptococcus pneumoniae TIGR4]
+TATTCAGTTCTGAACA
+>SP_1857(czcD) Score=5.8 Pos=-104 [Streptococcus pneumoniae TIGR4]
+TGTTCAGAACTGAATA
+>SPy0846(sczA) Score=5.7 Pos=-36 [Streptococcus pyogenes M1 GAS]
+TGTTCAATAGTGAACA
+>SPy0845(czcD) Score=5.7 Pos=-115 [Streptococcus pyogenes M1 GAS]
+TGTTCACTATTGAACA
+>SSA_2321(czcD) Score=4.3 Pos=-75 [Streptococcus sanguinis SK36]
+TGAAGAAAACTGAACA
+>SSA_2322(sczA) Score=4.3 Pos=-128 [Streptococcus sanguinis SK36]
+TAATCAAAACGGAACA
+>SSA_2322(sczA) Score=4.3 Pos=-109 [Streptococcus sanguinis SK36]
+TGTTCAGTTTTCTTCA
+>SSA_2321(czcD) Score=4.3 Pos=-56 [Streptococcus sanguinis SK36]
+TGTTCCGTTTTGATTA
+>str0931(sczA) Score=5.3 Pos=-35 [Streptococcus thermophilus CNRZ1066]
+TGTACGTTACTGAACA
+>str0932(czcD) Score=5.3 Pos=-114 [Streptococcus thermophilus CNRZ1066]
+TGTTCAGTAACGTACA

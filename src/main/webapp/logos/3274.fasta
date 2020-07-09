@@ -1,0 +1,48 @@
+>SMb20759(phnG) Score=6.2 Pos=-31 [Sinorhizobium meliloti 1021]
+TTGTCTAGATCAATAGACAT
+>SM_b20758(phnF) Score=6.2 Pos=-111 [Sinorhizobium meliloti 1021]
+ATGTCTATTGATCTAGACAA
+>NGR_b21010(phnG) Score=6.2 Pos=-34 [Rhizobium sp. NGR234]
+TTGTCTAGATCAATAGACAT
+>NGR_b21000(phnF) Score=6.2 Pos=-73 [Rhizobium sp. NGR234]
+ATGTCTATTGATCTAGACAA
+>RL0177(phnG) Score=6.4 Pos=-36 [Rhizobium leguminosarum bv. viciae 3841]
+TTGTCTATATCAATAGACAT
+>RL0178(phnF) Score=6.4 Pos=-101 [Rhizobium leguminosarum bv. viciae 3841]
+ATGTCTATTGATATAGACAA
+>RHE_CH00167(phnG) Score=6.4 Pos=-35 [Rhizobium etli CFN 42]
+TTGTCTATATCAATAGACAT
+>RHE_CH00168(phnF) Score=6.4 Pos=-94 [Rhizobium etli CFN 42]
+ATGTCTATTGATATAGACAA
+>Atu0181(phnG) Score=6.4 Pos=-33 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTGTCTATATCAATAGACAT
+>Atu0182(phnF) Score=6.4 Pos=-69 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATGTCTATTGATATAGACAA
+>mlr3342(phnG) Score=6.6 Pos=-44 [Mesorhizobium loti MAFF303099]
+TTGTCTATATCAATAGACAA
+>mll3341(phnF) Score=6.7 Pos=-96 [Mesorhizobium loti MAFF303099]
+TTGTCTATTGATATAGACAA
+>BMEI0881(phnF) Score=6.6 Pos=-70 [Brucella melitensis 16M]
+TTGTCTATTTATATAGATAA
+>BMEI0882(phnN) Score=6.1 Pos=-136 [Brucella melitensis 16M]
+TTATCTATATAAATAGACAA
+>RPA0695(phnG) Score=6.5 Pos=-39 [Rhodopseudomonas palustris CGA009]
+TTGTCTATTAACATAGACAA
+>RPA0696(phnF) Score=6.5 Pos=-92 [Rhodopseudomonas palustris CGA009]
+TTGTCTATGTTAATAGACAA
+>blr1221(phnG) Score=6 Pos=6 [Bradyrhizobium japonicum USDA 110]
+TTGTCTACTATCATAGACAA
+>bll1220(phnF) Score=6 Pos=-88 [Bradyrhizobium japonicum USDA 110]
+TTGTCTATGATAGTAGACAA
+>BBta_5848(phnG) Score=6.4 Pos=-72 [Bradyrhizobium sp. BTAi1]
+TTGTCTATTATCATAGACAA
+>BBta_5849(phnF) Score=6.4 Pos=-91 [Bradyrhizobium sp. BTAi1]
+TTGTCTATGATAATAGACAA
+>AZC_3391(phnF) Score=4.6 Pos=-63 [Azorhizobium caulinodans ORS 571]
+TTGTATAAAAGTCTATACAA
+>AZC_3391(phnF) Score=4.8 Pos=-55 [Azorhizobium caulinodans ORS 571]
+AAGTCTATACAAATAGGCAA
+>Xaut_1316(phnG) Score=5.6 Pos=-104 [Xanthobacter autotrophicus Py2]
+TTGTCTATTTGTCTAGACTA
+>Xaut_1317(phnF) Score=5.5 Pos=-47 [Xanthobacter autotrophicus Py2]
+TAGTCTAGACAAATAGACAA

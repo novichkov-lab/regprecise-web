@@ -1,0 +1,76 @@
+>SMc00912(groS) Score=6.7 Pos=-85 [Sinorhizobium meliloti 1021]
+CTAGCACTCGCTTGATATGAGTGCTAA
+>SMa0745(groS) Score=6.9 Pos=-83 [Sinorhizobium meliloti 1021]
+CTAGCACTCTCGCGTGAAGAGTGCTAA
+>NGR_c04090(groS) Score=6.8 Pos=-85 [Rhizobium sp. NGR234]
+CTAGCACTCTTTAAGAAGGAGTGCTAA
+>NGR_b05110(groS) Score=6.8 Pos=-175 [Rhizobium sp. NGR234]
+TTAGCACTCCATGTGATGGAGTGCTAA
+>NGR_b05810(groS) Score=6.8 Pos=-178 [Rhizobium sp. NGR234]
+GTAGCACTCTCAAGTGGCGAGTGCTAA
+>RL0884(groS) Score=6.9 Pos=-85 [Rhizobium leguminosarum bv. viciae 3841]
+CTAGCACTCACCGCAAGGGAGTGCTAA
+>RL1410(groS) Score=6.1 Pos=-81 [Rhizobium leguminosarum bv. viciae 3841]
+TTGGCACTCCTATCAATCGAGTGCCAC
+>pRL120643(groS) Score=6.8 Pos=-172 [Rhizobium leguminosarum bv. viciae 3841]
+CTAGCACTCGCGGGCAGGGAGTGCCAA
+>RHE_CH00829(groS) Score=6.9 Pos=-85 [Rhizobium etli CFN 42]
+CTAGCACTCACCGCAAGGGAGTGCTAA
+>RHE_CH01270(groS) Score=6.1 Pos=-81 [Rhizobium etli CFN 42]
+TTGGCACTCCTATCAATCGAGTGCCAC
+>RHE_PF00329(groS) Score=6.8 Pos=-169 [Rhizobium etli CFN 42]
+TTAGCAGTCGTCGATAGAGAGTGCTAA
+>RHE_CH01238(groS) Score=6 Pos=-177 [Rhizobium etli CFN 42]
+TTAGCAGCCACTTCGAGTGAGTGCTAA
+>Atu0683(groS) Score=6.6 Pos=-85 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTGGCACTCCAACAAGGGGAGTGCTAA
+>Meso_0358(groS) Score=7.2 Pos=-94 [Mesorhizobium sp. BNC1]
+TTAGCACTCTCCTACAGCGAGTGCTAA
+>Meso_3096(groS) Score=6.9 Pos=-167 [Mesorhizobium sp. BNC1]
+TTGGCACTCTCAATAGGTGAGTGCTAA
+>mll8202(groS) Score=7.2 Pos=-91 [Mesorhizobium loti MAFF303099]
+TTAGCACTCGCCCTTGGTGAGTGCTAA
+>msl5812(groS) Score=7.2 Pos=-79 [Mesorhizobium loti MAFF303099]
+TTAGCACTCCCCAATAGCGAGTGCTAA
+>msr9341(groS) Score=7.1 Pos=-81 [Mesorhizobium loti MAFF303099]
+TTAGCACTCGCCTCTGCCGAGTGCTAA
+>mlr2393(groS) Score=6.7 Pos=-183 [Mesorhizobium loti MAFF303099]
+CTAGCACTCTCGCACGCCGAGTGCCAA
+>mll2233(groS) Score=6.5 Pos=-80 [Mesorhizobium loti MAFF303099]
+TTGGCACTCCTATCTATCGAGTGCCAA
+>BMEII1047(groS) Score=6.7 Pos=-87 [Brucella melitensis 16M]
+TTAGCACTCGGACGAATAGAGTGCTAA
+>BQ10760(groS) Score=6.9 Pos=-76 [Bartonella quintana str. Toulouse]
+TTAGCACTCTCCAACTATGAGTGCTAA
+>RPA1141(groS) Score=6.5 Pos=-109 [Rhodopseudomonas palustris CGA009]
+TTAGCACTCTTGCAGTACGACTGCCAA
+>RPA2165(groS) Score=6.2 Pos=-69 [Rhodopseudomonas palustris CGA009]
+CTGGCACTCTTCGCCCGCGACTGCCAA
+>bsr7532(groS) Score=6.5 Pos=-119 [Bradyrhizobium japonicum USDA 110]
+TTAGCACTCGGAAAGCCCGATTGCTAA
+>blr5625(groS) Score=6.4 Pos=-70 [Bradyrhizobium japonicum USDA 110]
+CTAGCACTCGCGGGCACAGACTGCTAA
+>blr6978(groS) Score=5.5 Pos=-59 [Bradyrhizobium japonicum USDA 110]
+TCAGCACTCGCTAGCTTCGACTGCTAT
+>blr5226(groS) Score=5.4 Pos=-137 [Bradyrhizobium japonicum USDA 110]
+TTGGCAGTCAGACGGCCGGAGTGACAA
+>BBta_1672(groS) Score=6.5 Pos=-126 [Bradyrhizobium sp. BTAi1]
+TTAGCACTCGGAGGGCACGATTGCTAA
+>BBta_5284(groS) Score=6.4 Pos=-71 [Bradyrhizobium sp. BTAi1]
+CTGGCACTCGCCGGCAGCGACTGCCAA
+>BBta_3033(groS) Score=6.1 Pos=-143 [Bradyrhizobium sp. BTAi1]
+CTGGCAATCGTTCCCACCGAGTGCCAA
+>Nwi_2114(groS) Score=5.8 Pos=-144 [Nitrobacter winogradskyi Nb-255]
+TTGGCGCTCCAGGGCGCGGAGTGCCAA
+>Nwi_2573(groS) Score=6 Pos=-117 [Nitrobacter winogradskyi Nb-255]
+GTGGCACTCTCGCAATACGATTGCCAA
+>Nwi_2191(groS) Score=5.8 Pos=-70 [Nitrobacter winogradskyi Nb-255]
+CTGGCACTCGCTGGTATTGACTGCCAG
+>AZC_2311(groS) Score=6.7 Pos=-184 [Azorhizobium caulinodans ORS 571]
+TTGGCACTCATGGGAGAGGAGTGCTAA
+>AZC_0425(groS) Score=6.5 Pos=-71 [Azorhizobium caulinodans ORS 571]
+TTGGCACTCCCATCCGGTGAGTGCCAG
+>Xaut_4265(groS) Score=6.8 Pos=-138 [Xanthobacter autotrophicus Py2]
+CTAGCACTCCACATCCGCGAGTGCTAA
+>Xaut_1165(groS) Score=6.6 Pos=-71 [Xanthobacter autotrophicus Py2]
+TTGGCACTCCACCTTGGAGAGTGCCAG

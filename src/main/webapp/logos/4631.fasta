@@ -1,0 +1,38 @@
+>SAG1800(sgaG) Score=5.4 Pos=-92 [Streptococcus agalactiae 2603V/R]
+AACACATAAATGTGTG
+>SAG1815(sgaT) Score=4.2 Pos=-100 [Streptococcus agalactiae 2603V/R]
+CACACTTAAGTGTGTA
+>SDEG_2006(sgaG) Score=5.5 Pos=-94 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AACACAGAACTGTGTG
+>SDEG_2013(sgaT) Score=5 Pos=-104 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AACACTTCTTTGTGTG
+>Sez_0175(sgaG) Score=5.1 Pos=-92 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AACACAAGAGTGTGTG
+>Sez_0168(sgaT) Score=5.4 Pos=-105 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AACACATTACTGTGTG
+>GALLO_2127(sgaT) Score=5 Pos=-100 [Streptococcus gallolyticus UCN34]
+CACACTTCCTTGTGTT
+>smi_0226(sgaG) Score=5.7 Pos=-94 [Streptococcus mitis B6]
+AACACAAACCTGTGTT
+>SMU.290(sgaG) Score=5.7 Pos=-100 [Streptococcus mutans UA159]
+AACACAAGCTTGTGTT
+>SMU.270(sgaT) Score=5.3 Pos=-101 [Streptococcus mutans UA159]
+AACACTTGTATGTGTG
+>SP_2031(sgaG) Score=5.7 Pos=-94 [Streptococcus pneumoniae TIGR4]
+AACACAAACCTGTGTT
+>SPy0182(sgaG) Score=5.6 Pos=-95 [Streptococcus pyogenes M1 GAS]
+AACACAGATCTGTGTG
+>SPy0174(sgaT) Score=5 Pos=-110 [Streptococcus pyogenes M1 GAS]
+AACACTTCTTTGTGTG
+>SSA_2076(sgaG) Score=5.8 Pos=-96 [Streptococcus sanguinis SK36]
+AACACAGACCTGTGTT
+>SSA_2093(sgaT) Score=3.9 Pos=-99 [Streptococcus sanguinis SK36]
+AACAGTCGCCTGTGTA
+>SSU05_2055(sgaG) Score=5.7 Pos=-92 [Streptococcus suis 05ZYH33]
+AACACAAGCCTGTGTT
+>SSU05_2063(sgaT) Score=5.2 Pos=-93 [Streptococcus suis 05ZYH33]
+AACACAAGCCTGTGCT
+>SUB1720(sgaG) Score=5.3 Pos=-92 [Streptococcus uberis 0140J]
+AACACTTACATGTGTG
+>SUB1727(sgaT) Score=5.5 Pos=-105 [Streptococcus uberis 0140J]
+AACACAGAACTGTGTG

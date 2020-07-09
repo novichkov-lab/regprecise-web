@@ -1,0 +1,48 @@
+>LACR_0831(metB2) Score=4.8 Pos=-80 [Lactococcus lactis subsp. cremoris SK11]
+GACATAGCATTTTCTTATGGC
+>L0100(metE) Score=4.3 Pos=-99 [Lactococcus lactis subsp. lactis Il1403]
+CATATAGTTTAAAACTATAGG
+>L0181(metB2) Score=6 Pos=-79 [Lactococcus lactis subsp. lactis Il1403]
+GCTATAAAAAAATCTTATAGC
+>GALLO_1768(metB) Score=5.9 Pos=-142 [Streptococcus gallolyticus UCN34]
+GTTATAGTTTTTACTTATAGC
+>GALLO_1277(GALLO_1277) Score=5.7 Pos=-113 [Streptococcus gallolyticus UCN34]
+GTTATAAAAAAATCTTATCAC
+>GALLO_1275(tcyD) Score=5.6 Pos=-104 [Streptococcus gallolyticus UCN34]
+GCTATAAGCAAATCTTATGGC
+>GALLO_1316(metE) Score=5.2 Pos=-172 [Streptococcus gallolyticus UCN34]
+GTTATAGTTAAAAACTATAAT
+>SGO_0310(metE) Score=4.6 Pos=-99 [Streptococcus gordonii str. Challis substr. CH1]
+GATATAGTTTTTGGCTATATC
+>SGO_0310(metE) Score=5.2 Pos=-182 [Streptococcus gordonii str. Challis substr. CH1]
+GTTATAGTTTTTGATTATACC
+>smi_1600(metE) Score=4.8 Pos=-101 [Streptococcus mitis B6]
+GATATAGTTTCAAACTATATC
+>SMU.930c(GALLO_1277) Score=5.2 Pos=-110 [Streptococcus mutans UA159]
+GCCATAAGAAAAAGTTATCAC
+>SMU.932(tcyD) Score=5.2 Pos=-168 [Streptococcus mutans UA159]
+GTGATAACTTTTTCTTATGGC
+>SMU.932(tcyD) Score=6.1 Pos=-103 [Streptococcus mutans UA159]
+GTCATAAATAAAATTTATAGC
+>SMU.1675(metB) Score=4.9 Pos=-110 [Streptococcus mutans UA159]
+CTTATAGTTTCTTTTTATAGC
+>SMU.930c(GALLO_1277) Score=6.1 Pos=-175 [Streptococcus mutans UA159]
+GCTATAAATTTTATTTATGAC
+>SMU.873(metE) Score=5.4 Pos=-188 [Streptococcus mutans UA159]
+GTTATAGATGAAAACTATAAC
+>SP_0585(metE) Score=5 Pos=-218 [Streptococcus pneumoniae TIGR4]
+CTTATAAGAATTACTAATAAC
+>SP_0585(metE) Score=5 Pos=-251 [Streptococcus pneumoniae TIGR4]
+GTTATAGTCTTTTCTAATAAC
+>SSA_0416(metE) Score=5.3 Pos=-182 [Streptococcus sanguinis SK36]
+GTCATAATTTCTACCTATAGC
+>SSA_0416(metE) Score=5.2 Pos=-99 [Streptococcus sanguinis SK36]
+GTTATAGTTTTAGACTATATC
+>SSU05_1774(metE) Score=4.7 Pos=-237 [Streptococcus suis 05ZYH33]
+TTCATAGATAAAATCTATACC
+>SSU05_1774(metE) Score=4.8 Pos=-101 [Streptococcus suis 05ZYH33]
+GTTATAGTCAAAAGTTATACC
+>str0352(metB) Score=5.4 Pos=-132 [Streptococcus thermophilus CNRZ1066]
+GTTATAGTAATAAACTATATC
+>str0785(metE) Score=4.6 Pos=-60 [Streptococcus thermophilus CNRZ1066]
+GATATAGTTTAAAACTATATA

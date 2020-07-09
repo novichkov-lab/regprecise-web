@@ -1,0 +1,16 @@
+>SAV_6751(PF00892) Score=8 Pos=-16 [Streptomyces avermitilis MA-4680]
+GCTGCTACGCT---------------AGGATAGCGCT
+>SAV_6752(pdxQ) Score=8 Pos=-142 [Streptomyces avermitilis MA-4680]
+AGCGCTATCCT---------------AGCGTAGCAGC
+>SCO1588(PF00892) Score=7.9 Pos=-16 [Streptomyces coelicolor A3(2)]
+GCTGCTACGCT---------------AGAGTAGCGCT
+>SCO1587(pdxQ) Score=7.9 Pos=-55 [Streptomyces coelicolor A3(2)]
+AGCGCTACTCT---------------AGCGTAGCAGC
+>SGR_5945(PF00892) Score=8.1 Pos=-16 [Streptomyces griseus subsp. griseus NBRC 13350]
+GCTGCTACGCT---------------ACAATAGCGCT
+>SGR_5946(pdxQ) Score=8.1 Pos=-19 [Streptomyces griseus subsp. griseus NBRC 13350]
+AGCGCTATTGT---------------AGCGTAGCAGC
+>SCAB_74101(PF00892) Score=8.3 Pos=-85 [Streptomyces scabiei 87.22]
+ACTGCTACGCT---------------AGAGTAGCGCT
+>SCAB_74111(pdxQ) Score=8.3 Pos=-19 [Streptomyces scabiei 87.22]
+AGCGCTACTCT---------------AGCGTAGCAGT

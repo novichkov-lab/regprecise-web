@@ -1,0 +1,50 @@
+>BACCELL_03973(zntA) Score=5.9 Pos=-61 [Bacteroides cellulosilyticus DSM 14838]
+TTGCAACCCAGTTGCAT
+>BACCELL_01043(czcB) Score=5.2 Pos=-71 [Bacteroides cellulosilyticus DSM 14838]
+CTGCAACTTTATTGCAG
+>BACCELL_04342(omp_Zn) Score=6 Pos=-62 [Bacteroides cellulosilyticus DSM 14838]
+TTGCAACCTTGTTGCAT
+>BACCOPRO_03123(zur) Score=5.9 Pos=-59 [Bacteroides coprophilus DSM 18228]
+TTGCAACCCGGTTGCAA
+>BACCOPRO_03244(czcB) Score=5.7 Pos=-102 [Bacteroides coprophilus DSM 18228]
+TTGCAACCTGCTTGCAA
+>BACDOR_04615(copA) Score=5.7 Pos=-69 [Bacteroides dorei DSM 17855]
+TTGCAACAAGATTGCAT
+>BACDOR_03936(zntA) Score=5.8 Pos=-58 [Bacteroides dorei DSM 17855]
+TTGCAATTTAGTTGCAT
+>BACDOR_03390(czcB) Score=5.3 Pos=-141 [Bacteroides dorei DSM 17855]
+CCGCAACTTTGTTGCAT
+>BACEGG_01379(zntA) Score=6.1 Pos=-115 [Bacteroides eggerthii DSM 20697]
+TTGCAACTTGGTTGCAT
+>BACEGG_00329(czcB) Score=5.9 Pos=-71 [Bacteroides eggerthii DSM 20697]
+ATGCAACTTGGTTGCAC
+>BF1283(zntA) Score=5.8 Pos=-64 [Bacteroides fragilis NCTC 9343]
+TTGCAACTTTGTTGCAC
+>BACOVA_04045(omp_Zn) Score=6.1 Pos=-61 [Bacteroides ovatus ATCC 8483]
+ATGCAACTAAGTTGCAT
+>BACOVA_01601(zntA) Score=6 Pos=-46 [Bacteroides ovatus ATCC 8483]
+TTGCAACTTTGTTGCAT
+>BACOVA_00676(czcB) Score=5.6 Pos=-80 [Bacteroides ovatus ATCC 8483]
+ATGCAAATTAGTTGCAT
+>BACPLE_01608(czcB) Score=5.6 Pos=-20 [Bacteroides plebeius DSM 17135]
+TTGCAACCTGTTTGCAA
+>BACSTE_01593(zntA) Score=6.1 Pos=-56 [Bacteroides stercoris ATCC 43183]
+TTGCAACCTGGTTGCAT
+>BACSTE_03132(czcB) Score=5.7 Pos=-70 [Bacteroides stercoris ATCC 43183]
+ATGCAACCCGGTTGCAC
+>BT1139(omp_Zn) Score=5.9 Pos=-77 [Bacteroides thetaiotaomicron VPI-5482]
+ATGCAACTCAGTTGCAA
+>BT2512(zntA) Score=5.8 Pos=-56 [Bacteroides thetaiotaomicron VPI-5482]
+TTGCAACTTTGTTGCAC
+>BT2038(czcB) Score=5.7 Pos=-78 [Bacteroides thetaiotaomicron VPI-5482]
+ATGCAAGCAAGTTGCAT
+>BACUNI_04663(zntA) Score=6.1 Pos=-67 [Bacteroides uniformis ATCC 8492]
+TTGCAACCAAGTTGCAT
+>BACUNI_01632(czcB) Score=5.6 Pos=-70 [Bacteroides uniformis ATCC 8492]
+ATGCAATTTGGTTGCAC
+>BVU_3023(copA) Score=5.7 Pos=-69 [Bacteroides vulgatus ATCC 8482]
+TTGCAACAAGATTGCAT
+>BVU_2484(zntA) Score=5.8 Pos=-58 [Bacteroides vulgatus ATCC 8482]
+TTGCAATTTAGTTGCAT
+>BVU_2035(czcB) Score=5.3 Pos=-70 [Bacteroides vulgatus ATCC 8482]
+CCGCAACTTTGTTGCAT

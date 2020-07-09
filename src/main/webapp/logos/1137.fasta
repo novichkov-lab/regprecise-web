@@ -1,0 +1,62 @@
+>b0162(sdaR) Score=5.3 Pos=-69 [Escherichia coli str. K-12 substr. MG1655]
+CTTTAGGCATTTGCACAATG
+>b2789(gudP) Score=4.7 Pos=-385 [Escherichia coli str. K-12 substr. MG1655]
+TTTCAGGCAAATGCCAGTAA
+>b3128(garD) Score=4.5 Pos=-250 [Escherichia coli str. K-12 substr. MG1655]
+CATTGTGCAAATGCTAATTT
+>b3128(garD) Score=6 Pos=-208 [Escherichia coli str. K-12 substr. MG1655]
+TTTTGAGCATATGCACATAA
+>b3127(garP) Score=4.5 Pos=-144 [Escherichia coli str. K-12 substr. MG1655]
+AAATTAGCATTTGCACAATG
+>b3127(garP) Score=6 Pos=-186 [Escherichia coli str. K-12 substr. MG1655]
+TTATGTGCATATGCTCAAAA
+>STM2962(gudP) Score=5.5 Pos=-376 [Salmonella typhimurium LT2]
+CTTTGTGCATATGCCCGCAA
+>STM0210(sdaR) Score=5.8 Pos=-71 [Salmonella typhimurium LT2]
+TTTTGTGCATTTGCACAATG
+>STM3250(garD) Score=4.8 Pos=-276 [Salmonella typhimurium LT2]
+CATTGTGCAAACGCTCATTA
+>STM3250(garD) Score=5.1 Pos=-233 [Salmonella typhimurium LT2]
+TTTTGAGCATACGCCCATGA
+>STM3249(garL) Score=5.1 Pos=-316 [Salmonella typhimurium LT2]
+TCATGGGCGTATGCTCAAAA
+>STM3249(garL) Score=4.8 Pos=-273 [Salmonella typhimurium LT2]
+TAATGAGCGTTTGCACAATG
+>CKO_03205(sdaR) Score=5.1 Pos=-17 [Citrobacter koseri ATCC BAA-895]
+GTTTGTGCAGATGCACAATG
+>CKO_04143(gudP) Score=4.9 Pos=-388 [Citrobacter koseri ATCC BAA-895]
+CATCAGGCATTTGCCCTAAA
+>CKO_04527(garD) Score=5.6 Pos=-223 [Citrobacter koseri ATCC BAA-895]
+TTTTGAGCATTTGCACAACG
+>CKO_04523(garL) Score=5.6 Pos=-203 [Citrobacter koseri ATCC BAA-895]
+CGTTGTGCAAATGCTCAAAA
+>KPN_03132(gudP) Score=4.4 Pos=-376 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTTTAGGCAAACGCCACAAT
+>KPN_00177(sdaR) Score=5.4 Pos=-17 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTTAGTGCAAATGCACAATG
+>KPN_03540(garD) Score=4.7 Pos=-206 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AATTGTGCTTATGCCATAAG
+>KPN_03539(garP) Score=4.7 Pos=-206 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTTATGGCATAAGCACAATT
+>KPN_03132(gudP) Score=4.6 Pos=-221 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTCAGGCATTCGCCACAAA
+>Ent638_0702(sdaR) Score=5.3 Pos=-71 [Enterobacter sp. 638]
+CTTTGTGCATTCGCACAATG
+>Ent638_3242(gudP) Score=4.9 Pos=-240 [Enterobacter sp. 638]
+CGTTGTGCTTATGCCTCAAA
+>Ent638_3570(garD) Score=5.4 Pos=-224 [Enterobacter sp. 638]
+ATTTGAGCATATGCACAACC
+>Ent638_3569(garP) Score=5.4 Pos=-208 [Enterobacter sp. 638]
+GGTTGTGCATATGCTCAAAT
+>ECA3300(sdaR) Score=4.3 Pos=-80 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTTTGTTAATTTGCACAATG
+>ECA3577(gudP) Score=4.2 Pos=-440 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CATTATGCAATTGACCTAAG
+>ECA3577(gudP) Score=4.6 Pos=-264 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TATAGGGCAAGTGCACCAAC
+>ECA3576(gudX) Score=4.1 Pos=-358 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGCTGGGCTATTGCCCAATG
+>ECA3578(garD) Score=4.2 Pos=-140 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTTAGGTCAATTGCATAATG
+>ECA3578(garD) Score=4.6 Pos=-316 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTTGGTGCACTTGCCCTATA

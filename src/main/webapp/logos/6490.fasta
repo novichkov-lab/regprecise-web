@@ -1,0 +1,52 @@
+>AAur_3061(PF00324) Score=5 Pos=-93 [Arthrobacter aurescens TC1]
+CGTCTCACTATCTGGGATA
+>AAur_2487(ltbR) Score=5.6 Pos=-11 [Arthrobacter aurescens TC1]
+CATCTCAGATATTGAGACG
+>AAur_2486(leuC) Score=5.6 Pos=-153 [Arthrobacter aurescens TC1]
+CGTCTCAATATCTGAGATG
+>Achl_2257(ltbR) Score=5.6 Pos=-32 [Arthrobacter chlorophenolicus A6]
+CATCTCAGATAATGAGACG
+>Achl_2785(PF00324) Score=5.4 Pos=-92 [Arthrobacter chlorophenolicus A6]
+CGTCTCACTATTCGGGACG
+>Achl_2256(leuC) Score=5.6 Pos=-100 [Arthrobacter chlorophenolicus A6]
+CGTCTCATTATCTGAGATG
+>Arth_3085(PF00324) Score=4.7 Pos=-96 [Arthrobacter sp. FB24]
+CGTCTCACTATCCGGGATA
+>Arth_2520(ltbR) Score=5.6 Pos=-32 [Arthrobacter sp. FB24]
+CATCTCAGATATTGAGACG
+>Arth_2519(leuC) Score=5.6 Pos=-99 [Arthrobacter sp. FB24]
+CGTCTCAATATCTGAGATG
+>Bcav_1572(ltbR) Score=5.7 Pos=-32 [Beutenbergia cavernae DSM 12333]
+CGTCTCATGGTGCGAGACG
+>Bcav_1573(leuC) Score=5.7 Pos=-89 [Beutenbergia cavernae DSM 12333]
+CGTCTCGCACCATGAGACG
+>Bcav_1408(ilvB) Score=4.9 Pos=-222 [Beutenbergia cavernae DSM 12333]
+GGTCCCAGGATGCGAGACG
+>Bfae_18570(ltbR) Score=5.1 Pos=-32 [Brachybacterium faecium DSM 4810]
+CGTCTCACAAAACAAGACG
+>Bfae_18560(leuC) Score=5.1 Pos=-129 [Brachybacterium faecium DSM 4810]
+CGTCTTGTTTTGTGAGACG
+>BlinB01001039(ltbR) Score=4.8 Pos=-34 [Brevibacterium linens BL2]
+CATCTCGCCCACTGAGACG
+>BlinB01001040(leuC) Score=4.8 Pos=-183 [Brevibacterium linens BL2]
+CGTCTCAGTGGGCGAGATG
+>BlinB01001178(ilvB) Score=5 Pos=-215 [Brevibacterium linens BL2]
+AGTCCCATTCTGCGAGACG
+>JNB_19473(ltbR) Score=5.4 Pos=-32 [Janibacter sp. HTCC2649]
+CGTCTCACGGCTTGGGACG
+>JNB_19478(leuC) Score=5.4 Pos=-104 [Janibacter sp. HTCC2649]
+CGTCCCAAGCCGTGAGACG
+>JNB_19268(ilvB) Score=4.4 Pos=-253 [Janibacter sp. HTCC2649]
+CGTCTCACACGTTGACACA
+>KRH_10310(ltbR) Score=5.1 Pos=-32 [Kocuria rhizophila DC2201]
+CTTCTCGCATTTTGAGACT
+>KRH_10210(ilvB) Score=5.3 Pos=-283 [Kocuria rhizophila DC2201]
+GGTTTCACGATGTGAGACG
+>KRH_10320(leuC) Score=5.1 Pos=-138 [Kocuria rhizophila DC2201]
+AGTCTCAAAATGCGAGAAG
+>RSal33209_1791(ltbR) Score=5.8 Pos=-32 [Renibacterium salmoninarum ATCC 33209]
+CATCTCATATTCTGAGACG
+>RSal33209_1790(leuC) Score=5.8 Pos=-86 [Renibacterium salmoninarum ATCC 33209]
+CGTCTCAGAATATGAGATG
+>RSal33209_0843(PF00324) Score=5.5 Pos=-96 [Renibacterium salmoninarum ATCC 33209]
+TGTCTCAAGATGTGAGACG

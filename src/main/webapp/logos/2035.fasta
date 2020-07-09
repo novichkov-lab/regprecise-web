@@ -1,0 +1,46 @@
+>HI0145(nanE) Score=4.8 Pos=-163 [Haemophilus influenzae Rd KW20]
+TATGAAAAAACACTTCAAA
+>HI0146(siaP) Score=4.8 Pos=-205 [Haemophilus influenzae Rd KW20]
+TTTGAAGTGTTTTTTCATA
+>NT05HA_0544(siaP) Score=5.3 Pos=-117 [Aggregatibacter aphrophilus NJ8700]
+TTTGAAATAAAACTTCATT
+>NT05HA_0544(siaP) Score=4.8 Pos=-156 [Aggregatibacter aphrophilus NJ8700]
+TTTGAAGTGATATTTCAAA
+>NT05HA_0545(nanE) Score=4.8 Pos=-117 [Aggregatibacter aphrophilus NJ8700]
+TTTGAAATATCACTTCAAA
+>NT05HA_0545(nanE) Score=5.3 Pos=-156 [Aggregatibacter aphrophilus NJ8700]
+AATGAAGTTTTATTTCAAA
+>PM0875(nagB) Score=4.1 Pos=-99 [Pasteurella multocida subsp. multocida str. Pm70]
+ATTGAAAAAAAAATTGATG
+>PM1709(siaP) Score=5.5 Pos=-125 [Pasteurella multocida subsp. multocida str. Pm70]
+TATGAAATAAAACTTCATT
+>PM1711(nanE) Score=4.6 Pos=-43 [Pasteurella multocida subsp. multocida str. Pm70]
+ATTGGAGTCAATCTTCTTT
+>HSM_1505(nagB) Score=5.2 Pos=-56 [Haemophilus somnus 2336]
+TCTGAAATAAAACTTCATT
+>HSM_1112(siaP) Score=4.4 Pos=-106 [Haemophilus somnus 2336]
+TCTGAAATAAAACTCTATA
+>HSM_1112(siaP) Score=4.1 Pos=-156 [Haemophilus somnus 2336]
+TTTGGTGTTTTACTCCAGA
+>HSM_1111(neuA) Score=4.1 Pos=-95 [Haemophilus somnus 2336]
+TCTGGAGTAAAACACCAAA
+>HSM_1111(neuA) Score=4.4 Pos=-145 [Haemophilus somnus 2336]
+TATAGAGTTTTATTTCAGA
+>APP7_1836(neuA) Score=4.4 Pos=-40 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AATGGTGTATTTATTCATA
+>APP7_0749(yhcH) Score=5.3 Pos=-86 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATTGAAGTATATCTTCATT
+>HD1852(nanE) Score=4.3 Pos=-125 [Haemophilus ducreyi 35000HP]
+ACAGAAAATTCACTTCTTT
+>HD1379(yhcH) Score=4.4 Pos=-86 [Haemophilus ducreyi 35000HP]
+ATTGGAGTAGGTTTTCATT
+>HAPS_2072(nagB) Score=5.3 Pos=-42 [Haemophilus parasuis SH0165]
+AATGAAGTTTTATTTCAAA
+>HAPS_0408(yhcH) Score=4.8 Pos=-80 [Haemophilus parasuis SH0165]
+TATGGAGTATATTTTCTTT
+>HAPS_0408(yhcH) Score=4.4 Pos=-153 [Haemophilus parasuis SH0165]
+AATCAAGTAAATTGTGATT
+>HAPS_1216(nanE) Score=4.6 Pos=-43 [Haemophilus parasuis SH0165]
+TTTGGAGTAAATTTTCTTT
+>HAPS_1216(nanE) Score=4.1 Pos=-191 [Haemophilus parasuis SH0165]
+AATCGATTAAAACTCGTTT

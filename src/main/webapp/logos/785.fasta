@@ -1,0 +1,128 @@
+>BSU38060(ywcJ) Score=6.4 Pos=-66 [Bacillus subtilis subsp. subtilis str. 168]
+ATTGTGAAATACTTCACAAT
+>BSU12280(yjlC) Score=6 Pos=-113 [Bacillus subtilis subsp. subtilis str. 168]
+ATTGTGCATGAATTCACAAT
+>BSU04480(ydbI) Score=5.1 Pos=-68 [Bacillus subtilis subsp. subtilis str. 168]
+TTTGTTATATAATTTACAAA
+>BSU03050(ldh) Score=6 Pos=-62 [Bacillus subtilis subsp. subtilis str. 168]
+AATGTGAAATACTTCACAAA
+>BSU03050(ldh) Score=6 Pos=-85 [Bacillus subtilis subsp. subtilis str. 168]
+TTTGTGAAGTGTTGCACAAT
+>BSU38760(cydA) Score=5.4 Pos=-53 [Bacillus subtilis subsp. subtilis str. 168]
+TTTGTGAAGTAGTGAGCAAA
+>BSU38760(cydA) Score=5.3 Pos=-85 [Bacillus subtilis subsp. subtilis str. 168]
+TTTGTGAATTACTGATCAAA
+>BSU38760(cydA) Score=5.8 Pos=-120 [Bacillus subtilis subsp. subtilis str. 168]
+TTTGTGAAATATTGAGCAAT
+>RBAM_012360(yjlC) Score=6 Pos=-110 [Bacillus amyloliquefaciens FZB42]
+ATTGTGCATGAATTCACAAT
+>RBAM_004810(ydbI) Score=5.1 Pos=-73 [Bacillus amyloliquefaciens FZB42]
+TTTGTTATATAATTTACAAT
+>RBAM_003290(ldh) Score=5.6 Pos=-59 [Bacillus amyloliquefaciens FZB42]
+AATGTGAAATACTTCACAAG
+>RBAM_003290(ldh) Score=6.3 Pos=-82 [Bacillus amyloliquefaciens FZB42]
+TTTGTGAAGTATTGCACAAT
+>RBAM_036010(cydA) Score=5.5 Pos=-44 [Bacillus amyloliquefaciens FZB42]
+TTTGTGAAATGTTGAGCAAT
+>RBAM_036010(cydA) Score=5 Pos=-76 [Bacillus amyloliquefaciens FZB42]
+TTTGTGAAATACCGAGCAAT
+>RBAM_036010(cydA) Score=5.5 Pos=-106 [Bacillus amyloliquefaciens FZB42]
+TTTGTGAAACATTGAGCAAA
+>BPUM_1837(yndG) Score=5.5 Pos=-35 [Bacillus pumilus SAFR-032]
+TATGTGAAACAATTCACATA
+>BPUM_0277(ldh) Score=5.7 Pos=-56 [Bacillus pumilus SAFR-032]
+AATGTGAAATACTTCACATA
+>BPUM_0277(ldh) Score=6.3 Pos=-79 [Bacillus pumilus SAFR-032]
+TTTGTGAAGTATTGCACAAT
+>BPUM_3519(cydA) Score=4.8 Pos=-68 [Bacillus pumilus SAFR-032]
+TTTGTGAAGTGGTGAGCATA
+>BPUM_3519(cydA) Score=5.6 Pos=-98 [Bacillus pumilus SAFR-032]
+TTTGTGAACCATTGAACAAA
+>BLi04135(ywcJ) Score=6.2 Pos=-89 [Bacillus licheniformis DSM 13]
+TTTGTGAAATGTTTCACAAT
+>BLi03392(ndh2) Score=4.9 Pos=-119 [Bacillus licheniformis DSM 13]
+AAAGTGAAGGGTTTCACAAA
+>BLi02193(yndG) Score=5.8 Pos=-32 [Bacillus licheniformis DSM 13]
+ATTGTGAATATATTCACAAA
+>BLi02135(yjlC) Score=6 Pos=-80 [Bacillus licheniformis DSM 13]
+TTTGTGCATAAATTCACAAA
+>BLi02132(pflB) Score=6 Pos=-119 [Bacillus licheniformis DSM 13]
+TTTGTTAACTATTTCACAAA
+>BLi00366(ldh) Score=5.8 Pos=-59 [Bacillus licheniformis DSM 13]
+AATGTGAAGAATTTCACAAA
+>BLi00366(ldh) Score=6 Pos=-82 [Bacillus licheniformis DSM 13]
+TATGTGAAGTATTGCACAAT
+>BLi04290(adhE) Score=5.7 Pos=-92 [Bacillus licheniformis DSM 13]
+CTTGTGAAATGTTTCACAAA
+>BLi04290(adhE) Score=5.8 Pos=-216 [Bacillus licheniformis DSM 13]
+TTTGTTCAACATTTCACAAA
+>Aflv_2402(ndh2) Score=5.5 Pos=-76 [Anoxybacillus flavithermus WK1]
+TTCGTGAATAAATTCACAAA
+>Aflv_0272(qoxA) Score=5.2 Pos=-36 [Anoxybacillus flavithermus WK1]
+TTTGTTCAATGAATCACAAT
+>Aflv_2793(pflB) Score=5 Pos=-117 [Anoxybacillus flavithermus WK1]
+TTTGATCAACTTTTCACAAA
+>Aflv_0889(ldh) Score=5.4 Pos=-58 [Anoxybacillus flavithermus WK1]
+TTTGTGAAACAGTGTACAAT
+>Aflv_2814(adhE) Score=5.5 Pos=-97 [Anoxybacillus flavithermus WK1]
+TTTGCTCAATGTTTCACAAA
+>Aflv_2814(adhE) Score=6.1 Pos=-445 [Anoxybacillus flavithermus WK1]
+TTTGTTCAATATTTCACAAT
+>Aflv_1436 Score=4.9 Pos=-43 [Anoxybacillus flavithermus WK1]
+AGTGTGAAAAACATCACAAA
+>GK2953(ndh2) Score=5.6 Pos=-102 [Geobacillus kaustophilus HTA426]
+AACGTGAATTATTTCACAAA
+>GK0767(nirS) Score=5.7 Pos=-122 [Geobacillus kaustophilus HTA426]
+ATTGCTCATTATTTCACAAA
+>GK0475(ldh) Score=5.5 Pos=-42 [Geobacillus kaustophilus HTA426]
+AATGTGAATATATTCACAAA
+>BC1749(yndG) Score=5 Pos=-71 [Bacillus cereus ATCC 14579]
+TTTGTGAAAAATGTAGCAAA
+>BC5060(yjlC) Score=4.8 Pos=-82 [Bacillus cereus ATCC 14579]
+TTTGTGAAACTTTGTATAAA
+>BC0491(pflB) Score=5.5 Pos=-129 [Bacillus cereus ATCC 14579]
+TTTGCTCAACATTTCACAAA
+>BC2220(adhB) Score=5.8 Pos=-163 [Bacillus cereus ATCC 14579]
+ATTGTTCATAATTTCACAAA
+>BC1308 Score=6.1 Pos=-103 [Bacillus cereus ATCC 14579]
+TTTGTGAAACATTGCACAAA
+>BH3937(ldh) Score=5.1 Pos=-44 [Bacillus halodurans C-125]
+CATGTGAAAATATTCACAAA
+>BH3937(ldh) Score=5.7 Pos=-219 [Bacillus halodurans C-125]
+CATGTGAAATATTTCACAAA
+>BH3937(ldh) Score=6.2 Pos=-276 [Bacillus halodurans C-125]
+AATGTGAAATATTTCACAAA
+>ABC2924(ndh2) Score=4.8 Pos=-55 [Bacillus clausii KSM-K16]
+AAAGTGAAATGAATCACAAA
+>ABC2872(ldh) Score=5.9 Pos=-45 [Bacillus clausii KSM-K16]
+AATGTGAATAATTTCACAAA
+>ABC2872(ldh) Score=6.4 Pos=-68 [Bacillus clausii KSM-K16]
+TTTGTGAAATAATGCACAAT
+>ABC1842(noxE) Score=4.8 Pos=-41 [Bacillus clausii KSM-K16]
+CTTGTGAAATTACTCACATT
+>ABC1842(noxE) Score=5.2 Pos=-72 [Bacillus clausii KSM-K16]
+TTTGCTCAATGGTTCACAAA
+>ABC1842(noxE) Score=5 Pos=-114 [Bacillus clausii KSM-K16]
+TTTGCTCACCAGTTCACAAT
+>OB2253(qoxA) Score=5.4 Pos=-123 [Oceanobacillus iheyensis HTE831]
+TTTGTGAAGCATTTCTCAAA
+>OB3279(ldh) Score=6.5 Pos=-68 [Oceanobacillus iheyensis HTE831]
+TTTGTGAAATATTTCACAAT
+>OB1745(coxA) Score=5.7 Pos=-254 [Oceanobacillus iheyensis HTE831]
+TTTGTGCATAATTGAACAAA
+>OB3312(noxE) Score=5.7 Pos=-44 [Oceanobacillus iheyensis HTE831]
+ATTGTGAAATGCTGAACAAA
+>OB3312(noxE) Score=5.7 Pos=-111 [Oceanobacillus iheyensis HTE831]
+ATTGTGAAAAACTGAACAAT
+>Pjdr2_4834(ndh2) Score=5.7 Pos=-64 [Paenibacillus sp. JDR-2]
+ATTGTGTAATTTTTCACAAA
+>Pjdr2_6270(yjlC) Score=5.4 Pos=-97 [Paenibacillus sp. JDR-2]
+ATTGTGAATAATTTCACTTT
+>Pjdr2_2160(noxE) Score=4.8 Pos=-42 [Paenibacillus sp. JDR-2]
+TATGTGAATAATTTCACAGG
+>Pjdr2_2160(noxE) Score=5.8 Pos=-207 [Paenibacillus sp. JDR-2]
+ATTGTGAATTAATTCACACA
+>Pjdr2_2160(noxE) Score=4.8 Pos=-273 [Paenibacillus sp. JDR-2]
+TATGTGAAATTAATCACAAC
+>Pjdr2_0068(nadA) Score=6 Pos=-84 [Paenibacillus sp. JDR-2]
+TTTGTGCATCAATTCACAAA

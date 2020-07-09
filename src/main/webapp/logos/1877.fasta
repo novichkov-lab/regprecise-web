@@ -1,0 +1,58 @@
+>RSP_2934(hutI) Score=4.8 Pos=-48 [Rhodobacter sphaeroides 2.4.1]
+ATTATGTGCACACAAATT
+>RSP_2933(hutF) Score=4.8 Pos=-41 [Rhodobacter sphaeroides 2.4.1]
+AATTTGTGTGCACATAAT
+>Pden_0710(hutI) Score=4.4 Pos=-73 [Paracoccus denitrificans PD1222]
+AATAAGTTTAGACATAGA
+>Pden_0709(hutF) Score=4.4 Pos=-41 [Paracoccus denitrificans PD1222]
+TCTATGTCTAAACTTATT
+>Pden_0709(hutF) Score=4.4 Pos=-64 [Paracoccus denitrificans PD1222]
+TCTATGTCTAAACTTATT
+>Pden_0710(hutI) Score=4.4 Pos=-50 [Paracoccus denitrificans PD1222]
+AATAAGTTTAGACATAGA
+>OG2516_07747(hutI) Score=4.5 Pos=-56 [Oceanicola granulosus HTCC2516]
+GTTATGTGCAGACATAAC
+>OG2516_07752(hutF) Score=4.5 Pos=-41 [Oceanicola granulosus HTCC2516]
+GTTATGTCTGCACATAAC
+>ISM_02740(hutF) Score=5.2 Pos=-95 [Roseovarius nubinhibens ISM]
+ATTATGTCCAGACATAAC
+>ISM_05640(hutI) Score=5.7 Pos=-86 [Roseovarius nubinhibens ISM]
+ATTATGTATGGACATAAT
+>ISM_02745(hutC) Score=4 Pos=-67 [Roseovarius nubinhibens ISM]
+TCTATGTGCGTACAAATT
+>ROS217_15945(hutG) Score=4.1 Pos=-52 [Roseovarius sp. 217]
+AATATGCTTAATCATATT
+>ROS217_15950(hutF) Score=4.1 Pos=-42 [Roseovarius sp. 217]
+AATATGATTAAGCATATT
+>ROS217_11786(hutI) Score=6.2 Pos=-86 [Roseovarius sp. 217]
+AATATGTATAGACATAAT
+>ROS217_11791(hutC) Score=6.2 Pos=-187 [Roseovarius sp. 217]
+ATTATGTCTATACATATT
+>TM1040_3003(hutF) Score=5.2 Pos=-26 [Silicibacter TM1040]
+GTTATGTCTATACATAAG
+>TM1040_3642(hutC) Score=5.3 Pos=-119 [Silicibacter TM1040]
+AATATGTAGGTACATATT
+>TM1040_3004(hutI) Score=5.2 Pos=-67 [Silicibacter TM1040]
+CTTATGTATAGACATAAC
+>SPO2191(hutI) Score=4.3 Pos=-48 [Silicibacter pomeroyi DSS-3]
+AATTTATGTATACAAATC
+>SPO2190(hutC) Score=4.6 Pos=-133 [Silicibacter pomeroyi DSS-3]
+TTTATGTCCAGTCATAAA
+>SPO2190(hutC) Score=4 Pos=-51 [Silicibacter pomeroyi DSS-3]
+TCGATTTGTATACATAAA
+>SPO2190(hutC) Score=4.3 Pos=-49 [Silicibacter pomeroyi DSS-3]
+GATTTGTATACATAAATT
+>SPO2191(hutI) Score=4 Pos=-46 [Silicibacter pomeroyi DSS-3]
+TTTATGTATACAAATCGA
+>MED193_01670(hutI) Score=5.3 Pos=-71 [Roseobacter sp. MED193]
+TTTATGTCTAGACATATG
+>MED193_01665(hutF) Score=5.3 Pos=-30 [Roseobacter sp. MED193]
+CATATGTCTAGACATAAA
+>HNE_2394(hutF) Score=6.2 Pos=-40 [Hyphomonas neptunium ATCC 15444]
+AATATGTATAGACATAAT
+>HNE_2395(hutI) Score=6.2 Pos=-55 [Hyphomonas neptunium ATCC 15444]
+ATTATGTCTATACATATT
+>OA2633_11039(hutC) Score=6.2 Pos=-75 [Oceanicaulis alexandrii HTCC2633]
+AATATGTCTATACATATT
+>OA2633_11044(hutI) Score=6.2 Pos=15 [Oceanicaulis alexandrii HTCC2633]
+AATATGTATAGACATATT

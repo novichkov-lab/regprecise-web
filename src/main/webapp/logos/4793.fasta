@@ -1,0 +1,26 @@
+>CAC1025(nadA) Score=6.1 Pos=-79 [Clostridium acetobutylicum ATCC 824]
+ATTTAATGTATATACACCTGTA
+>Cbei_0792(nadA) Score=6.2 Pos=-50 [Clostridium beijerincki NCIMB 8052]
+CAATGGTGTATATACACCTGTA
+>Cbei_1404(niaX) Score=6.1 Pos=8 [Clostridium beijerincki NCIMB 8052]
+TACTAGTGTATATACATGTGAT
+>CBO1448(nadA) Score=6.2 Pos=-51 [Clostridium botulinum A str. ATCC 3502]
+TATATATGTATATACACATGTA
+>CBO2620(niaX) Score=6 Pos=-41 [Clostridium botulinum A str. ATCC 3502]
+TACTAATGTATATACACTTAAC
+>CBY_3922(nadA) Score=6.3 Pos=-46 [Clostridium butyricum 5521]
+AAAAGGTGTATATACACCTGTA
+>CBY_0041(niaX) Score=6.8 Pos=-144 [Clostridium butyricum 5521]
+TACTAATGTATATACACTAGTA
+>CKL_0748(nadA) Score=6.4 Pos=-110 [Clostridium kluyveri DSM 555]
+TACTGATGTATATACAGTAGAA
+>CKL_1488(niaX) Score=6.5 Pos=-36 [Clostridium kluyveri DSM 555]
+TACTGGTGTATATACATTTGTT
+>NT01CX_0090(nadA) Score=5.9 Pos=-61 [Clostridium novyi NT]
+TTAAGGTGTATATACACATGTG
+>NT01CX_1651(niaX) Score=6.5 Pos=-42 [Clostridium novyi NT]
+TACTACTGTATATACAGTAGTA
+>CTC00699(pncA) Score=6.1 Pos=-56 [Clostridium tetani E88]
+TTAAAATGTATATACAGATGTA
+>CTC01003(niaX) Score=6.8 Pos=-29 [Clostridium tetani E88]
+TACTAGTGTATATACATTAGTA

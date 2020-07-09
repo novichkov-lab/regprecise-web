@@ -1,0 +1,166 @@
+>MAB_2868c(splB) Score=5.3 Pos=-24 [Mycobacterium abscessus ATCC 19977]
+TCGAACATATGTTCGC
+>MAB_4752(PF02720) Score=5.3 Pos=-8 [Mycobacterium abscessus ATCC 19977]
+TCAAACGCATGTTCGA
+>MAB_3713c(Rv3395c) Score=5.6 Pos=-41 [Mycobacterium abscessus ATCC 19977]
+TCGAACATATGTTCTA
+>MAB_2884c(ruvC) Score=5.4 Pos=-82 [Mycobacterium abscessus ATCC 19977]
+TCGAACAACTGTTCTA
+>MAB_3703c(dnaE2) Score=5.9 Pos=-73 [Mycobacterium abscessus ATCC 19977]
+TCGAACAAATGTTCGA
+>MAB_1120c(alkB) Score=5.5 Pos=-28 [Mycobacterium abscessus ATCC 19977]
+TCGAACGTATGTGCGA
+>MAB_3060c(recA) Score=5.2 Pos=-143 [Mycobacterium abscessus ATCC 19977]
+TCGAACAGATGTTCGC
+>MAB_3038(lexA) Score=5.6 Pos=-48 [Mycobacterium abscessus ATCC 19977]
+TCGAACACATGTTTGA
+>MAB_3038(lexA) Score=5.5 Pos=-169 [Mycobacterium abscessus ATCC 19977]
+TCGATCATGTGTTCGA
+>MAB_3038(lexA) Score=5.1 Pos=-150 [Mycobacterium abscessus ATCC 19977]
+CCGAACATGTGATCGA
+>MAV_3456(splB) Score=5.4 Pos=-25 [Mycobacterium avium 104]
+TCGAACTGGTGTTCGA
+>MAV_4456(Rv0336) Score=5.7 Pos=-8 [Mycobacterium avium 104]
+TCGAACATATGTGCGA
+>MAV_3980(Rv3074) Score=5.9 Pos=-23 [Mycobacterium avium 104]
+TCGAACACGTGTTCGA
+>MAV_4346(Rv3395c) Score=5.7 Pos=-52 [Mycobacterium avium 104]
+TCGAACATGCGTTCGA
+>MAV_3475(ruvC) Score=5.4 Pos=-33 [Mycobacterium avium 104]
+TCGAACAGCTGTTCTA
+>MAV_4335(dnaE2) Score=5.5 Pos=-29 [Mycobacterium avium 104]
+TCGAACATCAGTTCGA
+>MAV_1124(alkB) Score=5.4 Pos=-29 [Mycobacterium avium 104]
+TCGAACGGATGTGCGA
+>MAV_3627(recA) Score=5.4 Pos=-123 [Mycobacterium avium 104]
+TCGAACACCTGTTCGG
+>MAV_3614(lexA) Score=5 Pos=-287 [Mycobacterium avium 104]
+TCGCTCGTGTGTTCGA
+>MAV_3614(lexA) Score=5.6 Pos=-48 [Mycobacterium avium 104]
+TCGAACACATGTTTGA
+>Mflv_3795(splB) Score=5.1 Pos=-23 [Mycobacterium flavescens PYR-GCK]
+TCGAACGTATGTTCGC
+>Mflv_4927(PF02720) Score=5.9 Pos=-8 [Mycobacterium flavescens PYR-GCK]
+TCGAACACATGTTCGA
+>Mflv_3422(PF02720) Score=5.3 Pos=1 [Mycobacterium flavescens PYR-GCK]
+TGGAACACATGTTCGA
+>Mflv_4893(dnaE2) Score=5.7 Pos=-64 [Mycobacterium flavescens PYR-GCK]
+TCGAACGGATGTTCGA
+>Mflv_4899(Rv3395c) Score=4.9 Pos=-70 [Mycobacterium flavescens PYR-GCK]
+TCGAACAAAATTTCGA
+>Mflv_1921(alkB) Score=5.3 Pos=-29 [Mycobacterium flavescens PYR-GCK]
+TCGAACGCCTGTGCGA
+>Mflv_3975(recA) Score=5.2 Pos=-133 [Mycobacterium flavescens PYR-GCK]
+TCGAACACCTGTTCGT
+>Mflv_3956(lexA) Score=5.4 Pos=-128 [Mycobacterium flavescens PYR-GCK]
+TCGATCAGGTGTTCGA
+>Mflv_3956(lexA) Score=5.1 Pos=-108 [Mycobacterium flavescens PYR-GCK]
+TAGAACATGTGATCGA
+>Mflv_3956(lexA) Score=5.6 Pos=-48 [Mycobacterium flavescens PYR-GCK]
+TCGAACACATGTTTGA
+>ML0190(alkB) Score=5.2 Pos=-8 [Mycobacterium leprae TN]
+TCGAACTGATGTGCGA
+>ML0987(recA) Score=5.5 Pos=-113 [Mycobacterium leprae TN]
+TCGAACAGATGTTCGG
+>ML1003(lexA) Score=5.6 Pos=-48 [Mycobacterium leprae TN]
+TCGAACACATGTTTGA
+>ML1003(lexA) Score=5.5 Pos=-232 [Mycobacterium leprae TN]
+TCGATCATATGTTCGA
+>MMAR_2148(splB) Score=5.4 Pos=-25 [Mycobacterium marinum M]
+TCGAACTAGTGTTCGA
+>MMAR_5187(Rv0336) Score=5.1 Pos=-8 [Mycobacterium marinum M]
+TCGAATGTATGTTCGA
+>MMAR_1584(Rv3074) Score=5.9 Pos=-8 [Mycobacterium marinum M]
+TCGAACACATGTTCGA
+>MMAR_2109(ruvC) Score=5.3 Pos=-46 [Mycobacterium marinum M]
+TCGAACAATTGTTCGG
+>MMAR_1150(Rv3395c) Score=5.2 Pos=-51 [Mycobacterium marinum M]
+TCGAACATACTTTCGA
+>MMAR_1158(dnaE2) Score=5.4 Pos=-28 [Mycobacterium marinum M]
+TCGAACATATTTTCGA
+>MMAR_4493(alkB) Score=5.2 Pos=-8 [Mycobacterium marinum M]
+TCGAACTGATGTGCGA
+>MMAR_1977(recA) Score=5.5 Pos=-121 [Mycobacterium marinum M]
+TCGAACAGATGTTCGG
+>MMAR_1992(lexA) Score=5.1 Pos=-282 [Mycobacterium marinum M]
+TCGCTCAAGTGTTCGA
+>MMAR_1992(lexA) Score=5.2 Pos=-258 [Mycobacterium marinum M]
+TCGCTCACGTGTTCGA
+>MMAR_1992(lexA) Score=5.6 Pos=-48 [Mycobacterium marinum M]
+TCGAACACATGTTTGA
+>MSMEG_2943(ruvC) Score=5.1 Pos=-30 [Mycobacterium smegmatis str. MC2 155]
+TCGAACAGATGTTCTG
+>MSMEG_2990(splB) Score=5.7 Pos=-8 [Mycobacterium smegmatis str. MC2 155]
+TCGAACGCATGTTCGA
+>MSMEG_3957(PF02720) Score=5.5 Pos=-8 [Mycobacterium smegmatis str. MC2 155]
+TCGAACGTATGTGCGA
+>MSMEG_1633(dnaE2) Score=5.9 Pos=-28 [Mycobacterium smegmatis str. MC2 155]
+TCGAACACGTGTTCGA
+>MSMEG_1620(Rv3395c) Score=5.1 Pos=-52 [Mycobacterium smegmatis str. MC2 155]
+TCGAACATACATTCGA
+>MSMEG_5451(alkB) Score=5.4 Pos=-29 [Mycobacterium smegmatis str. MC2 155]
+TCGAACGTGTGTGCGA
+>MSMEG_2723(recA) Score=5.2 Pos=-121 [Mycobacterium smegmatis str. MC2 155]
+TCGAACAGGTGTTCGT
+>MSMEG_2740(lexA) Score=5.2 Pos=-217 [Mycobacterium smegmatis str. MC2 155]
+TCGCTCACATGTTCGA
+>MSMEG_2740(lexA) Score=5.6 Pos=-48 [Mycobacterium smegmatis str. MC2 155]
+TCGAACACATGTTTGA
+>Mjls_2335(splB) Score=5.1 Pos=35 [Mycobacterium sp. JLS]
+TCGAACCTACGTTCGA
+>Mjls_2304(ruvC) Score=4.8 Pos=-8 [Mycobacterium sp. JLS]
+TCGAACAGGTGTTCTC
+>Mjls_1210(dnaE2) Score=5.7 Pos=-28 [Mycobacterium sp. JLS]
+TCGAACGCGTGTTCGA
+>Mjls_1201(Rv3395c) Score=5.5 Pos=-52 [Mycobacterium sp. JLS]
+TCGAACATGAGTTCGA
+>Mjls_4657(alkB) Score=5.4 Pos=-29 [Mycobacterium sp. JLS]
+TCGAACGCGTGTGCGA
+>Mjls_2134(recA) Score=5.2 Pos=-138 [Mycobacterium sp. JLS]
+TCGAACAGGTGTTCGT
+>Mjls_2157(lexA) Score=5.6 Pos=-48 [Mycobacterium sp. JLS]
+TCGAACACATGTTTGA
+>Mjls_2157(lexA) Score=5.4 Pos=-139 [Mycobacterium sp. JLS]
+TCGATCAGGTGTTCGA
+>Rv3776(PF02720) Score=5.7 Pos=-8 [Mycobacterium tuberculosis H37Rv]
+TCGAACGTATGTTCGA
+>Rv2594c(ruvC) Score=5.1 Pos=-37 [Mycobacterium tuberculosis H37Rv]
+TCGAACGATTGTTCGG
+>Rv2578c(splB) Score=5.1 Pos=-24 [Mycobacterium tuberculosis H37Rv]
+TAGAACGGTTGTTCGA
+>Rv0515(Rv0336) Score=5.2 Pos=-32 [Mycobacterium tuberculosis H37Rv]
+TCGAAAGTATGTTCGA
+>Rv0336(Rv0336) Score=5.2 Pos=-32 [Mycobacterium tuberculosis H37Rv]
+TCGAAAGTATGTTCGA
+>Rv3074(Rv3074) Score=5.9 Pos=-8 [Mycobacterium tuberculosis H37Rv]
+TCGAACACATGTTCGA
+>Rv3395c(Rv3395c) Score=5.4 Pos=-30 [Mycobacterium tuberculosis H37Rv]
+TCGAACATATTTTCGA
+>Rv3370c(dnaE2) Score=5.7 Pos=-29 [Mycobacterium tuberculosis H37Rv]
+TCGAACAATTGTTCGA
+>Rv1000c(alkB) Score=5.3 Pos=-8 [Mycobacterium tuberculosis H37Rv]
+TCGAACGAATGTGCGA
+>Rv2737c(recA) Score=5.4 Pos=-123 [Mycobacterium tuberculosis H37Rv]
+TCGAACAGGTGTTCGG
+>Rv2720(lexA) Score=5 Pos=-238 [Mycobacterium tuberculosis H37Rv]
+CCGAACATTTGATCGA
+>Rv2720(lexA) Score=5.6 Pos=-105 [Mycobacterium tuberculosis H37Rv]
+TCGAACACATGTTTGA
+>Mvan_2599(splB) Score=5.1 Pos=-23 [Mycobacterium vanbaalenii PYR-1]
+TCGAACGTATGTTCGC
+>Mvan_2573(ruvC) Score=5.1 Pos=-34 [Mycobacterium vanbaalenii PYR-1]
+TCGAACAGATGTTCTG
+>Mvan_1530(dnaE2) Score=5.6 Pos=-28 [Mycobacterium vanbaalenii PYR-1]
+TCGAACGCTTGTTCGA
+>Mvan_1522(Rv3395c) Score=4.7 Pos=-52 [Mycobacterium vanbaalenii PYR-1]
+TCGAACAAAGTTTCGA
+>Mvan_4812(alkB) Score=5.3 Pos=-29 [Mycobacterium vanbaalenii PYR-1]
+TCGAACGCCTGTGCGA
+>Mvan_2420(recA) Score=5.2 Pos=-121 [Mycobacterium vanbaalenii PYR-1]
+TCGAACACCTGTTCGT
+>Mvan_2441(lexA) Score=5 Pos=-163 [Mycobacterium vanbaalenii PYR-1]
+TAGAACACGTGATCGA
+>Mvan_2441(lexA) Score=5.6 Pos=-48 [Mycobacterium vanbaalenii PYR-1]
+TCGAACACATGTTTGA
+>Mvan_2441(lexA) Score=5.4 Pos=-183 [Mycobacterium vanbaalenii PYR-1]
+TCGATCAGGTGTTCGA

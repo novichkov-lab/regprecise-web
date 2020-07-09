@@ -1,0 +1,28 @@
+>XF1830(yciC) Score=4.2 Pos=-108 [Xylella fastidiosa 9a5c]
+AGAATGATATAAAGTATCAAATT
+>XF2096(folE2) Score=5.7 Pos=-196 [Xylella fastidiosa 9a5c]
+GTTATGTTATTTTATAACATATT
+>XF0384(omr1) Score=4.7 Pos=-122 [Xylella fastidiosa 9a5c]
+TGAATGATATAATATTACCTTAC
+>XAC0276(yciC) Score=5.7 Pos=-43 [Xanthomonas axonopodis pv. citri str. 306]
+TAAGTGTTATATAGTAACACTCC
+>XAC2829(omr1) Score=5.4 Pos=-138 [Xanthomonas axonopodis pv. citri str. 306]
+GACGTGGAATAATATAACATCTT
+>XAC0690(omr2) Score=5.2 Pos=-63 [Xanthomonas axonopodis pv. citri str. 306]
+AGTATGTTATAACATGTCATTTC
+>XAC1780(amiC) Score=5.7 Pos=-153 [Xanthomonas axonopodis pv. citri str. 306]
+TTGATGTTACTTTATAACACTTG
+>XCC0257(yciC) Score=5.6 Pos=-41 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GAGTTGTTATACAGTAACATTTC
+>XCC2658(omr1) Score=5.4 Pos=-138 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GACGTGGAATAATATAACATCTT
+>XCC1763(amiC) Score=5.5 Pos=-152 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CTAGTGTTACTTTATAACACTTG
+>XCC2046(omr2) Score=4.7 Pos=-56 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+ATTACGTTATAATATATCGATAC
+>Smlt0520(yciC) Score=5.5 Pos=-48 [Stenotrophomonas maltophilia K279a]
+TAAGTGTTATACAGTAACATTCC
+>Smlt1446(omr1) Score=5.6 Pos=-111 [Stenotrophomonas maltophilia K279a]
+GTTATGGAATAATATAACATCCC
+>Smlt0157(omr2) Score=6.1 Pos=-42 [Stenotrophomonas maltophilia K279a]
+GAAATGTTATATGATTACATTTC

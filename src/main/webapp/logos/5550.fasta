@@ -1,0 +1,38 @@
+>BMEI0018(PF06187) Score=5.8 Pos=-223 [Brucella melitensis 16M]
+TAATTGGAACGTTCCAAGAC
+>BMEI0018(PF06187) Score=5.9 Pos=-56 [Brucella melitensis 16M]
+CATTTGGAACGTTCTAAACT
+>BMEI0019(afrR) Score=5.9 Pos=-154 [Brucella melitensis 16M]
+AGTTTAGAACGTTCCAAATG
+>mll3044(PF06187) Score=5.7 Pos=-209 [Mesorhizobium loti MAFF303099]
+CTATTGGAACGTTCTAATCC
+>mll3044(PF06187) Score=5.6 Pos=-45 [Mesorhizobium loti MAFF303099]
+TTATTGGAACGTTCCATTTA
+>mlr3045(afrR) Score=5.6 Pos=-216 [Mesorhizobium loti MAFF303099]
+TAAATGGAACGTTCCAATAA
+>mlr3045(afrR) Score=5.7 Pos=-52 [Mesorhizobium loti MAFF303099]
+GGATTAGAACGTTCCAATAG
+>RHE_CH01719(afrR) Score=5.2 Pos=-153 [Rhizobium etli CFN 42]
+GATTTAAATCGTTCCAAAAG
+>RHE_CH01719(afrR) Score=6 Pos=-57 [Rhizobium etli CFN 42]
+TTTTTGGAACGTTCCAAATA
+>RL1820(afrR) Score=5.8 Pos=-161 [Rhizobium leguminosarum bv. viciae 3841]
+TTTTTAGATCGTTCCAAATT
+>RL1820(afrR) Score=6.2 Pos=-56 [Rhizobium leguminosarum bv. viciae 3841]
+CAATTGGAACGTTCCAAATA
+>NGR_c32990(PF06187) Score=6.3 Pos=-246 [Rhizobium sp. NGR234]
+TAATTGGAACGTTCCAATTT
+>NGR_c32990(PF06187) Score=6 Pos=-49 [Rhizobium sp. NGR234]
+AATTTGGAACGATCTAAATT
+>NGR_c33000(afrR) Score=6 Pos=-254 [Rhizobium sp. NGR234]
+AATTTAGATCGTTCCAAATT
+>NGR_c33000(afrR) Score=6.3 Pos=-57 [Rhizobium sp. NGR234]
+AAATTGGAACGTTCCAATTA
+>SMc04402(PF06187) Score=6.3 Pos=-260 [Sinorhizobium meliloti 1021]
+TAATTGGAACGTTCCAATTT
+>SMc04402(PF06187) Score=6 Pos=-56 [Sinorhizobium meliloti 1021]
+AATTTGGAACGATCTAAATT
+>SMc04401(afrR) Score=6 Pos=-261 [Sinorhizobium meliloti 1021]
+AATTTAGATCGTTCCAAATT
+>SMc04401(afrR) Score=6.3 Pos=-57 [Sinorhizobium meliloti 1021]
+AAATTGGAACGTTCCAATTA

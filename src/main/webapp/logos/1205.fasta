@@ -1,0 +1,32 @@
+>BSU26650(czcD) Score=7.1 Pos=-116 [Bacillus subtilis subsp. subtilis str. 168]
+TATATGAACACATGCTCATATA
+>BSU33490(cadA) Score=7.3 Pos=-94 [Bacillus subtilis subsp. subtilis str. 168]
+TATATGAGTATATGCTCATATA
+>RBAM_005600(czcD) Score=6.9 Pos=-106 [Bacillus amyloliquefaciens FZB42]
+TATATGAGCACATAATCATATA
+>RBAM_030670(czcD) Score=7.3 Pos=-87 [Bacillus amyloliquefaciens FZB42]
+TATATGAGTATATGTTCATATA
+>BPUM_3010(cadA) Score=7.3 Pos=-87 [Bacillus pumilus SAFR-032]
+TATATGAATATATGCTCATATA
+>BLi03452(czcD) Score=6.6 Pos=-45 [Bacillus licheniformis DSM 13]
+AATATGAATACATGATCATATA
+>BLi03539(cadA) Score=6.9 Pos=-61 [Bacillus licheniformis DSM 13]
+TATATGCGTATATGCTCATATA
+>Aflv_1335(czrA) Score=7.2 Pos=-41 [Anoxybacillus flavithermus WK1]
+TATATGAACATATATTCATATA
+>GK0580(czrA) Score=7 Pos=-48 [Geobacillus kaustophilus HTA426]
+CATATGAACATATGCTCATATA
+>GK1406(czrA) Score=7.1 Pos=-43 [Geobacillus kaustophilus HTA426]
+TATATGAACAAATGCTCATATA
+>BC3447(czcO) Score=6 Pos=-44 [Bacillus cereus ATCC 14579]
+TATATGAACAAATATTCATACG
+>BC0595(czrA) Score=5.7 Pos=-46 [Bacillus cereus ATCC 14579]
+TATATGAatgatTGtTCATATg
+>ABC3390(czrA) Score=6.8 Pos=-36 [Bacillus clausii KSM-K16]
+AATATGAACATATAATCATATA
+>OB1400(czrA) Score=6.7 Pos=-39 [Oceanobacillus iheyensis HTE831]
+AATATGAGCATATGATCATATT
+>Pjdr2_1130(cadA) Score=6.7 Pos=-41 [Paenibacillus sp. JDR-2]
+TATATGAGCAAGTATTCATATA
+>Pjdr2_0376(czcD) Score=6.1 Pos=-44 [Paenibacillus sp. JDR-2]
+CATATGAATAGTTGTTCATATA

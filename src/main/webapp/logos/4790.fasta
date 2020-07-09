@@ -1,0 +1,46 @@
+>BACCELL_05510(susC_Fru-1) Score=8 Pos=-156 [Bacteroides cellulosilyticus DSM 14838]
+GTTACAAAT------------GAAACATAA
+>BACCELL_05508(scrB) Score=7.6 Pos=-160 [Bacteroides cellulosilyticus DSM 14838]
+GTTTCATAA------------GTAACAAAA
+>BACCELL_05508(scrB) Score=8.2 Pos=-120 [Bacteroides cellulosilyticus DSM 14838]
+GTATCATAT------------GAAACATAA
+>BACCELL_05504(fruP) Score=7.5 Pos=-152 [Bacteroides cellulosilyticus DSM 14838]
+GTATCATAA------------GTAACAAGA
+>BACCOPRO_02545(BF3178) Score=7.3 Pos=-94 [Bacteroides coprophilus DSM 18228]
+GATACATTC------------GAAACATTT
+>BACDOR_00290(BF3178) Score=8.1 Pos=-28 [Bacteroides dorei DSM 17855]
+GAAACAAAA------------GTAACAAAT
+>BF3178(BF3178) Score=8.2 Pos=-44 [Bacteroides fragilis NCTC 9343]
+GAAACAAAA------------GAAACAAAT
+>BF3177(scrL) Score=7.7 Pos=-114 [Bacteroides fragilis NCTC 9343]
+GTATCAATC------------GAAACAAAA
+>BACOVA_04507(scrL) Score=7.8 Pos=-118 [Bacteroides ovatus ATCC 8483]
+GTATCAAAT------------GAAACAAAG
+>BACOVA_04501(scrB) Score=8.3 Pos=-121 [Bacteroides ovatus ATCC 8483]
+GTAACATTT------------GAAACAAAA
+>BACOVA_04505(susC_Fru-1) Score=8.1 Pos=-115 [Bacteroides ovatus ATCC 8483]
+GCAACAAAT------------GAAACATTT
+>BACPLE_03866(susC_Fru-1) Score=8 Pos=-125 [Bacteroides plebeius DSM 17135]
+GCAACATAA------------GAAACATTT
+>BACPLE_03869(BF3178) Score=7 Pos=-115 [Bacteroides plebeius DSM 17135]
+GAAACAATA------------GCAACATTC
+>BACSTE_03470(scrB) Score=8 Pos=-133 [Bacteroides stercoris ATCC 43183]
+GTATCAATT------------GTAACATTT
+>BACSTE_03472(susC_Fru-1) Score=7.6 Pos=-156 [Bacteroides stercoris ATCC 43183]
+GAAACAAAT------------GTATCATTT
+>BT1763(susC_Fru-1) Score=8.1 Pos=-115 [Bacteroides thetaiotaomicron VPI-5482]
+GCAACATAT------------GAAACATTT
+>BT1759(scrB) Score=7.9 Pos=-111 [Bacteroides thetaiotaomicron VPI-5482]
+GTAACATCT------------GAAACAAAA
+>BT1765(scrL) Score=7.7 Pos=-116 [Bacteroides thetaiotaomicron VPI-5482]
+GTATCAAAA------------GAAACAAAG
+>BT3082(scrB2) Score=7.2 Pos=-98 [Bacteroides thetaiotaomicron VPI-5482]
+GTAACGTTT------------GAATCATTT
+>BACUNI_01159(scrB) Score=8.3 Pos=-105 [Bacteroides uniformis ATCC 8492]
+GTAACATTT------------GAAACAAAA
+>BACUNI_01153(susC_Fru-1) Score=8 Pos=-81 [Bacteroides uniformis ATCC 8492]
+GTATCAAAA------------GTAACATTT
+>BVU_1662(BF3178) Score=8.1 Pos=-97 [Bacteroides vulgatus ATCC 8482]
+GAAACAAAA------------GTAACAAAT
+>BVU_1663(scrL) Score=8.4 Pos=-19 [Bacteroides vulgatus ATCC 8482]
+GTAACATTT------------GAAACAAAT

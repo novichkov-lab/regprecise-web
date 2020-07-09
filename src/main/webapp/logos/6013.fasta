@@ -1,0 +1,28 @@
+>TC0673(hcrA) Score=5.8 Pos=-72 [Chlamydia muridarum Nigg]
+CTAGCACTCTTTGCTCGCGAGCGCTAA
+>TC0387(groS) Score=6.1 Pos=-161 [Chlamydia muridarum Nigg]
+ATAGCAGTTGAGGTGCTCAACTGCTAA
+>CT394(hcrA) Score=6 Pos=-72 [Chlamydia trachomatis D/UW-3/CX]
+CTAGCACTCTTTAGTTGCGAGCGCTAA
+>CT111(groS) Score=6.1 Pos=-161 [Chlamydia trachomatis D/UW-3/CX]
+ATAGCAGTTGATCATGCCAACTGCTAA
+>CAB239(hcrA) Score=6 Pos=-101 [Chlamydophila abortus S26/3]
+TTAGCATTCTTTGAGGTTGAGTGCCAA
+>CAB614(groS) Score=6.6 Pos=-113 [Chlamydophila abortus S26/3]
+ATGGCGCTTGATATTATTAAGTGCTAA
+>CF0763(hcrA) Score=6.2 Pos=-101 [Chlamydophila felis Fe/C-56]
+TTAGCATTCTTTAGAGGTGAGTGCTAA
+>CF0366(groS) Score=7.2 Pos=-113 [Chlamydophila felis Fe/C-56]
+ATAGCACTTGATATTATTAAGTGCTAA
+>CP0253(hcrA) Score=6.6 Pos=-33 [Chlamydophila pneumoniae AR39]
+TTAGCATTCATTCAATTCGAGTGCTAA
+>CP0637(groS) Score=7.2 Pos=-113 [Chlamydophila pneumoniae AR39]
+TTAGCACTTAAAATTATTGAGTGCTAA
+>pc1497(hcrA) Score=7.2 Pos=-90 [Parachlamydia sp. UWE25]
+ATAGCACTCGATATAATCGAGTGCTAA
+>pc1179(groS) Score=6 Pos=-138 [Parachlamydia sp. UWE25]
+TTAGCAATTAAGTTGATTCACTGCTAA
+>CCA00243(hcrA) Score=6.8 Pos=-101 [Chlamydophila caviae GPIC]
+TTAGCATTCTTTAGAATCGAGTGCTAA
+>CCA00642(groS) Score=7.1 Pos=-116 [Chlamydophila caviae GPIC]
+GTAGCACTTGATATTATTAAGTGCTAA

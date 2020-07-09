@@ -1,0 +1,42 @@
+>SMc00832(glcD) Score=5.8 Pos=-46 [Sinorhizobium meliloti 1021]
+TAGTGGTAAGCAAAAAATACCACTT
+>SMc00830(mlr6914) Score=5.7 Pos=-130 [Sinorhizobium meliloti 1021]
+AAGTGGTCAAATTGATTGTCCACTC
+>SMc00831(lysR) Score=4.7 Pos=-178 [Sinorhizobium meliloti 1021]
+AAGTGGTATTTTTTGCTTACCACTA
+>SMb20850(lldD) Score=4.1 Pos=-100 [Sinorhizobium meliloti 1021]
+GAGAGGTAAGATTTTTTGACCTCTC
+>SMc00829(glcC) Score=4.9 Pos=-73 [Sinorhizobium meliloti 1021]
+GAGTGGACAATCAATTTGACCACTT
+>NGR_c03890(glcC) Score=5.1 Pos=-101 [Rhizobium sp. NGR234]
+AAGTGGACAATCGATTTGACCACTT
+>NGR_c23940(lldD) Score=4.6 Pos=-202 [Rhizobium sp. NGR234]
+AAGAGGTCAATTTTTTTGACCTCTT
+>NGR_c03900(mlr6914) Score=6.3 Pos=-134 [Rhizobium sp. NGR234]
+AAGTGGTCAAATCGATTGTCCACTT
+>Atu0664(lysR) Score=4.9 Pos=-85 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AACTGGTATTCTTTCTTTACCACTT
+>Atu0662(glcC) Score=4.9 Pos=-90 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AACTGGATAGAATAATTGACCAGTA
+>Atu0665(glcD) Score=5.6 Pos=-51 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AAGTGGTAAAGAAAGAATACCAGTT
+>Meso_0366(glcC) Score=4.1 Pos=-58 [Mesorhizobium sp. BNC1]
+CATTGGACAAATAAGTTGACCAGTT
+>Meso_0364(glcD) Score=4.7 Pos=-36 [Mesorhizobium sp. BNC1]
+AACTGGTAAATAGATTAGACCAGTG
+>Meso_0365(mlr6914) Score=4.2 Pos=-119 [Mesorhizobium sp. BNC1]
+AACTGGTCAACTTATTTGTCCAATG
+>mll6911(glcC) Score=4.6 Pos=-78 [Mesorhizobium loti MAFF303099]
+AATTGGATAAATAATTTGACCAGTT
+>mlr6914(mlr6914) Score=5.2 Pos=-156 [Mesorhizobium loti MAFF303099]
+AACTGGTCAAATTATTTATCCAATT
+>mlr6916(glcD) Score=4.4 Pos=-113 [Mesorhizobium loti MAFF303099]
+CACTGGTAAAAGATTTTGACCAGTG
+>BMEII1064(glcD) Score=7.9 Pos=-78 [Brucella melitensis 16M]
+AAGTGGTAAAAACGATTTACCACTT
+>BMEII0377(lldD) Score=4.6 Pos=-33 [Brucella melitensis 16M]
+GATTGGTAAAGAAAACTGACCACAA
+>BMEII1065(lysR) Score=6 Pos=-111 [Brucella melitensis 16M]
+AAGTGGTAAATCGTTTTTACCACTT
+>BMEI1232(lldP) Score=4.5 Pos=-171 [Brucella melitensis 16M]
+CTCTGGTAAAGTAAGTTTACCAATC

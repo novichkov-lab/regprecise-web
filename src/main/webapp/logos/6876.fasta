@@ -1,0 +1,56 @@
+>Msed_2089(cobN) Score=5.8 Pos=-20 [Metallosphaera sedula DSM 5348]
+TATGGATAGGCTAACCAGG
+>Msed_0807(btuF) Score=6.5 Pos=-1 [Metallosphaera sedula DSM 5348]
+TATGGATAGCCTATCCATC
+>Msed_1305(hoxN) Score=6.4 Pos=-23 [Metallosphaera sedula DSM 5348]
+TATGGATAGCCTATCCAAC
+>Msed_0588(potE) Score=6.2 Pos=-1 [Metallosphaera sedula DSM 5348]
+TATGGCTAGCCTATCCAAA
+>Msed_1226(bluB) Score=5.7 Pos=-18 [Metallosphaera sedula DSM 5348]
+CCTGGATACTCTATCCATA
+>Msed_2090(Msed_2090) Score=5.8 Pos=-119 [Metallosphaera sedula DSM 5348]
+CCTGGTTAGCCTATCCATA
+>ST2443(hoxN) Score=6.1 Pos=20 [Sulfolobus tokodaii str. 7]
+TATGGATAACTTATCCAAA
+>ST2443(hoxN) Score=5.8 Pos=49 [Sulfolobus tokodaii str. 7]
+TGTGGATAACTTATCCAAA
+>ST0840(btuF) Score=4.9 Pos=-64 [Sulfolobus tokodaii str. 7]
+TTAGGATAACTTAACCATA
+>ST0840(btuF) Score=5.7 Pos=-1 [Sulfolobus tokodaii str. 7]
+TATGGATGACTTATCCATA
+>ST0841(btuC) Score=5.7 Pos=-85 [Sulfolobus tokodaii str. 7]
+TATGGATAAGTCATCCATA
+>ST0841(btuC) Score=4.9 Pos=-22 [Sulfolobus tokodaii str. 7]
+TATGGTTAAGTTATCCTAA
+>ST2455(potE) Score=5.7 Pos=5 [Sulfolobus tokodaii str. 7]
+TATGGATAACTTATCCAAG
+>ST1824(cbiC) Score=5.9 Pos=-22 [Sulfolobus tokodaii str. 7]
+TTTGGATAAGCTATCCAAT
+>ST0601(bluB) Score=6.1 Pos=-1 [Sulfolobus tokodaii str. 7]
+TATGGATAACCTATCCATG
+>SSO1018(hoxN) Score=6.1 Pos=29 [Sulfolobus solfataricus P2]
+GATGGATAGACAATCCATA
+>SSO0485(btuF) Score=6.5 Pos=-23 [Sulfolobus solfataricus P2]
+TTTGGATAGTCTATCCAGA
+>SSO2308(cbiC) Score=5.7 Pos=-1 [Sulfolobus solfataricus P2]
+TGTGGATAGACAATCCAAT
+>SSO2560(bluB) Score=6.4 Pos=-22 [Sulfolobus solfataricus P2]
+GCTGGATAGCCTATCCATA
+>YN1551_1651(hoxN) Score=6.1 Pos=2 [Sulfolobus islandicus Y.N.15.51]
+GATGGATAGACAATCCATA
+>YN1551_1191(btuF) Score=6.5 Pos=-23 [Sulfolobus islandicus Y.N.15.51]
+TTTGGATAGTCTATCCAGA
+>YN1551_0113(cbiC) Score=5.7 Pos=-1 [Sulfolobus islandicus Y.N.15.51]
+TGTGGATAGACAATCCAAT
+>YN1551_3111(bluB) Score=6.6 Pos=-22 [Sulfolobus islandicus Y.N.15.51]
+TCTGGATAGTCTATCCATA
+>Saci_2028(hoxN) Score=6.3 Pos=-23 [Sulfolobus acidocaldarius DSM 639]
+ATTGGATAGGCTATCCATA
+>Saci_1221(btuC) Score=6.2 Pos=-24 [Sulfolobus acidocaldarius DSM 639]
+TATGGATAAGCTATCCACA
+>Saci_1220(btuF) Score=5.8 Pos=-24 [Sulfolobus acidocaldarius DSM 639]
+TATGGATAGCCTATCCTAC
+>Saci_0399(cbiC) Score=5.9 Pos=-1 [Sulfolobus acidocaldarius DSM 639]
+TTTGGATACCCTATCCATC
+>Saci_0250(bluB) Score=6.1 Pos=-18 [Sulfolobus acidocaldarius DSM 639]
+GATGGATAATCTATCCATA

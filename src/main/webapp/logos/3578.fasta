@@ -1,0 +1,14 @@
+>LVIS_1595(deoC) Score=5.7 Pos=-19 [Lactobacillus brevis ATCC 367]
+ATGAAAGGGGTTTCAT
+>LAF_1739(deoR) Score=5.3 Pos=-88 [Lactobacillus fermentum IFO 3956]
+TTGAATACGCTTTCAT
+>LAF_1740(deoC) Score=5.7 Pos=-37 [Lactobacillus fermentum IFO 3956]
+ATGAAAGCGTATTCAA
+>lp_0497(deoC) Score=5.4 Pos=-21 [Lactobacillus plantarum WCFS1]
+AAGAAAGGGGTTTCAT
+>LAR_0095(nupC) Score=5.2 Pos=-251 [Lactobacillus reuteri JCM 1112]
+ATGACAGCGTTTTCAT
+>LAR_0105(deoC) Score=5.6 Pos=-39 [Lactobacillus reuteri JCM 1112]
+ATGAAAACGCATTCAA
+>LSA0795(deoC) Score=5.1 Pos=-34 [Lactobacillus sakei subsp. sakei 23K]
+TTGAAAGCGTTAACAA

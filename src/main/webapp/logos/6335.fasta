@@ -1,0 +1,34 @@
+>AZC_3296(mdcY) Score=4.3 Pos=-42 [Azorhizobium caulinodans ORS 571]
+ATGTATGCAA
+>AZC_3297(matA) Score=4.3 Pos=-174 [Azorhizobium caulinodans ORS 571]
+TTGCATACAT
+>blr1277(mdcL) Score=4 Pos=-121 [Bradyrhizobium japonicum USDA 110]
+GTGTATACGC
+>blr1277(mdcL) Score=3.6 Pos=-161 [Bradyrhizobium japonicum USDA 110]
+TTGTATCTAA
+>bll1276(mdcA) Score=4 Pos=-82 [Bradyrhizobium japonicum USDA 110]
+GCGTATACAC
+>bll1276(mdcA) Score=3.6 Pos=-42 [Bradyrhizobium japonicum USDA 110]
+TTAGATACAA
+>bll0269(mdcC) Score=3.6 Pos=-46 [Bradyrhizobium japonicum USDA 110]
+TTGTACGCAC
+>RHE_CH00920(matA) Score=4.8 Pos=-125 [Rhizobium etli CFN 42]
+GTGTATACAC
+>RHE_CH00919(mdcY) Score=4.8 Pos=-43 [Rhizobium etli CFN 42]
+GTGTATACAC
+>RL0990(matA) Score=5 Pos=-144 [Rhizobium leguminosarum bv. viciae 3841]
+TTGTATACAC
+>RL0989(mdcY) Score=5 Pos=-25 [Rhizobium leguminosarum bv. viciae 3841]
+GTGTATACAA
+>NGR_b02860(matA) Score=5 Pos=-136 [Rhizobium sp. NGR234]
+TTGTATACAC
+>NGR_b02870(mdcY) Score=5 Pos=-43 [Rhizobium sp. NGR234]
+GTGTATACAA
+>SMa0160(mdcY) Score=5.2 Pos=-50 [Sinorhizobium meliloti 1021]
+TTGTATACAA
+>SMa0157(matP) Score=5.2 Pos=-88 [Sinorhizobium meliloti 1021]
+TTGTATACAA
+>Xaut_0520(mdcY) Score=4.6 Pos=-70 [Xanthobacter autotrophicus Py2]
+TTGTATGCAA
+>Xaut_0519(matA) Score=4.6 Pos=-235 [Xanthobacter autotrophicus Py2]
+TTGCATACAA

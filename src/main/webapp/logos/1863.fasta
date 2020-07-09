@@ -1,0 +1,54 @@
+>STM0787(hutI) Score=4.7 Pos=-43 [Salmonella typhimurium LT2]
+ATAAATGTCTATACAACCCA
+>CKO_02360(hutI) Score=4.7 Pos=-29 [Citrobacter koseri ATCC BAA-895]
+ATAAATGTATAGACAACCCA
+>CKO_02357(hutU) Score=5.3 Pos=-61 [Citrobacter koseri ATCC BAA-895]
+CAAGTTGTATAGACAAGTAT
+>CKO_02925(COG1732 (OpuBC)) Score=6 Pos=-50 [Citrobacter koseri ATCC BAA-895]
+TGGTTTGTATATACAAGTAA
+>KPN_01286(COG1457 (CodB)) Score=5.9 Pos=-111 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGCTTGTATATACAAGAAC
+>KPN_00792(hutI) Score=4.7 Pos=-36 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAAATGTCTATACAACCCA
+>KPN_01285(hutD) Score=5.9 Pos=-147 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTTCTTGTATATACAAGCAT
+>KPN_00795(hutU) Score=6.1 Pos=-62 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGCTTGTATAGACAAGTAT
+>Ent638_1263(hutU) Score=4.9 Pos=-58 [Enterobacter sp. 638]
+GGGGTTGTCTATACAAGTAT
+>Ent638_1260(hutI) Score=4.9 Pos=-4 [Enterobacter sp. 638]
+ATAAATGTCTATACAACTCA
+>EAM_1254(hutH) Score=4.2 Pos=-83 [Erwinia amylovora ATCC 49946]
+AGACAAGAATATACAAATGT
+>EAM_1254(hutH) Score=5 Pos=-93 [Erwinia amylovora ATCC 49946]
+GTAGTTGTATAGACAAGAAT
+>EAM_1255(hutC) Score=5 Pos=-202 [Erwinia amylovora ATCC 49946]
+ATTCTTGTCTATACAACTAC
+>EAM_1257(hutF) Score=4.6 Pos=-38 [Erwinia amylovora ATCC 49946]
+GTATATGTATATACAACCTC
+>EAM_1258(hutI) Score=4.6 Pos=-63 [Erwinia amylovora ATCC 49946]
+GAGGTTGTATATACATATAC
+>EAM_1255(hutC) Score=4.2 Pos=-212 [Erwinia amylovora ATCC 49946]
+ACATTTGTATATTCTTGTCT
+>y2338(hutF) Score=5.8 Pos=-33 [Yersinia pestis KIM]
+GTATATGTATATACAAGTAA
+>y4038(hutU) Score=5.9 Pos=-72 [Yersinia pestis KIM]
+GTACTTGTCTATACAAGTAT
+>y2339(hutC) Score=5.8 Pos=-80 [Yersinia pestis KIM]
+TTACTTGTATATACATATAC
+>y2340(hutI) Score=5.9 Pos=-113 [Yersinia pestis KIM]
+ATGATTGTATATACAAGTTG
+>Spro_2079(hutF) Score=5.3 Pos=-117 [Serratia proteamaculans 568]
+GTATATGTATATACAACTAA
+>Spro_0805(hutU) Score=6.3 Pos=-20 [Serratia proteamaculans 568]
+ATGCTTGTACATACAAGTAT
+>Spro_2077(hutI) Score=5.9 Pos=-51 [Serratia proteamaculans 568]
+TTAATTGTATATACAACCAT
+>Spro_2078(hutC) Score=5.3 Pos=-80 [Serratia proteamaculans 568]
+TTAGTTGTATATACATATAC
+>plu3197(hutI) Score=5.9 Pos=-104 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAAATGTATATACAATTAA
+>plu3193(hutU) Score=4.6 Pos=-69 [Photorhabdus luminescens subsp. laumondii TTO1]
+TCTATTGAATATACATGTAT
+>plu3193(hutU) Score=6 Pos=-59 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATACATGTATATACAACTAT

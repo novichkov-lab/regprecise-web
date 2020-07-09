@@ -1,0 +1,80 @@
+>VV1_1781(nnrS) Score=5.6 Pos=-99 [Vibrio vulnificus CMCP6]
+GTTGTATTTTTAATGCATC
+>VV1_1301(hmp) Score=4.8 Pos=-81 [Vibrio vulnificus CMCP6]
+GATACATTTGAGATACAAC
+>VV1_1301(hmp) Score=5.1 Pos=-56 [Vibrio vulnificus CMCP6]
+CATGCATTACAGATGCAAC
+>VV1_1302(nsrR) Score=5.1 Pos=-93 [Vibrio vulnificus CMCP6]
+GTTGCATCTGTAATGCATG
+>VV1_1302(nsrR) Score=4.8 Pos=-68 [Vibrio vulnificus CMCP6]
+GTTGTATCTCAAATGTATC
+>VIBHAR_03317(nnrS) Score=5.7 Pos=-47 [Vibrio harveyi ATCC BAA-1116]
+CATGTATTTTTTATGCATG
+>VIBHAR_00087(hmp) Score=4.8 Pos=-62 [Vibrio harveyi ATCC BAA-1116]
+GATACATTTGAGATACAAC
+>VIBHAR_00087(hmp) Score=5.4 Pos=-37 [Vibrio harveyi ATCC BAA-1116]
+CATGCATTACAAATACAAC
+>VIBHAR_00086(nsrR) Score=5.4 Pos=-93 [Vibrio harveyi ATCC BAA-1116]
+GTTGTATTTGTAATGCATG
+>VIBHAR_00086(nsrR) Score=4.8 Pos=-68 [Vibrio harveyi ATCC BAA-1116]
+GTTGTATCTCAAATGTATC
+>VIBHAR_00951(aox) Score=5.4 Pos=-42 [Vibrio harveyi ATCC BAA-1116]
+GTTGTATTTTAAATACAAC
+>VP2390(nnrS) Score=5.7 Pos=-83 [Vibrio parahaemolyticus RIMD 2210633]
+CATGTATTTTTTATGCATG
+>VP2809(hmp) Score=4.8 Pos=-63 [Vibrio parahaemolyticus RIMD 2210633]
+GATACATTTGAGATACAAC
+>VP2809(hmp) Score=5.4 Pos=-38 [Vibrio parahaemolyticus RIMD 2210633]
+CATGCATTACAAATACAAC
+>VP2808(nsrR) Score=5.4 Pos=-139 [Vibrio parahaemolyticus RIMD 2210633]
+GTTGTATTTGTAATGCATG
+>VP2808(nsrR) Score=4.8 Pos=-114 [Vibrio parahaemolyticus RIMD 2210633]
+GTTGTATCTCAAATGTATC
+>VS_0945(nsrR) Score=5.3 Pos=-41 [Vibrio splendidus LGP32]
+GATTCATAATAAATACATC
+>VF_A0439(nnrS) Score=5.7 Pos=-75 [Vibrio fischeri ES114]
+CATGCATAAAAAATACATG
+>VF_2316(hmp) Score=5 Pos=-60 [Vibrio fischeri ES114]
+GATATATTTTAGATACAAC
+>VF_2316(hmp) Score=5.2 Pos=-35 [Vibrio fischeri ES114]
+CATACATTATAAATACACC
+>VF_2315(nsrR) Score=5.2 Pos=-90 [Vibrio fischeri ES114]
+GGTGTATTTATAATGTATG
+>VF_2315(nsrR) Score=5 Pos=-65 [Vibrio fischeri ES114]
+GTTGTATCTAAAATATATC
+>VF_0578(aox) Score=5.3 Pos=-41 [Vibrio fischeri ES114]
+GGTGTATTTTAAATGCAAC
+>VSAL_II0720(nnrS) Score=5.7 Pos=-78 [Vibrio salmonicida LFI1238]
+CATGCATAAAAAATACATG
+>VSAL_I2770(hmp) Score=5 Pos=-86 [Vibrio salmonicida LFI1238]
+GATATATTTTAGATACAAC
+>VSAL_I2770(hmp) Score=5.3 Pos=-61 [Vibrio salmonicida LFI1238]
+CATACATTATAAATACAAC
+>VSAL_I2769(nsrR) Score=5.3 Pos=-92 [Vibrio salmonicida LFI1238]
+GTTGTATTTATAATGTATG
+>VSAL_I2769(nsrR) Score=5 Pos=-67 [Vibrio salmonicida LFI1238]
+GTTGTATCTAAAATATATC
+>VSAL_I0677(aox) Score=5.4 Pos=-39 [Vibrio salmonicida LFI1238]
+GTTGTATTTTAAATGCAAC
+>VAS14_11974(nnrS) Score=5.7 Pos=-37 [Vibrio angustum S14]
+CATGTATAATTAATGCATG
+>VAS14_18799(hmp) Score=5.3 Pos=-33 [Vibrio angustum S14]
+CATATATTACAAATACATC
+>VAS14_18794(nsrR) Score=5.3 Pos=-88 [Vibrio angustum S14]
+GATGTATTTGTAATATATG
+>VAS14_04708(aox) Score=5.5 Pos=-42 [Vibrio angustum S14]
+CATGTATTATTAATAAATG
+>VAS14_14734(norR2) Score=5.1 Pos=-118 [Vibrio angustum S14]
+CATTCATATGAAATACATC
+>PBPRB0907(nnrS) Score=5.1 Pos=-48 [Photobacterium profundum SS9]
+GGTGTATCATTTATGCATG
+>PBPRA3342(nsrR) Score=5.1 Pos=-88 [Photobacterium profundum SS9]
+GTTATATTTATAATGCACC
+>PBPRA2631(tehB) Score=5 Pos=-80 [Photobacterium profundum SS9]
+GATGTATTATTTACACATC
+>PBPRA1144(norV) Score=5.7 Pos=-95 [Photobacterium profundum SS9]
+CATGTATTATTTATACATG
+>PBPRA1144(norV) Score=4.6 Pos=-43 [Photobacterium profundum SS9]
+CATGCATTCAAAATACGAG
+>PBPRA3343(hmp) Score=5.1 Pos=-33 [Photobacterium profundum SS9]
+GGTGCATTATAAATATAAC

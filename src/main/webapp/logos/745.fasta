@@ -1,0 +1,52 @@
+>TM0417(ftr) Score=4.9 Pos=-68 [Thermotoga maritima MSB8]
+ATTGAGAATAATGATAAAC
+>TM0807(tdxH) Score=5.6 Pos=-57 [Thermotoga maritima MSB8]
+ATTGAGAATGGATATCAAA
+>TM0050(feoA) Score=6.4 Pos=-35 [Thermotoga maritima MSB8]
+TTTGAGAATCATTCTCAAA
+>TM0386(bcp) Score=6 Pos=-38 [Thermotoga maritima MSB8]
+ATTGAGAATTAGTTTCAAC
+>TM0180(TM0180) Score=5.4 Pos=-52 [Thermotoga maritima MSB8]
+TTTGAGAAACAATTTCAAA
+>TRQ2_0119(tdxH) Score=5.6 Pos=-57 [Thermotoga sp. RQ2]
+ATTGAGAATGGATATCAAA
+>TRQ2_0768(TM0180) Score=5.4 Pos=-51 [Thermotoga sp. RQ2]
+TTTGAGAAACAATTTCAAA
+>TRQ2_0896(feoA) Score=6.4 Pos=-35 [Thermotoga sp. RQ2]
+TTTGAGAATCATTCTCAAA
+>TRQ2_0551(bcp) Score=6 Pos=-38 [Thermotoga sp. RQ2]
+ATTGAGAATTAGTTTCAAC
+>CTN_0644(feoA) Score=6.4 Pos=-33 [Thermotoga neapolitana DSM 4359]
+GTTGAGAATGATTCTCAAA
+>CTN_0311(bcp) Score=6 Pos=-1 [Thermotoga neapolitana DSM 4359]
+ATTGAGAATTAGTTTCAAC
+>Tpet_0874(feoA) Score=6.4 Pos=-35 [Thermotoga petrophila RKU-1]
+TTTGAGAATCATTCTCAAA
+>Tpet_0744(TM0180) Score=5.4 Pos=-51 [Thermotoga petrophila RKU-1]
+TTTGAGAAACAATTTCAAA
+>Tpet_0121(tdxH) Score=5.6 Pos=-57 [Thermotoga petrophila RKU-1]
+ATTGAGAATGGATATCAAA
+>Tpet_0537(bcp) Score=6 Pos=-37 [Thermotoga petrophila RKU-1]
+ATTGAGAATTAGTTTCAAC
+>Tnap_0680(feoA) Score=6.4 Pos=-35 [Thermotoga naphthophila RKU-10]
+TTTGAGAATCATTCTCAAA
+>Tnap_0122(tdxH) Score=5.6 Pos=-57 [Thermotoga naphthophila RKU-10]
+ATTGAGAATGGATATCAAA
+>Tnap_0175(bcp) Score=6 Pos=-37 [Thermotoga naphthophila RKU-10]
+ATTGAGAATTAGTTTCAAC
+>Tlet_0564(feoA) Score=6.2 Pos=-33 [Thermotoga lettingae TMO]
+ATTGAGAATGAATCTCAAT
+>THA_366(ftr) Score=5.6 Pos=-40 [Thermosipho africanus TCF52B]
+AATGATAATCATTCTCAAT
+>THA_366(ftr) Score=4.8 Pos=-46 [Thermosipho africanus TCF52B]
+ATTGAAAATGATAATCATT
+>THA_39(feoA) Score=6.2 Pos=-36 [Thermosipho africanus TCF52B]
+GTTGAGAATTATTTTCAAT
+>THA_1977(korA) Score=6.1 Pos=-59 [Thermosipho africanus TCF52B]
+TTTGAGAATTATTATCAAT
+>Tmel_1740(feoA) Score=6.1 Pos=-36 [Thermosipho melanesiensis BI429]
+ATTGAGAATGAGTTTCAAT
+>Fnod_0260(feoA) Score=5.4 Pos=-106 [Fervidobacterium nodosum Rt17-B1]
+GTTGAGAATAAGTTTCACC
+>Kole_0369(feoA) Score=6.4 Pos=-40 [Thermotogales bacterium TBF 19.5.1]
+ATTGAGAATTATTCTCAAT

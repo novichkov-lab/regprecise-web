@@ -1,0 +1,98 @@
+>PA1730(ybdK) Score=4.5 Pos=-118 [Pseudomonas aeruginosa PAO1]
+TGCACCAGACTGGGGCG
+>PA5124(ntrB) Score=5.4 Pos=-182 [Pseudomonas aeruginosa PAO1]
+CGCACCAGATTGGTGCG
+>PA5288(glnK) Score=5.2 Pos=-338 [Pseudomonas aeruginosa PAO1]
+TGCGCCTATTTGGTGCG
+>PA5119(glnA) Score=5.3 Pos=-207 [Pseudomonas aeruginosa PAO1]
+AGCACCATAACGGTGCA
+>PA5119(glnA) Score=5.1 Pos=-220 [Pseudomonas aeruginosa PAO1]
+TGCACCAACATGGAGCA
+>PSEEN0571(alsT) Score=5.5 Pos=-133 [Pseudomonas entomophila L48]
+CGCACCAAAATGGAGCA
+>PSEEN3762(amtB2) Score=4.7 Pos=-69 [Pseudomonas entomophila L48]
+GGCACCGATTCGGTGCA
+>PSEEN0390(glnA) Score=5.8 Pos=-236 [Pseudomonas entomophila L48]
+CGCACCAATATGGTGCA
+>PSEEN0387(ntrB) Score=4.4 Pos=-71 [Pseudomonas entomophila L48]
+AGCACGTTATCCGTGCG
+>PSEEN0387(ntrB) Score=5.5 Pos=-245 [Pseudomonas entomophila L48]
+TGCTCCATATTGGTGCA
+>PSEEN5376(glnK) Score=5.3 Pos=-310 [Pseudomonas entomophila L48]
+CGCACCGATTTTGTGCG
+>PP2106(amtB2) Score=4.7 Pos=-72 [Pseudomonas putida KT2440]
+GGCACCGATTCGGTGCA
+>PP2688(ybdK) Score=4.1 Pos=-256 [Pseudomonas putida KT2440]
+CGCCCTTTTTTGATGCG
+>PP2688(ybdK) Score=4.5 Pos=-295 [Pseudomonas putida KT2440]
+CGCCCCATTTCGGTTCA
+>PP5046(glnA) Score=4.4 Pos=-205 [Pseudomonas putida KT2440]
+CGCATCGTAAGGGTGCA
+>PP5046(glnA) Score=5.3 Pos=-236 [Pseudomonas putida KT2440]
+CGCACCCTATTGGTGCG
+>PP5047(ntrB) Score=4.7 Pos=-257 [Pseudomonas putida KT2440]
+TGCTCTATCTTGGTGCA
+>PP5234(glnK) Score=4.6 Pos=-299 [Pseudomonas putida KT2440]
+TGCACATTTTTCGCGCA
+>PP5234(glnK) Score=5.4 Pos=-266 [Pseudomonas putida KT2440]
+CGCACCGAAATTGTGCA
+>PSPTO5500(alsT) Score=4.8 Pos=-47 [Pseudomonas syringae pv. tomato str. DC3000]
+TGCACCGGTATAGTGCG
+>PSPTO2059(ybdK) Score=5 Pos=-119 [Pseudomonas syringae pv. tomato str. DC3000]
+TGCACAGGAATGGTGCG
+>PSPTO0359(glnA) Score=4.9 Pos=-208 [Pseudomonas syringae pv. tomato str. DC3000]
+AGCGCCATAACGGTGCG
+>PSPTO0353(ntrB) Score=4.2 Pos=-50 [Pseudomonas syringae pv. tomato str. DC3000]
+AGCACCAGCATTGCGCG
+>PSPTO0353(ntrB) Score=5.3 Pos=-267 [Pseudomonas syringae pv. tomato str. DC3000]
+AGCACCTTTTTGGTGCA
+>PSPTO0217(glnK) Score=4.9 Pos=-315 [Pseudomonas syringae pv. tomato str. DC3000]
+AGCACCATTGTTGTGCA
+>PSPTO0217(glnK) Score=4.6 Pos=-348 [Pseudomonas syringae pv. tomato str. DC3000]
+TGCACGCTTATGGCGCG
+>PFL_6139(alsT) Score=4.8 Pos=-210 [Pseudomonas fluorescens Pf-5]
+CGCACCGGTATAGTGCG
+>PFL_4230(amtB2) Score=4.6 Pos=-54 [Pseudomonas fluorescens Pf-5]
+CGCGCCAAAACGGTTCA
+>PFL_2518(ybdK) Score=4.5 Pos=-283 [Pseudomonas fluorescens Pf-5]
+TGCACCGATTCTGTTCG
+>PFL_0386(glnA) Score=4.5 Pos=-235 [Pseudomonas fluorescens Pf-5]
+TGCACCAAAACGGGTCA
+>PFL_0378(ntrB) Score=5.4 Pos=-246 [Pseudomonas fluorescens Pf-5]
+TGCACTATATTGGTGCA
+>PFL_6020(glnK) Score=4.5 Pos=-347 [Pseudomonas fluorescens Pf-5]
+TGCACGTTTTTCGCGCA
+>PFL_6020(glnK) Score=5.3 Pos=-314 [Pseudomonas fluorescens Pf-5]
+CGCACCGTTTTTGTGCG
+>Pmen_2597(ybdK) Score=5.2 Pos=-120 [Pseudomonas mendocina ymp]
+CGCACCGAGATGGTGCG
+>Pmen_4140(glnA) Score=4.4 Pos=-202 [Pseudomonas mendocina ymp]
+AGCCCTTAAATGGTGCA
+>Pmen_4143(ntrB) Score=5.6 Pos=-256 [Pseudomonas mendocina ymp]
+CGCACCTTTATGGTGCA
+>Pmen_0259(glnK) Score=5 Pos=-341 [Pseudomonas mendocina ymp]
+TGCACAATTTTTGAGCA
+>Pmen_4140(glnA) Score=4.1 Pos=-233 [Pseudomonas mendocina ymp]
+CGCACCAAAATAGGTCT
+>Pmen_0259(glnK) Score=5.6 Pos=-308 [Pseudomonas mendocina ymp]
+CGCACCAAATTTGTGCG
+>PST_0353(glnA) Score=4.9 Pos=-212 [Pseudomonas stutzeri A1501]
+CGCACCATTAACGCGCA
+>PST_0350(ntrB) Score=5.2 Pos=1 [Pseudomonas stutzeri A1501]
+TGCACCTGTTTGGTGCG
+>PST_0502(glnK) Score=4.8 Pos=-329 [Pseudomonas stutzeri A1501]
+TGCACAAAAAATGAGCA
+>PST_0502(glnK) Score=5.5 Pos=-296 [Pseudomonas stutzeri A1501]
+CGCACCATTTTCGTGCG
+>PST_0353(glnA) Score=4.6 Pos=-243 [Pseudomonas stutzeri A1501]
+CGCACCAAAACAATGCG
+>Avin_37690(ybdK) Score=4.6 Pos=-298 [Azotobacter vinelandii AvOP]
+TGCATTTTTTTGGTGCG
+>Avin_45850(glnA) Score=4.1 Pos=-100 [Azotobacter vinelandii AvOP]
+TGCTCCCTTGTGGCGCG
+>Avin_45850(glnA) Score=4.1 Pos=-232 [Azotobacter vinelandii AvOP]
+CGCACCAAAATGAAACA
+>Avin_45890(ntrB) Score=4.2 Pos=-179 [Azotobacter vinelandii AvOP]
+CGCCCTGTTTTGGGGCG
+>Avin_47790(glnK) Score=4.9 Pos=-296 [Azotobacter vinelandii AvOP]
+CGCACGGTTTTCGTGCG

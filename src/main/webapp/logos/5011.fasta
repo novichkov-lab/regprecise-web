@@ -1,0 +1,36 @@
+>Atu3337(thuR) Score=6.6 Pos=-78 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATTGAAATCGTTTTCAATT
+>Atu3337(thuR) Score=5 Pos=-230 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATTGAAAGCGCTTTTGACT
+>Atu3338(thuE) Score=6.6 Pos=-210 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATTGAAAACGATTTCAATT
+>Atu3338(thuE) Score=5 Pos=-58 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AGTCAAAAGCGCTTTCAATT
+>SMb20324(thuR) Score=6 Pos=-240 [Sinorhizobium meliloti 1021]
+AATTTAAAACGATTTGGATC
+>SMb20325(thuE) Score=6 Pos=-258 [Sinorhizobium meliloti 1021]
+GATCCAAATCGTTTTAAATT
+>SMb20325(thuE) Score=4.9 Pos=-63 [Sinorhizobium meliloti 1021]
+TACCCAAACCGTTTTCGAAT
+>NGR_b23150(thuR) Score=5.2 Pos=-141 [Rhizobium sp. NGR234]
+AATTTAAAACGATTGGGCTA
+>NGR_b23140(thuE) Score=5.2 Pos=-252 [Rhizobium sp. NGR234]
+TAGCCCAATCGTTTTAAATT
+>NGR_b23140(thuE) Score=5.1 Pos=-68 [Rhizobium sp. NGR234]
+CAGCCAAACCGTTTTCGAAT
+>RHE_PF00210(thuE) Score=6.7 Pos=-194 [Rhizobium etli CFN 42]
+AATTGAAATCGATTTCAATT
+>RHE_PF00210(thuE) Score=5.6 Pos=-34 [Rhizobium etli CFN 42]
+TGTCCAAATCGATTTCAATT
+>RHE_PF00211(thuR) Score=5.6 Pos=-257 [Rhizobium etli CFN 42]
+AATTGAAATCGATTTGGACA
+>RHE_PF00211(thuR) Score=6.7 Pos=-97 [Rhizobium etli CFN 42]
+AATTGAAATCGATTTCAATT
+>RHE_CH03256(thuA2) Score=5.7 Pos=-67 [Rhizobium etli CFN 42]
+TTTCCAAAGCGCTTTGAATT
+>BMEII0946(thuR) Score=5.8 Pos=-126 [Brucella melitensis 16M]
+GATTGAAAGCGGTTTGGATT
+>BMEII0945(thuE) Score=5.8 Pos=-244 [Brucella melitensis 16M]
+AATCCAAACCGCTTTCAATC
+>BMEII0945(thuE) Score=5.2 Pos=-75 [Brucella melitensis 16M]
+TACCCAAACCGTTTTCGATT

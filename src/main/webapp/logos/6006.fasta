@@ -1,0 +1,80 @@
+>MAB_1084c(COG2331) Score=6.6 Pos=-63 [Mycobacterium abscessus ATCC 19977]
+CTAGCACTCCAAGCGGTAGAGTGCTAG
+>MAB_0650(groL2) Score=6.5 Pos=-131 [Mycobacterium abscessus ATCC 19977]
+TTGGCACTCACGACCGGTGAGTGCTAG
+>MAB_0650(groL2) Score=6.7 Pos=-166 [Mycobacterium abscessus ATCC 19977]
+CTTGCACTCGCCATGGCCGAGTGCTAA
+>MAB_3732c(groS) Score=6.9 Pos=-162 [Mycobacterium abscessus ATCC 19977]
+CTAGCACTCTCATGTATAGAGTGCTAG
+>MAV_1100(COG2331) Score=6.8 Pos=-55 [Mycobacterium avium 104]
+CTAGCACTTGACACGCTAGAGTGCTAA
+>MAV_4707(groL2) Score=6.7 Pos=-177 [Mycobacterium avium 104]
+CTTGCACTCGGCATGGGCGAGTGCTAA
+>MAV_4707(groL2) Score=6.6 Pos=-143 [Mycobacterium avium 104]
+TTGGCACTCGCGACCAGTGAGTGCTAG
+>MAV_4366(groS) Score=7 Pos=-160 [Mycobacterium avium 104]
+CTAGCACTCGCATGTATAGAGTGCTAG
+>Mflv_1805(hsp18) Score=6.8 Pos=-99 [Mycobacterium flavescens PYR-GCK]
+CTGGCACTCTCCTATCTCGAGTGCTAA
+>Mflv_1895(COG2331) Score=6.8 Pos=-53 [Mycobacterium flavescens PYR-GCK]
+CTAGCACTTGAGCCGCTAGAGTGCTAA
+>Mflv_0141(groL2) Score=6.9 Pos=-174 [Mycobacterium flavescens PYR-GCK]
+CTTGCACTCGCCCTGGTCGAGTGCTAA
+>Mflv_0141(groL2) Score=6.6 Pos=-139 [Mycobacterium flavescens PYR-GCK]
+TTGGCACTCGCGACCAGTGAGTGCTAG
+>Mflv_4925(groS) Score=7 Pos=-133 [Mycobacterium flavescens PYR-GCK]
+CTAGCACTCTCGTGTATAGAGTGCTAG
+>ML0180(COG2331) Score=6.6 Pos=-54 [Mycobacterium leprae TN]
+CTAGCACTTGGCACGGTAGAGTGCCAG
+>ML0317(groL2) Score=6.6 Pos=-161 [Mycobacterium leprae TN]
+CTGGCACTCGCGATCAGCGAGTGCCAG
+>ML0317(groL2) Score=6.5 Pos=-196 [Mycobacterium leprae TN]
+CTTGCACTCGCCTTAGGGGAGTGCTAA
+>ML0380(groS) Score=7.1 Pos=-236 [Mycobacterium leprae TN]
+CTAGCACTCGCGTGTATAGAGTGCTAG
+>MMAR_4523(COG2331) Score=6.7 Pos=-55 [Mycobacterium marinum M]
+CTAGCACTTGAAACGGTAGAGTGCTAA
+>MMAR_0759(groL2) Score=6.9 Pos=-175 [Mycobacterium marinum M]
+TTGGCACTCGCGACCCGCGAGTGCTAG
+>MMAR_0759(groL2) Score=6.9 Pos=-210 [Mycobacterium marinum M]
+CTTGCACTCGACATAGGCGAGTGCTAA
+>MMAR_1125(groS) Score=6.9 Pos=-233 [Mycobacterium marinum M]
+CTAGCACTCTCATGTATAGAGTGCTAG
+>MSMEG_5611(hsp18) Score=6.9 Pos=-97 [Mycobacterium smegmatis str. MC2 155]
+CTAGCACTCTCACATCTCGAGTGCTAA
+>MSMEG_5479(COG2331) Score=6.7 Pos=-55 [Mycobacterium smegmatis str. MC2 155]
+CTAGCACTTGAGGCGGTAGAGTGCTAA
+>MSMEG_0880(groL2) Score=6.7 Pos=-141 [Mycobacterium smegmatis str. MC2 155]
+TTGGCACTCTCGATTCGTGAGTGCTAG
+>MSMEG_0880(groL2) Score=6.5 Pos=-176 [Mycobacterium smegmatis str. MC2 155]
+CTTGCACTCACCATGCCCGAGTGCTAA
+>MSMEG_1582(groS) Score=6.9 Pos=-159 [Mycobacterium smegmatis str. MC2 155]
+CTAGCACTCTCATGTATAGAGTGCTAG
+>Mjls_4761(hsp18) Score=7 Pos=-99 [Mycobacterium sp. JLS]
+CTAGCACTCGCATGTGTCGAGTGCTAA
+>Mjls_4670(COG2331) Score=6.8 Pos=-53 [Mycobacterium sp. JLS]
+CTAGCACTTGAGCCGGTAGAGTGCTAA
+>Mjls_0598(groL2) Score=6.8 Pos=-141 [Mycobacterium sp. JLS]
+CTGGCACTCGCGACCGGTGAGTGCTAG
+>Mjls_0598(groL2) Score=6.8 Pos=-176 [Mycobacterium sp. JLS]
+CTTGCACTCTCCCTGGTCGAGTGCTAA
+>Mjls_1180(groS) Score=7 Pos=-86 [Mycobacterium sp. JLS]
+CTAGCACTCGCATGTATAGAGTGCTAG
+>Rv0991c(COG2331) Score=6.8 Pos=-54 [Mycobacterium tuberculosis H37Rv]
+CTAGCACTTGAGACGGTAGAGTGCTAA
+>Rv0440(groL2) Score=6.6 Pos=-219 [Mycobacterium tuberculosis H37Rv]
+CTTGCACTCGGCATAGGCGAGTGCTAA
+>Rv0440(groL2) Score=6.7 Pos=-184 [Mycobacterium tuberculosis H37Rv]
+TTGGCACTCGCGACCGGTGAGTGCTAG
+>Rv3418c(groS) Score=6.9 Pos=-199 [Mycobacterium tuberculosis H37Rv]
+CTAGCACTCTCATGTATAGAGTGCTAG
+>Mvan_4943(hsp18) Score=6.7 Pos=-99 [Mycobacterium vanbaalenii PYR-1]
+CTGGCACTCTCACAGCTCGAGTGCTAA
+>Mvan_4835(COG2331) Score=6.8 Pos=-54 [Mycobacterium vanbaalenii PYR-1]
+CTAGCACTTGACCCGGTAGAGTGCTAA
+>Mvan_0764(groL2) Score=6.9 Pos=-175 [Mycobacterium vanbaalenii PYR-1]
+CTTGCACTCGCCCAGGTCGAGTGCTAA
+>Mvan_0764(groL2) Score=6.6 Pos=-140 [Mycobacterium vanbaalenii PYR-1]
+TTGGCACTCGCGACCAGTGAGTGCTAG
+>Mvan_1494(groS) Score=7 Pos=-131 [Mycobacterium vanbaalenii PYR-1]
+CTAGCACTCTCGTGTATAGAGTGCTAG

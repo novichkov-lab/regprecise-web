@@ -1,0 +1,42 @@
+>ATW7_02142(omp(Scr)) Score=6.4 Pos=-61 [Alteromonadales bacterium TW-7]
+TTACTTAATCGATTAAGTAA
+>ATW7_02147(scrT) Score=7 Pos=-158 [Alteromonadales bacterium TW-7]
+AATCTTAATCGATTAAGATA
+>ATW7_02152(scrP) Score=7 Pos=-38 [Alteromonadales bacterium TW-7]
+TATCTTAATCGATTAAGATT
+>MADE_02629(scrR) Score=5.8 Pos=-108 [Alteromonas macleodii 'Deep ecotype']
+TAAGTTAAACGTTTAAGATA
+>MADE_00677(scrT) Score=6.7 Pos=-211 [Alteromonas macleodii 'Deep ecotype']
+TATCTTAATCGTTTAAGATT
+>MADE_00676(ams) Score=6.7 Pos=-108 [Alteromonas macleodii 'Deep ecotype']
+AATCTTAAACGATTAAGATA
+>MADE_01971(scrP) Score=6.6 Pos=-202 [Alteromonas macleodii 'Deep ecotype']
+TATCTTAATCGATTAAGAGT
+>MADE_02625(omp(Scr)) Score=6.5 Pos=-101 [Alteromonas macleodii 'Deep ecotype']
+ATTCTTAATCGATTAAGTAT
+>GHTCC_010100001240(omp(Scr)2) Score=6 Pos=-109 [Glaciecola sp. HTCC2999]
+TTACTTAATCAATTAAGAAA
+>GHTCC_010100000760 Score=6.6 Pos=-97 [Glaciecola sp. HTCC2999]
+AATCTTAATCGTTTAAGTTT
+>GHTCC_010100010863(GHTCC_010100010863) Score=5.9 Pos=-75 [Glaciecola sp. HTCC2999]
+ACCCTTAATCGATTAAGTTT
+>GHTCC_010100004760(scrR) Score=5.9 Pos=-81 [Glaciecola sp. HTCC2999]
+TCGCTTAATCGATTAAGTTT
+>GHTCC_010100011053(scrP) Score=6.6 Pos=-37 [Glaciecola sp. HTCC2999]
+ATACTTAATCGATTAAGATT
+>Patl_3821(scrR) Score=6.3 Pos=-377 [Pseudoalteromonas atlantica T6c]
+CATCTTAAACGTTTAAGATT
+>Patl_3819(scrT) Score=6.4 Pos=-146 [Pseudoalteromonas atlantica T6c]
+TATCTTAAACGATTAAGTTG
+>Patl_3820(ams) Score=6.4 Pos=-160 [Pseudoalteromonas atlantica T6c]
+CAACTTAATCGTTTAAGATA
+>Patl_3820(ams) Score=5.5 Pos=-31 [Pseudoalteromonas atlantica T6c]
+TAACTTAATCGTTTTAGACA
+>Patl_3822(Patl_3822) Score=6.3 Pos=-155 [Pseudoalteromonas atlantica T6c]
+AATCTTAAACGTTTAAGATG
+>PTD2_22197(omp(Scr)) Score=6.5 Pos=-68 [Pseudoalteromonas tunicata D2]
+TAACTTAATCGATTAAGAAG
+>PTD2_22192(scrT) Score=7 Pos=-206 [Pseudoalteromonas tunicata D2]
+AATCTTAATCGATTAAGATA
+>PTD2_22187(scrP) Score=7 Pos=-35 [Pseudoalteromonas tunicata D2]
+TATCTTAATCGATTAAGATT

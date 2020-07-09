@@ -1,0 +1,140 @@
+>CC2080(psrA) Score=4.4 Pos=-46 [Caulobacter crescentus CB15]
+ATTCGAACGCCCGTAAGACT
+>CC2074 Score=5.1 Pos=-29 [Caulobacter crescentus CB15]
+ATCCGAACACCTGTTCGAAA
+>CC0244 Score=5.5 Pos=-25 [Caulobacter crescentus CB15]
+GCTCAAACAAGCGTTTGAGG
+>CC3309(paaI) Score=5 Pos=-26 [Caulobacter crescentus CB15]
+TTTCAAACGCTTGTTAGCCT
+>CC3089 Score=4.8 Pos=-70 [Caulobacter crescentus CB15]
+GGGCGAACAGATGTTTGACT
+>CC1111 Score=4.5 Pos=-40 [Caulobacter crescentus CB15]
+CATCTAACAAGTGTTTGATC
+>CC0690(acdH) Score=5.9 Pos=-47 [Caulobacter crescentus CB15]
+CTTCAAACAAGCGTTTGACA
+>CC0246 Score=5.5 Pos=-41 [Caulobacter crescentus CB15]
+ATTCAAACTGCTGTTTGAAT
+>CC1967 Score=4.8 Pos=-30 [Caulobacter crescentus CB15]
+CGCCCAACGAACGTTTGAAT
+>CC3087 Score=4.6 Pos=-34 [Caulobacter crescentus CB15]
+AAGAAAACAACTGTTTGGGC
+>CC0427 Score=5.2 Pos=-69 [Caulobacter crescentus CB15]
+GGCAAAACAAGCGTTTGACG
+>CC1310 Score=5 Pos=-86 [Caulobacter crescentus CB15]
+TTCCAAACGGCCGTTCGAGC
+>CC0942 Score=5.3 Pos=-30 [Caulobacter crescentus CB15]
+ATCCAAACAACTGTTCGAGG
+>CC3076 Score=5.3 Pos=-28 [Caulobacter crescentus CB15]
+ATTCAAACAAACGTTTAGGG
+>CC3189(fadB) Score=5.2 Pos=-45 [Caulobacter crescentus CB15]
+TGTCAAACAACCGTTCAAAC
+>CC3462(fadA) Score=5.4 Pos=-34 [Caulobacter crescentus CB15]
+ATTCAAACTAACGTTTAACG
+>CC2049 Score=5.4 Pos=-89 [Caulobacter crescentus CB15]
+ATGCGAACGATCGTTTGAAT
+>CC0947(echH) Score=5.1 Pos=-39 [Caulobacter crescentus CB15]
+GGTCATACGATCGTTTAAAA
+>CC1568 Score=5.4 Pos=-27 [Caulobacter crescentus CB15]
+TCTCAAACAATTGTTTGGGA
+>CC3380 Score=5.3 Pos=-41 [Caulobacter crescentus CB15]
+CTTCAAACAAGCGTTTCAAG
+>CC1321(fadD2) Score=5 Pos=-99 [Caulobacter crescentus CB15]
+CCTCAAACGCATGTTTGCAT
+>CC2093 Score=5.1 Pos=-31 [Caulobacter crescentus CB15]
+AACCAAACACACGTTTGAGG
+>Cseg_1354 Score=5.2 Pos=-28 [Caulobacter segnis ATCC 21756]
+ATCCGAACAACCGTTCGAAA
+>Cseg_3639 Score=5.3 Pos=-28 [Caulobacter segnis ATCC 21756]
+ATTCAAACAAACGTTTAGGG
+>Cseg_0614(paaI) Score=5.1 Pos=-26 [Caulobacter segnis ATCC 21756]
+TTTCAAACGATCGTTAGCCT
+>Cseg_0192 Score=5.6 Pos=-40 [Caulobacter segnis ATCC 21756]
+ATTCAAACTCGCGTTTGAAT
+>Cseg_0190 Score=5.6 Pos=-27 [Caulobacter segnis ATCC 21756]
+CCTCAAACAATTGTTTGAGG
+>Cseg_3655 Score=4.9 Pos=-52 [Caulobacter segnis ATCC 21756]
+AAGAAAACAATTGTTTGGCT
+>Cseg_3655 Score=5.2 Pos=-34 [Caulobacter segnis ATCC 21756]
+CTTAAAACACCTGTTTGGCC
+>Cseg_3758 Score=5.2 Pos=-64 [Caulobacter segnis ATCC 21756]
+GTCAAAACAGATGTTTGACA
+>Cseg_1597 Score=5.2 Pos=-87 [Caulobacter segnis ATCC 21756]
+TTCCAAACGGTCGTTCGACC
+>Cseg_3353 Score=5.3 Pos=-31 [Caulobacter segnis ATCC 21756]
+ATCCAAACAAATGTTTGGGA
+>Cseg_0771(fadB) Score=4.8 Pos=-166 [Caulobacter segnis ATCC 21756]
+ACTGAAACTATCGTTCGAAT
+>Cseg_0771(fadB) Score=4.8 Pos=-52 [Caulobacter segnis ATCC 21756]
+TCTCAAACGGTTGTTCAAGC
+>Cseg_0226(fadA) Score=5.1 Pos=-34 [Caulobacter segnis ATCC 21756]
+ATTCAAACTAATGTTTTAAC
+>Cseg_1384 Score=5 Pos=-113 [Caulobacter segnis ATCC 21756]
+CGGCGAACGAGCGTTTGAAT
+>Cseg_3348(echH) Score=5.4 Pos=-45 [Caulobacter segnis ATCC 21756]
+GGTCATACGATCGTTTGAAA
+>Cseg_2635 Score=5.1 Pos=-27 [Caulobacter segnis ATCC 21756]
+TGTCAAACGAGTGTTCGGGA
+>Cseg_0314 Score=5.3 Pos=-39 [Caulobacter segnis ATCC 21756]
+CTTCAAACAAGCGTTCAAGA
+>Cseg_2255 Score=4.9 Pos=-30 [Caulobacter segnis ATCC 21756]
+CCCCCAACGATCGTTTGAAT
+>Cseg_3689(acdH) Score=5.9 Pos=-46 [Caulobacter segnis ATCC 21756]
+CTTCAAACAAGTGTTTGACA
+>Cseg_0869 Score=4.8 Pos=-68 [Caulobacter segnis ATCC 21756]
+CGACGAACGCGCGTTTGACG
+>Cseg_1333 Score=5.1 Pos=-31 [Caulobacter segnis ATCC 21756]
+AACCAAACACGCGTTTGAGG
+>Caul_3321 Score=5.5 Pos=-41 [Caulobacter sp. K31]
+CTTCGAACAATCGTTCGAAA
+>Caul_0851 Score=5.4 Pos=-28 [Caulobacter sp. K31]
+ATTCAAACAAACGTTTAGCG
+>Caul_0887(paaI) Score=5.4 Pos=-26 [Caulobacter sp. K31]
+GTTCAAACGCTCGTTAGACT
+>Caul_1696 Score=5 Pos=-29 [Caulobacter sp. K31]
+CGTCAAACATCCGTTCGAGA
+>Caul_2153(fadD2) Score=5 Pos=-97 [Caulobacter sp. K31]
+GTTCGAACAGACGTTTGCAT
+>Caul_4649 Score=5.8 Pos=-40 [Caulobacter sp. K31]
+GTTCAAACTATCGTTTGAAT
+>Caul_4647 Score=5.3 Pos=-25 [Caulobacter sp. K31]
+GATCAAACAGTTGTTTGAGG
+>Caul_3341 Score=5.1 Pos=-31 [Caulobacter sp. K31]
+AACCAAACACGCGTTTGAGG
+>Caul_1059 Score=4.8 Pos=-34 [Caulobacter sp. K31]
+AAGAAAACAACTGTTTGGCG
+>Caul_0274 Score=5.2 Pos=-35 [Caulobacter sp. K31]
+CGCAAAACAAGTGTTTGAAG
+>Caul_2048 Score=5.3 Pos=-82 [Caulobacter sp. K31]
+TTCCAAACGCTCGTTCGAAC
+>Caul_0813(fadB) Score=5.4 Pos=-53 [Caulobacter sp. K31]
+CTTCAAACAACCGTTCAAAA
+>Caul_4752(fadA) Score=5.4 Pos=-34 [Caulobacter sp. K31]
+ATTCAAACTAACGTTTAAAG
+>Caul_1447 Score=4.8 Pos=-119 [Caulobacter sp. K31]
+TGACGAACGGACGTTTGAAT
+>Caul_1349(echH) Score=5.2 Pos=-43 [Caulobacter sp. K31]
+GTTCATACGCGTGTTTGAGT
+>Caul_3066 Score=5 Pos=-30 [Caulobacter sp. K31]
+CCTCAAACAACTGTTCGGGA
+>Caul_4412 Score=5 Pos=-30 [Caulobacter sp. K31]
+TTTCGAACAAATGTTCGGGA
+>Caul_1346 Score=5 Pos=-41 [Caulobacter sp. K31]
+AATCAAACAACTGTTTACAA
+>Caul_4261 Score=5 Pos=-70 [Caulobacter sp. K31]
+ATCCGAACATCCGTTTGACT
+>Caul_4897(paaI2) Score=5.8 Pos=-42 [Caulobacter sp. K31]
+AGTCAAACAAATGTTTGAAT
+>Caul_4071(acdH) Score=5.9 Pos=-45 [Caulobacter sp. K31]
+TTTCAAACAAGCGTTTGACA
+>PHZ_c0904 Score=5.3 Pos=-36 [Phenylobacterium zucineum HLK1]
+GTTCAAACGATTGTTCGCCT
+>PHZ_c3135 Score=5.4 Pos=-39 [Phenylobacterium zucineum HLK1]
+AGTCAAACAACTGTTTGGGA
+>PHZ_c3105 Score=5.2 Pos=-116 [Phenylobacterium zucineum HLK1]
+TTTCAAACGGCCGTTAGACC
+>PHZ_c3217(fadB) Score=4.6 Pos=-81 [Phenylobacterium zucineum HLK1]
+CCTATAACACGCGTTTGAAT
+>PHZ_c0760(fadA) Score=5 Pos=-53 [Phenylobacterium zucineum HLK1]
+GTTCCAACGCTTGTTTAAAA
+>PHZ_c3174(acdH) Score=6 Pos=-32 [Phenylobacterium zucineum HLK1]
+ATTCAAACAAGCGTTTGAAC

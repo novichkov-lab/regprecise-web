@@ -1,0 +1,52 @@
+>SACE_6426(whiB) Score=6 Pos=-104 [Saccharopolyspora erythraea NRRL 2338]
+TCGTGAAAGCATTCACAA
+>SACE_6426(whiB) Score=5.4 Pos=-75 [Saccharopolyspora erythraea NRRL 2338]
+CCGTGAAAGCATTCACAA
+>SACE_6947(rex) Score=5.9 Pos=-277 [Saccharopolyspora erythraea NRRL 2338]
+TTGTGCATGTGTTCACAA
+>SACE_6903(COG0644) Score=5.7 Pos=-68 [Saccharopolyspora erythraea NRRL 2338]
+TAGTGAACTCGTTCACAA
+>Svir_30700(whiB) Score=6 Pos=-87 [Saccharomonospora viridis DSM 43017]
+TCGTGAAAGCATTCACAA
+>Svir_02840(rex) Score=5.4 Pos=-120 [Saccharomonospora viridis DSM 43017]
+TTGTGCCTACGTTCACAA
+>Svir_03160(nuoA) Score=5.7 Pos=-195 [Saccharomonospora viridis DSM 43017]
+TTGTGAAGGTATTCACAT
+>Svir_03160(nuoA) Score=6 Pos=-226 [Saccharomonospora viridis DSM 43017]
+TTGTGAATGGCTTCACAA
+>Noca_1713(whiB) Score=5.3 Pos=-100 [Nocardioides sp. JS614]
+TCGTGAATGCGTTCACTT
+>Noca_0520(nuoA) Score=5.6 Pos=-87 [Nocardioides sp. JS614]
+TCGTGATTGTGTTCACAA
+>Noca_0493(rex) Score=4.4 Pos=-118 [Nocardioides sp. JS614]
+TTGTTCTCCTGTTCACAA
+>Namu_1412(whiB) Score=5.7 Pos=-109 [Nakamurella multipartita DSM 44233]
+ATGTGAAAGCATTCACAA
+>Namu_0919(rex) Score=5.9 Pos=-110 [Nakamurella multipartita DSM 44233]
+TTGTGCACGCGTTCACGA
+>Namu_0973(COG0644) Score=6 Pos=-96 [Nakamurella multipartita DSM 44233]
+TCGTGAACGAATTCACAA
+>Franean1_6132(rex) Score=5.9 Pos=-226 [Frankia sp. EAN1pec]
+TCGTGAATACCTTCACGA
+>Franean1_6095(COG0644) Score=5.5 Pos=-85 [Frankia sp. EAN1pec]
+TCGTGAAGAATTTCACGA
+>Francci3_0484(rex) Score=5.8 Pos=-159 [Frankia sp. CcI3]
+TCGTGAATCCCTTCACGA
+>Francci3_0537(COG0644) Score=5.5 Pos=-92 [Frankia sp. CcI3]
+TCGTGAAGAATTTCACGA
+>Amir_6289(whiB) Score=6 Pos=-85 [Actinosynnema mirum DSM 43827]
+TCGTGAAAGCATTCACAA
+>Amir_6731(rex) Score=5.6 Pos=-95 [Actinosynnema mirum DSM 43827]
+TTGTGCGTGCGTTCACAA
+>Amir_6682(nuoA) Score=6.1 Pos=-135 [Actinosynnema mirum DSM 43827]
+TTGTGAAGGCTTTCACAA
+>Amir_6682(nuoA) Score=5.4 Pos=-167 [Actinosynnema mirum DSM 43827]
+ATGTGAATCACTTCACAA
+>Amir_6683(COG0644) Score=5.7 Pos=-27 [Actinosynnema mirum DSM 43827]
+TTGTGAACAAGTGCACAA
+>Acel_0560(whiB) Score=5.6 Pos=-158 [Acidothermus cellulolyticus 11B]
+TCGTGAAACTATTCACAA
+>Acel_0266(COG0644) Score=5.6 Pos=-61 [Acidothermus cellulolyticus 11B]
+TCGTGAAGAATTTCACAA
+>Acel_0239(rex) Score=5.6 Pos=-59 [Acidothermus cellulolyticus 11B]
+TTGTGCGTGCGTTCACAA

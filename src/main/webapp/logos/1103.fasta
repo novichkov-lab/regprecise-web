@@ -1,0 +1,154 @@
+>SYNPCC7002_A1357(SYNPCC7002_A1357) Score=7.8 Pos=-125 [Synechococcus sp. PCC 7002]
+GCTAACCT-(3)-CTATATTT-(3)-TTTTATTT
+>SYNPCC7002_A2352(phoA1) Score=7.5 Pos=-182 [Synechococcus sp. PCC 7002]
+ATTTAATT-(3)-TTTAGTTG-(3)-CTTAGCTA
+>SYNPCC7002_A2352(phoA1) Score=9.5 Pos=-91 [Synechococcus sp. PCC 7002]
+ATTAAACT-(3)-CTTAGTTT-(3)-TTTAACTC
+>SYNPCC7002_A1232(cysR) Score=8.7 Pos=-126 [Synechococcus sp. PCC 7002]
+CTTAAACT-(3)-GATTACAT-(3)-ATTTAACT
+>SYNPCC7002_A2120(ndbB) Score=7.6 Pos=-309 [Synechococcus sp. PCC 7002]
+CTAAAATT-(3)-TTTTACTA-(3)-TTTGATCA
+>sll0679(sphX) Score=10.9 Pos=-135 [Synechocystis sp. PCC 6803]
+TTTAACCA-(3)-CTTTACTA-(3)-CTTAACCT
+>sll0654(phoA) Score=7.3 Pos=-210 [Synechocystis sp. PCC 6803]
+TTTTACTT-(3)-CTTTCCCT-(3)-GTTAGCAA
+>sll0654(phoA) Score=8.8 Pos=-175 [Synechocystis sp. PCC 6803]
+CTTAACCT-(3)-CATAGTCT-(3)-CATAAGTT
+>slr1247(pstS) Score=10.5 Pos=-342 [Synechocystis sp. PCC 6803]
+CTTAATCT-(3)-CTTAATTC-(3)-CTTAATTT
+>slr0115(rpaA) Score=7 Pos=-174 [Synechocystis sp. PCC 6803]
+ATTACCCA-(3)-TTTAGATG-(3)-TTTTTCTT
+>cce_1163(pstS) Score=9.7 Pos=-109 [Cyanothece sp. ATCC 51142]
+CTTAATCT-(3)-TTTTACTG-(3)-TTTAACCC
+>cce_1859(sphX) Score=8.8 Pos=-141 [Cyanothece sp. ATCC 51142]
+CTTAATAA-(3)-GTTTAACT-(3)-CTTCATAT
+>cce_0886(pstS) Score=7.5 Pos=-53 [Cyanothece sp. ATCC 51142]
+GTTAGATT-(3)-CTTTAAGA-(3)-GTTTAGTT
+>cce_0886(pstS) Score=6.9 Pos=-358 [Cyanothece sp. ATCC 51142]
+CTTGAAAA-(3)-TATAAATA-(3)-GTTATCAT
+>cce_3317(SYNPCC7002_A1357) Score=8.4 Pos=-44 [Cyanothece sp. ATCC 51142]
+CTTATCTA-(3)-CTTTATTT-(3)-TTTATACT
+>cce_1211(purF) Score=7.7 Pos=-143 [Cyanothece sp. ATCC 51142]
+TATAATCT-(3)-GTTTTATT-(3)-GTCTATTT
+>cce_4621(phoA) Score=8.7 Pos=-88 [Cyanothece sp. ATCC 51142]
+TTTAAAGT-(3)-TTTAACAT-(3)-CTTTAAAT
+>cce_4758(fbp) Score=8.3 Pos=-125 [Cyanothece sp. ATCC 51142]
+ATTAACCT-(3)-CTGAAATT-(3)-CTAAAGTT
+>cce_5183(ackA) Score=9.6 Pos=-74 [Cyanothece sp. ATCC 51142]
+GTTAATTT-(3)-TTTAATCA-(3)-CTTAAAAT
+>cce_4392(cce_4392) Score=8.8 Pos=20 [Cyanothece sp. ATCC 51142]
+CTTTAACC-(3)-CTCAATCT-(3)-CTTAAACT
+>cce_5174(ppk) Score=8.4 Pos=-70 [Cyanothece sp. ATCC 51142]
+GATAAAAA-(3)-CATAAAGT-(3)-CTTAAACT
+>cce_0154(ndbB) Score=7.6 Pos=-83 [Cyanothece sp. ATCC 51142]
+TTTTATCT-(3)-GATAATTA-(3)-ATTAATGA
+>PCC8801_1024(pstS) Score=9.8 Pos=-108 [Cyanothece sp. PCC 8801]
+TTTTATCA-(3)-GTTTACCT-(3)-CTTAACCC
+>PCC8801_4067(sphX) Score=8.1 Pos=-157 [Cyanothece sp. PCC 8801]
+CTTAGCAT-(3)-CTTTTTCT-(3)-GCTAAACT
+>PCC8801_1433(spoT) Score=8.5 Pos=-224 [Cyanothece sp. PCC 8801]
+TTTAACAG-(3)-CTAAACCT-(3)-TTTAAACT
+>PCC8801_1847(SYNPCC7002_A1357) Score=7.5 Pos=-43 [Cyanothece sp. PCC 8801]
+AATAAATT-(3)-TCTTATTT-(3)-ATTATCTT
+>PCC8801_4178(purF) Score=7.5 Pos=-104 [Cyanothece sp. PCC 8801]
+GATAAGAT-(3)-GTTAAAGA-(3)-GTTAAAAT
+>PCC8801_1683(nucH) Score=9.8 Pos=-246 [Cyanothece sp. PCC 8801]
+ATTAAACT-(3)-CTTAAATT-(3)-GTTAAATA
+>PCC8801_0430(fbp) Score=7.9 Pos=-278 [Cyanothece sp. PCC 8801]
+TTAAAATT-(3)-TTTTATTT-(3)-CTTTTATT
+>PCC8801_0346(cysR) Score=9.7 Pos=-91 [Cyanothece sp. PCC 8801]
+TTTAATCT-(3)-GATTACCT-(3)-GTTTACCT
+>PCC8801_3887(ackA) Score=9.1 Pos=-183 [Cyanothece sp. PCC 8801]
+CTTTGACC-(3)-GTTTACCA-(3)-CTTAACCT
+>PCC8801_1625(ppk) Score=7.2 Pos=-95 [Cyanothece sp. PCC 8801]
+TATTACCT-(3)-TATAGCCT-(3)-GATAGCCT
+>PCC8801_3662(rsbU) Score=7.4 Pos=-162 [Cyanothece sp. PCC 8801]
+ATTAACGC-(3)-GATTAACC-(3)-CCTAATTA
+>PCC8801_2302(SYNPCC7002_A0979) Score=7.1 Pos=-232 [Cyanothece sp. PCC 8801]
+CATAATGA-(3)-TTTTAAGA-(3)-GTTAAAAA
+>Cyan7425_0207 Score=7.8 Pos=-81 [Cyanothece sp. PCC 7425]
+TTTAACGA-(3)-CTTTAGCA-(3)-GATTACCT
+>Cyan7425_4261(phoA1) Score=9 Pos=-146 [Cyanothece sp. PCC 7425]
+ATTAATCA-(3)-GTTTACCT-(3)-CATAAATC
+>Cyan7425_4387(SYNPCC7002_A2263) Score=7.5 Pos=-102 [Cyanothece sp. PCC 7425]
+ATTATCAT-(3)-TATTACCT-(3)-CCTTACCC
+>Cyan7425_1977(ppk) Score=8.4 Pos=-238 [Cyanothece sp. PCC 7425]
+GTTATCCC-(3)-GTTAATTT-(3)-ATTAAATC
+>Cyan7425_0664(pstS) Score=10.1 Pos=-80 [Cyanothece sp. PCC 7425]
+ATTAATCT-(3)-CTTAATCT-(3)-CTTTATCC
+>MAE_18380(pstS) Score=9.5 Pos=-87 [Microcystis aeruginosa NIES-843]
+TTTATTCA-(3)-CTTAACCT-(3)-CTTTACCA
+>MAE_23860(fbp) Score=7.6 Pos=-129 [Microcystis aeruginosa NIES-843]
+ATTAGCCA-(3)-CTAAAACT-(3)-CTAAAAAT
+>MAE_18440(cysR) Score=9.6 Pos=-86 [Microcystis aeruginosa NIES-843]
+GTTAATCT-(3)-GATTACCT-(3)-GTTTACCT
+>MAE_02800(ackA) Score=8.8 Pos=-66 [Microcystis aeruginosa NIES-843]
+TTTTATCT-(3)-CTTAACCT-(3)-TTTGATTA
+>MAE_18310(pstS) Score=9.6 Pos=-139 [Microcystis aeruginosa NIES-843]
+ATTAACCG-(3)-TTTTACCG-(3)-CTTAACCA
+>all3651(purF) Score=7.7 Pos=-119 [Nostoc sp. PCC 7120]
+TTTAATAT-(3)-GTTAAAGA-(3)-GTTAAGAC
+>alr5291(phoA1) Score=10.4 Pos=-229 [Nostoc sp. PCC 7120]
+GTTAACCT-(3)-TTTATATT-(3)-CTTAACTT
+>all4021(fbp) Score=7 Pos=-136 [Nostoc sp. PCC 7120]
+CGTAAACT-(3)-GATTTCTT-(3)-TTTATCTA
+>alr5259(SYNPCC7002_A2263) Score=8.7 Pos=-329 [Nostoc sp. PCC 7120]
+GTAAAACT-(3)-TTTATTTA-(3)-CTTAATTT
+>all1758(rsbU) Score=7.5 Pos=-49 [Nostoc sp. PCC 7120]
+ATTTATTA-(3)-GTCAATCT-(3)-ATTAACCC
+>all0129(rpaA) Score=7.3 Pos=-101 [Nostoc sp. PCC 7120]
+TTTATGTT-(3)-TTTAAAAT-(3)-TTTTATAA
+>all3822(SYNPCC7002_A0979) Score=8.6 Pos=-149 [Nostoc sp. PCC 7120]
+CTTAATTT-(3)-CTTAAGTA-(3)-CTCAAATT
+>alr4975(alr4975) Score=7.6 Pos=-10 [Nostoc sp. PCC 7120]
+ATTAATTA-(3)-TGTTACCT-(3)-ATTTATAT
+>alr2234(phoD) Score=9.6 Pos=-275 [Nostoc sp. PCC 7120]
+ATTAACCT-(3)-CTTAGTCA-(3)-ATTAATTT
+>all0207(phoD) Score=9.3 Pos=-98 [Nostoc sp. PCC 7120]
+ATTAACCC-(3)-GATAACTC-(3)-CTTTACTT
+>all0911(pstS) Score=10.8 Pos=-105 [Nostoc sp. PCC 7120]
+CTTAACTT-(3)-GTTTACCT-(3)-CTTAACTT
+>all4575(pstS) Score=8 Pos=-324 [Nostoc sp. PCC 7120]
+TTTTATCT-(3)-CTTTTATT-(3)-CTTTTTTT
+>Tery_3534(pstS) Score=9.7 Pos=-192 [Trichodesmium erythraeum IMS101]
+TTTGATAT-(3)-TTTAACCT-(3)-CTTAATCT
+>Tery_2653(spoT) Score=7.8 Pos=-43 [Trichodesmium erythraeum IMS101]
+AATAAACT-(3)-ATTTGATA-(3)-ATTAACTC
+>Tery_4322(SYNPCC7002_A1357) Score=7 Pos=-395 [Trichodesmium erythraeum IMS101]
+CTTATTAT-(3)-AATTATTT-(3)-ATTTAGCT
+>Tery_3699(purF) Score=8.3 Pos=-97 [Trichodesmium erythraeum IMS101]
+GTTAAGGA-(3)-CTTAAAGT-(3)-TTTAAGCT
+>Tery_0682(fbp) Score=6.5 Pos=-336 [Trichodesmium erythraeum IMS101]
+TTTTAGAT-(3)-GTTTTTGT-(3)-CATTATCA
+>Tery_2568(SYNPCC7002_A2263) Score=7.5 Pos=-208 [Trichodesmium erythraeum IMS101]
+GATAAGAT-(3)-ATTAACCT-(3)-GTTTGCTA
+>Tery_0739(rsbU) Score=8.3 Pos=-250 [Trichodesmium erythraeum IMS101]
+TTAAAACT-(3)-CTTAATCT-(3)-ACTAACTC
+>Tery_4937(rpaA) Score=7 Pos=-158 [Trichodesmium erythraeum IMS101]
+CTTGACAA-(3)-AATAAATT-(3)-GTTAAAGA
+>Tery_0954(SYNPCC7002_A0979) Score=8.3 Pos=-309 [Trichodesmium erythraeum IMS101]
+ATTAACCA-(3)-ATTGAATT-(3)-ATTGACTT
+>Tery_2902(sphR) Score=10.4 Pos=-365 [Trichodesmium erythraeum IMS101]
+GATAACCC-(3)-GTTAACCT-(3)-CTTAACCT
+>Tery_3661(ndbB) Score=7.8 Pos=-342 [Trichodesmium erythraeum IMS101]
+TTTTAATA-(3)-AATTACCC-(3)-CTTAGCCT
+>Synpcc7942_0004(purF) Score=7.8 Pos=-76 [Synechococcus elongatus PCC 7942]
+GTTAAGTC-(3)-GTTAAATT-(3)-ATTAGCCG
+>Synpcc7942_1392(phoA) Score=9.4 Pos=-233 [Synechococcus elongatus PCC 7942]
+TTTAACTA-(3)-CATAATCT-(3)-CTCAATCT
+>CYA_1552(pstS) Score=10.2 Pos=-203 [Synechococcus sp. JA-3-3Ab]
+AATAACCT-(3)-TTTAACCT-(3)-GTTAACCA
+>CYA_1732(pstS) Score=9.6 Pos=-75 [Synechococcus sp. JA-3-3Ab]
+GTTAACCT-(3)-GATATCCT-(3)-GTTAACTT
+>CYA_1541(cysR) Score=10.5 Pos=-172 [Synechococcus sp. JA-3-3Ab]
+CTTAACCT-(3)-CATAACCT-(3)-CTTTACTT
+>CYA_2506(phoD) Score=7.9 Pos=-129 [Synechococcus sp. JA-3-3Ab]
+CTTAAACA-(3)-GCTAACCC-(3)-TTTCACCG
+>SYNW2391(phoA1) Score=9.2 Pos=-78 [Synechococcus sp. WH 8102]
+TTTGATCA-(3)-CTTAAACT-(3)-CCTAACTT
+>tlr2164(pstS) Score=10.9 Pos=-51 [Thermosynechococcus elongatus BP-1]
+TTTAAACA-(3)-TTTTACCT-(3)-CTTAACTT
+>tll1671(cysR) Score=8.1 Pos=-171 [Thermosynechococcus elongatus BP-1]
+CTTAACCC-(3)-CTTGAACC-(3)-GATTATCT
+>null(SYNPCC7002_A1357) Score=7.1 Pos=-268 [Thermosynechococcus elongatus BP-1]
+ATTAAAAA-(3)-ATTAAAAA-(3)-TTTCTCTT

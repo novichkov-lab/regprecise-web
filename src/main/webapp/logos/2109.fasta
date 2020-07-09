@@ -1,0 +1,56 @@
+>SMc02509(sitA) Score=5.4 Pos=-80 [Sinorhizobium meliloti 1021]
+GTTGCAAATGCTTCTCATT
+>NGR_c31020(sitA) Score=5 Pos=-82 [Rhizobium sp. NGR234]
+GTTGCAAATGGTTCTCATG
+>RL3884(sitA) Score=4.7 Pos=-138 [Rhizobium leguminosarum bv. viciae 3841]
+GTTGCAATTCATTCTTAAT
+>RL3884(sitA) Score=5.4 Pos=-84 [Rhizobium leguminosarum bv. viciae 3841]
+TTTGCAAATCATTCTGAAT
+>RL0940(mntH) Score=5.7 Pos=-69 [Rhizobium leguminosarum bv. viciae 3841]
+GTTGCGAATGACTTGCATT
+>RHE_CH00878(mntH) Score=5.7 Pos=-68 [Rhizobium etli CFN 42]
+GTTGCGAATGACTTGCATT
+>Atu4471(sitA) Score=6.1 Pos=-79 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTGAGAATGATTTGCAAT
+>Atu4471(sitA) Score=4.9 Pos=-27 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTGCGAGTTAATCGCAAC
+>Atu1736(mntH) Score=5.7 Pos=5 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TATGAGAATGATTTGCAAT
+>Meso_4120(mntH) Score=5.2 Pos=-38 [Mesorhizobium sp. BNC1]
+AATGCAAATAAGTCGCAAC
+>Meso_2853(sitA) Score=5.8 Pos=-115 [Mesorhizobium sp. BNC1]
+GTTGCAAATGGTTTGCAAT
+>BMEI0569(mntH) Score=5.3 Pos=-44 [Brucella melitensis 16M]
+AATGCAAATAGTTTGCAAC
+>BMEI1563(irr1) Score=6 Pos=-200 [Brucella melitensis 16M]
+ATTGCAAACCATTTGCAAT
+>BQ00790(sitA) Score=5.9 Pos=-33 [Bartonella quintana str. Toulouse]
+AATGCAAATCATTGGCAAT
+>RPA2706(mntH) Score=5.8 Pos=-47 [Rhodopseudomonas palustris CGA009]
+ATTGCAAATGACTTGCAAG
+>RPA0424(irr1) Score=4.3 Pos=-85 [Rhodopseudomonas palustris CGA009]
+GTTGCGAAGCGCTTGCACC
+>bll5044(mntH) Score=5.8 Pos=-46 [Bradyrhizobium japonicum USDA 110]
+GTTGCAAATGAGTTGCAAT
+>blr0095 Score=5.3 Pos=-149 [Bradyrhizobium japonicum USDA 110]
+ATTGCGAATTAATCGCAAT
+>bll0768(irr1) Score=4.3 Pos=-79 [Bradyrhizobium japonicum USDA 110]
+GTTGCGAGAAACTTGCATC
+>BBta_0071(irr1) Score=3.6 Pos=-76 [Bradyrhizobium sp. BTAi1]
+GTTGCGATAAGCTTGCATC
+>BBta_4658(mntH) Score=5.2 Pos=-86 [Bradyrhizobium sp. BTAi1]
+CTTGCAAATAAGTTGCATT
+>BBta_7486 Score=5.2 Pos=-161 [Bradyrhizobium sp. BTAi1]
+TTTGCAAATTAATCGCAAT
+>Nwi_0035(irr1) Score=4.6 Pos=-95 [Nitrobacter winogradskyi Nb-255]
+GTTGCGAAAAACTTGCATC
+>Nwi_1912(mntH) Score=5.8 Pos=-53 [Nitrobacter winogradskyi Nb-255]
+TTTGCAAATGAGTTGCAAT
+>Nwi_3051 Score=5 Pos=-64 [Nitrobacter winogradskyi Nb-255]
+CTTGCGAGGCATTCGCAAC
+>AZC_3295(mntH) Score=5.4 Pos=-83 [Azorhizobium caulinodans ORS 571]
+CTTGCAAATCGTTCGCATT
+>Xaut_1207(sitA) Score=5.4 Pos=-90 [Xanthobacter autotrophicus Py2]
+AATGCGAATAAGTTGCAAT
+>Xaut_1207(sitA) Score=4.8 Pos=-51 [Xanthobacter autotrophicus Py2]
+TTTGCAAATGGATCGCAAA

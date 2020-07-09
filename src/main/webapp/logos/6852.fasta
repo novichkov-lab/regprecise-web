@@ -1,0 +1,24 @@
+>BAD_0971(malL) Score=5.2 Pos=-153 [Bifidobacterium adolescentis ATCC 15703]
+ATGAAAGCGCTATCAT
+>BAD_0452(malL) Score=5.3 Pos=-235 [Bifidobacterium adolescentis ATCC 15703]
+GTAAAAACGCTTGCAT
+>BAD_0970(malR5) Score=5.2 Pos=-119 [Bifidobacterium adolescentis ATCC 15703]
+ATGATAGCGCTTTCAT
+>BAD_0451(malR5) Score=5.3 Pos=-97 [Bifidobacterium adolescentis ATCC 15703]
+ATGCAAGCGTTTTTAC
+>BAD_0971(malL) Score=4.8 Pos=-65 [Bifidobacterium adolescentis ATCC 15703]
+GTGAAAACGCTTCCAT
+>BAD_0970(malR5) Score=4.8 Pos=-207 [Bifidobacterium adolescentis ATCC 15703]
+ATGGAAGCGTTTTCAC
+>BIFANG_00865(malL) Score=5 Pos=-159 [Bifidobacterium angulatum DSM 20098]
+ATGTAAGCGCTATCAT
+>BIFANG_00866(malR5) Score=5 Pos=-95 [Bifidobacterium angulatum DSM 20098]
+ATGATAGCGCTTACAT
+>BDP_0624(malL) Score=5.4 Pos=-30 [Bifidobacterium dentium Bd1]
+GTACAAACGCTTGCAT
+>BDP_0624(malL) Score=4.6 Pos=-162 [Bifidobacterium dentium Bd1]
+GCGCAAGCGCTATTAT
+>BDP_0623(malR5) Score=5.3 Pos=-96 [Bifidobacterium dentium Bd1]
+ATGCAAGCGTTTTTAC
+>BDP_0623(malR5) Score=4.6 Pos=-186 [Bifidobacterium dentium Bd1]
+ATAATAGCGCTTGCGC

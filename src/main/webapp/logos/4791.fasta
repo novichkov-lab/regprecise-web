@@ -1,0 +1,68 @@
+>CLOBAR_02221(CD2707) Score=4.9 Pos=-91 [Clostridium bartlettii DSM 16795]
+ACGTTAAGAATTTAACAA
+>CLOBAR_01995(lldD) Score=5.5 Pos=-94 [Clostridium bartlettii DSM 16795]
+ATGTTAAAAAAATAACAT
+>CLOBAR_02282(glcA) Score=5.2 Pos=-119 [Clostridium bartlettii DSM 16795]
+ATGTTAATAAATAAACAA
+>CLOBAR_00255(hydC) Score=4.7 Pos=-128 [Clostridium bartlettii DSM 16795]
+TAGATAATTAAATAAAAA
+>CLOBAR_02282(glcA) Score=4.3 Pos=-138 [Clostridium bartlettii DSM 16795]
+TTTTTATTAATTTAAAAT
+>CLOBAR_00531(nadA) Score=4.7 Pos=-113 [Clostridium bartlettii DSM 16795]
+AAATTAAAAATTTAACTA
+>CLOBAR_00902(hydC) Score=4.4 Pos=-125 [Clostridium bartlettii DSM 16795]
+TATTTAAATTTTTAAAAA
+>CLOBAR_00502(adhE) Score=5.3 Pos=-130 [Clostridium bartlettii DSM 16795]
+ATGTTAAACAAATAACAA
+>CLOBAR_00502(adhE) Score=4.8 Pos=-106 [Clostridium bartlettii DSM 16795]
+AGGTTAATAATATAACAT
+>CLOBAR_00902(hydC) Score=4.9 Pos=-169 [Clostridium bartlettii DSM 16795]
+ATGTTAAAAAAGTATCAT
+>CLOBAR_00502(adhE) Score=5.5 Pos=-188 [Clostridium bartlettii DSM 16795]
+ATGATAAAAAAATAACAA
+>CLOBAR_01830(rex) Score=4.3 Pos=-156 [Clostridium bartlettii DSM 16795]
+ATAATATATTATTAACTA
+>CLOBAR_00711(rex) Score=4 Pos=-37 [Clostridium bartlettii DSM 16795]
+TTGTTATGAAAATATTAA
+>CLOBAR_00711(rex) Score=4.1 Pos=-99 [Clostridium bartlettii DSM 16795]
+TTGGTATAATATAATCAA
+>CD2354(grdE) Score=5.5 Pos=-264 [Clostridium difficile 630]
+TTGATAAATTATTAACAT
+>CD2354(grdE) Score=4.5 Pos=-187 [Clostridium difficile 630]
+TTGTTAAAAAAATAATTT
+>CD2707(CD2707) Score=5.7 Pos=-34 [Clostridium difficile 630]
+ATGTTAATAAATTAACAA
+>CD2540(noxE) Score=5.2 Pos=-112 [Clostridium difficile 630]
+ATGTTAAATAAATAACTA
+>CD1170(PF09861) Score=4 Pos=-113 [Clostridium difficile 630]
+TTGTTATAAAATAAATTA
+>CD1054(bcd2) Score=5 Pos=-193 [Clostridium difficile 630]
+TTGATTTTAAATTAACAA
+>CD1623(fprA) Score=5.4 Pos=-63 [Clostridium difficile 630]
+TTGTTTAAAATATAACAA
+>CD2344(CD2344) Score=4.6 Pos=-190 [Clostridium difficile 630]
+TTGTTAATTAAATCATAA
+>CD2344(CD2344) Score=5.4 Pos=-129 [Clostridium difficile 630]
+ATGTTAATTTAATAACAA
+>CD2344(CD2344) Score=5.2 Pos=-66 [Clostridium difficile 630]
+TTGTTAATTTAATAACGA
+>CD2966(adhE) Score=5.1 Pos=-146 [Clostridium difficile 630]
+ATGTTAAAAAAATAACTT
+>CD2966(adhE) Score=5.6 Pos=-103 [Clostridium difficile 630]
+ATGTTAATAAATTAACAT
+>CD0171(rex) Score=4.6 Pos=-96 [Clostridium difficile 630]
+TTGATATAATATAATCAA
+>CLOHIR_00687(adhE) Score=5.3 Pos=-209 [Clostridium hiranonis DSM 13275]
+ATGATAAAAAAATATCAA
+>CLOHIR_00139(phf1) Score=4.8 Pos=-107 [Clostridium hiranonis DSM 13275]
+ATGTTAAAAATATAAAGA
+>CLOHIR_00139(phf1) Score=5.1 Pos=-87 [Clostridium hiranonis DSM 13275]
+TTGATAAAAAAATGACAA
+>CLOHIR_00157(nadA) Score=5.5 Pos=-210 [Clostridium hiranonis DSM 13275]
+ATGATAAAAAAATAACAA
+>CLOHIR_00157(nadA) Score=5.4 Pos=-38 [Clostridium hiranonis DSM 13275]
+TAGATAAAAAAATAACAA
+>CLOHIR_00042(rex) Score=4.3 Pos=-55 [Clostridium hiranonis DSM 13275]
+ATGTTATATAATAAACCA
+>CLOHIR_00042(rex) Score=4 Pos=-101 [Clostridium hiranonis DSM 13275]
+TTGATATAATATATTCAA

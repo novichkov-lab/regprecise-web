@@ -1,0 +1,134 @@
+>Bcep18194_B0332(kdgD) Score=4.9 Pos=-198 [Burkholderia sp. 383]
+TAGTCATCATACGACAT
+>Bcep18194_B0332(kdgD) Score=4.8 Pos=-92 [Burkholderia sp. 383]
+TCGTTGTACGATGACAT
+>Bcep18194_A4275(gudD) Score=5.2 Pos=-268 [Burkholderia sp. 383]
+AAGTCATCCGACGACTG
+>Bcep18194_B0327(gudP) Score=5 Pos=-25 [Burkholderia sp. 383]
+ACGTCATACGACGACGT
+>Bcep18194_A5498(gguT) Score=5.3 Pos=-89 [Burkholderia sp. 383]
+ATGTCATACGACGACAT
+>Bcep18194_C7436(uxuP) Score=4.8 Pos=-347 [Burkholderia sp. 383]
+CAGTCATCCTATGACAA
+>Bcep18194_B0333(garD) Score=4.8 Pos=-154 [Burkholderia sp. 383]
+ATGTCATCGTACAACGA
+>Bcep18194_B0333(garD) Score=4.9 Pos=-48 [Burkholderia sp. 383]
+ATGTCGTATGATGACTA
+>Bcep18194_B0328(kgsD) Score=5 Pos=-239 [Burkholderia sp. 383]
+ACGTCGTCGTATGACGT
+>Bcep18194_A4276(gguR) Score=5.2 Pos=-107 [Burkholderia sp. 383]
+CAGTCGTCGGATGACTT
+>Bcep18194_B1871(exuT) Score=5 Pos=-196 [Burkholderia sp. 383]
+CAGTCGTCAGATAACAT
+>Bamb_4676(kdgD) Score=4.9 Pos=-207 [Burkholderia cepacia AMMD]
+TAGTCATCATACGACAT
+>Bamb_4676(kdgD) Score=4.8 Pos=-102 [Burkholderia cepacia AMMD]
+TCGTTGTACGATGACAT
+>Bamb_4680(gudP) Score=4.1 Pos=-140 [Burkholderia cepacia AMMD]
+ATGTCTGCCGACGACAT
+>Bamb_2220(gguT) Score=5.3 Pos=-86 [Burkholderia cepacia AMMD]
+ATGTCATACGACGACAT
+>Bamb_6123(uxuP) Score=4.7 Pos=-341 [Burkholderia cepacia AMMD]
+CAGTCATCCTATGACGA
+>Bamb_1041(gudD) Score=5.2 Pos=-270 [Burkholderia cepacia AMMD]
+AAGTCATCCGACGACTG
+>Bamb_4679(kgsD) Score=5.2 Pos=-240 [Burkholderia cepacia AMMD]
+ACGTCGTCGTATGACAT
+>Bamb_1043(gguR) Score=5.2 Pos=-107 [Burkholderia cepacia AMMD]
+CAGTCGTCGGATGACTT
+>Bamb_4675(garD) Score=4.9 Pos=-48 [Burkholderia cepacia AMMD]
+ATGTCGTATGATGACTA
+>Bamb_4675(garD) Score=4.8 Pos=-153 [Burkholderia cepacia AMMD]
+ATGTCATCGTACAACGA
+>Bamb_4904(pgl) Score=4.6 Pos=-73 [Burkholderia cepacia AMMD]
+ATGTAGTACGACGACGT
+>Bamb_4679(kgsD) Score=4.1 Pos=-71 [Burkholderia cepacia AMMD]
+ATGTCGTCGGCAGACAT
+>Bamb_3566(exuT) Score=4.9 Pos=-106 [Burkholderia cepacia AMMD]
+CAGTCGTCAGATAACGT
+>Bcep1808_1081(gudD) Score=5.2 Pos=-333 [Burkholderia vietnamiensis G4]
+AAGTCATCCGACGACTG
+>Bcep1808_3561(kdgD) Score=4.9 Pos=-198 [Burkholderia vietnamiensis G4]
+TAGTCATCATACGACAT
+>Bcep1808_3561(kdgD) Score=4.8 Pos=-92 [Burkholderia vietnamiensis G4]
+GCGTTGTACGATGACAT
+>Bcep1808_3563(gudP) Score=5.2 Pos=-26 [Burkholderia vietnamiensis G4]
+ATGTCATACGACGACGT
+>Bcep1808_2255(uxuF) Score=5.3 Pos=-239 [Burkholderia vietnamiensis G4]
+ATGTCATACGACGACAT
+>Bcep1808_4374(mcp) Score=4.8 Pos=-303 [Burkholderia vietnamiensis G4]
+ATGTTATACGATGACAC
+>Bcep1808_6572(uxuP) Score=4.9 Pos=-329 [Burkholderia vietnamiensis G4]
+CAGTCATCGGACAACTA
+>Bcep1808_1082(gguR) Score=5.2 Pos=-107 [Burkholderia vietnamiensis G4]
+CAGTCGTCGGATGACTT
+>Bcep1808_3560(garD) Score=4.9 Pos=-49 [Burkholderia vietnamiensis G4]
+ATGTCGTATGATGACTA
+>Bcep1808_3560(garD) Score=4.8 Pos=-155 [Burkholderia vietnamiensis G4]
+ATGTCATCGTACAACGC
+>Bcep1808_3562(kgsD) Score=5.2 Pos=-241 [Burkholderia vietnamiensis G4]
+ACGTCGTCGTATGACAT
+>Bcep1808_3851(pgl) Score=4.6 Pos=-70 [Burkholderia vietnamiensis G4]
+ATGTGATACGACGACGT
+>bglu_2g13770(uxuP) Score=4.9 Pos=-497 [Burkholderia glumae BGR1]
+CAGTCGTCTTATAACAT
+>bglu_2g00180(gudD) Score=5 Pos=-207 [Burkholderia glumae BGR1]
+ATGTCATCAGACAACGT
+>bglu_2g03730(kdgD) Score=4.9 Pos=-186 [Burkholderia glumae BGR1]
+CAGTCATCATACAACAT
+>bglu_2g05570(uxuF) Score=4.9 Pos=-114 [Burkholderia glumae BGR1]
+AAGTTATATGATGACGT
+>bglu_2g03740(garD) Score=5.2 Pos=-164 [Burkholderia glumae BGR1]
+ATGTCATCGTACAACAT
+>bglu_1g09950(udh) Score=4.4 Pos=-94 [Burkholderia glumae BGR1]
+CAGTCATCGTATAAGAT
+>bglu_2g03740(garD) Score=4.9 Pos=-53 [Burkholderia glumae BGR1]
+ATGTTGTATGATGACTG
+>bglu_1g09940(gguR) Score=5.1 Pos=-99 [Burkholderia glumae BGR1]
+CAGTCATCGGATGACTT
+>bglu_2g03710(kgsD) Score=5.2 Pos=-212 [Burkholderia glumae BGR1]
+ATGTCGTCGTACAACTT
+>bglu_2g07210(pgl) Score=5.1 Pos=-77 [Burkholderia glumae BGR1]
+ATGTCATCGTATGACGT
+>bglu_2g04250(exuT) Score=4.6 Pos=-90 [Burkholderia glumae BGR1]
+AAGTGGTACGATGACTG
+>bglu_2g04250(exuT) Score=4.5 Pos=-180 [Burkholderia glumae BGR1]
+ACGTTGTCTGACGAGAT
+>bglu_2g03700(gudP) Score=5.2 Pos=-69 [Burkholderia glumae BGR1]
+AAGTTGTACGACGACAT
+>bglu_2g03730(kdgD) Score=5.2 Pos=-75 [Burkholderia glumae BGR1]
+ATGTTGTACGATGACAT
+>Bxe_B0539(gudD) Score=5 Pos=-106 [Burkholderia xenovorans LB400]
+CTGTCATCGTACAACAT
+>Bxe_B1798(uxuP) Score=5.2 Pos=-322 [Burkholderia xenovorans LB400]
+ATGTCGTCGTACAACAT
+>Bxe_B1802(kdgD) Score=4.8 Pos=-83 [Burkholderia xenovorans LB400]
+TTGTTGTACGATGACGT
+>Bxe_B1802(kdgD) Score=5.1 Pos=-178 [Burkholderia xenovorans LB400]
+ACGTCATCCTACAACAT
+>Bxe_B1804(gguR) Score=4.8 Pos=-70 [Burkholderia xenovorans LB400]
+CAGTCATCAGACGACGG
+>Bxe_B1805(kgsD) Score=4.9 Pos=-48 [Burkholderia xenovorans LB400]
+ATGTTGTAGGATGACCT
+>Bxe_B1805(kgsD) Score=4.4 Pos=-160 [Burkholderia xenovorans LB400]
+AAGTCGTCGTATATCTA
+>Bxe_B1801(garD) Score=4.8 Pos=-159 [Burkholderia xenovorans LB400]
+ACGTCATCGTACAACAA
+>Bxe_B1801(garD) Score=5.1 Pos=-64 [Burkholderia xenovorans LB400]
+ATGTTGTAGGATGACGT
+>Bphy_6527(garL) Score=4.5 Pos=-77 [Burkholderia phymatum STM815]
+CAGACATCCTATGACAT
+>Bphy_6527(garL) Score=4.5 Pos=-200 [Burkholderia phymatum STM815]
+CGGTCATCGTACAACAA
+>Bphy_6525(gguR) Score=4.7 Pos=-51 [Burkholderia phymatum STM815]
+GCGTTGTCGGACAACGT
+>Bphy_6382(garD) Score=4.8 Pos=-67 [Burkholderia phymatum STM815]
+ATGTTGTACGATGACGC
+>Bphy_6596(garP) Score=4.9 Pos=-92 [Burkholderia phymatum STM815]
+ATGTCGTCAGACAACCT
+>Bphy_6596(garP) Score=5 Pos=-223 [Burkholderia phymatum STM815]
+ACGTCGTCGTACAACTG
+>Bphy_6526(kgsD) Score=4.5 Pos=-48 [Burkholderia phymatum STM815]
+TTGTTGTACGATGACCG
+>Bphy_6526(kgsD) Score=4.5 Pos=-171 [Burkholderia phymatum STM815]
+ATGTCATAGGATGTCTG

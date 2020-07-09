@@ -1,0 +1,50 @@
+>ABC0644 Score=5.2 Pos=-100 [Bacillus clausii KSM-K16]
+AAATTTGTAACTACCTATTT
+>ABC0644 Score=5.7 Pos=-124 [Bacillus clausii KSM-K16]
+ATATTTGTAATTACTAATCA
+>ABC0643(licH) Score=5.2 Pos=-97 [Bacillus clausii KSM-K16]
+AAATAGGTAGTTACAAATTT
+>ABC0643(licH) Score=5.7 Pos=-73 [Bacillus clausii KSM-K16]
+TGATTAGTAATTACAAATAT
+>ABC0646(chiA) Score=4.8 Pos=-60 [Bacillus clausii KSM-K16]
+GAATTAGTAGTAACAACTTT
+>BH0913(BH0913) Score=4.6 Pos=-60 [Bacillus halodurans C-125]
+TTATACGTAATGACAATTTT
+>BH0916(chiA) Score=5.6 Pos=-92 [Bacillus halodurans C-125]
+ATATTTGTTATTACATTTAT
+>BH0916(chiA) Score=4.7 Pos=-68 [Bacillus halodurans C-125]
+ATTTTAGTAGTAACTTTTAT
+>BH0916(chiA) Score=5.2 Pos=-44 [Bacillus halodurans C-125]
+AATATTGTTACTACAAATAA
+>BH0912(licH) Score=5.6 Pos=-74 [Bacillus halodurans C-125]
+TGATTAGTAGTAACAAATAT
+>BH0913(BH0913) Score=4.8 Pos=-92 [Bacillus halodurans C-125]
+TTAATTGTAGTTACTTATTT
+>BH0913(BH0913) Score=5.6 Pos=-116 [Bacillus halodurans C-125]
+ATATTTGTTACTACTAATCA
+>BLi00338(chiA) Score=6.2 Pos=-300 [Bacillus licheniformis DSM 13]
+AAATTTGTCATAACAAATTT
+>BLi00335(licH) Score=6.2 Pos=-99 [Bacillus licheniformis DSM 13]
+CAATTTGTTATAACAAATAT
+>BLi00335(licH) Score=4.6 Pos=-85 [Bacillus licheniformis DSM 13]
+AAATATGTATGGACAAATTT
+>BLi00335(licH) Score=5.2 Pos=-71 [Bacillus licheniformis DSM 13]
+AAATTTGTTATAACATGTTA
+>BLi00336(gamR) Score=5.2 Pos=-110 [Bacillus licheniformis DSM 13]
+TAACATGTTATAACAAATTT
+>BLi00336(gamR) Score=4.6 Pos=-96 [Bacillus licheniformis DSM 13]
+AAATTTGTCCATACATATTT
+>BLi00336(gamR) Score=6.2 Pos=-82 [Bacillus licheniformis DSM 13]
+ATATTTGTTATAACAAATTG
+>BSU02360(gamA) Score=5 Pos=-75 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTCGTAATGACAAGTAT
+>BSU02360(gamA) Score=5.9 Pos=-52 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTGGTCATAACAAATAT
+>BSU02370(gamR) Score=5.9 Pos=-186 [Bacillus subtilis subsp. subtilis str. 168]
+ATATTTGTTATGACCAATTT
+>BSU02370(gamR) Score=5 Pos=-163 [Bacillus subtilis subsp. subtilis str. 168]
+ATACTTGTCATTACGAATTT
+>OB2273(licH) Score=5.8 Pos=-126 [Oceanobacillus iheyensis HTE831]
+AATTGTGTTATAACAAATTT
+>OB2272(gamR) Score=5.8 Pos=-81 [Oceanobacillus iheyensis HTE831]
+AAATTTGTTATAACACAATT

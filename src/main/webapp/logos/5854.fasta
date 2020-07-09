@@ -1,0 +1,66 @@
+>RALTA_B2201(COG1953) Score=4.7 Pos=-112 [Cupriavidus taiwanensis]
+TTTGTAGACAAT
+>RALTA_B2201(COG1953) Score=4.5 Pos=-167 [Cupriavidus taiwanensis]
+AATGTTGACAAT
+>RALTA_A0993(pucM) Score=5.2 Pos=-202 [Cupriavidus taiwanensis]
+ATTGTCAACAAA
+>RALTA_A0993(pucM) Score=5.2 Pos=-234 [Cupriavidus taiwanensis]
+ATTGTTGACAAT
+>RALTA_A0992(uraR) Score=5.2 Pos=-108 [Cupriavidus taiwanensis]
+TTTGTTGACAAT
+>RALTA_A0992(uraR) Score=5.2 Pos=-76 [Cupriavidus taiwanensis]
+ATTGTCAACAAT
+>RALTA_A1283(atzB) Score=4 Pos=-117 [Cupriavidus taiwanensis]
+TTTGTGGACAGT
+>H16_A1008(uraR) Score=5.2 Pos=-75 [Ralstonia eutropha H16]
+ATTGTCAACAAT
+>H16_A1008(uraR) Score=5.2 Pos=-107 [Ralstonia eutropha H16]
+TTTGTTGACAAT
+>H16_A1363(atzB) Score=3.4 Pos=-106 [Ralstonia eutropha H16]
+TTTGTGGACAGG
+>H16_B2481(COG1953) Score=4.7 Pos=-70 [Ralstonia eutropha H16]
+TTTGTAGACAAT
+>H16_A1009(pucM) Score=5.2 Pos=-234 [Ralstonia eutropha H16]
+ATTGTTGACAAT
+>H16_A1009(pucM) Score=5.2 Pos=-202 [Ralstonia eutropha H16]
+ATTGTCAACAAA
+>H16_B2460(allC) Score=4 Pos=-27 [Ralstonia eutropha H16]
+ATTGCGGACAAT
+>H16_B2481(COG1953) Score=4.5 Pos=-125 [Ralstonia eutropha H16]
+AATGTTGACAAT
+>Reut_A1294(atzB) Score=3.4 Pos=-1 [Ralstonia eutropha JMP134]
+TTTGTGGACATC
+>Reut_A2435(uraR) Score=5.2 Pos=-114 [Ralstonia eutropha JMP134]
+ATTGTCAACAAT
+>Reut_A2435(uraR) Score=5.2 Pos=-146 [Ralstonia eutropha JMP134]
+TTTGTTGACAAT
+>Reut_A2434(pucM) Score=5.2 Pos=-204 [Ralstonia eutropha JMP134]
+ATTGTCAACAAA
+>Reut_A2434(pucM) Score=5.2 Pos=-236 [Ralstonia eutropha JMP134]
+ATTGTTGACAAT
+>Rmet_1186(atzB) Score=3.4 Pos=-77 [Ralstonia metallidurans CH34]
+TTTGTGGACACC
+>Rmet_0885(pucM) Score=5.2 Pos=-203 [Ralstonia metallidurans CH34]
+ATTGTCAACAAA
+>Rmet_0885(pucM) Score=5.2 Pos=-235 [Ralstonia metallidurans CH34]
+ATTGTTGACAAT
+>Rmet_0884(uraR) Score=5.2 Pos=-152 [Ralstonia metallidurans CH34]
+TTTGTTGACAAT
+>Rmet_0884(uraR) Score=5.2 Pos=-120 [Ralstonia metallidurans CH34]
+ATTGTCAACAAT
+>Rpic_2256(pucM) Score=5.2 Pos=-296 [Ralstonia pickettii 12J]
+ATTGTCAACAAA
+>Rpic_2256(pucM) Score=4 Pos=-328 [Ralstonia pickettii 12J]
+CCTGTTGACAAT
+>Rpic_2257(uraR) Score=5.2 Pos=-93 [Ralstonia pickettii 12J]
+TTTGTTGACAAT
+>Rpic_2257(uraR) Score=4 Pos=-61 [Ralstonia pickettii 12J]
+ATTGTCAACAGG
+>RS01488(pucM) Score=4 Pos=-317 [Ralstonia solanacearum GMI1000]
+CCTGTTGACAAT
+>RS01488(pucM) Score=5.2 Pos=-285 [Ralstonia solanacearum GMI1000]
+ATTGTCAACAAA
+>RS01487(uraR) Score=5.2 Pos=-93 [Ralstonia solanacearum GMI1000]
+TTTGTTGACAAT
+>RS01487(uraR) Score=4 Pos=-61 [Ralstonia solanacearum GMI1000]
+ATTGTCAACAGG

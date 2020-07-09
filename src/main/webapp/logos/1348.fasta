@@ -1,0 +1,88 @@
+>b4324(uxuR) Score=5.4 Pos=-173 [Escherichia coli str. K-12 substr. MG1655]
+TATTTGGTTGACCAGTTT
+>b4321(gntP) Score=5.4 Pos=-177 [Escherichia coli str. K-12 substr. MG1655]
+AAATTGGTTAACCACATC
+>b4321(gntP) Score=5.6 Pos=-71 [Escherichia coli str. K-12 substr. MG1655]
+ACAATGGTTGACCAATTT
+>b1618(uidR) Score=5.8 Pos=-129 [Escherichia coli str. K-12 substr. MG1655]
+CTATTGGTTAACCAATTT
+>b4322(uxuA) Score=5.4 Pos=-180 [Escherichia coli str. K-12 substr. MG1655]
+GATGTGGTTAACCAATTT
+>b3094(exuR) Score=4.7 Pos=-47 [Escherichia coli str. K-12 substr. MG1655]
+AAAGTGGTATAACAAATA
+>b4358(yjjN) Score=3.8 Pos=-183 [Escherichia coli str. K-12 substr. MG1655]
+GACCTGGTTAATCACATT
+>b4357(yjjM) Score=3.9 Pos=27 [Escherichia coli str. K-12 substr. MG1655]
+AATGTGATTAACCAGGTC
+>b1617(uidA) Score=4.8 Pos=-62 [Escherichia coli str. K-12 substr. MG1655]
+GAATTGGTTAACTAATCA
+>b1617(uidA) Score=4.6 Pos=-42 [Escherichia coli str. K-12 substr. MG1655]
+TTAAAGGTTGACCAGTAT
+>b2172(yeiQ) Score=4.1 Pos=-176 [Escherichia coli str. K-12 substr. MG1655]
+AATTTATTATACCAATCT
+>STM3134(exuT2) Score=5.2 Pos=-273 [Salmonella typhimurium LT2]
+AAATTGGCTAACCAAATC
+>STM3134(exuT2) Score=5.3 Pos=-86 [Salmonella typhimurium LT2]
+TGATTGGTCAACCAATTT
+>STM4507(uxuR) Score=5.9 Pos=-231 [Salmonella typhimurium LT2]
+ATATTGGTAAACCAATAT
+>STM4507(uxuR) Score=5.1 Pos=-106 [Salmonella typhimurium LT2]
+TTGTTGGTTGACCAGTTT
+>STM3135(uxuA) Score=5.6 Pos=-336 [Salmonella typhimurium LT2]
+AAATTGGTTGACCAATCA
+>STM3135(uxuA) Score=5.2 Pos=-149 [Salmonella typhimurium LT2]
+GATTTGGTTAGCCAATTT
+>STM3083(STM3083) Score=4.4 Pos=-34 [Salmonella typhimurium LT2]
+GAATTGGTAAACAAAACA
+>y3231(lfaR) Score=5.4 Pos=-194 [Yersinia pestis KIM]
+ATATTGGTTCACCAAAAT
+>y3232(lfaT) Score=5.2 Pos=-217 [Yersinia pestis KIM]
+ATTTTGGTGAACCAATAT
+>y3426(gntP) Score=5.2 Pos=-226 [Yersinia pestis KIM]
+AACTTGGTTAACCAATAC
+>y2902(uxuA) Score=4.5 Pos=-510 [Yersinia pestis KIM]
+AAgTTGtTagACCAgTTT
+>y2902(uxuA) Score=4 Pos=-352 [Yersinia pestis KIM]
+AAATTGGTaAgtCcAaTa
+>y2903(uxuB) Score=4.3 Pos=-363 [Yersinia pestis KIM]
+AtgTTGtTatACCgATTT
+>y2903(uxuB) Score=3.9 Pos=-250 [Yersinia pestis KIM]
+tAtTgGacTtACCAATTT
+>y2903(uxuB) Score=4.2 Pos=-92 [Yersinia pestis KIM]
+AAAcTGGTctAaCAAcTT
+>y3602(exuR) Score=4.5 Pos=-105 [Yersinia pestis KIM]
+TAAGTGGTATAACAAATC
+>ECA1966(lfaR) Score=6 Pos=-176 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAATTGGTTTACCAAATT
+>ECA1967(lfaT) Score=5.9 Pos=-162 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AATTTGGTAAACCAATTT
+>ECA1093(uxuA) Score=5.2 Pos=-109 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TAATTGGTCAATCAATTT
+>ECA0643(exuR) Score=4.5 Pos=-98 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TAAGTGGTATAACAAATC
+>ETAE_1915(exuT2) Score=5 Pos=-175 [Edwardsiella tarda EIB202]
+AATTTGGCATACCAATAT
+>ETAE_1915(exuT2) Score=5.6 Pos=-207 [Edwardsiella tarda EIB202]
+ACATTGGTTAACCAAATA
+>ETAE_1037(uxuR) Score=5.3 Pos=-330 [Edwardsiella tarda EIB202]
+TTTTTGGTTGACCAATAA
+>ETAE_1036(gntP) Score=5.1 Pos=-70 [Edwardsiella tarda EIB202]
+TTATTGGTCAACCAAAAA
+>ETAE_1036(gntP) Score=5.8 Pos=-29 [Edwardsiella tarda EIB202]
+AAATTGGTTGACCAAATG
+>ETAE_0434(exuR) Score=4.2 Pos=-68 [Edwardsiella tarda EIB202]
+AAAGTGGTATAACAACTC
+>ETAE_0435(exuT) Score=4.5 Pos=-240 [Edwardsiella tarda EIB202]
+CTGTAGGTCAACCAATTT
+>ETAE_0436(uxaC) Score=4.6 Pos=-289 [Edwardsiella tarda EIB202]
+AAATTGGTTGACCTACAG
+>plu0172(uxuP) Score=5.4 Pos=-114 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATATTGGTCAACCAAATC
+>plu0173(uxuQ) Score=5.5 Pos=-201 [Photorhabdus luminescens subsp. laumondii TTO1]
+GATTTGGTTGACCAATAT
+>plu0171(uxuR) Score=5.7 Pos=-77 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTTTTGGTTGACCAATTT
+>plu0172(uxuP) Score=4.4 Pos=-262 [Photorhabdus luminescens subsp. laumondii TTO1]
+gAtTTGaTcgACCAAaTa
+>plu0173(uxuQ) Score=4.5 Pos=-53 [Photorhabdus luminescens subsp. laumondii TTO1]
+tAtTTGGTcgAtCAAaTc

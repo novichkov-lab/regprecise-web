@@ -1,0 +1,96 @@
+>lin0195(srmB) Score=4.7 Pos=-57 [Listeria innocua Clip11262]
+TGATGCGAACGTAGGTTCTGTGTT
+>lin2426(int) Score=4.6 Pos=-33 [Listeria innocua Clip11262]
+AAAAAAGAACGTATGTGCGAAAGG
+>lin1681(lin1681) Score=4.6 Pos=-47 [Listeria innocua Clip11262]
+AAAAGGGAACGTATGTTTTATGAT
+>lin2632(uvrB) Score=6.1 Pos=-163 [Listeria innocua Clip11262]
+GAATACGAAAATATGTTCGGTTTT
+>lin1435(recA) Score=6.3 Pos=-142 [Listeria innocua Clip11262]
+AAATACGAATAAATGTTCGCTTTT
+>lin1340(lexA) Score=6 Pos=-144 [Listeria innocua Clip11262]
+AAAAAAGAATGTACGTTCGCTTTT
+>lin1340(lexA) Score=5.6 Pos=-84 [Listeria innocua Clip11262]
+AAAAACGAACCTTTGTTTGCATAT
+>lin1871(pcrA) Score=5.8 Pos=-44 [Listeria innocua Clip11262]
+AAATAAGAACAAATGTTTGTATGG
+>lin2325(yhaO) Score=5.9 Pos=-42 [Listeria innocua Clip11262]
+TAATAAGAACGTATATTCGGTTTT
+>lin2369(addB) Score=5.8 Pos=-30 [Listeria innocua Clip11262]
+AAATAAAAACATATGTTCGGTGGT
+>lin1609(dnaE) Score=5.6 Pos=-75 [Listeria innocua Clip11262]
+AAACGCGAACACACTTTCTTTTTT
+>lin2822(lmo2675) Score=5.5 Pos=-73 [Listeria innocua Clip11262]
+AAACAAGAACGTTTGTTCGTATAA
+>lin2082(dinP) Score=5.5 Pos=-38 [Listeria innocua Clip11262]
+GAATAAGAACGCTTGTTCGTTTTA
+>lmo1640(lin1681) Score=4.9 Pos=-47 [Listeria monocytogenes EGD-e]
+AAAACAGAACATATGTTTTATCAT
+>lmo0157(srmB) Score=4.3 Pos=-57 [Listeria monocytogenes EGD-e]
+TGTTGCGAACGTAGGTTCTGTGTT
+>lmo2332(int) Score=4.6 Pos=-33 [Listeria monocytogenes EGD-e]
+AAAAAAGAACGTATGTGCGAAAGG
+>lmo2489(uvrB) Score=6.3 Pos=-165 [Listeria monocytogenes EGD-e]
+AAATGCGAAAATATGTTCGGTTTT
+>lmo1398(recA) Score=6.3 Pos=-142 [Listeria monocytogenes EGD-e]
+AAATACGAATAAATGTTCGCTTTT
+>lmo1302(lexA) Score=5.9 Pos=-144 [Listeria monocytogenes EGD-e]
+CAAAAAGAATGTATGTTCGCTTTT
+>lmo1302(lexA) Score=5.6 Pos=-84 [Listeria monocytogenes EGD-e]
+AAAAACGAACCTTTGTTTGCATAT
+>lmo2222(yhaO) Score=5.9 Pos=-41 [Listeria monocytogenes EGD-e]
+TAATAAGAACGTATATTCGGTTTT
+>lmo1574(dnaE) Score=5.8 Pos=-75 [Listeria monocytogenes EGD-e]
+AAACACGAACACACTTTCTTTTTT
+>lmo1759(pcrA) Score=5.8 Pos=-44 [Listeria monocytogenes EGD-e]
+AAATAAGAACAAATGTTTGTATGG
+>lmo2268(addB) Score=5.8 Pos=-30 [Listeria monocytogenes EGD-e]
+AAATAAAAACATATGTTCGGTGGT
+>lmo1975(dinP) Score=5.6 Pos=-38 [Listeria monocytogenes EGD-e]
+GAATAAGAACGCTTGTTCGTTTTG
+>lmo2675(lmo2675) Score=5.6 Pos=-72 [Listeria monocytogenes EGD-e]
+TAATAAGAACATTTGTTCGTATAA
+>lse_1561(lin1681) Score=4.7 Pos=-47 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAAATAGAACGTATGTTTTATGAT
+>lse_2389(uvrB) Score=6.4 Pos=-165 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATACGAAAATATGTTCGGTTTT
+>lse_1315(recA) Score=6.3 Pos=-143 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATACGAATAAATGTTCGCTTTT
+>lse_1219(lexA) Score=5.6 Pos=-83 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAAAACGAACCTTTGTTTGCATAT
+>lse_1219(lexA) Score=5.7 Pos=-142 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+CCAAAAGAATGTATGTTCGCTTTT
+>lse_1731(pcrA) Score=5.8 Pos=-44 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATAAGAACAAATGTTTGTATGG
+>lse_2202(yhaO) Score=5.9 Pos=-44 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAATAAGAACGTATATTCGGTTTT
+>lse_1489(dnaE) Score=5.8 Pos=-75 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAACACGAACACACTTTCTTTTTT
+>lse_2581(lmo2675) Score=5.2 Pos=-72 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+CAACAAGAACATTCGTTCGTATAA
+>lse_2247(addB) Score=5.6 Pos=-30 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATAAAAACGTATGTTCGGTGGT
+>lse_1955(dinP) Score=5.5 Pos=-39 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+ATTAAGGAACATTTGTTCGTTTTT
+>lwe1656(lin1681) Score=5.1 Pos=-47 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAAACAGAACATATGTTTTATGAT
+>lwe2437(uvrB) Score=6.4 Pos=-166 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAATACGAAAATATGTTCGGTTTT
+>lwe1414(recA) Score=6.3 Pos=-143 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAATACGAATAAATGTTCGCTTTT
+>lwe1317(lexA) Score=5.6 Pos=-84 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAAAACGAACCTTTGTTTGCATAT
+>lwe1317(lexA) Score=5.9 Pos=-146 [Listeria welshimeri serovar 6b str. SLCC5334]
+CAAAAAGAATGTATGTTCGCTTTT
+>lwe1776(pcrA) Score=5.8 Pos=-38 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAATAAGAACAAATGTTTGTATGG
+>lwe2239(yhaO) Score=5.9 Pos=-39 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAATAAGAACGTATATTCGGTTTT
+>lwe2283(addB) Score=5.8 Pos=-30 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAATAAAAACATATGTTCGGTGGT
+>lwe1587(dnaE) Score=5.8 Pos=-75 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAACACGAACACACTTTCTTTTTT
+>lwe2624(lmo2675) Score=5.1 Pos=-72 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAAATAGAACGCTTGTTCGTATAA
+>lwe1994(dinP) Score=5.3 Pos=-41 [Listeria welshimeri serovar 6b str. SLCC5334]
+GATTAAGAACGTTTGTTCGATTTT

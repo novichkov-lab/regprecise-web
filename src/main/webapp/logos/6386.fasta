@@ -1,0 +1,28 @@
+>BAV1181(sdhR) Score=7.8 Pos=-184 [Bordetella avium 197N]
+TCTTATATCTTATATAAGACATAAGA
+>BAV1180(mdh) Score=7.8 Pos=-159 [Bordetella avium 197N]
+TCTTATGTCTTATATAAGATATAAGA
+>BAV2514(acnA) Score=6.4 Pos=-124 [Bordetella avium 197N]
+TCCCAGGTCTTATATAAGATAAAAGA
+>BAV2509(acnB) Score=6.6 Pos=-97 [Bordetella avium 197N]
+CCACAGGTCTTATATAAGATATAAGA
+>BB3339(aceA) Score=6.7 Pos=-124 [Bordetella bronchiseptica RB50]
+ATTTTTGTCTTATATAAGATATAAGC
+>BB3684(mdh) Score=7.8 Pos=-174 [Bordetella bronchiseptica RB50]
+TCTTATGTCTTATATAAGATATAAGA
+>BB3683(sdhR) Score=7.8 Pos=-140 [Bordetella bronchiseptica RB50]
+TCTTATATCTTATATAAGACATAAGA
+>BB1844(acnA) Score=6.4 Pos=-122 [Bordetella bronchiseptica RB50]
+GATCAAGTCTTATATAAGACACAAGA
+>BB1850(acnB) Score=6.3 Pos=-104 [Bordetella bronchiseptica RB50]
+AGGCAAGTCTTATATAAGATATAAGA
+>Bpet3251(aceA) Score=5.3 Pos=-126 [Bordetella petrii DSM 12804]
+TTTTTAGTCTTATATAAGAGAAGTGG
+>Bpet1818(mdh) Score=7.8 Pos=-162 [Bordetella petrii DSM 12804]
+TCTTATGTCTTATATAAGATATAAGA
+>Bpet1819(sdhR) Score=7.8 Pos=-35 [Bordetella petrii DSM 12804]
+TCTTATATCTTATATAAGACATAAGA
+>Bpet3365(acnA) Score=5.8 Pos=-133 [Bordetella petrii DSM 12804]
+AGCCAAGTCTTACATAAGATATAAGA
+>Bpet3354(acnB) Score=6.6 Pos=-105 [Bordetella petrii DSM 12804]
+ACCCAAGTCTTATATAAGATATAAGA

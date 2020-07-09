@@ -1,0 +1,34 @@
+>SA2185(narG) Score=5.9 Pos=-134 [Staphylococcus aureus subsp. aureus N315]
+ATTAGGTGATTCCCTAAT
+>SA2176(narK) Score=5.6 Pos=-184 [Staphylococcus aureus subsp. aureus N315]
+ATAAGGGAAAATCCTTAT
+>SA2189(nirR) Score=5.8 Pos=-93 [Staphylococcus aureus subsp. aureus N315]
+ATCAGGGAATTCCCTGAT
+>STACA0001_1080(narG) Score=5.6 Pos=-116 [Staphylococcus capitis SK14]
+ATTAGGTATTTCCCTAAT
+>STACA0001_1087(narK) Score=5.2 Pos=-172 [Staphylococcus capitis SK14]
+TTAAGGGTAAATCCTTAT
+>STACA0001_1076(nirR) Score=5.6 Pos=-93 [Staphylococcus capitis SK14]
+ATAAGGGTATTCCCTACT
+>SE1978(nasD) Score=5.8 Pos=-174 [Staphylococcus epidermidis ATCC 12228]
+ATTAGGGAAATCCCCGAT
+>SE1968(narK) Score=5 Pos=-165 [Staphylococcus epidermidis ATCC 12228]
+ATCAGGGTATGTCCTTAT
+>SE1975(narG) Score=5.9 Pos=-113 [Staphylococcus epidermidis ATCC 12228]
+ATTAGGACATTCCCTAAT
+>Sca_1899(nirR) Score=5.8 Pos=-93 [Staphylococcus carnosus subsp. carnosus TM300]
+ATAAGGGGATTCCCTATT
+>Sca_1887(narK) Score=5.5 Pos=-157 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAAGGGAAAGCCCTTAT
+>Sca_1894(narG) Score=5.4 Pos=-123 [Staphylococcus carnosus subsp. carnosus TM300]
+TATAGGAGAATCCCTAAT
+>SH0651(nasD) Score=5.8 Pos=-170 [Staphylococcus haemolyticus JCSC1435]
+ATTAGGGAATTCCCCGAT
+>SH0661(narK) Score=5.7 Pos=-141 [Staphylococcus haemolyticus JCSC1435]
+ATAAGGGAATATCCTTAT
+>SH0654(narG) Score=5.9 Pos=-118 [Staphylococcus haemolyticus JCSC1435]
+ATTAGGACATTCCCTAAT
+>MCCL_0136(narG) Score=5.4 Pos=-85 [Macrococcus caseolyticus JCSC5402]
+TTTAGGACATTCCCCAAT
+>MCCL_1342(nirR) Score=5.5 Pos=-118 [Macrococcus caseolyticus JCSC5402]
+TATAGGGAAATCCCTATT

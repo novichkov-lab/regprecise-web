@@ -1,0 +1,24 @@
+>LVIS_0937(fabA) Score=5.3 Pos=-206 [Lactobacillus brevis ATCC 367]
+GGTTTGATATTCAAATT
+>LVIS_0937(fabA) Score=6 Pos=-55 [Lactobacillus brevis ATCC 367]
+AGTTTGAACATCAAATT
+>LSEI_2120(fabT) Score=6 Pos=-39 [Lactobacillus casei ATCC 334]
+ACTTTGAATATCAAATC
+>LAF_0309(fabT) Score=6 Pos=-54 [Lactobacillus fermentum IFO 3956]
+ATTTTGATATTCAAATT
+>lhv_1933(fabA) Score=5.1 Pos=-153 [Lactobacillus helveticus DPC 4571]
+AGTTTGATATTCAAACT
+>LAR_0928(fabT) Score=6.3 Pos=-58 [Lactobacillus reuteri JCM 1112]
+ATTTTGATAATCAAATT
+>LAR_0929(fabA) Score=5.6 Pos=-59 [Lactobacillus reuteri JCM 1112]
+AATTTGATCATCGAATA
+>LGG_02122(fabA) Score=5.4 Pos=-141 [Lactobacillus rhamnosus GG]
+GCTTTGAACATCCAATT
+>LGG_02121(fabT) Score=5.9 Pos=-39 [Lactobacillus rhamnosus GG]
+ACTTTGAGTATCAAATC
+>LSL_0450(fabT) Score=6.3 Pos=-49 [Lactobacillus salivarius subsp. salivarius UCC118]
+ATTTTGATAATCAAATT
+>LEUM_0307(fabA) Score=5.5 Pos=27 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+ATTTTGACTATCAGATA
+>OEOE_1595(fabA) Score=5.5 Pos=-294 [Oenococcus oeni PSU-1]
+ATTTTGATCCTTAAATC

@@ -1,0 +1,76 @@
+>Patl_0969(hexR) Score=5 Pos=-176 [Pseudoalteromonas atlantica T6c]
+TTGTAATTTTACAACGT
+>Patl_0970(zwf) Score=5 Pos=-116 [Pseudoalteromonas atlantica T6c]
+ACGTTGTAAAATTACAA
+>Patl_1744(ppsA) Score=5.5 Pos=-193 [Pseudoalteromonas atlantica T6c]
+TAGTAATATAATTACAT
+>Patl_0968(pykA) Score=5.7 Pos=-190 [Pseudoalteromonas atlantica T6c]
+TCGTAATTAAATTACGA
+>Patl_1634(gapA) Score=5.3 Pos=-76 [Pseudoalteromonas atlantica T6c]
+TCGTAATTATATTTCAT
+>Patl_2197(glgP) Score=5.5 Pos=-71 [Pseudoalteromonas atlantica T6c]
+TTGTAATTTAATTACGG
+>Patl_1070(cpsA) Score=4.8 Pos=-237 [Pseudoalteromonas atlantica T6c]
+TCGTAATTATACAACAG
+>Patl_1640(gapB) Score=5.1 Pos=-179 [Pseudoalteromonas atlantica T6c]
+TTGTAGTTAAATTACCA
+>Patl_3622(tal) Score=5.1 Pos=-35 [Pseudoalteromonas atlantica T6c]
+TTGTAATTTTACAACAT
+>MADE_01243(hexR) Score=5.5 Pos=-193 [Alteromonas macleodii 'Deep ecotype']
+ATGTAGTAAAATTACAA
+>MADE_01243(hexR) Score=4.6 Pos=-98 [Alteromonas macleodii 'Deep ecotype']
+TTGTCAAAAAATTACAT
+>MADE_01244(zwf) Score=4.6 Pos=-203 [Alteromonas macleodii 'Deep ecotype']
+ATGTAATTTTTTGACAA
+>MADE_01244(zwf) Score=5.5 Pos=-108 [Alteromonas macleodii 'Deep ecotype']
+TTGTAATTTTACTACAT
+>MADE_02552(glgP) Score=5.5 Pos=-24 [Alteromonas macleodii 'Deep ecotype']
+CTGTAATTAAATTACGT
+>MADE_02382(ppsA) Score=5.3 Pos=-254 [Alteromonas macleodii 'Deep ecotype']
+GTGTAATTTTATTACAA
+>MADE_01242(pykA) Score=5.4 Pos=-98 [Alteromonas macleodii 'Deep ecotype']
+CTGTAATAAAATTACGT
+>MADE_00742(ppc) Score=5.2 Pos=-224 [Alteromonas macleodii 'Deep ecotype']
+CTGAAATTAAATTACAA
+>MADE_01954(bkdA1) Score=5.8 Pos=-276 [Alteromonas macleodii 'Deep ecotype']
+TTGTAATTTAATTACAT
+>MADE_02480(cpsA) Score=5.5 Pos=-254 [Alteromonas macleodii 'Deep ecotype']
+CTGTAATAAAATTACAA
+>MADE_03951(pckA) Score=5.3 Pos=-152 [Alteromonas macleodii 'Deep ecotype']
+TTGTAATTAATTTACAA
+>MADE_01250(gapA) Score=4.7 Pos=-42 [Alteromonas macleodii 'Deep ecotype']
+ACGTAATTTATTTTCAT
+>GHTCC_010100004770(gapA) Score=4.8 Pos=-31 [Glaciecola sp. HTCC2999]
+ATGTAACTTAATTTCAT
+>GHTCC_010100004730(hexR) Score=5.5 Pos=-173 [Glaciecola sp. HTCC2999]
+TTGTAGTAAAATTACAA
+>GHTCC_010100004770(gapA) Score=5.5 Pos=-83 [Glaciecola sp. HTCC2999]
+ATGTAATAAAACTACAT
+>GHTCC_010100007992(ppsA) Score=5.1 Pos=-151 [Glaciecola sp. HTCC2999]
+GTGTAATTTAATTACAG
+>GHTCC_010100004735(zwf) Score=5.5 Pos=-98 [Glaciecola sp. HTCC2999]
+TTGTAATTTTACTACAA
+>GHTCC_010100006532 Score=5.8 Pos=-117 [Glaciecola sp. HTCC2999]
+ATGTAATTTTATTACAA
+>GHTCC_010100004725(pykA) Score=5.3 Pos=-69 [Glaciecola sp. HTCC2999]
+TTGTAATATAATTACCT
+>GHTCC_010100004725(pykA) Score=4.7 Pos=-120 [Glaciecola sp. HTCC2999]
+TTGAAAATTAATTACGT
+>CPS_2281(zwf) Score=5.5 Pos=-166 [Colwellia psychrerythraea 34H]
+ATGTAGTAAAATTACAA
+>CPS_2281(zwf) Score=4.9 Pos=-105 [Colwellia psychrerythraea 34H]
+ATGTAGTTTAGTTACAA
+>CPS_2280(hexR) Score=5 Pos=-139 [Colwellia psychrerythraea 34H]
+ATGAAATAAAATTTCAT
+>CPS_2340(gapA) Score=5 Pos=-38 [Colwellia psychrerythraea 34H]
+GTGTAATTTTACTACAT
+>CPS_3876(fba) Score=4.9 Pos=-225 [Colwellia psychrerythraea 34H]
+TTGTAGTAAACTTACAA
+>OS145_00580(zwf) Score=4.9 Pos=-48 [Idiomarina baltica OS145]
+ATGTAGTAAAGTTACAA
+>OS145_00580(zwf) Score=5.1 Pos=-111 [Idiomarina baltica OS145]
+ATGTAATTTAGTTACGA
+>OS145_00585(hexR) Score=4.9 Pos=-97 [Idiomarina baltica OS145]
+TTGTAACTTTACTACAT
+>OS145_00585(hexR) Score=5.1 Pos=-34 [Idiomarina baltica OS145]
+TCGTAACTAAATTACAT

@@ -1,0 +1,48 @@
+>Amir_0607(rpmB2) Score=5.3 Pos=-39 [Actinosynnema mirum DSM 43827]
+GGTGAAAATGATTGTCATT
+>Amir_4416(yciC) Score=5.5 Pos=-52 [Actinosynnema mirum DSM 43827]
+AATGACAATCGTTTCCGTT
+>Amir_3101(Amir_3101) Score=5.7 Pos=-65 [Actinosynnema mirum DSM 43827]
+GTTGAAAACCGTTGTCATT
+>Amir_0352(znuA) Score=5.2 Pos=-49 [Actinosynnema mirum DSM 43827]
+CTCGACAACGGTTACCATT
+>Amir_4413(zur) Score=5.5 Pos=-55 [Actinosynnema mirum DSM 43827]
+ATTGAAAACGATTGTCTTT
+>Amir_4768(znuA3) Score=5.9 Pos=-78 [Actinosynnema mirum DSM 43827]
+ATTGAAAACGGTTGTCGTT
+>Amir_4776(TIGR03773) Score=5.5 Pos=-60 [Actinosynnema mirum DSM 43827]
+ATTGAAAATGATTGTCCTT
+>SACE_0754(rpmB2) Score=5.6 Pos=-34 [Saccharopolyspora erythraea NRRL 2338]
+AATGAAAACGGATGTCGTT
+>SACE_0754(rpmB2) Score=4.9 Pos=-88 [Saccharopolyspora erythraea NRRL 2338]
+GTCGGCAACGGTTTTCATT
+>SACE_0755(yciC) Score=5.4 Pos=-65 [Saccharopolyspora erythraea NRRL 2338]
+AACGACATCCGTTTTCATT
+>SACE_0755(yciC) Score=5 Pos=-11 [Saccharopolyspora erythraea NRRL 2338]
+AATGAAAACCGTTGCCGAC
+>SACE_0453(znuA) Score=5.2 Pos=-68 [Saccharopolyspora erythraea NRRL 2338]
+CATGACAACGGTTTCCGTT
+>Svir_35300(znuA) Score=5.2 Pos=-89 [Saccharomonospora viridis DSM 43017]
+ATCGAAAATCATTTCCAAT
+>Namu_3856(rpmB2) Score=4.9 Pos=-126 [Nakamurella multipartita DSM 44233]
+AACGAGACCGATTCTCAGT
+>Namu_3855(rpmG2) Score=4.9 Pos=-43 [Nakamurella multipartita DSM 44233]
+ACTGAGAATCGGTCTCGTT
+>Namu_1072(Namu_1072) Score=5.5 Pos=-27 [Nakamurella multipartita DSM 44233]
+AACGAGAACCGTTCTCAGT
+>Franean1_7263(zur) Score=5.1 Pos=-134 [Frankia sp. EAN1pec]
+AATGAAAACCGATGTCAAC
+>Franean1_7253(znuA2) Score=5.8 Pos=-25 [Frankia sp. EAN1pec]
+ATCGACAACCGTTTTCATT
+>PPA2158(rpmB2) Score=5.1 Pos=-43 [Propionibacterium acnes KPA171202]
+TATGATAATGATTCTCATA
+>PPA1500(TIGR03773) Score=5.7 Pos=-48 [Propionibacterium acnes KPA171202]
+ATCGATAACCGTTCTCATT
+>PPA2157(rpmE2) Score=5.1 Pos=-72 [Propionibacterium acnes KPA171202]
+TATGAGAATCATTATCATA
+>PPA0617(znuA) Score=5.1 Pos=-45 [Propionibacterium acnes KPA171202]
+TACGACAATGGTTATCACT
+>Noca_1937(znuA) Score=5.3 Pos=-29 [Nocardioides sp. JS614]
+TTTGACAATCATTCTCAAT
+>Noca_1937(znuA) Score=4.5 Pos=-7 [Nocardioides sp. JS614]
+GCTGAGAATGATTCTCATG

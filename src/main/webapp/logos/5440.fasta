@@ -1,0 +1,28 @@
+>Smlt1177(COG3408) Score=6.5 Pos=-101 [Stenotrophomonas maltophilia K279a]
+CCATGAATACGTATGCAGCT
+>Smlt1175(omp(Mal)) Score=6.7 Pos=-12 [Stenotrophomonas maltophilia K279a]
+CATTGAATACGTATGCAGGG
+>Smlt1174(malZ) Score=6.4 Pos=-91 [Stenotrophomonas maltophilia K279a]
+GCGTGAATACGTATGCAGGT
+>Smlt1176(susB) Score=5.9 Pos=-90 [Stenotrophomonas maltophilia K279a]
+AGCTGCATACGTATTCATGG
+>XAC2598(COG3408) Score=6.7 Pos=-158 [Xanthomonas axonopodis pv. citri str. 306]
+CCATGAATACGTATGCAGTG
+>XAC2600(omp(Mal)) Score=6.7 Pos=-88 [Xanthomonas axonopodis pv. citri str. 306]
+CAGTGAATACGTATGCAGTG
+>XAC2602(malZ) Score=6.7 Pos=-107 [Xanthomonas axonopodis pv. citri str. 306]
+CAATGAATACGTATGCACGT
+>XAC2599(susB) Score=6.4 Pos=-104 [Xanthomonas axonopodis pv. citri str. 306]
+CACTGCATACGTATTCATGG
+>XAC0798(amy) Score=6.3 Pos=-163 [Xanthomonas axonopodis pv. citri str. 306]
+CAGTGAATACGTATGCACAA
+>XCC2467(COG3408) Score=7 Pos=-159 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CCATGAATACGTATGCAGGG
+>XCC2469(omp(Mal)) Score=6.3 Pos=-94 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CGTTGAATACGTATGCAGGC
+>XCC2471(malZ) Score=6.7 Pos=-107 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CTATGAATACGTATGCACGG
+>XCC2468(susB) Score=6.4 Pos=-103 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CCCTGCATACGTATTCATGG
+>XCC0748(amy) Score=6.6 Pos=-164 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CAGTGAATACGTATGCACAG

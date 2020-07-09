@@ -1,0 +1,30 @@
+>PA0665(erpA) Score=6.4 Pos=-81 [Pseudomonas aeruginosa PAO1]
+TTAGTTGACCATTTTTCTGGGACAA
+>PA3815(iscR) Score=7.1 Pos=-71 [Pseudomonas aeruginosa PAO1]
+ATAGTTGACCTAATTACTCGGATAA
+>PSEEN0461(erpA) Score=6.7 Pos=-79 [Pseudomonas entomophila L48]
+ATTCTTGACCGATTTTCTCGGAGAA
+>PSEEN1009(iscR) Score=7 Pos=-70 [Pseudomonas entomophila L48]
+ATAGTTGACTTAAATGCTCGGGAAT
+>PP0433(erpA) Score=6.9 Pos=-32 [Pseudomonas putida KT2440]
+ATTCTTGACCGATTTTCTCGGGAAA
+>PP0841(iscR) Score=7 Pos=-70 [Pseudomonas putida KT2440]
+ATAGTTGACTTAAATGCTCGGGAAT
+>PSPTO1422(iscR) Score=7.1 Pos=-65 [Pseudomonas syringae pv. tomato str. DC3000]
+ATAGTTGACTAATTTGCTCGGGAAT
+>PSPTO0605(erpA) Score=6.9 Pos=-93 [Pseudomonas syringae pv. tomato str. DC3000]
+ATAGTTGACCGATTTTCTAGGAGAA
+>PFL_4966(iscR) Score=7 Pos=-66 [Pseudomonas fluorescens Pf-5]
+ATAGTTGACCTGATTACTCGGGTAT
+>PFL_5610(erpA) Score=6.7 Pos=-81 [Pseudomonas fluorescens Pf-5]
+ATAGTTGACCGCTTTTCTGGGAGAA
+>Pmen_3930(erpA) Score=7.3 Pos=-77 [Pseudomonas mendocina ymp]
+ATAGTTGACCAATTTTCTCGGGCAA
+>Pmen_3512(iscR) Score=7 Pos=-64 [Pseudomonas mendocina ymp]
+ATAGTTGACTTAAATACTCGGGAAT
+>PST_3043(iscR) Score=6.9 Pos=-4 [Pseudomonas stutzeri A1501]
+ATAGTTGACTCAAATACTCGGGAAT
+>PST_0755(erpA) Score=6.5 Pos=-76 [Pseudomonas stutzeri A1501]
+ATAGTTGACCGGTTTTGTCAGGCAA
+>Avin_40410(iscR) Score=6.1 Pos=-65 [Azotobacter vinelandii AvOP]
+ATAGTTGATCCTGTTTGTCGGGTAT

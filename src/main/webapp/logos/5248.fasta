@@ -1,0 +1,32 @@
+>CKO_02946(scrY) Score=6.5 Pos=-119 [Citrobacter koseri ATCC BAA-895]
+TTGTTAAACCGGTTTAGCAA
+>CKO_02947(scrK) Score=5.7 Pos=-40 [Citrobacter koseri ATCC BAA-895]
+TAGCTAAATCGGTTTAACGT
+>CKO_02946(scrY) Score=5.5 Pos=-59 [Citrobacter koseri ATCC BAA-895]
+TGCCTAAACCGGTTTAGCTG
+>Ent638_2020(scrY) Score=5.8 Pos=-120 [Enterobacter sp. 638]
+TTACTAAAACGGTTTAGCAA
+>Ent638_2020(scrY) Score=6.3 Pos=-60 [Enterobacter sp. 638]
+AAACTAAACCGGTTTAGCAA
+>Ent638_2019(scrK) Score=6.4 Pos=-41 [Enterobacter sp. 638]
+TAGCTAAACCGGTTTAACAT
+>EAM_1597(scrY) Score=5.2 Pos=-52 [Erwinia amylovora ATCC 49946]
+CTGTCGAACCGGTTTAGCAT
+>EAM_1598(scrK) Score=5.7 Pos=-51 [Erwinia amylovora ATCC 49946]
+AGGCTAAACCCGTTTAGCTT
+>ECA0364(scrK) Score=5.5 Pos=-61 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TAGCTAAACCGATTCTTCTA
+>ECA0363(scrY) Score=6.1 Pos=-79 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAGAAAAACCGGTTTAGCAA
+>KPN_00515(scrY) Score=6.1 Pos=-61 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CAACTAAACCGGTTTAGCAA
+>KPN_00516(scrK) Score=5.8 Pos=-45 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GAGCTAAACCGGTTTAATAA
+>KPN_00515(scrY) Score=5.9 Pos=-119 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTCTTAAACCGGTTTAGCAA
+>Spro_4204(scrY) Score=5.4 Pos=-123 [Serratia proteamaculans 568]
+TAGCTGAATCGGGTTAGCAA
+>Spro_4203(scrK) Score=5.9 Pos=-62 [Serratia proteamaculans 568]
+TTGCTAAACCGGTTCTTCTA
+>Spro_4204(scrY) Score=6 Pos=-63 [Serratia proteamaculans 568]
+CTGAAAAACCGGTTTAGCAA

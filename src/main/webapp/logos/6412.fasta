@@ -1,0 +1,44 @@
+>nfa21560(paaR) Score=5.9 Pos=-81 [Nocardia farcinica IFM 10152]
+TATTACCGAACATTCGGTCAGT
+>nfa21550(paaZ) Score=5.3 Pos=-32 [Nocardia farcinica IFM 10152]
+ACCGACCGAATGTTCAGTTGAA
+>nfa20960(paaQ) Score=5.8 Pos=-78 [Nocardia farcinica IFM 10152]
+ACTGACCGAACAGTCGGTAATA
+>nfa21570(paaJ) Score=5.9 Pos=-49 [Nocardia farcinica IFM 10152]
+ACTGACCGAATGTTCGGTAATA
+>RER_55540(paaR) Score=6 Pos=-80 [Rhodococcus erythropolis PR4]
+AATAACCGAACATTCGGTCGTT
+>RER_55550(paaZ) Score=5.6 Pos=-32 [Rhodococcus erythropolis PR4]
+ACCGACCGAACGTACGGTGAGA
+>RER_55500(paaA) Score=5.6 Pos=-35 [Rhodococcus erythropolis PR4]
+ACCAACCGATCATTCGGTAATA
+>ROP_17540(paaT) Score=5.7 Pos=-122 [Rhodococcus opacus B4]
+ACCAACCGAACGTACGGTTATA
+>ROP_17540(paaT) Score=5.4 Pos=-39 [Rhodococcus opacus B4]
+CCTGACCGAACAATCGGTCGAG
+>ROP_23860(paaR) Score=4.8 Pos=-80 [Rhodococcus opacus B4]
+CTGAACCGAACCTTCGGTCGGC
+>ROP_25870(paaZ) Score=5.7 Pos=-127 [Rhodococcus opacus B4]
+AATAACCGAATCTTCGGTCGGT
+>ROP_25870(paaZ) Score=5.4 Pos=-32 [Rhodococcus opacus B4]
+ACCGACCGAACGTACGGTGAAA
+>ROP_25860(paaJ) Score=5.4 Pos=-148 [Rhodococcus opacus B4]
+TTTCACCGTACGTTCGGTCGGT
+>ROP_25860(paaJ) Score=5.7 Pos=-53 [Rhodococcus opacus B4]
+ACCGACCGAAGATTCGGTTATT
+>RHA1_ro02082(paaT) Score=5.7 Pos=-124 [Rhodococcus sp. RHA1]
+ACCAACCGAACGTACGGTTATA
+>RHA1_ro02082(paaT) Score=5.1 Pos=-40 [Rhodococcus sp. RHA1]
+CCTGACCGAACAGTCGTTCGCA
+>RHA1_ro02633(paaR) Score=5.2 Pos=-80 [Rhodococcus sp. RHA1]
+TTCAACCGAACCTTCGGTCGGC
+>RHA1_ro02864(paaZ) Score=5.7 Pos=-128 [Rhodococcus sp. RHA1]
+AATAACCGAATCTTCGGTCGGT
+>RHA1_ro02864(paaZ) Score=5.4 Pos=-32 [Rhodococcus sp. RHA1]
+ACCGACCGAACGTACGGTGAAA
+>RHA1_ro02863(paaJ) Score=5.4 Pos=-149 [Rhodococcus sp. RHA1]
+TTTCACCGTACGTTCGGTCGGT
+>RHA1_ro02863(paaJ) Score=5.7 Pos=-53 [Rhodococcus sp. RHA1]
+ACCGACCGAAGATTCGGTTATT
+>RHA1_ro02859(paaA) Score=5.6 Pos=-34 [Rhodococcus sp. RHA1]
+ACCAACCGATCATTCGGTAATA

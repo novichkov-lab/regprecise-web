@@ -1,0 +1,36 @@
+>APA01_25650(fnrN) Score=6 Pos=-207 [Acetobacter pasteurianus IFO 3283-01]
+GCCTTGATTTAGATCAAATC
+>APA01_25640(ompW) Score=6 Pos=-90 [Acetobacter pasteurianus IFO 3283-01]
+GATTTGATCTAAATCAAGGC
+>AZL_003350(ccoN) Score=5.1 Pos=-192 [Azospirillum sp. B510]
+TCGTTGACGTAGATCAATGT
+>AZL_003210(hemA) Score=5.5 Pos=-138 [Azospirillum sp. B510]
+GGCTTGATTTCGATCAATGC
+>Gdia_1984(fnrN) Score=6 Pos=-126 [Gluconacetobacter diazotrophicus PAl 5]
+GCATTGATTCAGATCAATTC
+>Gdia_1985(ompW) Score=4.8 Pos=-94 [Gluconacetobacter diazotrophicus PAl 5]
+CGGTTGATTCATGTCAAGGC
+>GOX0973(ompW) Score=5.4 Pos=-75 [Gluconobacter oxydans 621H]
+GACTTGATTCAGGTCAACGT
+>GOX0974(fnrN) Score=5.4 Pos=-90 [Gluconobacter oxydans 621H]
+ACGTTGACCTGAATCAAGTC
+>amb0883(cycA) Score=5.9 Pos=-78 [Magnetospirillum magneticum AMB-1]
+GACTTGACCTTGCTCAATGC
+>Magn03010752(cycA) Score=5.9 Pos=-77 [Magnetospirillum magnetotacticum MS-1]
+GACTTGACCTTGCTCAATGC
+>Magn03010411(ccoN) Score=5 Pos=-161 [Magnetospirillum magnetotacticum MS-1]
+ACTTTGATATATGTCAATGG
+>RC1_1280(ccoN) Score=4.9 Pos=-190 [Rhodospirillum centenum SW]
+GCATTGACATTCGTCAAAAC
+>RC1_1607(ompW) Score=5.5 Pos=-121 [Rhodospirillum centenum SW]
+GAATTGATCCAGGTCAGGGC
+>RC1_0996(hemA) Score=5.4 Pos=-164 [Rhodospirillum centenum SW]
+GAATTGACCGACATCAACGC
+>RC1_1280(ccoN) Score=5.4 Pos=-120 [Rhodospirillum centenum SW]
+CCGTTGATTCAAATCAATGC
+>RC1_2984(fnrN) Score=5.2 Pos=-305 [Rhodospirillum centenum SW]
+ACCTTGACTTGGATCAAGAC
+>Rru_A3332(ccoN) Score=5.7 Pos=-324 [Rhodospirillum rubrum ATCC 11170]
+GATTTGATCTAAATCAATGG
+>Rru_A3322(fnrN) Score=4.6 Pos=-119 [Rhodospirillum rubrum ATCC 11170]
+GGTTTGACCTGGATCAAAAT

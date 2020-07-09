@@ -1,0 +1,60 @@
+>PBPRB1872(mglB) Score=5 Pos=-154 [Photobacterium profundum SS9]
+TTGGGGGAACGTTTACATTA
+>PBPRA2082(galE) Score=6 Pos=-105 [Photobacterium profundum SS9]
+TCGTGGAAACGTTTACACAA
+>PBPRA2078(galR) Score=5 Pos=-152 [Photobacterium profundum SS9]
+TACTGATAACGATTACAAAA
+>VAS14_15124(galE) Score=6.4 Pos=-131 [Vibrio angustum S14]
+AAATGTAAACGTTTACACAA
+>VC2337(galR) Score=5.5 Pos=-139 [Vibrio cholerae O1 biovar eltor str. N16961]
+CATTAAAAACGTTTACACTT
+>VC1596(galT) Score=5.6 Pos=-162 [Vibrio cholerae O1 biovar eltor str. N16961]
+TTGTGAAAGCGTTTACACTG
+>VC1325(mglB) Score=5.4 Pos=-107 [Vibrio cholerae O1 biovar eltor str. N16961]
+CTGAGTAAACGTTTTCACTG
+>VF_A0352(galE) Score=5.6 Pos=-247 [Vibrio fischeri ES114]
+GATTGTAAACGTTTACAATT
+>VF_A0352(galE) Score=6.4 Pos=-92 [Vibrio fischeri ES114]
+TAGTGTAAACGTTTACATTT
+>VF_A0361(galR) Score=5.7 Pos=-107 [Vibrio fischeri ES114]
+TAATGATAACGTTTACAAAA
+>VIBHAR_03325(galR) Score=4.7 Pos=-149 [Vibrio harveyi ATCC BAA-1116]
+CTAAGATAACGTTTATACAT
+>VIBHAR_03331(galE) Score=6 Pos=-254 [Vibrio harveyi ATCC BAA-1116]
+TTGTGTAAACGTTTATACAT
+>VIBHAR_03331(galE) Score=5.4 Pos=-153 [Vibrio harveyi ATCC BAA-1116]
+TTGTGGAAACGTTTGCTCTA
+>VP2393(galR) Score=5.6 Pos=-149 [Vibrio parahaemolyticus RIMD 2210633]
+AAAAGATAACGTTTACACTA
+>VP2400(galE) Score=6.3 Pos=-170 [Vibrio parahaemolyticus RIMD 2210633]
+TTGTGGAAACGTTTACACAA
+>VSAK1_00937(galW) Score=5.6 Pos=-103 [Vibrio shilonii AK1]
+CAGTGTAAACGTTTCCAGTT
+>VSAK1_10728(galE) Score=4.7 Pos=-238 [Vibrio shilonii AK1]
+TTGTGTAATCGTTTAACTTT
+>VSAK1_10728(galE) Score=6.6 Pos=-140 [Vibrio shilonii AK1]
+TAGTGTAAACGTTTACACTT
+>VSAK1_10743(mglB) Score=5.5 Pos=-327 [Vibrio shilonii AK1]
+TATTGTAAACGTTCTCATAA
+>VSAK1_10743(mglB) Score=4.7 Pos=-97 [Vibrio shilonii AK1]
+TGGGTTAAACGTTTTCACTT
+>VSAK1_00922(galR) Score=5.2 Pos=-115 [Vibrio shilonii AK1]
+TTTTGGAAACGATTACTCTA
+>VSAK1_00922(galR) Score=5.6 Pos=-245 [Vibrio shilonii AK1]
+TCATGGAAACGTTTACAATT
+>VSAK1_10773(lacE) Score=5.6 Pos=-58 [Vibrio shilonii AK1]
+CTGTGTAAACGTTTCCAAAT
+>VSAK1_10773(lacE) Score=4.7 Pos=-223 [Vibrio shilonii AK1]
+AATTGTTAACGTATCCAAAT
+>VV21332(galW) Score=5.2 Pos=-148 [Vibrio vulnificus CMCP6]
+GTCTGTAAACGTTTCCATAA
+>VV1_1770(galE) Score=6.4 Pos=-125 [Vibrio vulnificus CMCP6]
+TAGTGAAAACGTTTACACTT
+>VV21326(mglB) Score=5.3 Pos=-90 [Vibrio vulnificus CMCP6]
+AAGGGTAAACGTTTTCACCA
+>VV1_1775(galR) Score=5.6 Pos=-139 [Vibrio vulnificus CMCP6]
+AAAAGATAACGTTTACACTA
+>VV21682(VV21682) Score=4.8 Pos=-119 [Vibrio vulnificus CMCP6]
+AAATGCAATCGATTACACAT
+>VV21329(lacP) Score=5.2 Pos=-96 [Vibrio vulnificus CMCP6]
+TCATGAAAACGTTTCCATAG

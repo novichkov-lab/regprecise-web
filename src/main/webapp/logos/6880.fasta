@@ -1,0 +1,46 @@
+>PAE2986(ribB) Score=4.4 Pos=-18 [Pyrobaculum aerophilum str. IM2]
+TAGAAAATTAAGTTTACC
+>PAE2983(arfB) Score=3.7 Pos=-82 [Pyrobaculum aerophilum str. IM2]
+AGTCAACAACAGTGTGTA
+>PAE2986(ribB) Score=4.3 Pos=-51 [Pyrobaculum aerophilum str. IM2]
+AGTGTAAAAAAGTTGACA
+>PAE2983(arfB) Score=5.5 Pos=-49 [Pyrobaculum aerophilum str. IM2]
+TGTAAACATCAGTTGACT
+>PAE2984(arfA) Score=3.7 Pos=-22 [Pyrobaculum aerophilum str. IM2]
+TACACACTGTTGTTGACT
+>PAE2984(arfA) Score=5.5 Pos=-55 [Pyrobaculum aerophilum str. IM2]
+AGTCAACTGATGTTTACA
+>Pars_1353(ribB) Score=3.7 Pos=-36 [Pyrobaculum arsenaticum DSM 13514]
+AGAAAAAAAGAGTTAACC
+>Pars_1353(ribB) Score=5.5 Pos=-68 [Pyrobaculum arsenaticum DSM 13514]
+TGTAAAAATCAGTTGACA
+>Pars_1350(arfB) Score=5.6 Pos=-81 [Pyrobaculum arsenaticum DSM 13514]
+TGTAAACAAAAGTTACCA
+>Pars_1351(arfA) Score=5.6 Pos=-56 [Pyrobaculum arsenaticum DSM 13514]
+TGGTAACTTTTGTTTACA
+>Pars_1351(arfA) Score=3.7 Pos=-23 [Pyrobaculum arsenaticum DSM 13514]
+TATAGCGAGTTGTTTACA
+>Pcal_1123(arfA) Score=4.2 Pos=-54 [Pyrobaculum calidifontis JCM 11548]
+AGTCTCCAAGAGTTTACA
+>Pcal_1124(arfB) Score=4.2 Pos=-50 [Pyrobaculum calidifontis JCM 11548]
+TGTAAACTCTTGGAGACT
+>Pcal_1121(ribB) Score=6.1 Pos=-51 [Pyrobaculum calidifontis JCM 11548]
+TGTAAAAAATAGTTTACA
+>Pcal_1121(ribB) Score=3.9 Pos=-19 [Pyrobaculum calidifontis JCM 11548]
+CCTCACCTAGAGTTGACA
+>Pisl_0384(arfA) Score=5.9 Pos=-56 [Pyrobaculum islandicum DSM 4184]
+CGTAAACTAAAGTTTACA
+>Pisl_0383(arfB) Score=5.9 Pos=-50 [Pyrobaculum islandicum DSM 4184]
+TGTAAACTTTAGTTTACG
+>Pisl_0386(ribB) Score=6.3 Pos=-51 [Pyrobaculum islandicum DSM 4184]
+TGTAAACATTAGTTTACA
+>Tneu_1743(arfA) Score=6.1 Pos=-56 [Thermoproteus neutrophilus V24Sta]
+TGTAAACAGAAGTTTACA
+>Tneu_1744(arfB) Score=4.3 Pos=-84 [Thermoproteus neutrophilus V24Sta]
+TGTAAACCTTAGTAGATA
+>Tneu_1744(arfB) Score=6.1 Pos=-51 [Thermoproteus neutrophilus V24Sta]
+TGTAAACTTCTGTTTACA
+>Tneu_1741(ribB) Score=6.4 Pos=-32 [Thermoproteus neutrophilus V24Sta]
+TGTAAACAATAGTTTACA
+>Tneu_1743(arfA) Score=4.3 Pos=-23 [Thermoproteus neutrophilus V24Sta]
+TATCTACTAAGGTTTACA

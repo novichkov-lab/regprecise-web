@@ -1,0 +1,182 @@
+>rrnAC3005(cbiH) Score=5.5 Pos=-20 [Haloarcula marismortui ATCC 43049]
+AGTACAAGCACAATTGTTTT
+>rrnAC2998(cbiT) Score=5.7 Pos=-46 [Haloarcula marismortui ATCC 43049]
+AATACAACCAAAATTGTTTT
+>rrnAC3018(chlID) Score=5.9 Pos=-9 [Haloarcula marismortui ATCC 43049]
+AATACAAGTATGGTTGTATT
+>rrnAC3016(cbtB) Score=5.1 Pos=-39 [Haloarcula marismortui ATCC 43049]
+TTTACAATCTTACTTGTTCT
+>rrnAC3015(cbtA) Score=5.1 Pos=-245 [Haloarcula marismortui ATCC 43049]
+TTTACAATCTTACTTGTTCT
+>rrnAC3019(cobN) Score=5.9 Pos=-46 [Haloarcula marismortui ATCC 43049]
+AATACAACCATACTTGTATT
+>rrnAC3023(cbiD-II) Score=5.4 Pos=-37 [Haloarcula marismortui ATCC 43049]
+AAAACAACTCAGCTTGTTTT
+>OE3207F(cbiT) Score=5.6 Pos=-45 [Halobacterium salinarum R1]
+AATACAATCAAAATTGTTTT
+>OE3242F(cobT) Score=4.8 Pos=-120 [Halobacterium salinarum R1]
+AACCCAACTGTGGTTGCATA
+>OE3229R(chlID) Score=5.5 Pos=-9 [Halobacterium salinarum R1]
+ATTACAACTATGGTTGATTT
+>OE3239R(cbiD-II) Score=4.8 Pos=-44 [Halobacterium salinarum R1]
+TATGCAACCACAGTTGGGTT
+>OE3230F(cobN) Score=5.5 Pos=-45 [Halobacterium salinarum R1]
+AAATCAACCATAGTTGTAAT
+>OE4346R(nrdA1) Score=4.9 Pos=-153 [Halobacterium salinarum R1]
+TGATCAACTTAGATTGTACT
+>OE4346R(nrdA1) Score=4.6 Pos=-133 [Halobacterium salinarum R1]
+TCTACAAGTTTAGTTGGTAA
+>OE3319R(cbiM) Score=5.2 Pos=-69 [Halobacterium salinarum R1]
+AATACAAATTCAGTTGTTCT
+>VNG1550G(cbiT) Score=5.6 Pos=-45 [Halobacterium sp. NRC-1]
+AATACAATCAAAATTGTTTT
+>VNG1572C(cobT) Score=4.8 Pos=-219 [Halobacterium sp. NRC-1]
+AACCCAACTGTGGTTGCATA
+>VNG1565G(chlID) Score=5.5 Pos=-9 [Halobacterium sp. NRC-1]
+ATTACAACTATGGTTGATTT
+>VNG1570H(cbiD-II) Score=4.8 Pos=-44 [Halobacterium sp. NRC-1]
+TATGCAACCACAGTTGGGTT
+>VNG1566G(cobN) Score=5.5 Pos=-240 [Halobacterium sp. NRC-1]
+AAATCAACCATAGTTGTAAT
+>VNG2384G(nrdA1) Score=4.9 Pos=-153 [Halobacterium sp. NRC-1]
+TGATCAACTTAGATTGTACT
+>VNG2384G(nrdA1) Score=4.6 Pos=-133 [Halobacterium sp. NRC-1]
+TCTACAAGTTTAGTTGGTAA
+>VNG1635G(cbiM) Score=5.2 Pos=-69 [Halobacterium sp. NRC-1]
+AATACAAATTCAGTTGTTCT
+>HVO_B0062(cbiT) Score=5.1 Pos=-123 [Haloferax volcanii DS2]
+AGAACAAGCGAGATTGTGTT
+>HVO_B0062(cbiT) Score=5 Pos=-150 [Haloferax volcanii DS2]
+AAACCAAGCACAGTTGTAAA
+>HVO_B0062(cbiT) Score=5.4 Pos=-47 [Haloferax volcanii DS2]
+ACAACAAGCACAATTGTTTT
+>HVO_B0064(cbtA) Score=5 Pos=-227 [Haloferax volcanii DS2]
+TTTACAACTGTGCTTGGTTT
+>HVO_B0063(cbtB) Score=5.4 Pos=-142 [Haloferax volcanii DS2]
+AAAACAATTGTGCTTGTTGT
+>HVO_B0063(cbtB) Score=5.1 Pos=-66 [Haloferax volcanii DS2]
+AACACAATCTCGCTTGTTCT
+>HVO_B0063(cbtB) Score=5 Pos=-39 [Haloferax volcanii DS2]
+TTTACAACTGTGCTTGGTTT
+>Hmuk_0145(VNG1577C) Score=4.6 Pos=-32 [Halomicrobium mukohataei DSM 12286]
+AGTTCAAGTGTGCTTGCGGT
+>Hmuk_2791(btuF) Score=4.1 Pos=-60 [Halomicrobium mukohataei DSM 12286]
+GTTCCAACCACAGTTGGGAT
+>Hmuk_1874(cbiT) Score=5.7 Pos=-46 [Halomicrobium mukohataei DSM 12286]
+AAAACAACCAAAATTGTTTT
+>Hmuk_1860(chlID) Score=5.5 Pos=-9 [Halomicrobium mukohataei DSM 12286]
+AATACAAGCATGATTGATTT
+>Hmuk_1861(cbtB) Score=4.7 Pos=-38 [Halomicrobium mukohataei DSM 12286]
+TTTACAATCTAGTTTGTACT
+>Hmuk_1862(cbtA) Score=4.7 Pos=-229 [Halomicrobium mukohataei DSM 12286]
+TTTACAATCTAGTTTGTACT
+>Hmuk_1859(cobN) Score=5.5 Pos=-45 [Halomicrobium mukohataei DSM 12286]
+AAATCAATCATGCTTGTATT
+>Hmuk_2792(btuC) Score=4.1 Pos=-21 [Halomicrobium mukohataei DSM 12286]
+ATCCCAACTGTGGTTGGAAC
+>Hmuk_1856(cbiD-II) Score=5 Pos=-36 [Halomicrobium mukohataei DSM 12286]
+AGTACAACTACACTTGTACC
+>Hmuk_1856(cbiD-II) Score=4.7 Pos=-56 [Halomicrobium mukohataei DSM 12286]
+ATAGCAAGCACAATTGGTGT
+>Hmuk_3351(nrdR) Score=4.9 Pos=-136 [Halomicrobium mukohataei DSM 12286]
+TAATCAAGTCTAATTGTACT
+>HQ1628A(btuF) Score=4.6 Pos=-64 [Haloquadratum walsbyi DSM 16790]
+TATACAAACGCACTTGCAGT
+>HQ1834A(cbiT) Score=5.3 Pos=-47 [Haloquadratum walsbyi DSM 16790]
+AGAGCAAGCGTAATTGTTTT
+>HQ1834A(cbiT) Score=5.5 Pos=-113 [Haloquadratum walsbyi DSM 16790]
+AAAACAATTTTGCTTGTACT
+>HQ3035A(cbiG) Score=5.3 Pos=-107 [Haloquadratum walsbyi DSM 16790]
+AAGACAACCGTAATTGTTTT
+>HQ2295A(chlID) Score=4.2 Pos=-18 [Haloquadratum walsbyi DSM 16790]
+AGTGCAAAAAAGGTTGATAT
+>HQ2298A(cbiJ) Score=4.3 Pos=-236 [Haloquadratum walsbyi DSM 16790]
+GTTGCAACCCCGGTTGGATT
+>HQ2296A(cobN) Score=4.2 Pos=-45 [Haloquadratum walsbyi DSM 16790]
+ATATCAACCTTTTTTGCACT
+>HQ1627A(btuC) Score=4.6 Pos=-26 [Haloquadratum walsbyi DSM 16790]
+ACTGCAAGTGCGTTTGTATA
+>HQ1835A(cbiM) Score=5.3 Pos=-126 [Haloquadratum walsbyi DSM 16790]
+AAAACAATTACGCTTGCTCT
+>HQ1835A(cbiM) Score=5.5 Pos=-60 [Haloquadratum walsbyi DSM 16790]
+AGTACAAGCAAAATTGTTTT
+>Huta_2494(btuF) Score=4.6 Pos=-59 [Halorhabdus utahensis DSM 12940]
+ACGACAAGTTGAGTTGCATT
+>Huta_2493(btuC) Score=4.6 Pos=-1 [Halorhabdus utahensis DSM 12940]
+AATGCAACTCAACTTGTCGT
+>Huta_2339(nrdR) Score=5.1 Pos=-133 [Halorhabdus utahensis DSM 12940]
+AGTACAACTGAACTTGGACT
+>Hlac_3478(cbiT) Score=5 Pos=-46 [Halorubrum lacusprofundi ATCC 49239]
+AGCTCAACCAAAATTGTTTT
+>Hlac_0880(btuF) Score=4.3 Pos=-58 [Halorubrum lacusprofundi ATCC 49239]
+TCTCCAACAAAACTTGTAGT
+>Hlac_3464(cbtA) Score=4.9 Pos=-229 [Halorubrum lacusprofundi ATCC 49239]
+TTTACAAGCTCAGTTGTGTT
+>Hlac_3463(cbtB) Score=4.9 Pos=-39 [Halorubrum lacusprofundi ATCC 49239]
+TTTACAAGCTCAGTTGTGTT
+>Hlac_3462(chlID) Score=5.4 Pos=-9 [Halorubrum lacusprofundi ATCC 49239]
+ACTACAACCATGGTTGATTT
+>Hlac_3458(cbiD-II) Score=4.4 Pos=-33 [Halorubrum lacusprofundi ATCC 49239]
+AGATAAAGTATAGTTGAACT
+>Hlac_3461(cobN) Score=5.4 Pos=-45 [Halorubrum lacusprofundi ATCC 49239]
+AAATCAACCATGGTTGTAGT
+>Hlac_2946(nrdR) Score=5.5 Pos=-136 [Halorubrum lacusprofundi ATCC 49239]
+AATACAAGTTTAGTTGTGTT
+>Hlac_0881(btuC) Score=4.3 Pos=-24 [Halorubrum lacusprofundi ATCC 49239]
+ACTACAAGTTTTGTTGGAGA
+>Htur_0996(cbiT) Score=4.9 Pos=-46 [Haloterrigena turkmenica DSM 5511]
+ATACCAAACAAAATTGTTTT
+>Htur_0996(cbiT) Score=4.4 Pos=-66 [Haloterrigena turkmenica DSM 5511]
+TGAGCAAGCGAACTTGCCTT
+>Htur_1830(btuF) Score=4.7 Pos=-58 [Haloterrigena turkmenica DSM 5511]
+GATCCAACCACGGTTGGTTT
+>Htur_5160(cbtB) Score=5.3 Pos=-37 [Haloterrigena turkmenica DSM 5511]
+TTTACAACTATACTTGTTCT
+>Htur_5161(cbtA) Score=5.3 Pos=-229 [Haloterrigena turkmenica DSM 5511]
+TTTACAACTATACTTGTTCT
+>Htur_1006(chlID) Score=4.6 Pos=-9 [Haloterrigena turkmenica DSM 5511]
+AGCGCAACTATGGTTGCAGA
+>Htur_1005(cobN) Score=4.6 Pos=-45 [Haloterrigena turkmenica DSM 5511]
+TCTGCAACCATAGTTGCGCT
+>Htur_1831(btuC) Score=4.7 Pos=-21 [Haloterrigena turkmenica DSM 5511]
+AAACCAACCGTGGTTGGATC
+>Nmag_1837(btuF) Score=4.9 Pos=-58 [Natrialba magadii ATCC 43099]
+AATGCAACTCTGATTGCAAT
+>Nmag_3175(cbiA) Score=4.4 Pos=-115 [Natrialba magadii ATCC 43099]
+AGTTCAAGTACAGTTGTGTG
+>Nmag_3605(btuF) Score=5 Pos=-58 [Natrialba magadii ATCC 43099]
+TGTGCAAGCATGATTGCTTT
+>Nmag_2658(nrdR) Score=4 Pos=-136 [Natrialba magadii ATCC 43099]
+AACACAAGTGAATTTTCACT
+>Nmag_3606(btuC) Score=5 Pos=-22 [Natrialba magadii ATCC 43099]
+AAAGCAATCATGCTTGCACA
+>NP0736A(cobT) Score=4.1 Pos=-33 [Natronomonas pharaonis DSM 2160]
+GGTTCAAGTACACTTGTCCA
+>NP0736A(cobT) Score=4.4 Pos=-97 [Natronomonas pharaonis DSM 2160]
+ACAGCAATTCGGCTTGTACA
+>NP3814A(btuF) Score=4.2 Pos=-57 [Natronomonas pharaonis DSM 2160]
+GCTGCAACTGGGCTTGGTTT
+>NP1116A(cbiH) Score=5.2 Pos=-101 [Natronomonas pharaonis DSM 2160]
+ACAACAAGCACAATTGTTAT
+>NP1124A(cbiT) Score=5.3 Pos=-46 [Natronomonas pharaonis DSM 2160]
+AGCACAACCAAAATTGTTTT
+>NP0736A(cobT) Score=5.4 Pos=-117 [Natronomonas pharaonis DSM 2160]
+TAATCAAGTATAGTTGTATT
+>NP1094A(chlID) Score=4 Pos=-29 [Natronomonas pharaonis DSM 2160]
+TGATAAACTCCGGTTGTTCT
+>NP1094A(chlID) Score=4.6 Pos=-9 [Natronomonas pharaonis DSM 2160]
+AATACAACCGTGATTGACAA
+>NP1092A(cobN) Score=4.6 Pos=-45 [Natronomonas pharaonis DSM 2160]
+TTGTCAATCACGGTTGTATT
+>NP1092A(cobN) Score=4 Pos=-25 [Natronomonas pharaonis DSM 2160]
+AGAACAACCGGAGTTTATCA
+>NP3816A(btuC) Score=4.2 Pos=-21 [Natronomonas pharaonis DSM 2160]
+AAACCAAGCCCAGTTGCAGC
+>NP0734A(cbiD-II) Score=5.4 Pos=-27 [Natronomonas pharaonis DSM 2160]
+AATACAACTATACTTGATTA
+>NP0734A(cbiD-II) Score=4.4 Pos=-47 [Natronomonas pharaonis DSM 2160]
+TGTACAAGCCGAATTGCTGT
+>NP6162A(nrdR) Score=4.3 Pos=-117 [Natronomonas pharaonis DSM 2160]
+ACACCAATTTTATTTGGAAA
+>NP6162A(nrdR) Score=5 Pos=-137 [Natronomonas pharaonis DSM 2160]
+AAATCAAGTTCATTTGTACT

@@ -1,0 +1,98 @@
+>SAV_1764(lamA1) Score=5.7 Pos=-60 [Streptomyces avermitilis MA-4680]
+TCTTGAGAGCGCTCTCAAGG
+>SAV_1854(celA2) Score=6.3 Pos=-209 [Streptomyces avermitilis MA-4680]
+CAGTGGGAGCGCTCCCATAT
+>SAV_1854(celA2) Score=5.1 Pos=-66 [Streptomyces avermitilis MA-4680]
+CAGTGGGAGCGATTCCATCA
+>SAV_555(celA1) Score=6.3 Pos=-220 [Streptomyces avermitilis MA-4680]
+TTTTGGGAGCGCTCCCAAGA
+>SAV_5253(bglC2) Score=5.7 Pos=-88 [Streptomyces avermitilis MA-4680]
+CGATGGGAGCGCTTCCATGC
+>SAV_555(celA1) Score=5.9 Pos=-75 [Streptomyces avermitilis MA-4680]
+GAATGGGAGCGCTCCCACCT
+>SAV_555(celA1) Score=5.5 Pos=-51 [Streptomyces avermitilis MA-4680]
+TGATGGGAGCGCTCCCGAAC
+>SAV_2254(gunA) Score=5.9 Pos=3 [Streptomyces avermitilis MA-4680]
+AGGTGGGAGCGCTCCCATAT
+>SAV_967(SCO0716) Score=5.1 Pos=-102 [Streptomyces avermitilis MA-4680]
+TTCAGAGAGCGCTCTCAGAC
+>SAV_1053(SCO7559) Score=5.4 Pos=-69 [Streptomyces avermitilis MA-4680]
+CTCTGAGAGCGCTCTCAATT
+>SAV_5257(celR) Score=6.7 Pos=-284 [Streptomyces avermitilis MA-4680]
+CCGTGGGAGCGCTCCCACAA
+>SAV_5256(cebE) Score=6.7 Pos=-134 [Streptomyces avermitilis MA-4680]
+TTGTGGGAGCGCTCCCACGG
+>SAV_1855(cbhB) Score=6.3 Pos=-75 [Streptomyces avermitilis MA-4680]
+ATATGGGAGCGCTCCCACTG
+>SAV_1855(cbhB) Score=5.1 Pos=-218 [Streptomyces avermitilis MA-4680]
+TGATGGAATCGCTCCCACTG
+>SCO6665(lamA1) Score=5.7 Pos=-85 [Streptomyces coelicolor A3(2)]
+CTCTGAGAGCGCTCTCAGAA
+>SCO0643(SCO0643) Score=6.3 Pos=-74 [Streptomyces coelicolor A3(2)]
+CCTTGGGAGCGCTCCCATGC
+>SCO6548(cbhA) Score=5.1 Pos=-318 [Streptomyces coelicolor A3(2)]
+CAGTGGGAGCGGTTCCATCA
+>SCO2798(bglC2) Score=5.9 Pos=-16 [Streptomyces coelicolor A3(2)]
+CTATGGGAGCGCTTCCATGC
+>SCO1187(gunA2) Score=6 Pos=-87 [Streptomyces coelicolor A3(2)]
+AAGTGGGAGCGCTCCCATCA
+>SCO2794(celR) Score=6.6 Pos=-238 [Streptomyces coelicolor A3(2)]
+GTGTGGGAGCGCTCCCACAA
+>SCO7637(SCO7637) Score=6.2 Pos=29 [Streptomyces coelicolor A3(2)]
+CTTTGGGAGCGCTCCCATCG
+>SCO0765(cel1) Score=6 Pos=-54 [Streptomyces coelicolor A3(2)]
+ATTTGGGAGCGCTCCCATTC
+>SCO1187(gunA2) Score=5.3 Pos=-61 [Streptomyces coelicolor A3(2)]
+AGTTGGGAGCGCTCCCGCAC
+>SCO0716(SCO0716) Score=5.7 Pos=-53 [Streptomyces coelicolor A3(2)]
+GCGTGAGAGCGCTCTCAGGC
+>SCO7559(SCO7559) Score=5.4 Pos=-62 [Streptomyces coelicolor A3(2)]
+CGCTGAGAGCGCTCTCAGAA
+>SCO2795(cebE) Score=6.6 Pos=-147 [Streptomyces coelicolor A3(2)]
+TTGTGGGAGCGCTCCCACAC
+>SCO6546(cbhB) Score=6.5 Pos=-79 [Streptomyces coelicolor A3(2)]
+CTATGGGAGCGCTCCCACTG
+>SCO6546(cbhB) Score=5.1 Pos=-221 [Streptomyces coelicolor A3(2)]
+TGATGGAACCGCTCCCACTG
+>SGR_4739(celR) Score=6.2 Pos=-109 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCTTGGGAGCGCTCCCAATA
+>SGR_2445(celA2) Score=6.3 Pos=-33 [Streptomyces griseus subsp. griseus NBRC 13350]
+GATTGGGAGCGCTCCCACAG
+>SGR_199(gunA) Score=6.2 Pos=-334 [Streptomyces griseus subsp. griseus NBRC 13350]
+GTGTGGGAGCGCTCCCAGAT
+>SGR_4738(bglC2) Score=5.7 Pos=-18 [Streptomyces griseus subsp. griseus NBRC 13350]
+CCCAGGGAGCGCTCCCACAT
+>SGR_3212(cebE) Score=5.5 Pos=-55 [Streptomyces griseus subsp. griseus NBRC 13350]
+ATTTGAGAGCGCTCTCAAGG
+>SGR_4735(cebE) Score=6.3 Pos=-124 [Streptomyces griseus subsp. griseus NBRC 13350]
+GCATGGGAGCGCTCCCACTC
+>SCAB_21081(gunA) Score=6 Pos=-180 [Streptomyces scabiei 87.22]
+GGGTGGGAGCGCTCCCATGT
+>SCAB_90091(cbhB) Score=6.5 Pos=-108 [Streptomyces scabiei 87.22]
+TCATGGGAGCGCTCCCACTG
+>SCAB_90091(cbhB) Score=4.7 Pos=-251 [Streptomyces scabiei 87.22]
+GTCGGGAACCGCTCCCACTG
+>SCAB_15711(lamA1) Score=5.7 Pos=-140 [Streptomyces scabiei 87.22]
+TTTTGAGAGCGCTCTCAGGA
+>SCAB_16431(celA2) Score=5.1 Pos=-131 [Streptomyces scabiei 87.22]
+TACTGGAAGCGCTTCCAATG
+>SCAB_16431(celA2) Score=6 Pos=-116 [Streptomyces scabiei 87.22]
+CAATGGGAGCGCTCCCACCT
+>SCAB_17011(cbhB) Score=6.3 Pos=-133 [Streptomyces scabiei 87.22]
+ATATGGGAGCGCTCCCACTG
+>SCAB_17011(cbhB) Score=5.3 Pos=-286 [Streptomyces scabiei 87.22]
+TGGTGGAACCGCTCCCACTG
+>SCAB_57751(cebE) Score=6.7 Pos=-133 [Streptomyces scabiei 87.22]
+TCGTGGGAGCGCTCCCACAG
+>SCAB_17001(cbhA) Score=6.3 Pos=-314 [Streptomyces scabiei 87.22]
+CAGTGGGAGCGCTCCCATAT
+>SCAB_17001(cbhA) Score=5.3 Pos=-161 [Streptomyces scabiei 87.22]
+CAGTGGGAGCGGTTCCACCA
+>SCAB_57721(bglC2) Score=5.8 Pos=-16 [Streptomyces scabiei 87.22]
+CAATGGGAGCGCTTCCATGC
+>SCAB_90081(celA1) Score=6.1 Pos=-63 [Streptomyces scabiei 87.22]
+TCTTGGGAGCGCTCCCAATC
+>SCAB_8871(cel1) Score=5.9 Pos=-93 [Streptomyces scabiei 87.22]
+AATTGGGAGCGCTCCCACTT
+>SCAB_5981(gunA2) Score=6.1 Pos=-85 [Streptomyces scabiei 87.22]
+AAATGGGAGCGCTCCCAAAG

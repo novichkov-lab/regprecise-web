@@ -1,0 +1,38 @@
+>HI0053(HI0053) Score=5.6 Pos=-150 [Haemophilus influenzae Rd KW20]
+AAATTGGTATTCCAATTT
+>HI0053(HI0053) Score=4.7 Pos=-100 [Haemophilus influenzae Rd KW20]
+TATTTGGTATTCCAAAAA
+>HI0054(uxuR) Score=4.7 Pos=-78 [Haemophilus influenzae Rd KW20]
+TTTTTGGAATACCAAATA
+>HI0054(uxuR) Score=5.6 Pos=-28 [Haemophilus influenzae Rd KW20]
+AAATTGGAATACCAATTT
+>MS0542(uxuP) Score=6 Pos=-69 [Mannheimia succiniciproducens MBEL55E]
+AAATTGGTAAACCAATAT
+>MS0541(uxuQ) Score=5 Pos=-178 [Mannheimia succiniciproducens MBEL55E]
+CAAATGGTATACCAAAAT
+>MS0541(uxuQ) Score=6.1 Pos=-63 [Mannheimia succiniciproducens MBEL55E]
+ATATTGGTTTACCAATTT
+>Asuc_0146(uxuP) Score=5.1 Pos=-85 [Actinobacillus succinogenes 130Z]
+AAATCGGTATACCATTTT
+>Asuc_0146(uxuP) Score=5.8 Pos=-200 [Actinobacillus succinogenes 130Z]
+TAATTGGTAAACCAATAT
+>Asuc_0147(uxuQ) Score=5.2 Pos=-171 [Actinobacillus succinogenes 130Z]
+AAAATGGTATACCGATTT
+>Asuc_0147(uxuQ) Score=5.9 Pos=-56 [Actinobacillus succinogenes 130Z]
+ATATTGGTTTACCAATTA
+>Asuc_0154(uxaA) Score=5.2 Pos=-227 [Actinobacillus succinogenes 130Z]
+ACATTGGTTGACGAATTT
+>HSM_1914(HI0053) Score=5.1 Pos=-101 [Haemophilus somnus 2336]
+AAATTGGAATACCAAAAA
+>HSM_0414(uxuR) Score=4.5 Pos=-68 [Haemophilus somnus 2336]
+AATTTGGTGAACCAGAAA
+>HSM_1913(uxuR) Score=5.1 Pos=-78 [Haemophilus somnus 2336]
+TTTTTGGTATTCCAATTT
+>HSM_0413(uxuB) Score=4.8 Pos=-199 [Haemophilus somnus 2336]
+TTTCTGGTTCACCAAATT
+>HSM_0414(uxuR) Score=5.2 Pos=-196 [Haemophilus somnus 2336]
+AAACTGGTAAACCAGTTA
+>HSM_0413(uxuB) Score=5.3 Pos=-71 [Haemophilus somnus 2336]
+TAACTGGTTTACCAGTTT
+>HSM_0411(uidA) Score=5.6 Pos=-119 [Haemophilus somnus 2336]
+AAATTGGTTTACCAAAAA

@@ -1,0 +1,30 @@
+>CKO_03617(qorR) Score=6.6 Pos=-43 [Citrobacter koseri ATCC BAA-895]
+AAACTTACTTTTAGTAAGTAC
+>CKO_03618(qorB) Score=6.6 Pos=-34 [Citrobacter koseri ATCC BAA-895]
+GTACTTACTAAAAGTAAGTTT
+>Ent638_0384(qorR) Score=6.3 Pos=-37 [Enterobacter sp. 638]
+TAACTAACTTATAGTAAGTAC
+>Ent638_0383(qorB) Score=6.3 Pos=-67 [Enterobacter sp. 638]
+GTACTTACTATAAGTTAGTTA
+>ECA4450(qorR) Score=6.1 Pos=-40 [Erwinia carotovora subsp. atroseptica SCRI1043]
+AAGCTAACTTTAAGTAAGTAC
+>ECA4449(qorB) Score=6.1 Pos=-81 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTACTTACTTAAAGTTAGCTT
+>b4212(qorR) Score=6.6 Pos=-42 [Escherichia coli str. K-12 substr. MG1655]
+AAACTTACTTTTAGTAAGTAC
+>b4211(qorB) Score=6.6 Pos=-67 [Escherichia coli str. K-12 substr. MG1655]
+GTACTTACTAAAAGTAAGTTT
+>KPN_04606(qorR) Score=6.3 Pos=-42 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TAACTAACTTTTAGTAAGTAC
+>KPN_04605(qorB) Score=6.3 Pos=-68 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTACTTACTAAAAGTTAGTTA
+>PMI0975(qorR) Score=6.6 Pos=-42 [Proteus mirabilis HI4320]
+AAACTTACTAAAAGTAAGTAC
+>PMI0976(qorB) Score=6.6 Pos=-68 [Proteus mirabilis HI4320]
+GTACTTACTTTTAGTAAGTTT
+>STM4402(qorR) Score=6.6 Pos=-41 [Salmonella typhimurium LT2]
+AAACTTACTTTTAGTAAGTAC
+>STM4401(qorB) Score=6.6 Pos=-67 [Salmonella typhimurium LT2]
+GTACTTACTAAAAGTAAGTTT
+>y1806(qorB) Score=5.9 Pos=-119 [Yersinia pestis KIM]
+GTACTTACGTAAAGTGAGTAT

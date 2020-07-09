@@ -1,0 +1,22 @@
+>LVIS_0357(malT) Score=6.2 Pos=-93 [Lactobacillus brevis ATCC 367]
+TTGCGCAATCGGTTGCATTA
+>LAF_0024(malT) Score=6.6 Pos=-122 [Lactobacillus fermentum IFO 3956]
+TTGTGCAAACGGTTGCACAA
+>lp_1729(malT) Score=6.3 Pos=-87 [Lactobacillus plantarum WCFS1]
+TCACGCAAACGCTTGCATAA
+>lp_0175(malX) Score=6 Pos=-86 [Lactobacillus plantarum WCFS1]
+TTACGAAAACGCTTGCGAAA
+>lp_0175(malX) Score=4.9 Pos=-74 [Lactobacillus plantarum WCFS1]
+TTGCGAAAGCGTTTGCACAG
+>lp_0172(malR) Score=6.2 Pos=-77 [Lactobacillus plantarum WCFS1]
+TTATGCAATCGCTTGCAATA
+>LAR_0051(malT) Score=6 Pos=-124 [Lactobacillus reuteri JCM 1112]
+TTGCGCAAGCGGTTGCGCAA
+>LSL_1282(malT) Score=6.3 Pos=-117 [Lactobacillus salivarius subsp. salivarius UCC118]
+TATCGCAAACGGTTGCAAAA
+>LEUM_0893(malT) Score=5.5 Pos=-43 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+CAATGTAAACGGTTACAAAA
+>LEUM_0994(malT) Score=6.1 Pos=-186 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTGTGCAAACGCTTCCATTA
+>PEPE_0968(malT) Score=6.1 Pos=-86 [Pediococcus pentosaceus ATCC 25745]
+AAGTGCAAACGCTTGCACAA

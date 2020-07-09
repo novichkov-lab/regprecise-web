@@ -1,0 +1,46 @@
+>CKO_02295(lfaR) Score=6.2 Pos=-23 [Citrobacter koseri ATCC BAA-895]
+ATGAAAATTTTTTCAT
+>CKO_02296(lfaT) Score=4.8 Pos=-190 [Citrobacter koseri ATCC BAA-895]
+ATGAGAAAACTTGCAC
+>CKO_02296(lfaT) Score=6.4 Pos=-267 [Citrobacter koseri ATCC BAA-895]
+ATGAAAAAATTTTCAT
+>Ent638_1313(lfaT) Score=5.8 Pos=-265 [Enterobacter sp. 638]
+ATGCAAAAATTTTCAT
+>Ent638_1314(lfaR) Score=5.6 Pos=-41 [Enterobacter sp. 638]
+ATGAAAATTTTTGCAT
+>ECA1967(lfaT) Score=4.6 Pos=-95 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAAAATGTTCTGAT
+>ECA1967(lfaT) Score=5.6 Pos=-217 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAAAATGTTTTCAA
+>ECA1967(lfaT) Score=5.3 Pos=-295 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGACAAAGTTTTCAT
+>ECA1966(lfaR) Score=5.2 Pos=-41 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAAAACTTTGTCAT
+>ECA1966(lfaR) Score=5.3 Pos=-119 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGAAAACATTTTCAT
+>ECA1966(lfaR) Score=4.7 Pos=-241 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATCAGAACATTTTCAT
+>KPN_00853(lfaT) Score=5.6 Pos=-196 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAAAAACTTGCAT
+>KPN_00853(lfaT) Score=6.2 Pos=-273 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAAGAATTTTCAT
+>KPN_00854(lfaR) Score=5.9 Pos=-41 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAAATTCTTTCAT
+>KPN_00854(lfaR) Score=5.3 Pos=-118 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGCAAGTTTTTTCAT
+>Spro_3599(lfaT) Score=6.2 Pos=-340 [Serratia proteamaculans 568]
+ATGAAAATATTTTCAC
+>Spro_3599(lfaT) Score=5.4 Pos=-263 [Serratia proteamaculans 568]
+ATGAAAATTTTTGCAA
+>Spro_3600(lfaR) Score=5.7 Pos=-41 [Serratia proteamaculans 568]
+GTGAAAATATTTTCAT
+>Spro_3600(lfaR) Score=5.2 Pos=-118 [Serratia proteamaculans 568]
+TTGCAAAAATTTTCAT
+>y3232(lfaT) Score=5.1 Pos=-291 [Yersinia pestis KIM]
+ATGAGAATTCTTTCAA
+>y3232(lfaT) Score=6.4 Pos=-368 [Yersinia pestis KIM]
+ATGAAAAAATTTTCAT
+>y3231(lfaR) Score=5 Pos=-118 [Yersinia pestis KIM]
+TTGAAAGAATTCTCAT
+>y3231(lfaR) Score=6.2 Pos=-41 [Yersinia pestis KIM]
+ATGAAAATTTTTTCAT

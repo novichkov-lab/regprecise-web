@@ -1,0 +1,28 @@
+>STM1130(nanM) Score=5 Pos=-32 [Salmonella typhimurium LT2]
+GATGAAGCTTTACTCCAAT
+>STM1129(nanE) Score=4.9 Pos=-37 [Salmonella typhimurium LT2]
+AACGGAGCAAAACTTCAAA
+>y1461(nanK) Score=5.4 Pos=-111 [Yersinia pestis KIM]
+AAAGGAGTTTAACTCCAAA
+>y1465(nanT) Score=5.5 Pos=-188 [Yersinia pestis KIM]
+AATGGAGTTTTACTCCTTT
+>y1459(nanE) Score=5.9 Pos=-46 [Yersinia pestis KIM]
+AATGGAGTTAAACTTCATT
+>ETAE_0932(nanM) Score=4.5 Pos=-98 [Edwardsiella tarda EIB202]
+AATGGAGCAATACTACAAC
+>ETAE_0932(nanM) Score=5.2 Pos=-128 [Edwardsiella tarda EIB202]
+ATTGAAGTGTAACTCCAAA
+>ETAE_0928(nanA) Score=5 Pos=-61 [Edwardsiella tarda EIB202]
+AATGGAGCCAAACTCCATA
+>ETAE_0521(nanE) Score=4.3 Pos=-40 [Edwardsiella tarda EIB202]
+TATGGAGTTCAATTCTAAA
+>ETAE_0521(nanE) Score=5.1 Pos=-70 [Edwardsiella tarda EIB202]
+GATGGAGTATTGCTCCATA
+>PMI2978(nanE) Score=4.5 Pos=-41 [Proteus mirabilis HI4320]
+TTCGGAGTTACATTTCAAA
+>PMI2978(nanE) Score=4.5 Pos=-71 [Proteus mirabilis HI4320]
+TGAGAAATAAAACTCCGTA
+>PMI2973(nanA) Score=4.8 Pos=-29 [Proteus mirabilis HI4320]
+AAAGAAATTAATCTCCATA
+>PMI2973(nanA) Score=5.4 Pos=-59 [Proteus mirabilis HI4320]
+TATAGAGTTAAACTCCATA

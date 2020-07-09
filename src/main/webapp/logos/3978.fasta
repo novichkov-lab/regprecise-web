@@ -1,0 +1,22 @@
+>RBAM_007730(yflS) Score=5.2 Pos=-89 [Bacillus amyloliquefaciens FZB42]
+TTTTTTAATTA--------TTTATTAACTT
+>RBAM_034210(ywkA) Score=-0.8 Pos=-206 [Bacillus amyloliquefaciens FZB42]
+AACTTAAAAAA--------AAATTAAGTAA
+>BH3327(yflS) Score=7.7 Pos=-46 [Bacillus halodurans C-125]
+CTACTTTTTTT--------TTAGGTTAATC
+>BH3327(yflS) Score=7.4 Pos=-63 [Bacillus halodurans C-125]
+TTGCTCTTTTA--------CTACTTTTTTT
+>BLi03953(ywkA) Score=-0.8 Pos=-242 [Bacillus licheniformis DSM 13]
+AACTTAATTAA--------AAATTAACTAA
+>BLi03342(maeN) Score=9.4 Pos=-98 [Bacillus licheniformis DSM 13]
+TTAATTTAATT--------TTATTTTAATT
+>BPUM_2827(maeN) Score=8.3 Pos=-96 [Bacillus pumilus SAFR-032]
+TTATTTTACTT--------TTAATTTAGTT
+>BPUM_3348(ywkA) Score=0.5 Pos=-209 [Bacillus pumilus SAFR-032]
+AAATTAAATAA--------AAATTATCTAA
+>BSU31580(maeN) Score=7.3 Pos=-96 [Bacillus subtilis subsp. subtilis str. 168]
+TTAATTTAATT--------TTTTTTAACTT
+>BSU07570(yflS) Score=5.2 Pos=-91 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTTAATTA--------TTTATTAACTT
+>BSU37050(ywkA) Score=-1 Pos=-156 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTAAATAA--------AAATTAAGTAA

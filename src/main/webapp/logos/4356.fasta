@@ -1,0 +1,126 @@
+>LACR_1063(ndrH) Score=5.7 Pos=-174 [Lactococcus lactis subsp. cremoris SK11]
+GCACAATATATTGTGT
+>LACR_1063(ndrH) Score=5.1 Pos=-133 [Lactococcus lactis subsp. cremoris SK11]
+ACACTATATCTAGTAT
+>LACR_0277(nrdD) Score=5.2 Pos=-68 [Lactococcus lactis subsp. cremoris SK11]
+ATTCTATATATTGTGT
+>LACR_0277(nrdD) Score=5.9 Pos=-99 [Lactococcus lactis subsp. cremoris SK11]
+ACACAAGATATTGTGT
+>L70400(nrdD) Score=5.9 Pos=-99 [Lactococcus lactis subsp. lactis Il1403]
+ACACAAGATATTGTGT
+>L70400(nrdD) Score=5 Pos=-68 [Lactococcus lactis subsp. lactis Il1403]
+AACCTATATATTGTGT
+>L5126(ndrH) Score=5.4 Pos=-216 [Lactococcus lactis subsp. lactis Il1403]
+GCACAATATGTTGTGT
+>L5126(ndrH) Score=5.3 Pos=-175 [Lactococcus lactis subsp. lactis Il1403]
+ACACAATATCTAGTAT
+>SAG0820(ndrH) Score=5.9 Pos=-93 [Streptococcus agalactiae 2603V/R]
+ACACTATATATTGTGT
+>SAG2086(nrdD) Score=5.7 Pos=-118 [Streptococcus agalactiae 2603V/R]
+AATCAATATATTGTGT
+>SAG2086(nrdD) Score=5.8 Pos=-86 [Streptococcus agalactiae 2603V/R]
+ACACAATATATTGATT
+>SAG0418(nrdF1) Score=5.2 Pos=-274 [Streptococcus agalactiae 2603V/R]
+ACACAAGATATAGTGG
+>SAG0418(nrdF1) Score=4.3 Pos=-242 [Streptococcus agalactiae 2603V/R]
+ACACAAAACTTTGTGT
+>SDEG_1422(ndrH) Score=5.2 Pos=-119 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ACACAAGATATAGTGC
+>SDEG_2078(nrdD) Score=5.4 Pos=-90 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AATCAATATCTTGTGT
+>SDEG_2078(nrdD) Score=5.8 Pos=-58 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ACACAATATATTGATT
+>SDEG_0474(nrdF1) Score=4.1 Pos=-306 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+CTACTATATATTGTCA
+>SDEG_0474(nrdF1) Score=4.9 Pos=-275 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+GCACTATATCTTGTGG
+>Sez_0763(ndrH) Score=5.1 Pos=-166 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+CCACAATATCTTGTGC
+>Sez_1861(nrdD) Score=5.7 Pos=-91 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AATCAATATATTGTGT
+>Sez_1861(nrdD) Score=5.8 Pos=-59 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ACACAATATATTGATT
+>Sez_0524(nrdF1) Score=5.2 Pos=-306 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AATCTATATATTGTAT
+>Sez_0524(nrdF1) Score=5.5 Pos=-274 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+GCACTATATATTGTGT
+>GALLO_0706(ndrH) Score=5.4 Pos=-114 [Streptococcus gallolyticus UCN34]
+ATACTATATATTGTGT
+>GALLO_0706(ndrH) Score=4.6 Pos=-146 [Streptococcus gallolyticus UCN34]
+TTACAATATTTTGTGT
+>GALLO_2185(nrdD) Score=5.3 Pos=-62 [Streptococcus gallolyticus UCN34]
+CCACAAGATATTGATT
+>GALLO_2185(nrdD) Score=4.9 Pos=-94 [Streptococcus gallolyticus UCN34]
+ACGCAATATCTTGTGG
+>SGO_1557(ndrH) Score=5 Pos=-132 [Streptococcus gordonii str. Challis substr. CH1]
+ACACCATATCTTGTAT
+>SGO_1557(ndrH) Score=4.6 Pos=-90 [Streptococcus gordonii str. Challis substr. CH1]
+ACACAATATTTAGTCT
+>SGO_2033(nrdD) Score=5 Pos=-106 [Streptococcus gordonii str. Challis substr. CH1]
+TATCAATATCTTGTGT
+>SGO_2033(nrdD) Score=5.6 Pos=-65 [Streptococcus gordonii str. Challis substr. CH1]
+ACACAAGATATTGATT
+>smi_1044(ndrH) Score=4.8 Pos=-188 [Streptococcus mitis B6]
+ACACAGGATATAGTTT
+>smi_1044(ndrH) Score=5.4 Pos=-126 [Streptococcus mitis B6]
+ACACTACATATTGTGT
+>smi_1912(nrdD) Score=5.3 Pos=-69 [Streptococcus mitis B6]
+CCACAAGATATTGATT
+>smi_1912(nrdD) Score=5.4 Pos=-110 [Streptococcus mitis B6]
+AATCAATATCTTGTGT
+>SMU.2074(nrdD) Score=5.2 Pos=-92 [Streptococcus mutans UA159]
+TATCAATATATTGTGT
+>SMU.2074(nrdD) Score=5.5 Pos=-61 [Streptococcus mutans UA159]
+CCACAATATATTGATT
+>SMU.669c(ndrH) Score=4.5 Pos=-104 [Streptococcus mutans UA159]
+GTACTATATTTTGTGT
+>SMU.669c(ndrH) Score=5.3 Pos=-136 [Streptococcus mutans UA159]
+ACACTATATCTTGTGG
+>SP_1178(ndrH) Score=4.8 Pos=-188 [Streptococcus pneumoniae TIGR4]
+ACACAGGATATAGTTT
+>SP_1178(ndrH) Score=5.9 Pos=-126 [Streptococcus pneumoniae TIGR4]
+ACACTATATATTGTGT
+>SP_0202(nrdD) Score=5.6 Pos=-75 [Streptococcus pneumoniae TIGR4]
+ACACAAGATATTGATT
+>SP_0202(nrdD) Score=5.4 Pos=-116 [Streptococcus pneumoniae TIGR4]
+AATCAATATCTTGTGT
+>SPy1374(ndrH) Score=4.6 Pos=-149 [Streptococcus pyogenes M1 GAS]
+ACACAATATTTAGGTT
+>SPy1374(ndrH) Score=5.7 Pos=-117 [Streptococcus pyogenes M1 GAS]
+ACACAATATGTTGTGT
+>SPy2110(nrdD) Score=5.2 Pos=-91 [Streptococcus pyogenes M1 GAS]
+TATCAATATATTGTGT
+>SPy0425(nrdF1) Score=4.4 Pos=-323 [Streptococcus pyogenes M1 GAS]
+AAACTATATCTTGTCA
+>SPy0425(nrdF1) Score=5.7 Pos=-291 [Streptococcus pyogenes M1 GAS]
+ACACTATATCTTGTGT
+>SPy2110(nrdD) Score=5.8 Pos=-59 [Streptococcus pyogenes M1 GAS]
+ACACAATATATTGATT
+>SSA_2230(nrdD) Score=5.3 Pos=-217 [Streptococcus sanguinis SK36]
+AATCAATATGTTGTGT
+>SSA_2230(nrdD) Score=5 Pos=-176 [Streptococcus sanguinis SK36]
+CCACAACATATTGATT
+>SSA_0771(ndrH) Score=5.6 Pos=-142 [Streptococcus sanguinis SK36]
+ACACTATATATTGTAT
+>SSA_0771(ndrH) Score=4.6 Pos=-100 [Streptococcus sanguinis SK36]
+ACACAATATTTAGTTC
+>SSU05_2118(nrdD) Score=5.6 Pos=-56 [Streptococcus suis 05ZYH33]
+ACACAAGATATTGATT
+>SSU05_1206(ndrH) Score=4.7 Pos=-154 [Streptococcus suis 05ZYH33]
+GTACAATATATGGTGT
+>str1269(ndrH) Score=5.3 Pos=-121 [Streptococcus thermophilus CNRZ1066]
+ACACAAAATATTGTAT
+>str1269(ndrH) Score=5.2 Pos=-153 [Streptococcus thermophilus CNRZ1066]
+ACACAAGATATAGGGT
+>str1963(nrdD) Score=5 Pos=-103 [Streptococcus thermophilus CNRZ1066]
+AATCAATATATAGTGG
+>str1963(nrdD) Score=5.5 Pos=-71 [Streptococcus thermophilus CNRZ1066]
+CCACAATATATTGATT
+>SUB1224(ndrH) Score=5.3 Pos=-129 [Streptococcus uberis 0140J]
+ACACAATATATAGTGA
+>SUB1224(ndrH) Score=4.7 Pos=-97 [Streptococcus uberis 0140J]
+CCCCAAAATATTGTGT
+>SUB1772(nrdD) Score=5.7 Pos=-94 [Streptococcus uberis 0140J]
+AATCAATATATTGTGT
+>SUB1772(nrdD) Score=5.6 Pos=-62 [Streptococcus uberis 0140J]
+ACACAAGATATTGATT

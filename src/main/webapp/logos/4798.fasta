@@ -1,0 +1,22 @@
+>CLOBAR_01865(lexA) Score=5.3 Pos=-105 [Clostridium bartlettii DSM 16795]
+AAGAACAAATGTTTGT
+>CLOBAR_02147(recA) Score=5.2 Pos=-62 [Clostridium bartlettii DSM 16795]
+GCGAACAAATGTTTGA
+>CLOBAR_01180(ruvC) Score=4.6 Pos=-47 [Clostridium bartlettii DSM 16795]
+TAGAACATAGGTTTGG
+>CD1931(lexA) Score=4.8 Pos=-86 [Clostridium difficile 630]
+AGGAACAAATGTTTGC
+>CD1328(recA) Score=5.2 Pos=-41 [Clostridium difficile 630]
+GAGAACAAATGTTTGT
+>CD2807(ruvC) Score=5 Pos=-67 [Clostridium difficile 630]
+TAGAACATAAGTTTTT
+>CD1630 Score=5 Pos=-89 [Clostridium difficile 630]
+AAAAACTTATGTTTGC
+>CLOHIR_00530(lexA) Score=4.9 Pos=-165 [Clostridium hiranonis DSM 13275]
+ACGAATAAATGTTTGT
+>CLOHIR_01234(recA) Score=5.2 Pos=-41 [Clostridium hiranonis DSM 13275]
+TAGAACAAATGTTTGA
+>CLOHIR_00903(ruvC) Score=4.9 Pos=-79 [Clostridium hiranonis DSM 13275]
+TAGTACATATGTTTGA
+>CLOHIR_00026(recD) Score=5.1 Pos=-83 [Clostridium hiranonis DSM 13275]
+ACGAACTTATGTTTGA

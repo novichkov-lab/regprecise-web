@@ -1,0 +1,60 @@
+>BSU13040(hmp) Score=6.5 Pos=-93 [Bacillus subtilis subsp. subtilis str. 168]
+TAAAGATTCATTTTAGATATATCTTTT
+>BSU13040(hmp) Score=7.5 Pos=-46 [Bacillus subtilis subsp. subtilis str. 168]
+TAAAGATATATTTTAAATACATCTTTT
+>BSU03300(nasD) Score=6.4 Pos=-74 [Bacillus subtilis subsp. subtilis str. 168]
+ATAACATGTATCTTAAATATTCCTTTT
+>RBAM_028210(hmp) Score=6.7 Pos=-92 [Bacillus amyloliquefaciens FZB42]
+TAAAGATTCATTTTAAATATATCTTTT
+>RBAM_028210(hmp) Score=7.3 Pos=-45 [Bacillus amyloliquefaciens FZB42]
+TAAAGATATATTGAAAATACATCTTTA
+>RBAM_003510(nasD) Score=5.8 Pos=-73 [Bacillus amyloliquefaciens FZB42]
+ATAACATGCACCTTAAATATTTGTTTT
+>BPUM_0893(nsrR) Score=7.5 Pos=-167 [Bacillus pumilus SAFR-032]
+AAAAGGTGTATTTTAAATACATCTTTA
+>BPUM_0893(nsrR) Score=6.4 Pos=-119 [Bacillus pumilus SAFR-032]
+AAAAGCAATATTTATAATACATGTTTT
+>BPUM_0894(hmp) Score=6.4 Pos=-91 [Bacillus pumilus SAFR-032]
+AAAACATGTATTATAAATATTGCTTTT
+>BPUM_0894(hmp) Score=7.5 Pos=-43 [Bacillus pumilus SAFR-032]
+TAAAGATGTATTTAAAATACACCTTTT
+>BPUM_1811(nasD) Score=6.6 Pos=-72 [Bacillus pumilus SAFR-032]
+AAAAGGTGTATTTTATATCTATGTTTA
+>BLi01005(nsrR) Score=6.9 Pos=-232 [Bacillus licheniformis DSM 13]
+TAAAAATGTATTTGAAATACATCTTTA
+>BLi01005(nsrR) Score=7.5 Pos=-161 [Bacillus licheniformis DSM 13]
+TAAAGATGTATTTTAGATACATCTTTA
+>BLi01005(nsrR) Score=5.3 Pos=-114 [Bacillus licheniformis DSM 13]
+TAAAGCAATATTATCAATGAATGTTTT
+>BLi01006(hmp) Score=5.3 Pos=-170 [Bacillus licheniformis DSM 13]
+AAAACATTCATTGATAATATTGCTTTA
+>BLi01006(hmp) Score=7.5 Pos=-123 [Bacillus licheniformis DSM 13]
+TAAAGATGTATCTAAAATACATCTTTA
+>BLi01006(hmp) Score=6.9 Pos=-52 [Bacillus licheniformis DSM 13]
+TAAAGATGTATTTCAAATACATTTTTA
+>BLi00484(nasD) Score=6.5 Pos=-67 [Bacillus licheniformis DSM 13]
+TAAAGATGTAAATAGAATACTTGTTTA
+>GK1738(nsrR) Score=7.3 Pos=-155 [Geobacillus kaustophilus HTA426]
+AAAACATGTATTTTTAATACATCTTTT
+>GK1738(nsrR) Score=6 Pos=-107 [Geobacillus kaustophilus HTA426]
+AAAAACAATATTTCAAATACATCTTTA
+>GK1737(hmp) Score=6 Pos=-91 [Geobacillus kaustophilus HTA426]
+TAAAGATGTATTTGAAATATTGTTTTT
+>GK1737(hmp) Score=7.3 Pos=-43 [Geobacillus kaustophilus HTA426]
+AAAAGATGTATTAAAAATACATGTTTT
+>BH1058(hmp) Score=6.2 Pos=-95 [Bacillus halodurans C-125]
+TAAATATGTATTTTAAATATTGATTAA
+>BH1058(hmp) Score=6.7 Pos=-48 [Bacillus halodurans C-125]
+TAAATATGTATACAAAATACTTATTTA
+>ABC0349(nsrR) Score=6.9 Pos=-173 [Bacillus clausii KSM-K16]
+AAAATAAGTATTTTATATATATATTTA
+>ABC0349(nsrR) Score=5.8 Pos=-126 [Bacillus clausii KSM-K16]
+TAAATCAATATTTAAAATGCATATTAT
+>ABC0350(hmp) Score=5.8 Pos=-91 [Bacillus clausii KSM-K16]
+ATAATATGCATTTTAAATATTGATTTA
+>ABC0350(hmp) Score=6.9 Pos=-44 [Bacillus clausii KSM-K16]
+TAAATATATATATAAAATACTTATTTT
+>OB0292(nsrR) Score=7.3 Pos=-116 [Oceanobacillus iheyensis HTE831]
+AAAAGATGTATTTTCTATACATCTTTT
+>OB0291(hmp) Score=7.3 Pos=-43 [Oceanobacillus iheyensis HTE831]
+AAAAGATGTATAGAAAATACATCTTTT

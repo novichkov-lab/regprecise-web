@@ -1,0 +1,38 @@
+>HI1325(fabA) Score=5.7 Pos=-96 [Haemophilus influenzae Rd KW20]
+TGCGAACAAGTGTTAGCT
+>HI0002(lcfH) Score=5.7 Pos=-20 [Haemophilus influenzae Rd KW20]
+AGCGCACAACTGTTCGCT
+>NT05HA_1266(fabB) Score=4.3 Pos=-51 [Aggregatibacter aphrophilus NJ8700]
+AGCTAACAAATGTAAGTC
+>NT05HA_0871(fabA) Score=6.2 Pos=-101 [Aggregatibacter aphrophilus NJ8700]
+GGCGTACAAGTGTTAGCT
+>NT05HA_0066(lcfH) Score=5.7 Pos=-36 [Aggregatibacter aphrophilus NJ8700]
+AGCGCACAACTGTTAGCT
+>PM0484(fabA) Score=6.1 Pos=-98 [Pasteurella multocida subsp. multocida str. Pm70]
+AGCTTACAAGTGTTAGCT
+>PM0925(lcfH) Score=6 Pos=-56 [Pasteurella multocida subsp. multocida str. Pm70]
+AGCTAACAAGTGTAAGCT
+>MS1591(fabB) Score=4.9 Pos=-60 [Mannheimia succiniciproducens MBEL55E]
+AGCTAACAAATGTAAGTT
+>MS1194(fabA) Score=5.5 Pos=-111 [Mannheimia succiniciproducens MBEL55E]
+AGCGAACACTTGTTAGCT
+>MS2265(lcfH) Score=5.4 Pos=-44 [Mannheimia succiniciproducens MBEL55E]
+AGCGTACAAATGTAAACT
+>Asuc_0888(fabB) Score=5.7 Pos=-50 [Actinobacillus succinogenes 130Z]
+AGCTTACAAGTGTAAGGT
+>Asuc_1443(fabA) Score=6 Pos=-107 [Actinobacillus succinogenes 130Z]
+AGCGTACATGTGTTAGCT
+>APP7_1976(fabA) Score=5.5 Pos=-98 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGCGAACAGTTGTTCGCT
+>APP7_1520(lcfH) Score=5.6 Pos=-41 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGCGAACAGTTGTAAGCT
+>HD0612(fabB) Score=6.3 Pos=-65 [Haemophilus ducreyi 35000HP]
+AGCGAACAAGTGTAAGCT
+>HD0181(fabA) Score=5.1 Pos=-98 [Haemophilus ducreyi 35000HP]
+AGCTAACAGTTGTTAGCT
+>HAPS_1695(lcfH) Score=4.7 Pos=-90 [Haemophilus parasuis SH0165]
+AGCTTACATTTGTTCGCA
+>HAPS_2242(fabA) Score=6 Pos=-109 [Haemophilus parasuis SH0165]
+AGCTTACAACTGTTAGCT
+>HAPS_1695(lcfH) Score=5.4 Pos=-37 [Haemophilus parasuis SH0165]
+AGCGAACATTTGTAAGCT

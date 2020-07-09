@@ -1,0 +1,62 @@
+>TM0300(gloE) Score=6.2 Pos=-74 [Thermotoga maritima MSB8]
+ATGAAAATGTTTTCAT
+>TM0312(TM0312) Score=5.9 Pos=-49 [Thermotoga maritima MSB8]
+ATGAAAACATTTTCAG
+>TM0308(celQ) Score=5.6 Pos=-48 [Thermotoga maritima MSB8]
+GTGAAAACAGTTTCAT
+>TM1223(celE) Score=5.7 Pos=-70 [Thermotoga maritima MSB8]
+ATGTAAACATTTTCAC
+>TM1848(cbpA) Score=5.9 Pos=-59 [Thermotoga maritima MSB8]
+ATGAAAACATTTTCAG
+>TM0299(gloR) Score=6.2 Pos=-179 [Thermotoga maritima MSB8]
+ATGAAAACATTTTCAT
+>TM1524(cel12A) Score=5.9 Pos=-41 [Thermotoga maritima MSB8]
+ATGTAAACATTTTCAT
+>TRQ2_0631(gloE) Score=6.2 Pos=-74 [Thermotoga sp. RQ2]
+ATGAAAATGTTTTCAT
+>TRQ2_0619(TM0312) Score=5.8 Pos=-58 [Thermotoga sp. RQ2]
+ATGAAAACATTTTCAA
+>TRQ2_0623(celQ) Score=5.6 Pos=-48 [Thermotoga sp. RQ2]
+GTGAAAACAGTTTCAT
+>TRQ2_1595(celE) Score=5.7 Pos=-70 [Thermotoga sp. RQ2]
+ATGTAAACATTTTCAC
+>TRQ2_0968(cbpA) Score=5.9 Pos=-59 [Thermotoga sp. RQ2]
+ATGAAAACATTTTCAG
+>TRQ2_1187(cel12A) Score=5.9 Pos=-41 [Thermotoga sp. RQ2]
+ATGTAAACATTTTCAT
+>TRQ2_0632(gloR) Score=6.2 Pos=-179 [Thermotoga sp. RQ2]
+ATGAAAACATTTTCAT
+>CTN_1106(cel12A) Score=5.9 Pos=60 [Thermotoga neapolitana DSM 4359]
+ATGtAAAcATTTTCAT
+>CTN_0783(cbpA) Score=6 Pos=-57 [Thermotoga neapolitana DSM 4359]
+ATGAAAACATTTTCAC
+>CTN_0380(celQ) Score=6.2 Pos=4 [Thermotoga neapolitana DSM 4359]
+ATGAAAACATTTTCAT
+>CTN_1348(celE) Score=5.7 Pos=-70 [Thermotoga neapolitana DSM 4359]
+ATGTAAACATTTTCAC
+>CTN_0375(TM0312) Score=5.8 Pos=-49 [Thermotoga neapolitana DSM 4359]
+ATGAAAACATTTTCAA
+>Tpet_1268(cel12A) Score=5.9 Pos=170 [Thermotoga petrophila RKU-1]
+ATGtAAAcATTTTCAT
+>Tpet_0951(cbpA) Score=5.9 Pos=-59 [Thermotoga petrophila RKU-1]
+ATGAAAACATTTTCAG
+>Tpet_0609(celQ) Score=5.6 Pos=-48 [Thermotoga petrophila RKU-1]
+GTGAAAACAGTTTCAT
+>Tpet_1545(celE) Score=5.7 Pos=-70 [Thermotoga petrophila RKU-1]
+ATGTAAACATTTTCAC
+>Tpet_0605(TM0312) Score=5.8 Pos=-58 [Thermotoga petrophila RKU-1]
+ATGAAAACATTTTCAA
+>Tnap_1285(cel12A) Score=5.9 Pos=119 [Thermotoga naphthophila RKU-10]
+ATGtAAAcATTTTCAT
+>Tnap_0603(cbpA) Score=5.9 Pos=-59 [Thermotoga naphthophila RKU-10]
+ATGAAAACATTTTCAG
+>Tnap_0947(celQ) Score=5.6 Pos=-48 [Thermotoga naphthophila RKU-10]
+GTGAAAACAGTTTCAT
+>Tnap_1569(celE) Score=5.7 Pos=-70 [Thermotoga naphthophila RKU-10]
+ATGTAAACATTTTCAC
+>Tnap_0951(TM0312) Score=5.8 Pos=-58 [Thermotoga naphthophila RKU-10]
+ATGAAAACATTTTCAA
+>Tlet_1437(manC) Score=6.2 Pos=-74 [Thermotoga lettingae TMO]
+ATGAAAATGTTTTCAT
+>Fnod_1553(celE) Score=5.9 Pos=-70 [Fervidobacterium nodosum Rt17-B1]
+ATGTAAATATTTTCAT

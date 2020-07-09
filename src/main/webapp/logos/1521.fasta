@@ -1,0 +1,54 @@
+>CPS_1026(nagK) Score=6.4 Pos=-70 [Colwellia psychrerythraea 34H]
+AATGACAACGCTGTCATT
+>CPS_1019(nagR) Score=6 Pos=-138 [Colwellia psychrerythraea 34H]
+AATGACAGCGCTGTCAAT
+>CPS_1020(pgi2) Score=6 Pos=-135 [Colwellia psychrerythraea 34H]
+ATTGACAGCGCTGTCATT
+>CPS_1008(nagB) Score=6 Pos=-116 [Colwellia psychrerythraea 34H]
+ATTGACAGCGCTGTCATT
+>CPS_1021(omp_nag) Score=5.9 Pos=-109 [Colwellia psychrerythraea 34H]
+TATGACAGCGTTGTCATT
+>CPS_2381(nagS2) Score=5.8 Pos=-283 [Colwellia psychrerythraea 34H]
+AATGATATCGTTGTCAAT
+>CPS_2379(bglX) Score=5.8 Pos=-70 [Colwellia psychrerythraea 34H]
+ATTGACAACGATATCATT
+>CPS_2383(CPS_2383) Score=5.6 Pos=-132 [Colwellia psychrerythraea 34H]
+ATTGATATCGTTGTCAAT
+>CPS_2359(omp_nag) Score=5.6 Pos=-111 [Colwellia psychrerythraea 34H]
+ATTGACAACGATATCAAT
+>CPS_0413(nagX) Score=5.5 Pos=-55 [Colwellia psychrerythraea 34H]
+AAAGACAGCGCTGTCTTT
+>CPS_2358 Score=5.7 Pos=2 [Colwellia psychrerythraea 34H]
+GTTGACAACGTTATCATG
+>ATW7_01315(nagK) Score=6.4 Pos=-103 [Alteromonadales bacterium TW-7]
+AATGACAACGCTGTCATT
+>ATW7_01300(omp_nag) Score=6.2 Pos=-130 [Alteromonadales bacterium TW-7]
+AATGACAACGCTGTCATG
+>ATW7_17462(pckA) Score=5.1 Pos=-202 [Alteromonadales bacterium TW-7]
+GATGATACCGGTGTCATA
+>ATW7_17462(pckA) Score=5.6 Pos=-171 [Alteromonadales bacterium TW-7]
+AATGACACCGGTATCATT
+>PTD2_17650(omp_nag) Score=6.4 Pos=-73 [Pseudoalteromonas tunicata D2]
+GATGACAGCGTTGTCATC
+>PTD2_17625(nagR) Score=5.6 Pos=-204 [Pseudoalteromonas tunicata D2]
+TTTGACACCGTTGTCATC
+>PTD2_17625(nagR) Score=6.2 Pos=-237 [Pseudoalteromonas tunicata D2]
+AATGACAACGCTGTCAAC
+>PTD2_17670(omp_nag) Score=5.7 Pos=-71 [Pseudoalteromonas tunicata D2]
+TATGACAGCGTTGTCATG
+>PTD2_18190(nagK) Score=6.4 Pos=-117 [Pseudoalteromonas tunicata D2]
+AATGACAACGCTGTCATT
+>PTD2_07429(nagP) Score=5.4 Pos=-158 [Pseudoalteromonas tunicata D2]
+TATGATAGCGCTGTCATT
+>PTD2_17630(pgi2) Score=5.6 Pos=-162 [Pseudoalteromonas tunicata D2]
+GATGACAACGGTGTCAAA
+>PTD2_17630(pgi2) Score=6.2 Pos=-129 [Pseudoalteromonas tunicata D2]
+GTTGACAGCGTTGTCATT
+>PTD2_17660(trpX) Score=6.1 Pos=-262 [Pseudoalteromonas tunicata D2]
+GGTGACAACGCTGTCATC
+>PTD2_18205(nagB) Score=5.9 Pos=-139 [Pseudoalteromonas tunicata D2]
+AATGACAGCGTTGTCATA
+>PTD2_16786(pckA) Score=5.4 Pos=-201 [Pseudoalteromonas tunicata D2]
+AATGATACCGGTGTCATG
+>PTD2_16786(pckA) Score=5.3 Pos=-169 [Pseudoalteromonas tunicata D2]
+GATGACACCGGTATCATG

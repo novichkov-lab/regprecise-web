@@ -1,0 +1,56 @@
+>Aave_4581(pykA) Score=5.6 Pos=-47 [Acidovorax avenae subsp. citrulli AAC00-1]
+TTGAAACCCGATTACAT
+>Aave_0942(zwf) Score=5.1 Pos=-105 [Acidovorax avenae subsp. citrulli AAC00-1]
+GTGAAACTCGGTAACAT
+>Ajs_0695(zwf) Score=5.3 Pos=-93 [Acidovorax sp. JS42]
+ATGAAACTCGATAACAT
+>Ajs_3956(pykA) Score=5.4 Pos=-38 [Acidovorax sp. JS42]
+TCGAAACTCGATTACAT
+>CtesDRAFT_3819(pgk) Score=5.2 Pos=-157 [Comamonas testosteroni KF-1]
+CTGAAATCCAGTTACAG
+>CtesDRAFT_3719(pykA) Score=5.6 Pos=-39 [Comamonas testosteroni KF-1]
+TTGAAACCCGATTACAT
+>Daci_0828(pgk) Score=5.2 Pos=-27 [Delftia acidovorans SPH-1]
+CTGAAACCGGATTACAG
+>Daci_0930(pykA) Score=5.5 Pos=-38 [Delftia acidovorans SPH-1]
+TTGAAACCCGATTACAA
+>Daci_5599(zwf) Score=4.8 Pos=-47 [Delftia acidovorans SPH-1]
+TGGTAACCAAGTTACCA
+>Daci_5598(pgi) Score=4.3 Pos=-24 [Delftia acidovorans SPH-1]
+TGGTAATCAGATTACTT
+>Daci_5598(pgi) Score=4.8 Pos=-109 [Delftia acidovorans SPH-1]
+TGGTAACTTGGTTACCA
+>Pnap_3873(pykA) Score=5.5 Pos=-30 [Polaromonas naphthalenivorans CJ2]
+CGGAAACTAAATTACAA
+>Pnap_0653(zwf) Score=4.9 Pos=13 [Polaromonas naphthalenivorans CJ2]
+ATGAAACTTTATTACCT
+>Pnap_2986(edd) Score=4.7 Pos=-54 [Polaromonas naphthalenivorans CJ2]
+CCGTAATAAAGTTACAT
+>Bpro_0751(zwf) Score=5.5 Pos=-74 [Polaromonas sp. JS666]
+GTGAAACTAAATTACAA
+>Bpro_4634(pykA) Score=5 Pos=-26 [Polaromonas sp. JS666]
+CGGGAACTAAATTACAG
+>Bpro_3551(edd) Score=4.7 Pos=-34 [Polaromonas sp. JS666]
+CCGTAATAAAGTTACAT
+>Bpro_0752(tal) Score=4.1 Pos=-95 [Polaromonas sp. JS666]
+TTGTAATTTAGTTTCAC
+>Rfer_0205(pykA) Score=5.3 Pos=-29 [Rhodoferax ferrireducens DSM 15236]
+TGGAAACTTGATTACAA
+>Rfer_1125(zwf) Score=5.7 Pos=-123 [Rhodoferax ferrireducens DSM 15236]
+ATGAAACTAAGTTACAT
+>Rfer_1126(tal) Score=4.9 Pos=-108 [Rhodoferax ferrireducens DSM 15236]
+ATGTAACTTAGTTTCAT
+>Rfer_2060(edd) Score=4.9 Pos=-32 [Rhodoferax ferrireducens DSM 15236]
+ATGTAATTAAGTTACCA
+>Veis_1778(hexR) Score=4.6 Pos=-44 [Verminephrobacter eiseniae EF01-2]
+TGCAAACCCGGTTACAT
+>Veis_4223(zwf) Score=5 Pos=-44 [Verminephrobacter eiseniae EF01-2]
+ATGTAACGTGATTACAA
+>Veis_4222(pgi) Score=4.5 Pos=-67 [Verminephrobacter eiseniae EF01-2]
+TCGTAATCAAGTTACCA
+>Lcho_3387(zwf) Score=5.6 Pos=-47 [Leptothrix cholodnii SP-6]
+CTGAAACTCAGTTACAG
+>Lcho_2919(edd) Score=4.4 Pos=-94 [Leptothrix cholodnii SP-6]
+ATGTAACTTAGTTTCGG
+>Lcho_3386(tal) Score=4.6 Pos=-221 [Leptothrix cholodnii SP-6]
+CTGTAACTGAGTTTCAG

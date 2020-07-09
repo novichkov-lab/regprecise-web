@@ -1,0 +1,24 @@
+>b1388(paaA) Score=7.4 Pos=-270 [Escherichia coli str. K-12 substr. MG1655]
+TGTTTC---------------------------GAATCA
+>b1387(paaZ) Score=7.4 Pos=-271 [Escherichia coli str. K-12 substr. MG1655]
+CGATTC---------------------------GAATCA
+>b1387(paaZ) Score=7.4 Pos=-54 [Escherichia coli str. K-12 substr. MG1655]
+TGATTC---------------------------GAAACA
+>b1388(paaA) Score=8 Pos=-52 [Escherichia coli str. K-12 substr. MG1655]
+TGATTC---------------------------GAATCG
+>KPN_01468(paaZ) Score=8.4 Pos=-273 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGATTC---------------------------GAATCA
+>KPN_01468(paaZ) Score=6.5 Pos=-56 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGATTC---------------------------GTAACA
+>KPN_01469(paaA) Score=8.4 Pos=-52 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGATTC---------------------------GAATCA
+>KPN_01469(paaA) Score=6.5 Pos=-270 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTAC---------------------------GAATCA
+>Spro_3071(paaZ) Score=8.4 Pos=-305 [Serratia proteamaculans 568]
+TGATTC---------------------------GAATCA
+>Spro_3071(paaZ) Score=5.6 Pos=-51 [Serratia proteamaculans 568]
+TGATAC---------------------------GAATTC
+>Spro_3072(paaA) Score=8.4 Pos=-53 [Serratia proteamaculans 568]
+TGATTC---------------------------GAATCA
+>Spro_3072(paaA) Score=5.5 Pos=-307 [Serratia proteamaculans 568]
+GAATTC---------------------------GTATCA

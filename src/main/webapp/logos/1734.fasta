@@ -1,0 +1,84 @@
+>SMc04244(znuC2) Score=5.6 Pos=-114 [Sinorhizobium meliloti 1021]
+GCGTTGTTATGTTATTACATCAA
+>SMc03799(yciC) Score=5.3 Pos=-101 [Sinorhizobium meliloti 1021]
+GCTATGTTACGTTATTACGTTTA
+>SMc04245(znuA2) Score=5.5 Pos=-86 [Sinorhizobium meliloti 1021]
+TTGATGTAATAACATAACAACGC
+>NGR_c17640(znuC2) Score=5.3 Pos=-8 [Rhizobium sp. NGR234]
+TGCACGTAATGTTATTACATCAA
+>NGR_c17650(znuA2) Score=5.4 Pos=-204 [Rhizobium sp. NGR234]
+TTGATGTAATAACATTACGTGCA
+>RL3177(znuC2) Score=5.8 Pos=-81 [Rhizobium leguminosarum bv. viciae 3841]
+CAATTGTTATGTTATTACATCAA
+>RL1047(znuC) Score=5.4 Pos=-158 [Rhizobium leguminosarum bv. viciae 3841]
+TAACCGTAATGTTATTACATTGT
+>RL4148(yciC) Score=5.3 Pos=-124 [Rhizobium leguminosarum bv. viciae 3841]
+GCGATGTGATCTTATAACATTAT
+>RL3178(znuA2) Score=5.7 Pos=-89 [Rhizobium leguminosarum bv. viciae 3841]
+TTGATGTAATAACATAACAATTG
+>RL3179(yciC2) Score=6.2 Pos=-44 [Rhizobium leguminosarum bv. viciae 3841]
+CAAATGTAATGATATAACATAAA
+>RHE_CH02711(znuC2) Score=5.4 Pos=-81 [Rhizobium etli CFN 42]
+CGAGTGTTATGTTATTACATTGA
+>RHE_PF00158(zinT) Score=5.4 Pos=-74 [Rhizobium etli CFN 42]
+GTAATGTTATTACATTACGGACT
+>RHE_CH00969(znuC) Score=5.4 Pos=-174 [Rhizobium etli CFN 42]
+TAATCGTTATAACATAACAGTAA
+>RHE_CH03625(yciC) Score=5.3 Pos=-122 [Rhizobium etli CFN 42]
+GCAATGTGATCTTATAACATATA
+>RHE_CH02712(znuA2) Score=5.5 Pos=-43 [Rhizobium etli CFN 42]
+TCAATGTAATAACATAACACTCG
+>RHE_CH02713(yciC2) Score=6 Pos=-39 [Rhizobium etli CFN 42]
+GACATGTAATGATATAACATTAA
+>Atu3181(yciC2) Score=5.9 Pos=-120 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CATATGTAATGTTATTACGTTAC
+>Atu1521(znuA2) Score=5.6 Pos=-45 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TAAATGTAATAACATAACTATAC
+>Atu1520(znuC2) Score=5.5 Pos=-82 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTATAGTTATGTTATTACATTTA
+>Atu1049(zinT) Score=6.1 Pos=-58 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GAAATGTAATGTTATTACGTTAC
+>Atu4502(yciC) Score=5.4 Pos=-142 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATAACGTTATTTCATAACAAAAT
+>Atu3180(znuC) Score=5.8 Pos=-203 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTAACGTAATAACATTACATATG
+>Atu3180(znuC) Score=5.9 Pos=-91 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTAATGTTATTTCATTACATATT
+>Atu3180(znuC) Score=5.8 Pos=-61 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CGAATGTAATAACATTACATATC
+>Atu3181(yciC2) Score=5.9 Pos=-262 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GATATGTAATGTTATTACATTCG
+>Meso_4006(znuA2) Score=5.6 Pos=-105 [Mesorhizobium sp. BNC1]
+CAAGTGTAATGTCATAACGTTTA
+>Meso_4005(znuC2) Score=5.5 Pos=-77 [Mesorhizobium sp. BNC1]
+TAAACGTTATGACATTACACTTG
+>mll8315(znuC) Score=5.8 Pos=-69 [Mesorhizobium loti MAFF303099]
+CTAATGTAATAACATCACATATC
+>BMEII0177(znuC2) Score=5.4 Pos=-183 [Brucella melitensis 16M]
+GATATGTTATTTTATTACGCAAA
+>BMEII0178(znuA2) Score=5.3 Pos=-106 [Brucella melitensis 16M]
+CAGACGTTATAGCATAACGTAAT
+>BQ01790(znuC) Score=6.2 Pos=-56 [Bartonella quintana str. Toulouse]
+CAAATGTTATATTATTACATAAC
+>RPA4384(PF11162) Score=5.2 Pos=-44 [Rhodopseudomonas palustris CGA009]
+GCAATGTTACTTTATAACATCGG
+>RPA0858(znuC) Score=5.1 Pos=-248 [Rhodopseudomonas palustris CGA009]
+ATAATGTTATAATGTAACAGGTT
+>RPA1462(yciC2) Score=5.8 Pos=-65 [Rhodopseudomonas palustris CGA009]
+TTTATGTAATGTTATAACGTTTC
+>bll2461(PF11162) Score=5.3 Pos=-3 [Bradyrhizobium japonicum USDA 110]
+GCGATGTTACATTATAACATCGC
+>bll7771(znuC) Score=5.9 Pos=-259 [Bradyrhizobium japonicum USDA 110]
+GTAATGTTATAATATAACGTCCA
+>BBta_2267(PF11162) Score=4.6 Pos=-75 [Bradyrhizobium sp. BTAi1]
+GCGATGTTACTTTGTAACAATGG
+>BBta_2203(yciC) Score=6 Pos=-87 [Bradyrhizobium sp. BTAi1]
+ATGATGTTATGTTATAACATAAC
+>BBta_2276(yciC) Score=5.6 Pos=-260 [Bradyrhizobium sp. BTAi1]
+ATTTTGTAATGTTATAACATCAC
+>BBta_1339(znuC) Score=5.6 Pos=-271 [Bradyrhizobium sp. BTAi1]
+ATGATGTTATAATGTAACATTAT
+>Nwi_2630(PF11162) Score=5.3 Pos=-65 [Nitrobacter winogradskyi Nb-255]
+CAGGCGTTATATTATAACATCCG
+>Nwi_0914(znuC) Score=5.5 Pos=-252 [Nitrobacter winogradskyi Nb-255]
+GTGATGTTATAATATAACGGTCG

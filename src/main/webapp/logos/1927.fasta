@@ -1,0 +1,86 @@
+>Patl_1237(iscR) Score=6.5 Pos=-87 [Pseudoalteromonas atlantica T6c]
+ATACTTGACTAAAACAGTAGGATAA
+>Patl_1237(iscR) Score=7 Pos=-62 [Pseudoalteromonas atlantica T6c]
+ATACTTGACTAAAATAGTCGGGTTT
+>Patl_0544(erpA) Score=6.2 Pos=-118 [Pseudoalteromonas atlantica T6c]
+ATAGTTGATAAGATTAGTCAGGTAT
+>Patl_4233(nfuA) Score=6.1 Pos=-68 [Pseudoalteromonas atlantica T6c]
+TTACTTGAGTGTTTTAGTCAAGTAA
+>MADE_01355(iscR) Score=6.1 Pos=-88 [Alteromonas macleodii 'Deep ecotype']
+ATACTTGACTAATTTACTGGGTTTT
+>MADE_01355(iscR) Score=6.9 Pos=-63 [Alteromonas macleodii 'Deep ecotype']
+ATACTTGACCATTTTAGTCAGGTAT
+>MADE_01357(sufB) Score=6.6 Pos=-227 [Alteromonas macleodii 'Deep ecotype']
+ATATTTGAGTGAAATAGTCGGGTAT
+>MADE_03996(nfuA) Score=6.5 Pos=-69 [Alteromonas macleodii 'Deep ecotype']
+ATACCTGACTGTTTTAGTCAGGTAA
+>GHTCC_010100002924(iscR) Score=7.3 Pos=-62 [Glaciecola sp. HTCC2999]
+ATACTTGACTAATTTAGTCGGGTAA
+>GHTCC_010100002924(iscR) Score=7 Pos=-87 [Glaciecola sp. HTCC2999]
+ATACTTGACTAAATTAGTCGGTTAA
+>GHTCC_010100001060(erpA) Score=6.6 Pos=-66 [Glaciecola sp. HTCC2999]
+ATACTTGATGAATTTACTCAAGTAT
+>GHTCC_010100008811(nfuA) Score=6.7 Pos=-72 [Glaciecola sp. HTCC2999]
+ATACTTGACTGTTTTAGTCGGGTAA
+>CPS_3475(ydhD) Score=6.5 Pos=-216 [Colwellia psychrerythraea 34H]
+AAACTTGAGTAAAATACTCAAGTAT
+>CPS_1131(iscR) Score=6.5 Pos=-199 [Colwellia psychrerythraea 34H]
+ATACCTGAGTAAATCACTAGGGTAT
+>CPS_1131(iscR) Score=6.3 Pos=-254 [Colwellia psychrerythraea 34H]
+ATAGTTGAGTAAAACAGTCAACTAT
+>CPS_4622(erpA) Score=6.9 Pos=-101 [Colwellia psychrerythraea 34H]
+ATACTTGACTAAAATAGTCAAGTTT
+>CPS_0220(nfuA) Score=7.1 Pos=-94 [Colwellia psychrerythraea 34H]
+ATACTTGAGTAAAACAGTCAGGTAT
+>ATW7_06868(ydhD) Score=5.7 Pos=-162 [Alteromonadales bacterium TW-7]
+ATTGTTGAGTATTTTACTCAAGTTT
+>ATW7_10453(erpA) Score=6.9 Pos=-62 [Alteromonadales bacterium TW-7]
+ATACTTGATTAAAACACTCGGGTAT
+>ATW7_17107(nfuA) Score=6.2 Pos=-37 [Alteromonadales bacterium TW-7]
+GTATCCGAGTAATTTAGTCAGGTAT
+>ATW7_18135(iscR) Score=7 Pos=-57 [Alteromonadales bacterium TW-7]
+ATACTTGACTAATTTACTCTGGTAA
+>ATW7_18135(iscR) Score=6 Pos=-148 [Alteromonadales bacterium TW-7]
+ATACTTGACCAAACAGGTCAGGTAT
+>ATW7_18135(iscR) Score=7.3 Pos=-187 [Alteromonadales bacterium TW-7]
+ATACTTGACTAAATTACTCAGGTAA
+>PSHAa1216(ydhD) Score=5.3 Pos=-163 [Pseudoalteromonas haloplanktis TAC125]
+ATTGTTGAGTATTCTACTCAAGTTT
+>PSHAa2251(erpA) Score=6.9 Pos=-62 [Pseudoalteromonas haloplanktis TAC125]
+ATACTTGATTAAAACACTCGGGTAT
+>PSHAa2860(nfuA) Score=6 Pos=-35 [Pseudoalteromonas haloplanktis TAC125]
+GTATCCGAGTAATTTAGTCAAGTAT
+>PSHAa2672(iscR) Score=7 Pos=-58 [Pseudoalteromonas haloplanktis TAC125]
+ATACTTGACTAATTTACTCTGGTAA
+>PSHAa2672(iscR) Score=7 Pos=-117 [Pseudoalteromonas haloplanktis TAC125]
+ATACTTGAGTAAAACACTCAGGTAT
+>PSHAa2672(iscR) Score=7.3 Pos=-157 [Pseudoalteromonas haloplanktis TAC125]
+ATACTTGACTAAATTACTCAGGTAA
+>PTD2_10759(ydhD) Score=5 Pos=-164 [Pseudoalteromonas tunicata D2]
+AATCCCGAGTATTTTACTCAAGTTT
+>PTD2_13944(iscR) Score=7.3 Pos=-107 [Pseudoalteromonas tunicata D2]
+ATACTTGACTAAATTAGTCGGGTAA
+>PTD2_13944(iscR) Score=7.4 Pos=-149 [Pseudoalteromonas tunicata D2]
+ATACTTGACTAAATTAGTCGGGTAT
+>PTD2_13944(iscR) Score=6.4 Pos=-66 [Pseudoalteromonas tunicata D2]
+ATACTTGACTCTTTTAGTCAGGTTA
+>PTD2_12764(erpA) Score=6.6 Pos=-62 [Pseudoalteromonas tunicata D2]
+GTACTTGATTAAAACACTCGGGTAT
+>PTD2_16836(nfuA) Score=6.1 Pos=-35 [Pseudoalteromonas tunicata D2]
+ATACCCGAGTATTTTAGTCAACTAT
+>OS145_02245(nfuA) Score=5.2 Pos=-40 [Idiomarina baltica OS145]
+AAAACCTAGTAAATTACTCAAGTAT
+>OS145_02725(sufB) Score=5.8 Pos=-65 [Idiomarina baltica OS145]
+AAAGTTGAGTGTTTTACTCGGGTAT
+>OS145_04890(iscR) Score=6.6 Pos=-75 [Idiomarina baltica OS145]
+ATACTTGACTAATTTAGTCGGAAAA
+>IL1804(ydhD) Score=5 Pos=-44 [Idiomarina loihiensis L2TR]
+ATACCTGAGTGTTTTAATCAACCAT
+>IL0154(sufB) Score=5.9 Pos=-86 [Idiomarina loihiensis L2TR]
+AAAGTTGAGTGTTTTAGTCAGGTAT
+>IL2240(erpA) Score=6.9 Pos=-64 [Idiomarina loihiensis L2TR]
+ATACTTGACCAAAATACTCAGGTAA
+>IL0248(nfuA) Score=6.3 Pos=-45 [Idiomarina loihiensis L2TR]
+ATACCCTAGTAATTTACTCAGGTAT
+>IL2041(iscR) Score=7 Pos=-74 [Idiomarina loihiensis L2TR]
+ATACTTGACTAAAATAGTCGGGAAT

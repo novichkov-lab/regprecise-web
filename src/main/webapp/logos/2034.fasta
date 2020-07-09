@@ -1,0 +1,34 @@
+>VF_0665(nagA2) Score=4.9 Pos=-51 [Vibrio fischeri ES114]
+TTCGGAGTGTAACTCCAAT
+>VF_0663(nanA) Score=5.4 Pos=-42 [Vibrio fischeri ES114]
+AATGAAGAATAACTTCATT
+>VF_0663(nanA) Score=5 Pos=-91 [Vibrio fischeri ES114]
+AATGAAACTTTACTCCATA
+>VF_0664(siaR) Score=5.3 Pos=-80 [Vibrio fischeri ES114]
+TATGGAGTTACACTTCACA
+>VF_0666(nanE) Score=5.1 Pos=-43 [Vibrio fischeri ES114]
+ATTGAAGTATTACTCCGTT
+>VF_0666(nanE) Score=4.9 Pos=-195 [Vibrio fischeri ES114]
+ATTGGAGTTACACTCCGAA
+>VF_A0786(ptsG2) Score=5.6 Pos=-88 [Vibrio fischeri ES114]
+TTTGGAGTATAACTTCATA
+>VF_A0786(ptsG2) Score=4.9 Pos=-116 [Vibrio fischeri ES114]
+CTTGAAGTTAAACTCCGTA
+>VSAL_I0899(nanA) Score=4.7 Pos=-41 [Vibrio salmonicida LFI1238]
+AATGAAGAATGACTTCAAA
+>VSAL_I0899(nanA) Score=5 Pos=-90 [Vibrio salmonicida LFI1238]
+AATGAAACTTTACTCCATA
+>VSAL_I0898(siaR) Score=4.4 Pos=-80 [Vibrio salmonicida LFI1238]
+CACGGAGTTACACTTCACA
+>PBPRA2281(siaP) Score=4.8 Pos=-118 [Photobacterium profundum SS9]
+TTTGAAGAAAACCTTCATA
+>PBPRA2287(nanA) Score=5.1 Pos=-38 [Photobacterium profundum SS9]
+TGTGAAGTTTAACTTCGCT
+>PBPRA2286(siaR) Score=5.3 Pos=-83 [Photobacterium profundum SS9]
+TATGGAGTTTAGCTTCACA
+>PBPRA2285(nanE) Score=5.5 Pos=-78 [Photobacterium profundum SS9]
+GGTGGAGTTAAACTTCATT
+>PBPRA2285(nanE) Score=5.2 Pos=-105 [Photobacterium profundum SS9]
+GTTGAAGTAAAACTTCATC
+>PBPRA2285(nanE) Score=5 Pos=-226 [Photobacterium profundum SS9]
+TATGGAGTTAGGCTCCATT

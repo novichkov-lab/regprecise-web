@@ -1,0 +1,36 @@
+>LVIS_1421(rbsK) Score=6.5 Pos=-50 [Lactobacillus brevis ATCC 367]
+TACGTAAAACGTTTTACAAA
+>LVIS_1589(rbsD) Score=5 Pos=-125 [Lactobacillus brevis ATCC 367]
+TAAGTAAATCGATTTACGCA
+>LVIS_1588(rbsP) Score=5.2 Pos=-48 [Lactobacillus brevis ATCC 367]
+GATGTAAAACGTTTTACGAT
+>LSEI_0306(rbsR) Score=6.7 Pos=-45 [Lactobacillus casei ATCC 334]
+TAAGTAAAACGTTTTACCTA
+>LAF_1738(rbsK) Score=6.2 Pos=-59 [Lactobacillus fermentum IFO 3956]
+TACGTAAAAGGTTTTAACAA
+>LAF_1689(rbsK) Score=5 Pos=-47 [Lactobacillus fermentum IFO 3956]
+AACGTAAAACGATTTACTGA
+>LAF_1343(rbsR) Score=6 Pos=-44 [Lactobacillus fermentum IFO 3956]
+TTAGTAAACTGTTTTATTAA
+>lp_3660(rbsK) Score=6.2 Pos=-74 [Lactobacillus plantarum WCFS1]
+TTATTAAAACGTTTTCATAA
+>lp_3660(rbsK) Score=6.1 Pos=-61 [Lactobacillus plantarum WCFS1]
+TTCATAAAACGTTTTAATAA
+>LAR_1219(rbsR) Score=4.7 Pos=-35 [Lactobacillus reuteri JCM 1112]
+TAGATAAAACTGTTTACTAA
+>LGG_00372(rbsR) Score=6.7 Pos=-46 [Lactobacillus rhamnosus GG]
+TAAGTAAAACGTTTTACCTA
+>LSA0200(rbsU) Score=6.9 Pos=-49 [Lactobacillus sakei subsp. sakei 23K]
+TTAGTAAAACGTTTTACTAA
+>LEUM_0794(rbsK) Score=6.6 Pos=-46 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTAGTAAAACGTTTAACCAA
+>LEUM_0795(rbsR) Score=6.6 Pos=-123 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTAGTAAAACGTTTAACCAA
+>OEOE_0146(rbsR) Score=5.1 Pos=-47 [Oenococcus oeni PSU-1]
+TGTTGTAAACGTTTTAAGAA
+>OEOE_1612(rbsK) Score=6.4 Pos=25 [Oenococcus oeni PSU-1]
+TTAGTAAAGCGTTTTACTTA
+>PEPE_1699(rbsK) Score=5.6 Pos=-67 [Pediococcus pentosaceus ATCC 25745]
+CTATTAAAACGTTTTCATAA
+>PEPE_1699(rbsK) Score=5.3 Pos=-54 [Pediococcus pentosaceus ATCC 25745]
+TTCATAAAACGTTTTAAACA

@@ -1,0 +1,112 @@
+>Gmet_2561(nifR) Score=5 Pos=-46 [Geobacter metallireducens GS-15]
+TGCTTAAATTTTAAGCA
+>Gmet_1186(gdhA) Score=4.5 Pos=-152 [Geobacter metallireducens GS-15]
+TGCCGCAAATTCGGGCA
+>Gmet_0669(nifEN) Score=4.9 Pos=-217 [Geobacter metallireducens GS-15]
+TGCATAAAATGTGTGCA
+>Gmet_0693(Gmet_0693) Score=5 Pos=-349 [Geobacter metallireducens GS-15]
+TGCTTATATAATGTGCA
+>Gmet_1351(glnB) Score=4.3 Pos=-259 [Geobacter metallireducens GS-15]
+TGCTTCTGATTTGTGCA
+>GSU1005(nifR) Score=5.2 Pos=-41 [Geobacter sulfurreducens PCA]
+TGCCTAAATTTTAAGCA
+>GSU1305(gdhA) Score=4.8 Pos=-151 [Geobacter sulfurreducens PCA]
+TGCCGATAAATCAGGCA
+>GSU1305(gdhA) Score=4.5 Pos=-110 [Geobacter sulfurreducens PCA]
+TGCACAGTTTTGGTGCA
+>GSU1305(gdhA) Score=4.8 Pos=-88 [Geobacter sulfurreducens PCA]
+TGCATAAAATGCAGGCA
+>GSU2806(nifEN) Score=5.1 Pos=-215 [Geobacter sulfurreducens PCA]
+TGCATAAAAAATGAGCA
+>GSU0938(Gmet_0693) Score=5.3 Pos=-329 [Geobacter sulfurreducens PCA]
+TGCATAAATAATGGGCA
+>GSU1836(glnB) Score=4.4 Pos=-266 [Geobacter sulfurreducens PCA]
+TGCCTGATAATTGTGCT
+>GSU1836(glnB) Score=4.1 Pos=-253 [Geobacter sulfurreducens PCA]
+TGCTCATTTGGTATGCA
+>Gura_0914(nifR) Score=5.3 Pos=9 [Geobacter uraniumreducens Rf4]
+TGCCCAAAAAATAGGCA
+>Gura_2800(gdhA) Score=4.4 Pos=-168 [Geobacter uraniumreducens Rf4]
+TGCTTAATATTTAAGCT
+>Gura_2800(gdhA) Score=5 Pos=-118 [Geobacter uraniumreducens Rf4]
+TGCCTATTTATGGTGCA
+>Gura_1201(nifEN) Score=5.3 Pos=-228 [Geobacter uraniumreducens Rf4]
+TGCCCAATAATTGGGCA
+>Gura_2229(glnB) Score=4.2 Pos=-266 [Geobacter uraniumreducens Rf4]
+TGCCCATCCATTGGGCA
+>Gura_2229(glnB) Score=4.3 Pos=-234 [Geobacter uraniumreducens Rf4]
+TGCTCAATTTATAAGCT
+>Geob_1718(nifR) Score=5.4 Pos=-42 [Geobacter sp. FRC-32]
+TGCCCAAAATTTAGGCA
+>Geob_2399(gdhA) Score=4.5 Pos=-191 [Geobacter sp. FRC-32]
+TGAATAATTAATGTGCA
+>Geob_2399(gdhA) Score=4.1 Pos=-172 [Geobacter sp. FRC-32]
+TGCTTCTTGTTTGAGCA
+>Geob_2399(gdhA) Score=4.8 Pos=-98 [Geobacter sp. FRC-32]
+TGCCTGTTTATGGTGCA
+>Geob_2581(nifEN) Score=5.3 Pos=-219 [Geobacter sp. FRC-32]
+TGCCCAAATTATAGGCA
+>Geob_1817(Gmet_0693) Score=4.4 Pos=-323 [Geobacter sp. FRC-32]
+TGCACAAAAAATAATCA
+>Geob_2994(glnB) Score=4.5 Pos=-255 [Geobacter sp. FRC-32]
+TGGTTATATATTGGGCA
+>Geob_2994(glnB) Score=4.7 Pos=-224 [Geobacter sp. FRC-32]
+TGCCTAATTTATGGGCT
+>GM21_1403(nifR) Score=5.1 Pos=-36 [Geobacter sp. M21]
+TGCTCATTTTTTAGGCA
+>GM21_0175(gdhA) Score=4.8 Pos=-143 [Geobacter sp. M21]
+TGCATGTTTTTCGGGCA
+>GM21_0175(gdhA) Score=4.3 Pos=-100 [Geobacter sp. M21]
+TGCATACAAATGTGGCA
+>GM21_3137(Gmet_0693) Score=4.1 Pos=-311 [Geobacter sp. M21]
+TGCACAAACAATAGGCT
+>GM21_1183(glnB) Score=4.2 Pos=-158 [Geobacter sp. M21]
+TGCCGGAATGTTGTGCA
+>Glov_0573(gdhA) Score=4.3 Pos=-136 [Geobacter lovleyi SZ]
+TGTCTGCTTTTTGTGCA
+>Glov_0573(gdhA) Score=4.7 Pos=-103 [Geobacter lovleyi SZ]
+TGTATATTTAATATGCA
+>Glov_0573(gdhA) Score=4.2 Pos=-84 [Geobacter lovleyi SZ]
+TGACTTAATATTAGGCA
+>Glov_3332(Gmet_0693) Score=4.1 Pos=-268 [Geobacter lovleyi SZ]
+TGCAAGATAGTTGGGCA
+>Glov_3332(Gmet_0693) Score=4.1 Pos=-213 [Geobacter lovleyi SZ]
+TGCTGAATAAATGGTCA
+>Glov_1879(glnB) Score=4.3 Pos=-154 [Geobacter lovleyi SZ]
+TGCCTAATTTGTGTGCT
+>Ppro_3077(nifR) Score=5.4 Pos=-66 [Pelobacter propionicus DSM 2379]
+TGCCCAAATTTTAGGCA
+>Ppro_3497(gdhA) Score=4.2 Pos=-101 [Pelobacter propionicus DSM 2379]
+TGCCGATAAAATGTGCT
+>Ppro_3491(nifEN) Score=4.6 Pos=-230 [Pelobacter propionicus DSM 2379]
+TGCAAAAAAAACAGGCA
+>Ppro_0484(Gmet_0693) Score=4.6 Pos=-332 [Pelobacter propionicus DSM 2379]
+TGCCTGTTTTTTGCGCA
+>Ppro_0484(Gmet_0693) Score=4.8 Pos=-241 [Pelobacter propionicus DSM 2379]
+TGTATAAAAAATATGCA
+>Ppro_1680(glnB) Score=5 Pos=-238 [Pelobacter propionicus DSM 2379]
+TGCCTAATTAAGGGGCA
+>Ppro_1680(glnB) Score=4.3 Pos=-207 [Pelobacter propionicus DSM 2379]
+TGCCTATAATCAAGGCA
+>Pcar_2589(amtB) Score=4.7 Pos=-263 [Pelobacter carbinolicus str. DSM 2380]
+TGCCTCCATTATGGGCA
+>Pcar_2589(amtB) Score=4.5 Pos=-242 [Pelobacter carbinolicus str. DSM 2380]
+TGCCTATTTTGGAAGCA
+>Pcar_1021(glnK2) Score=4.4 Pos=-241 [Pelobacter carbinolicus str. DSM 2380]
+TGCTCAAAATTTAAGCC
+>Pcar_1500(glnB) Score=4.1 Pos=-306 [Pelobacter carbinolicus str. DSM 2380]
+TGTTTAAATAATAGTCA
+>Pcar_1500(glnB) Score=4.9 Pos=-274 [Pelobacter carbinolicus str. DSM 2380]
+TGTCTAAATATTGGGCA
+>Dace_0518(nifR) Score=5.1 Pos=-10 [Desulfuromonas acetoxidans DSM 684]
+TGCCTAAATAATGAGCA
+>Dace_2426(gdhA) Score=4.6 Pos=-126 [Desulfuromonas acetoxidans DSM 684]
+TGTTTATAAAATGTGCA
+>Dace_0726(nifEN) Score=4.5 Pos=-310 [Desulfuromonas acetoxidans DSM 684]
+TGCTTAAACTTTGAGCA
+>Dace_1145(amtB) Score=4.9 Pos=-219 [Desulfuromonas acetoxidans DSM 684]
+TGCCCGTTTTTCAGGCA
+>Dace_1046(glnB) Score=4.3 Pos=-254 [Desulfuromonas acetoxidans DSM 684]
+TGCTTAAAATGTCAGCA
+>Dace_1046(glnB) Score=4.1 Pos=-222 [Desulfuromonas acetoxidans DSM 684]
+TGAGTAAATAATGTGCA

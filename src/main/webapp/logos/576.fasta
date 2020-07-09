@@ -1,0 +1,48 @@
+>Sbal_1131(bglA1) Score=6.9 Pos=-147 [Shewanella baltica OS155]
+AATGTAAGCGCTTTCATT
+>Sbal_1132(glcP) Score=6.9 Pos=-138 [Shewanella baltica OS155]
+AATGAAAGCGCTTACATT
+>Sden_2607(bglA1) Score=6.9 Pos=-177 [Shewanella denitrificans OS217]
+AATGTAAGCGCTTTCATT
+>Sden_2606(glcP) Score=6.9 Pos=-195 [Shewanella denitrificans OS217]
+AATGAAAGCGCTTACATT
+>Sden_2610 Score=6.8 Pos=-143 [Shewanella denitrificans OS217]
+TATGTAAGCGCTTACATT
+>Sden_2610 Score=6.3 Pos=-304 [Shewanella denitrificans OS217]
+AAAGAAAGCGCTTACATT
+>Sfri_1313(omp(Bgl)) Score=6.8 Pos=-143 [Shewanella frigidimarina NCIMB 400]
+TATGTAAGCGCTTACATT
+>Sfri_1313(omp(Bgl)) Score=6.3 Pos=-304 [Shewanella frigidimarina NCIMB 400]
+AAAGAAAGCGCTTACATT
+>Sfri_1316(bglA1) Score=6.9 Pos=-176 [Shewanella frigidimarina NCIMB 400]
+AATGTAAGCGCTTTCATT
+>Sfri_1317(glcP) Score=6.9 Pos=-224 [Shewanella frigidimarina NCIMB 400]
+AATGAAAGCGCTTACATT
+>Sama_1402(bglA1) Score=6.9 Pos=-134 [Shewanella amazonensis SB2B]
+AATGTAAGCGCTTTCATT
+>Sama_1403(glcP) Score=6.9 Pos=-111 [Shewanella amazonensis SB2B]
+AATGAAAGCGCTTACATT
+>Sama_1399(omp(Bgl)) Score=6.8 Pos=-116 [Shewanella amazonensis SB2B]
+TATGTAAGCGCTTACATT
+>Sama_1396(lamA) Score=7 Pos=-97 [Shewanella amazonensis SB2B]
+AATGTAAGCGCTTACATT
+>swp_1634(bglA1) Score=6.9 Pos=-294 [Shewanella piezotolerans WP3]
+AATGTAAGCGCTTTCATT
+>swp_1631(omp(Bgl)) Score=6.3 Pos=-63 [Shewanella piezotolerans WP3]
+TTTGTAAGCGCTTACATT
+>swp_1634(bglA1) Score=6.9 Pos=-233 [Shewanella piezotolerans WP3]
+AATGTAAGCGCTTTCATT
+>swp_1636(glcP) Score=6.9 Pos=-252 [Shewanella piezotolerans WP3]
+AATGAAAGCGCTTACATT
+>swp_1636(glcP) Score=6.9 Pos=-191 [Shewanella piezotolerans WP3]
+AATGAAAGCGCTTACATT
+>swp_1631(omp(Bgl)) Score=5.5 Pos=-108 [Shewanella piezotolerans WP3]
+TGTGTAAGCGCTTACAAA
+>swp_4298(bglT2) Score=6.5 Pos=-100 [Shewanella piezotolerans WP3]
+AATGTAAGCGGTTACATT
+>Swoo_1144(omp(Bgl)) Score=6.5 Pos=-109 [Shewanella woodyi ATCC 51908]
+AATGTAAGCGCTTACAAT
+>Swoo_1147(bglA1) Score=6.4 Pos=-199 [Shewanella woodyi ATCC 51908]
+GATGTAAGCGCTTTCATT
+>Swoo_1148(glcP) Score=6.4 Pos=-127 [Shewanella woodyi ATCC 51908]
+AATGAAAGCGCTTACATC

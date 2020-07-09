@@ -1,0 +1,50 @@
+>CORAM0001_1328(groL2) Score=6.2 Pos=-249 [Corynebacterium amycolatum SK46]
+CTTGCACTCGATGGGGTTGAGTGCTAG
+>CORAM0001_0268(groS) Score=6 Pos=-154 [Corynebacterium amycolatum SK46]
+TTAGCGCTCACTATGGTTGAGTGTTAG
+>CORAM0001_0268(groS) Score=5.8 Pos=-131 [Corynebacterium amycolatum SK46]
+TTAGCACTTGCAGGGGTAGAGTGCTAA
+>CORAM0001_1328(groL2) Score=7.2 Pos=-213 [Corynebacterium amycolatum SK46]
+TTAGCACTTGCTCTAATTGAGTGCTAA
+>cauri_0474(groS) Score=5.5 Pos=-144 [Corynebacterium aurimucosum ATCC 700975]
+CTAGCAGTCGCGAGGGTAGAGTGCTAG
+>cauri_2263(groL2) Score=5.1 Pos=-184 [Corynebacterium aurimucosum ATCC 700975]
+CTTGCAGTCGGTAGGCCTGAGTGCCAG
+>cauri_2263(groL2) Score=5.2 Pos=-149 [Corynebacterium aurimucosum ATCC 700975]
+CTAGCACTTCCACATGGCAAGTGCCAG
+>DIP2020(groL2) Score=6 Pos=-218 [Corynebacterium diphtheriae NCTC 13129]
+CTTGCACTCGTACCCGTAGACTGCTAA
+>DIP2020(groL2) Score=7.1 Pos=-184 [Corynebacterium diphtheriae NCTC 13129]
+TTAGCACTCGATCTAACCGAGTGCTAA
+>DIP0575(groS) Score=5.2 Pos=-124 [Corynebacterium diphtheriae NCTC 13129]
+CTGGCACTCTCAGGGGTAGAGTGCCAG
+>CE0601(groS) Score=5.3 Pos=-134 [Corynebacterium efficiens YS-314]
+TTAGCACCCTTAGCGGTTGAGTGCTGG
+>CE2561(groL2) Score=6.7 Pos=-182 [Corynebacterium efficiens YS-314]
+CTTGCACTCGACATGGGCGAGTGCTAG
+>CE2561(groL2) Score=5.7 Pos=-148 [Corynebacterium efficiens YS-314]
+TTAGCACTTACCTCGTATGAGTGCCAG
+>cg3011(groL2) Score=5.2 Pos=-148 [Corynebacterium glutamicum ATCC 13032]
+TTAGCACTCAACTAATCAGAGTGCCAA
+>cg3011(groL2) Score=7 Pos=-183 [Corynebacterium glutamicum ATCC 13032]
+CTTGCACTCACACCCCTTGAGTGCTAG
+>cg0690(groS) Score=5.9 Pos=-147 [Corynebacterium glutamicum ATCC 13032]
+TTAGCACCCTCAACAGTTGAGTGCTGG
+>jk0267(groL2) Score=5 Pos=-181 [Corynebacterium jeikeium K411]
+CTTGCAGTCGATGGGGGAGAGTGCTAA
+>jk0267(groL2) Score=6 Pos=-146 [Corynebacterium jeikeium K411]
+TTAGCACTTGAAGTAAGGGAGTGCCAG
+>jk1729(groS) Score=5.7 Pos=-145 [Corynebacterium jeikeium K411]
+TTAGCACTTGCGAGGGTAGAGTGCCAG
+>ckrop_1667(groL2) Score=5.4 Pos=-184 [Corynebacterium kroppenstedtii DSM 44385]
+CTTGCACTCTAAGCCCGAGACTGCTAA
+>ckrop_1737(groS) Score=5.7 Pos=-129 [Corynebacterium kroppenstedtii DSM 44385]
+CTGGCACTCACACGGGTAGAGTGCCAA
+>ckrop_1737(groS) Score=5.2 Pos=-152 [Corynebacterium kroppenstedtii DSM 44385]
+TTAGCACTCCCGGTGGTTGAGAGCTGG
+>cur_1716(groL2) Score=5.2 Pos=-183 [Corynebacterium urealyticum DSM 7109]
+CTTGCACTCAAGGGGTGCGAGTGCTAA
+>cur_1716(groL2) Score=7 Pos=-148 [Corynebacterium urealyticum DSM 7109]
+TTAGCACTTGCACTGGTTGAGTGCCAG
+>cur_0393(groS) Score=5.3 Pos=-11 [Corynebacterium urealyticum DSM 7109]
+TTAGCACTTGGGTGGGTAGAGTGCTAG

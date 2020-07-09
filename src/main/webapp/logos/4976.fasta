@@ -1,0 +1,78 @@
+>SMc02322(rhaEW) Score=6.7 Pos=-104 [Sinorhizobium meliloti 1021]
+TTGATCG---TTGATTG
+>SMc02323(rhaR) Score=5.8 Pos=-63 [Sinorhizobium meliloti 1021]
+ATGATTG---GTGATTG
+>SMc02323(rhaR) Score=5.3 Pos=-53 [Sinorhizobium meliloti 1021]
+GTGATTG---ATGCTCG
+>SMc02322(rhaEW) Score=6.3 Pos=-114 [Sinorhizobium meliloti 1021]
+ATGAACG---TTGATCG
+>SMc02322(rhaEW) Score=6 Pos=-155 [Sinorhizobium meliloti 1021]
+TCAATCA---TCAATCA
+>SMc02323(rhaR) Score=6.4 Pos=-114 [Sinorhizobium meliloti 1021]
+TCAATCA---ACGATCA
+>NGR_c02430(rhaEW) Score=6.1 Pos=-105 [Rhizobium sp. NGR234]
+CTGATCG---TTGATTG
+>NGR_c02440(rhaR) Score=5.3 Pos=-53 [Rhizobium sp. NGR234]
+CTGATTG---ATGCTCG
+>NGR_c02440(rhaR) Score=5.6 Pos=-73 [Rhizobium sp. NGR234]
+ATGAAAA---ATGATCG
+>NGR_c02440(rhaR) Score=6.1 Pos=-63 [Rhizobium sp. NGR234]
+ATGATCG---CTGATTG
+>NGR_c02440(rhaR) Score=6.4 Pos=-114 [Rhizobium sp. NGR234]
+TCAATCA---ACGATCA
+>NGR_c02430(rhaEW) Score=6.4 Pos=-156 [Rhizobium sp. NGR234]
+TCAATCA---TCGATCA
+>NGR_c02430(rhaEW) Score=5.7 Pos=-115 [Rhizobium sp. NGR234]
+ATGAACG---CTGATCG
+>pRL110414(rhaR) Score=6.4 Pos=-113 [Rhizobium leguminosarum bv. viciae 3841]
+TCAATCG---ACGATCA
+>pRL110414(rhaR) Score=6.4 Pos=-103 [Rhizobium leguminosarum bv. viciae 3841]
+ACGATCA---TCGATTA
+>pRL110414(rhaR) Score=5.6 Pos=-72 [Rhizobium leguminosarum bv. viciae 3841]
+ATGAAAA---ATGATCG
+>pRL110414(rhaR) Score=6.7 Pos=-62 [Rhizobium leguminosarum bv. viciae 3841]
+ATGATCG---TTGATTG
+>pRL110415(rhaEW) Score=6.4 Pos=-153 [Rhizobium leguminosarum bv. viciae 3841]
+TCAATCA---ACGATCA
+>pRL110415(rhaEW) Score=6.6 Pos=-112 [Rhizobium leguminosarum bv. viciae 3841]
+ATAATCG---TTGATCG
+>pRL110415(rhaEW) Score=6.6 Pos=-102 [Rhizobium leguminosarum bv. viciae 3841]
+TTGATCG---TCGATTG
+>RHE_PE00290(rhaR) Score=6.7 Pos=-64 [Rhizobium etli CFN 42]
+ATGATCG---ATGATTG
+>RHE_PE00290(rhaR) Score=6.4 Pos=-105 [Rhizobium etli CFN 42]
+ACGATCA---TCGATTA
+>RHE_PE00290(rhaR) Score=6.4 Pos=-115 [Rhizobium etli CFN 42]
+TCAATCG---ACGATCA
+>RHE_PE00291(rhaEW) Score=6.6 Pos=-101 [Rhizobium etli CFN 42]
+TTGATCG---TCGATTG
+>RHE_PE00291(rhaEW) Score=6.4 Pos=-152 [Rhizobium etli CFN 42]
+TCAATCA---ACGATCA
+>RHE_PE00291(rhaEW) Score=6.6 Pos=-111 [Rhizobium etli CFN 42]
+ATAATCG---TTGATCG
+>Atu3486(rhaR) Score=6.4 Pos=-111 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TCAATCA---ACGATCA
+>Atu3486(rhaR) Score=6.7 Pos=-60 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTGATCG---TTGATTG
+>Atu3485(rhaEW) Score=6.7 Pos=-107 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATGATCG---TTGATTG
+>Atu3485(rhaEW) Score=6.4 Pos=-158 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TCAATCA---ACGATCA
+>Atu3485(rhaEW) Score=5.6 Pos=-117 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATGAAAA---ATGATCG
+>mll5707(rhaR) Score=6.4 Pos=-113 [Mesorhizobium loti MAFF303099]
+TCAATCA---ACGATCA
+>mll5707(rhaR) Score=5.2 Pos=-107 [Mesorhizobium loti MAFF303099]
+ATAAACG---AAGATCG
+>mll5707(rhaR) Score=6.7 Pos=-103 [Mesorhizobium loti MAFF303099]
+ACGATCA---TCGATCA
+>mll5707(rhaR) Score=6.7 Pos=-62 [Mesorhizobium loti MAFF303099]
+ATGATCG---ATGATTG
+>mlr5708(rhaEW) Score=5.4 Pos=-150 [Mesorhizobium loti MAFF303099]
+ACGAGCA---TCAATCA
+>mlr5708(rhaEW) Score=5.8 Pos=-140 [Mesorhizobium loti MAFF303099]
+TCAATCA---CCGATCA
+>mlr5708(rhaEW) Score=6.9 Pos=-99 [Mesorhizobium loti MAFF303099]
+ATGATCG---TTGATCG
+>mlr5708(rhaEW) Score=6.7 Pos=-89 [Mesorhizobium loti MAFF303099]
+TTGATCG---ATGATTG

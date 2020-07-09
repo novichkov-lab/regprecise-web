@@ -1,0 +1,58 @@
+>cce_3330(groEL2) Score=10.2 Pos=-114 [Cyanothece sp. ATCC 51142]
+TTAGCACTC---------GAGTGCTAA
+>cce_0796(SYNPCC7002_A0107) Score=9.4 Pos=-108 [Cyanothece sp. ATCC 51142]
+TTAGCACTC---------AAGTGCTAA
+>cce_1343(groES) Score=10.2 Pos=-79 [Cyanothece sp. ATCC 51142]
+TTAGCACTC---------GAGTGCTAA
+>Cyan7425_2334(groEL2) Score=10.2 Pos=-139 [Cyanothece sp. PCC 7425]
+TTAGCACTC---------GAGTGCTAA
+>Cyan7425_5138(groES) Score=10.2 Pos=-123 [Cyanothece sp. PCC 7425]
+TTAGCACTC---------GAGTGCTAA
+>PCC8801_1190(groEL2) Score=10.2 Pos=-199 [Cyanothece sp. PCC 8801]
+TTAGCACTC---------GAGTGCTAA
+>PCC8801_2855(groES) Score=10.2 Pos=-82 [Cyanothece sp. PCC 8801]
+TTAGCACTC---------GAGTGCTAA
+>gvip139(groES) Score=9.6 Pos=-92 [Gloeobacter violaceus PCC 7421]
+TTAGCACTC---------CAGTGCTAA
+>gvip396(groES) Score=9.6 Pos=-66 [Gloeobacter violaceus PCC 7421]
+TTAGCACTT---------GAGTGCTAA
+>MAE_03410(groEL2) Score=10.2 Pos=-63 [Microcystis aeruginosa NIES-843]
+TTAGCACTC---------GAGTGCTAA
+>MAE_46070(groES) Score=10.2 Pos=-74 [Microcystis aeruginosa NIES-843]
+TTAGCACTC---------GAGTGCTAA
+>alr1896(groEL2) Score=10.2 Pos=-59 [Nostoc sp. PCC 7120]
+TTAGCACTC---------GAGTGCTAA
+>all4757(SYNPCC7002_A0107) Score=10.2 Pos=-166 [Nostoc sp. PCC 7120]
+TTAGCACTC---------GAGTGCTAA
+>alr3661(groES) Score=10.2 Pos=-45 [Nostoc sp. PCC 7120]
+TTAGCACTC---------GAGTGCTAA
+>PMT1450(groES) Score=9.2 Pos=-81 [Prochlorococcus marinus str. MIT 9313]
+TTGGCACTC---------GAGTGCTAC
+>Synpcc7942_2314(groES) Score=10.2 Pos=-81 [Synechococcus elongatus PCC 7942]
+TTAGCACTC---------GAGTGCTAA
+>CYA_0332(groEL2) Score=10.2 Pos=-131 [Synechococcus sp. JA-3-3Ab]
+TTAGCACTC---------GAGTGCTAA
+>CYA_1406(groES) Score=9.7 Pos=-108 [Synechococcus sp. JA-3-3Ab]
+CTAGCACTC---------GAGTGCTAA
+>SYNPCC7002_A0147(groEL2) Score=9.6 Pos=-65 [Synechococcus sp. PCC 7002]
+TTAGCAGTC---------GAGTGCTAA
+>SYNPCC7002_A0107(SYNPCC7002_A0107) Score=8.6 Pos=-238 [Synechococcus sp. PCC 7002]
+TTAGCACTC---------AACTGCTAA
+>SYNPCC7002_A2457(groES) Score=10.2 Pos=-76 [Synechococcus sp. PCC 7002]
+TTAGCACTC---------GAGTGCTAA
+>SYNW2498(SYNPCC7002_A0107) Score=10.2 Pos=-119 [Synechococcus sp. WH 8102]
+TTAGCACTC---------GAGTGCTAA
+>SYNW0513(groES) Score=8.6 Pos=-77 [Synechococcus sp. WH 8102]
+TTGGCACTC---------GAGTGCCAG
+>sll0416(groEL2) Score=10.2 Pos=-81 [Synechocystis sp. PCC 6803]
+TTAGCACTC---------GAGTGCTAA
+>slr2075(groES) Score=10.2 Pos=-74 [Synechocystis sp. PCC 6803]
+TTAGCACTC---------GAGTGCTAA
+>null(groES) Score=10.2 Pos=-126 [Thermosynechococcus elongatus BP-1]
+TTAGCACTC---------GAGTGCTAA
+>Tery_0270(groEL2) Score=9.7 Pos=-58 [Trichodesmium erythraeum IMS101]
+CTAGCACTC---------GAGTGCTAA
+>Tery_2626(SYNPCC7002_A0107) Score=9.4 Pos=-281 [Trichodesmium erythraeum IMS101]
+TTAGCACTC---------GACTGCTAA
+>Tery_4326(groES) Score=10.2 Pos=-104 [Trichodesmium erythraeum IMS101]
+TTAGCACTC---------GAGTGCTAA

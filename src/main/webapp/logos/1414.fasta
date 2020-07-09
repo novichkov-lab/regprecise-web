@@ -1,0 +1,42 @@
+>RBAM_008000(yfkO) Score=5.5 Pos=-100 [Bacillus amyloliquefaciens FZB42]
+CAGTATCAAAATGAATACTA
+>RBAM_037630(ppaC) Score=6 Pos=-193 [Bacillus amyloliquefaciens FZB42]
+TAGTACCTTTTTTGATACTA
+>RBAM_037620(yybR) Score=6 Pos=-33 [Bacillus amyloliquefaciens FZB42]
+TAGTATCAAAAAAGGTACTA
+>BC3320(yybR) Score=6.3 Pos=-42 [Bacillus cereus ATCC 14579]
+TAGTATCAAAAAAGATACTA
+>BC3321(yfkO) Score=6.3 Pos=-107 [Bacillus cereus ATCC 14579]
+TAGTATCTTTTTTGATACTA
+>ABC0785 Score=4.9 Pos=-177 [Bacillus clausii KSM-K16]
+CAGTTTCTTTTTATATACTA
+>ABC0785 Score=5.6 Pos=-103 [Bacillus clausii KSM-K16]
+TAGTTTCTTTTATTATACTA
+>ABC0784(yybR) Score=5.6 Pos=-103 [Bacillus clausii KSM-K16]
+TAGTATAATAAAAGAAACTA
+>BH0737(yybR) Score=5.2 Pos=-49 [Bacillus halodurans C-125]
+TAGTTACATGTAGGTTACTA
+>BH0738(BH0738) Score=5.2 Pos=-101 [Bacillus halodurans C-125]
+TAGTAACCTACATGTAACTA
+>BLi00813(yfkO) Score=6.3 Pos=-117 [Bacillus licheniformis DSM 13]
+TAGTATAAAAAATGATACTA
+>BLi00812(yybR) Score=6.3 Pos=-33 [Bacillus licheniformis DSM 13]
+TAGTATCATTTTTTATACTA
+>BSU05290(ydeP) Score=6.2 Pos=-35 [Bacillus subtilis subsp. subtilis str. 168]
+TAGTATCAAAAAGTATACTA
+>BSU40540(yybR) Score=6 Pos=-34 [Bacillus subtilis subsp. subtilis str. 168]
+TAGTATCAAAAAAGGTACTA
+>BSU07830(yfkO) Score=6 Pos=-103 [Bacillus subtilis subsp. subtilis str. 168]
+TGGTATCAAAATTGATACTA
+>BSU40550(ppaC) Score=6 Pos=-190 [Bacillus subtilis subsp. subtilis str. 168]
+TAGTACCTTTTTTGATACTA
+>BSU05300(ydeQ) Score=6.2 Pos=-95 [Bacillus subtilis subsp. subtilis str. 168]
+TAGTATACTTTTTGATACTA
+>OB0355 Score=5.6 Pos=-123 [Oceanobacillus iheyensis HTE831]
+TAGTATCTTTAAGGAAACTA
+>OB0354(yybR) Score=5.6 Pos=-45 [Oceanobacillus iheyensis HTE831]
+TAGTTTCCTTAAAGATACTA
+>Pjdr2_4452(yybR) Score=6 Pos=-72 [Paenibacillus sp. JDR-2]
+TAGTATTAAAAAGGATACTA
+>Pjdr2_4453(yfkO) Score=6 Pos=-145 [Paenibacillus sp. JDR-2]
+TAGTATCCTTTTTAATACTA

@@ -1,0 +1,52 @@
+>BSU02950(niaP) Score=5 Pos=-63 [Bacillus subtilis subsp. subtilis str. 168]
+ACAATGTGTAAAGACAGGTGTA
+>BSU27880(nifS) Score=6.5 Pos=-83 [Bacillus subtilis subsp. subtilis str. 168]
+TACACCTGTCTTGACACCTATA
+>BSU27870(nadB) Score=6.5 Pos=-41 [Bacillus subtilis subsp. subtilis str. 168]
+TATAGGTGTCAAGACAGGTGTA
+>RBAM_003210(niaP) Score=5 Pos=-61 [Bacillus amyloliquefaciens FZB42]
+ACAATGTGTAAAGACAGGTGTA
+>RBAM_024930(nifS) Score=6.5 Pos=-84 [Bacillus amyloliquefaciens FZB42]
+TACACCTGTCTTGACACCTATA
+>RBAM_024920(nadB) Score=6.5 Pos=-43 [Bacillus amyloliquefaciens FZB42]
+TATAGGTGTCAAGACAGGTGTA
+>BPUM_2427(nadB) Score=5.9 Pos=-38 [Bacillus pumilus SAFR-032]
+GATATGTGTCAAGACAGGTGTA
+>BLi00841(niaP) Score=5.4 Pos=-71 [Bacillus licheniformis DSM 13]
+CAAAAGTGTAAAGACAGGTGTA
+>BLi02915(nifS) Score=6.6 Pos=-80 [Bacillus licheniformis DSM 13]
+TACATGTGTCTTGACACCTATA
+>BLi02914(nadB) Score=6.6 Pos=-42 [Bacillus licheniformis DSM 13]
+TATAGGTGTCAAGACACATGTA
+>Aflv_0702(nifS) Score=4.4 Pos=-29 [Anoxybacillus flavithermus WK1]
+GACACCTATATTGACATATATT
+>Aflv_0702(nifS) Score=5.5 Pos=-41 [Anoxybacillus flavithermus WK1]
+TCATACTGTCTTGACACCTATA
+>Aflv_0703(nadB) Score=5.5 Pos=-37 [Anoxybacillus flavithermus WK1]
+TATAGGTGTCAAGACAGTATGA
+>Aflv_0703(nadB) Score=4.4 Pos=-49 [Anoxybacillus flavithermus WK1]
+AATATATGTCAATATAGGTGTC
+>GK3433(niaP) Score=5.2 Pos=-39 [Geobacillus kaustophilus HTA426]
+TAAATATGTCTTTACATTGATA
+>GK2602(nifS) Score=6.1 Pos=-86 [Geobacillus kaustophilus HTA426]
+TTCACCTGTCTTGACATCTATA
+>GK2601(nadB) Score=6.1 Pos=-41 [Geobacillus kaustophilus HTA426]
+TATAGATGTCAAGACAGGTGAA
+>BC5418(niaP) Score=4.7 Pos=-37 [Bacillus cereus ATCC 14579]
+ATGATGTGTAAAGACACCTGTG
+>BC4424(nifS) Score=6.2 Pos=-127 [Bacillus cereus ATCC 14579]
+TCCAACTGTCTTGACACCTATA
+>BC4423(nadB) Score=6.2 Pos=-47 [Bacillus cereus ATCC 14579]
+TATAGGTGTCAAGACAGTTGGA
+>BH1217(nifS) Score=6.4 Pos=-102 [Bacillus halodurans C-125]
+TACATATGTCTTGACATCTATA
+>BH1218(nadB) Score=6.4 Pos=-39 [Bacillus halodurans C-125]
+TATAGATGTCAAGACATATGTA
+>BH3254(niaY) Score=5.3 Pos=-85 [Bacillus halodurans C-125]
+GAAATGTGTCTTGTCATGTGTA
+>ABC1546(nifS) Score=6.1 Pos=-73 [Bacillus clausii KSM-K16]
+TACAGTTGTCTTGTCACCTATA
+>ABC1547(nadB) Score=6.1 Pos=-36 [Bacillus clausii KSM-K16]
+TATAGGTGACAAGACAACTGTA
+>ABC2773(niaY) Score=5 Pos=-76 [Bacillus clausii KSM-K16]
+AAAAAGTGTCTTGTCACATGAA

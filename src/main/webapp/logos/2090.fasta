@@ -1,0 +1,94 @@
+>ebA4116(ntrC) Score=5.3 Pos=-23 [Azoarcus sp. EbN1]
+CGCACCAAAAAAGTGCA
+>ebA3154(CHP02001) Score=5 Pos=20 [Azoarcus sp. EbN1]
+CGCACCGTTCCGGTGCA
+>ebA4121(glnA) Score=5.5 Pos=-253 [Azoarcus sp. EbN1]
+TGCACCATGATGGTGCG
+>ebA4609(amtB2) Score=5.2 Pos=-159 [Azoarcus sp. EbN1]
+CGCACCGTAATTGTGCA
+>ebA2252(gltB) Score=5.2 Pos=-96 [Azoarcus sp. EbN1]
+TGCACAGTTTTGGTGCG
+>Tmz1t_0595(CHP02001) Score=5.4 Pos=-175 [Thauera sp. MZ1T]
+CGCACCACATTGGTGCG
+>Tmz1t_3651(ntrC) Score=5.4 Pos=-23 [Thauera sp. MZ1T]
+CGCACCAGAATAGTGCA
+>Tmz1t_3648(glnA) Score=5.1 Pos=-196 [Thauera sp. MZ1T]
+CGCACCATTGAAGTGCA
+>Tmz1t_3648(glnA) Score=5.5 Pos=-228 [Thauera sp. MZ1T]
+CGCACCATAGTAGTGCA
+>Tmz1t_0457(amtB2) Score=4.5 Pos=-115 [Thauera sp. MZ1T]
+CGCACCCCTCTGGTGCG
+>Tmz1t_0457(amtB2) Score=4.4 Pos=-49 [Thauera sp. MZ1T]
+CGCACTGGAACGGTGCT
+>Tmz1t_0842(gltB) Score=5.7 Pos=-141 [Thauera sp. MZ1T]
+TGCACCAGATTGGTGCA
+>Tmz1t_1142(nasD) Score=4.3 Pos=-290 [Thauera sp. MZ1T]
+CGCACCAGGGCTGTGCA
+>Tmz1t_1142(nasD) Score=4.7 Pos=-258 [Thauera sp. MZ1T]
+TGCACCGCAGCAGTGCG
+>Daro_3763(glnA) Score=5.7 Pos=-214 [Dechloromonas aromatica RCB]
+TGCACCAAAATAGTGCG
+>Daro_0052(CHP02001) Score=5 Pos=-148 [Dechloromonas aromatica RCB]
+CGCACAGTTTTGGTGCG
+>Daro_3763(glnA) Score=5 Pos=-183 [Dechloromonas aromatica RCB]
+TGCACGATCGTGGTGCA
+>Daro_3703(amtB2) Score=4.9 Pos=-119 [Dechloromonas aromatica RCB]
+TGCACCAAACAGGTGCT
+>Daro_3703(amtB2) Score=4.8 Pos=-53 [Dechloromonas aromatica RCB]
+TGCACTGGAATGGTGCT
+>Daro_0816(nasD) Score=5.3 Pos=-199 [Dechloromonas aromatica RCB]
+TGCACGAATTTGGTGCG
+>Daro_3759(ntrB) Score=5.6 Pos=-204 [Dechloromonas aromatica RCB]
+TGCACCAATACGGTGCG
+>Tbd_2503(glnA) Score=4.3 Pos=-188 [Thiobacillus denitrificans]
+CGCCCTATAATGGAGCG
+>Tbd_2503(glnA) Score=5 Pos=-220 [Thiobacillus denitrificans]
+TGCACCAAGACGGGGCA
+>Tbd_1701(amtB2) Score=4.3 Pos=-114 [Thiobacillus denitrificans]
+CGCACTTCGGCGGTGCA
+>Tbd_2310(nasA) Score=4.4 Pos=-138 [Thiobacillus denitrificans]
+CGCACCAATTTGCGGCG
+>CV3591(ntrB) Score=6 Pos=-118 [Chromobacterium violaceum ATCC 12472]
+TGCACCAAAATGGTGCA
+>CV4002(glnK) Score=5.2 Pos=-176 [Chromobacterium violaceum ATCC 12472]
+TGCACCAAAACCGTGCA
+>CV3589(glnA) Score=5.2 Pos=-202 [Chromobacterium violaceum ATCC 12472]
+GGCACCATATCGGTGCA
+>CV3589(glnA) Score=4.7 Pos=-172 [Chromobacterium violaceum ATCC 12472]
+GGCACCAGAATGGTTCA
+>LHK_01876(glnA) Score=5.4 Pos=-226 [Laribacter hongkongensis HLHK9]
+TTCACCATTTTGGTGCA
+>LHK_01876(glnA) Score=5.1 Pos=-255 [Laribacter hongkongensis HLHK9]
+TGCACCATTGATGTGCA
+>Mfla_0433(glnK) Score=5.3 Pos=-188 [Methylobacillus flagellatus KT]
+TGAACTATTTTGGTGCA
+>Mfla_2447(glnA) Score=5.6 Pos=-189 [Methylobacillus flagellatus KT]
+AGCACCAATATGGTGCA
+>Mfla_2447(glnA) Score=4.9 Pos=-158 [Methylobacillus flagellatus KT]
+CGCAATATAGTGGTGCA
+>Mfla_0433(glnK) Score=5.1 Pos=-206 [Methylobacillus flagellatus KT]
+TGCACATCATTGGTGCA
+>Mmol_2138(glnA) Score=5 Pos=-153 [Methylotenera mobilis JLW8]
+TGCATTGTATTGGTGCA
+>Mmol_2140(ntrB) Score=5.7 Pos=-268 [Methylotenera mobilis JLW8]
+TGCACCTAAATGGTGCA
+>Mmol_2140(ntrB) Score=4.9 Pos=-9 [Methylotenera mobilis JLW8]
+AGCACTATTATGGTTCA
+>Mmol_2138(glnA) Score=5.3 Pos=-183 [Methylotenera mobilis JLW8]
+TGCACCAAAAATGTGCA
+>Mmol_2289(CHP02001) Score=4.7 Pos=-288 [Methylotenera mobilis JLW8]
+CGCCCTTTAATAGTGCA
+>Mmol_1494(amtB2) Score=5.1 Pos=-152 [Methylotenera mobilis JLW8]
+TGCACATATTTAGTGCA
+>Mmol_1494(amtB2) Score=5.1 Pos=-122 [Methylotenera mobilis JLW8]
+TGCACAATGTTAGTGCA
+>Mmol_1652(nasD) Score=4.3 Pos=-219 [Methylotenera mobilis JLW8]
+TGCACCAAAGTAGTAAA
+>MB2181_01245(CHP02001) Score=4.7 Pos=-282 [Methylophilales bacterium HTCC2181]
+TGCCCTGAAGTAGTGCA
+>MB2181_03520(amtB2) Score=5.3 Pos=-134 [Methylophilales bacterium HTCC2181]
+TGCACCAAAATAATGCA
+>MB2181_01610(glnA) Score=5.5 Pos=-173 [Methylophilales bacterium HTCC2181]
+TGCACTAAATTAGTGCG
+>MB2181_01610(glnA) Score=4.4 Pos=-141 [Methylophilales bacterium HTCC2181]
+AGCATTTAATTGGTGCA

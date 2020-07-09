@@ -1,0 +1,52 @@
+>Deide_01560(phbA) Score=6.2 Pos=-37 [Deinococcus deserti VCD115]
+CTAACGAGCGTTAGGTTG
+>Deide_14880(pccB) Score=6.2 Pos=-31 [Deinococcus deserti VCD115]
+CAAACGAGCGTTTGTTAG
+>Deide_11350(mcm) Score=5.9 Pos=-71 [Deinococcus deserti VCD115]
+CTAACGGGCGTTAGTTTT
+>Deide_23440(bkdA1) Score=6 Pos=-87 [Deinococcus deserti VCD115]
+CTAACGAACGTTAGATAG
+>Deide_10580(bcd2) Score=6 Pos=-27 [Deinococcus deserti VCD115]
+CTAACGGTCGTTTGGTAG
+>Deide_10010(hmgcL) Score=5.8 Pos=6 [Deinococcus deserti VCD115]
+GTAACGAACGTTCGTTTG
+>Deide_03290(accB) Score=4.5 Pos=-95 [Deinococcus deserti VCD115]
+CAAACGACCGTTAGGTGA
+>Deide_02390(paaR) Score=4.8 Pos=-95 [Deinococcus deserti VCD115]
+CAAACGAGCGTTAGGTGA
+>Dgeo_0811(pccB) Score=6.4 Pos=-31 [Deinococcus geothermalis DSM 11300]
+CTAACGGGCGTTTGTTAG
+>Dgeo_1320(mcm2) Score=5.7 Pos=-55 [Deinococcus geothermalis DSM 11300]
+CTAACGTGCGTTCGTTCG
+>Dgeo_2338(bkdA1) Score=6.2 Pos=-90 [Deinococcus geothermalis DSM 11300]
+CTAACGAGCGTTAGCTAG
+>Dgeo_1253(hmgcL) Score=5.6 Pos=-35 [Deinococcus geothermalis DSM 11300]
+CCAACGAACGCTTGTTTG
+>Dgeo_0862(mcm) Score=6.1 Pos=-38 [Deinococcus geothermalis DSM 11300]
+CTAACGAGCGTTTGTTTC
+>Dgeo_1179(bcd2) Score=6.2 Pos=-27 [Deinococcus geothermalis DSM 11300]
+CTAACAAGCGTTTGGTAG
+>Dgeo_0117(paaR) Score=4.8 Pos=-61 [Deinococcus geothermalis DSM 11300]
+CAAACGGACGTTCACTTG
+>Dgeo_0467(accB) Score=5.3 Pos=-89 [Deinococcus geothermalis DSM 11300]
+CTAACGACCGTTCGGGAG
+>DR1072(phbA) Score=4.8 Pos=-37 [Deinococcus radiodurans R1]
+CTAACGCTCGTTAGTCTC
+>DR1084(mcm2) Score=4.6 Pos=-55 [Deinococcus radiodurans R1]
+CGAACGCTCGTTCGGTTC
+>DR0460(acsA) Score=5.6 Pos=-69 [Deinococcus radiodurans R1]
+CTCACAAACGTTCGTTAG
+>DR1542(pccB) Score=6.4 Pos=-31 [Deinococcus radiodurans R1]
+CTAACGGGCGTTTGTTAG
+>DR1189(mcm) Score=5.6 Pos=-11 [Deinococcus radiodurans R1]
+CAAACAAGCGTTTGTTTT
+>DR0029(bkdA1) Score=5.6 Pos=-49 [Deinococcus radiodurans R1]
+CTAACGCTCGTTAGCTAG
+>DR1255(bcd2) Score=5.8 Pos=-27 [Deinococcus radiodurans R1]
+CTAACGCCCGTTTGGTAG
+>DR1240(hmgcL) Score=5.7 Pos=-32 [Deinococcus radiodurans R1]
+CCAACAAACGTTCGTTTG
+>DR0118(accB) Score=5.7 Pos=-133 [Deinococcus radiodurans R1]
+CAAACGGGCGTTAGGTTG
+>DR2376(paaR) Score=5.4 Pos=-68 [Deinococcus radiodurans R1]
+CAAACGCCCGTTTGGTTG

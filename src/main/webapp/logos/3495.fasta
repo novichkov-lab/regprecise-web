@@ -1,0 +1,46 @@
+>SAG1602(niaX) Score=6.4 Pos=-58 [Streptococcus agalactiae 2603V/R]
+TACAGGTGTCTTTACACCTGTA
+>SDEG_1467(niaX) Score=6.1 Pos=-59 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TATAGGTGTCTTGACACTTGTA
+>SDEG_1847(pncA) Score=4.8 Pos=-88 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+GTTAGTTGTCTTGACACCTGTA
+>Sez_0638(niaX) Score=4.2 Pos=-62 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+GCTAGGTGTCTTGACATCTGTC
+>Sez_0388(pncA) Score=5.1 Pos=-139 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ATCTACTGTCTTGACAGCTGTC
+>GALLO_1936(nadB) Score=4.7 Pos=-177 [Streptococcus gallolyticus UCN34]
+GCCAGGTGTCAAGACACCTGTA
+>GALLO_0647(niaX) Score=5.8 Pos=-191 [Streptococcus gallolyticus UCN34]
+TACAGGTGTCTTGACACCTGTG
+>GALLO_1937(nadA) Score=5.6 Pos=-80 [Streptococcus gallolyticus UCN34]
+TACAGGTGTCTTGACACCTGGC
+>SGO_1046(niaX) Score=6.2 Pos=-32 [Streptococcus gordonii str. Challis substr. CH1]
+TACTACTGTATATACACATAAA
+>smi_1196(niaX) Score=6.5 Pos=-33 [Streptococcus mitis B6]
+TACTAGTGTATATACAGTTAAA
+>SMU.332(niaX) Score=6.3 Pos=-67 [Streptococcus mutans UA159]
+AACTAGTGTCTTGACAGATGTA
+>SMU.946(pnuC) Score=5 Pos=-74 [Streptococcus mutans UA159]
+aAtataTGTCTTgACACaTGTA
+>SP_2016(nadC) Score=6 Pos=-134 [Streptococcus pneumoniae TIGR4]
+TACAATTGTCTTGACAATTGTC
+>SP_2016(nadC) Score=5.7 Pos=-122 [Streptococcus pneumoniae TIGR4]
+GACAATTGTCTTGACACTTGTT
+>SP_1233(niaX) Score=6.2 Pos=20 [Streptococcus pneumoniae TIGR4]
+TACTAGTGTATATGCAGTTAAA
+>SP_1859(pnuC) Score=4.5 Pos=-188 [Streptococcus pneumoniae TIGR4]
+TTTTACTGTAAAGACAGTTGAC
+>SPy0197(nadC) Score=6.2 Pos=-122 [Streptococcus pyogenes M1 GAS]
+TACAATTGTCTTGACACTTGTT
+>SPy1425(niaX) Score=5.6 Pos=-59 [Streptococcus pyogenes M1 GAS]
+TACAGGTGTCTTGATAGTTATT
+>SPy1776(pncA) Score=4.7 Pos=-88 [Streptococcus pyogenes M1 GAS]
+AATAGATGTCTTGATACCTGTA
+>SSA_1348(niaX) Score=6.5 Pos=-33 [Streptococcus sanguinis SK36]
+TACTAGTGTATATACAGATAAA
+>SSU05_2019(niaX) Score=5.8 Pos=-173 [Streptococcus suis 05ZYH33]
+TACAGGCGTCTTGACACCTGTA
+>str0890(niaX) Score=6.1 Pos=28 [Streptococcus thermophilus CNRZ1066]
+TACTATTGTATTTACAGAAAAA
+>SUB1261(niaX) Score=6.3 Pos=-58 [Streptococcus uberis 0140J]
+TACAGGTGTCTTGACACCTGTA

@@ -1,0 +1,122 @@
+>ELI_06530(lexA) Score=5.3 Pos=-74 [Erythrobacter litoralis HTCC2594]
+GTTCCACATTCGTTC
+>ELI_06955(PF04055) Score=5.5 Pos=-27 [Erythrobacter litoralis HTCC2594]
+GTTCCACATTTGTTC
+>ELI_07730(recA) Score=5.2 Pos=-90 [Erythrobacter litoralis HTCC2594]
+GTTCCCCCCTTGTTC
+>ELI_02930(yoaA) Score=4.6 Pos=-37 [Erythrobacter litoralis HTCC2594]
+GTTTACTTTTCGTTC
+>ELI_06075(radA) Score=5 Pos=-31 [Erythrobacter litoralis HTCC2594]
+GTTCTCTTAATGTTC
+>ELI_07645(uvrD) Score=5.3 Pos=-24 [Erythrobacter litoralis HTCC2594]
+GTTCCCTAACTGTTC
+>ELI_07645(uvrD) Score=4.5 Pos=-69 [Erythrobacter litoralis HTCC2594]
+GTTCCACAAACTTTC
+>ELI_05365(imuA) Score=0.8 Pos=-32 [Erythrobacter litoralis HTCC2594]
+GAACATAAATAGAAC
+>ELI_12605(PF06319) Score=4.8 Pos=-27 [Erythrobacter litoralis HTCC2594]
+GTTCGCCCTCTGTTC
+>ELI_05360(COG3871) Score=5 Pos=-118 [Erythrobacter litoralis HTCC2594]
+GTTCTATTTATGTTC
+>ELI_07900(uvrA) Score=0.6 Pos=-24 [Erythrobacter litoralis HTCC2594]
+GAACACAACGGGAAC
+>NAP1_06190(PF04055) Score=5.1 Pos=-20 [Erythrobacter sp. NAP1]
+GTTCTTTATATGTTC
+>NAP1_05785(lexA) Score=5.3 Pos=-158 [Erythrobacter sp. NAP1]
+GTTCCACATTCGTTC
+>NAP1_06995(recA) Score=5 Pos=-126 [Erythrobacter sp. NAP1]
+GTTCTACTCTTGTTC
+>NAP1_05385(radA) Score=5.2 Pos=-77 [Erythrobacter sp. NAP1]
+GTTCCACAAATGTTC
+>NAP1_01345(rmuC) Score=4.9 Pos=-5 [Erythrobacter sp. NAP1]
+GTTCCATGTATGTTC
+>NAP1_06915(uvrD) Score=5.3 Pos=-39 [Erythrobacter sp. NAP1]
+GTTCCCTACCTGTTC
+>NAP1_04575(imuA) Score=0.7 Pos=-148 [Erythrobacter sp. NAP1]
+GAACATATTAGGAAC
+>NAP1_13438(PF06319) Score=4.9 Pos=-27 [Erythrobacter sp. NAP1]
+GTTCGCTCTATGTTC
+>NAP1_04570(COG3871) Score=4.7 Pos=-128 [Erythrobacter sp. NAP1]
+GTTCCTAATATGTTC
+>NAP1_07150(uvrA) Score=0.6 Pos=-64 [Erythrobacter sp. NAP1]
+GAACATTTGCGGAAC
+>Saro_1275(recA) Score=5.2 Pos=-88 [Novosphingobium aromaticivorans DSM 12444]
+GTTCCCCCCTTGTTC
+>Saro_2029(lexA) Score=5.3 Pos=-93 [Novosphingobium aromaticivorans DSM 12444]
+GTTCCACATTCGTTC
+>Saro_2362(yoaA) Score=5 Pos=-27 [Novosphingobium aromaticivorans DSM 12444]
+GTTCCATTCCTGTTC
+>Saro_1956(radA) Score=5.2 Pos=-31 [Novosphingobium aromaticivorans DSM 12444]
+GTTCCAGATTTGTTC
+>Saro_2898(rmuC) Score=4.8 Pos=-30 [Novosphingobium aromaticivorans DSM 12444]
+GTTCCCATTTCGTTC
+>Saro_1293(uvrD) Score=4.9 Pos=-19 [Novosphingobium aromaticivorans DSM 12444]
+GGTCCCTATCTGTTC
+>Saro_1536(imuA) Score=0.9 Pos=-17 [Novosphingobium aromaticivorans DSM 12444]
+GAACATAATAGGAAC
+>Saro_0242(PF06319) Score=4.2 Pos=-28 [Novosphingobium aromaticivorans DSM 12444]
+GTTCAGCGTTTGTTC
+>Saro_2041(COG3871) Score=5.1 Pos=-274 [Novosphingobium aromaticivorans DSM 12444]
+GTTCTTTATATGTTC
+>Saro_1192(uvrA) Score=0.7 Pos=-25 [Novosphingobium aromaticivorans DSM 12444]
+GAACATATATGGAAC
+>Sala_1181(PF04055) Score=5.2 Pos=-39 [Sphingopyxis alaskensis RB2256]
+GTTCTTTATTTGTTC
+>Sala_1725(recA) Score=5.3 Pos=-91 [Sphingopyxis alaskensis RB2256]
+GTTCCCCTCTTGTTC
+>Sala_0832(lexA) Score=5 Pos=-61 [Sphingopyxis alaskensis RB2256]
+GTTCCACTATCGTTC
+>Sala_1414(yoaA) Score=4.6 Pos=-28 [Sphingopyxis alaskensis RB2256]
+GTTCGCCTTTTGTCC
+>Sala_1806(radA) Score=5.3 Pos=-32 [Sphingopyxis alaskensis RB2256]
+GTTCCATTTTTGTTC
+>Sala_2055(rmuC) Score=4.6 Pos=-20 [Sphingopyxis alaskensis RB2256]
+GTTCGTCCTATGTTC
+>Sala_3012(uvrD) Score=5.3 Pos=-19 [Sphingopyxis alaskensis RB2256]
+GTTCCCTAATCGTTC
+>Sala_0926(uvrA) Score=0.8 Pos=-26 [Sphingopyxis alaskensis RB2256]
+GAACAAATCTGGAAC
+>SJA_C1-32810(recA) Score=5.3 Pos=-90 [Sphingobium japonicum UT26S]
+GTTCCCCTCTTGTTC
+>SJA_C1-17380(PF04055) Score=5 Pos=-25 [Sphingobium japonicum UT26S]
+GTTCTCTCTATGTTC
+>SJA_C1-08440(lexA) Score=5.1 Pos=-33 [Sphingobium japonicum UT26S]
+GTTCTCCATCCGTTC
+>SJA_C1-32440(yoaA) Score=5.1 Pos=-36 [Sphingobium japonicum UT26S]
+GTTTCCCTTTTGTTC
+>SJA_C1-10500(radA) Score=5.3 Pos=-30 [Sphingobium japonicum UT26S]
+GTTCCTCATATGTTC
+>SJA_C1-00110(PF06319) Score=5.2 Pos=-27 [Sphingobium japonicum UT26S]
+GTTCCCTTCATGTTC
+>SJA_C1-04020(rmuC) Score=5 Pos=-30 [Sphingobium japonicum UT26S]
+GTTCACCTTTCGTTC
+>SJA_C1-21470(uvrD) Score=4.6 Pos=-87 [Sphingobium japonicum UT26S]
+ATTCGCCTTTTGTTC
+>SJA_C1-11420(imuA) Score=0.3 Pos=-19 [Sphingobium japonicum UT26S]
+GAACAAATAGGGAAC
+>SJA_C1-11700(uvrA) Score=0.8 Pos=-64 [Sphingobium japonicum UT26S]
+GAACAAATCTGGAAC
+>Swit_3216(lexA) Score=4.9 Pos=-44 [Sphingomonas wittichii RW1]
+GTTGCCTAAATGTTC
+>Swit_4095(PF04055) Score=4.6 Pos=-20 [Sphingomonas wittichii RW1]
+GTTCATGATATGTTC
+>Swit_4092(radA) Score=4.2 Pos=-28 [Sphingomonas wittichii RW1]
+GTTCTTGGTTCGTTC
+>Swit_0512(recA) Score=5 Pos=-89 [Sphingomonas wittichii RW1]
+GTTCTCCCCTTGTTC
+>Swit_0232(rmuC) Score=4.7 Pos=-28 [Sphingomonas wittichii RW1]
+GTTCCCATTCTGTTC
+>Swit_3565(yoaA) Score=5.3 Pos=-39 [Sphingomonas wittichii RW1]
+GTTCCCCAATCGTTC
+>Swit_1121(imuA) Score=0.9 Pos=-15 [Sphingomonas wittichii RW1]
+GAACAAAAATAGAAC
+>Swit_2823(PF06319) Score=4.8 Pos=-9 [Sphingomonas wittichii RW1]
+GTTCCCGCAATGTTC
+>Swit_3107(uvrA) Score=0.8 Pos=-25 [Sphingomonas wittichii RW1]
+GAACAAATCTGGAAC
+>ZMO0199(lexA) Score=5.1 Pos=-97 [Zymomonas mobilis subsp. mobilis ZM4]
+GTTCTATATCTGTTC
+>ZMO1166(recA) Score=5 Pos=-103 [Zymomonas mobilis subsp. mobilis ZM4]
+GTTCACCTTATGTTC
+>ZMO1588(uvrA) Score=-1.2 Pos=-94 [Zymomonas mobilis subsp. mobilis ZM4]
+GAACAAAGGGGGAAT

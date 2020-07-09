@@ -1,0 +1,32 @@
+>CPS_0977(omp(Tre)) Score=5.9 Pos=-142 [Colwellia psychrerythraea 34H]
+CAATGCAATCGATTGTAAAA
+>CPS_0977(omp(Tre)) Score=6.1 Pos=-119 [Colwellia psychrerythraea 34H]
+CCTTGCAATCGATTGCATTA
+>CPS_0981(treT) Score=4.8 Pos=-94 [Colwellia psychrerythraea 34H]
+ATATGCAATCGATAGTGTTT
+>CPS_0978(treR) Score=6.1 Pos=-94 [Colwellia psychrerythraea 34H]
+TAATGCAATCGATTGCAAGG
+>CPS_0978(treR) Score=5.9 Pos=-71 [Colwellia psychrerythraea 34H]
+TTTTACAATCGATTGCATTG
+>CPS_0980 Score=4.8 Pos=-133 [Colwellia psychrerythraea 34H]
+AAACACTATCGATTGCATAT
+>CPS_0980 Score=6.4 Pos=-76 [Colwellia psychrerythraea 34H]
+TTTTGCAAACGATTGCATAA
+>CPS_0981(treT) Score=6.4 Pos=-151 [Colwellia psychrerythraea 34H]
+TTATGCAATCGTTTGCAAAA
+>Patl_1823(treR) Score=6.4 Pos=-381 [Pseudoalteromonas atlantica T6c]
+AAATGCAAACGATTGCAATT
+>Patl_1824(treT) Score=6.2 Pos=-73 [Pseudoalteromonas atlantica T6c]
+GAATGCAAACGATTGCATTT
+>Patl_1822(omp(Tre)) Score=6.4 Pos=-64 [Pseudoalteromonas atlantica T6c]
+AATTGCAATCGTTTGCATTT
+>Patl_1822(omp(Tre)) Score=6.4 Pos=-88 [Pseudoalteromonas atlantica T6c]
+AAATGCAAACGATTGCAAAA
+>Patl_1823(treR) Score=6.4 Pos=-357 [Pseudoalteromonas atlantica T6c]
+TTTTGCAATCGTTTGCATTT
+>PTD2_20302(omp(Tre)) Score=6.4 Pos=-124 [Pseudoalteromonas tunicata D2]
+AATTGCAAACGTTTGCATAA
+>PTD2_20312(treT) Score=6.4 Pos=-113 [Pseudoalteromonas tunicata D2]
+AAATGCAAACGTTTGCATTT
+>PTD2_20307(treR) Score=6.4 Pos=-165 [Pseudoalteromonas tunicata D2]
+TTATGCAAACGTTTGCAATT

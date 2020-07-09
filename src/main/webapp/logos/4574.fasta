@@ -1,0 +1,26 @@
+>CKO_03643(ulaA) Score=5.3 Pos=-82 [Citrobacter koseri ATCC BAA-895]
+TGATTACTTTTGAAAATTAG
+>CKO_03645(ulaG) Score=5.3 Pos=-286 [Citrobacter koseri ATCC BAA-895]
+CTAATTTTCAAAAGTAATCA
+>CKO_03645(ulaG) Score=4.3 Pos=-44 [Citrobacter koseri ATCC BAA-895]
+GGATTAATCAAAACAAATCA
+>ETAE_3292(ulaA) Score=4.2 Pos=-96 [Edwardsiella tarda EIB202]
+TGATTTTTAACGATTGCTAG
+>ETAE_3291 Score=4.2 Pos=-75 [Edwardsiella tarda EIB202]
+CTAGCAATCGTTAAAAATCA
+>b4193(ulaA) Score=5.3 Pos=-82 [Escherichia coli str. K-12 substr. MG1655]
+TGATTACTTTTGAAAATTAG
+>b4192(ulaG) Score=5.3 Pos=-292 [Escherichia coli str. K-12 substr. MG1655]
+CTAATTTTCAAAAGTAATCA
+>b4192(ulaG) Score=3.9 Pos=-60 [Escherichia coli str. K-12 substr. MG1655]
+GGATTAATCAAAACCAATCA
+>KPN_04586(ulaA) Score=5.3 Pos=-83 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGATTATTTTTGATTATTAG
+>KPN_04585(ulaG) Score=5.3 Pos=-299 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTAATAATCAAAAATAATCA
+>KPN_04585(ulaG) Score=4.5 Pos=-32 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGATTACTATTGAAAATACG
+>STM4383.S(ulaA) Score=5.4 Pos=-80 [Salmonella typhimurium LT2]
+TGATTACTTTTGAAAATTAA
+>STM4382(ulaG) Score=4.3 Pos=-59 [Salmonella typhimurium LT2]
+GGATTAATCAAAACAAATCA

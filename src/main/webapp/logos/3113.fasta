@@ -1,0 +1,322 @@
+>LACR_1202(pncB) Score=4 Pos=-218 [Lactococcus lactis subsp. cremoris SK11]
+TTGTAGTATAAAAAACAT
+>LACR_2457(adhE) Score=5 Pos=-101 [Lactococcus lactis subsp. cremoris SK11]
+TTGTAAATTTCATCACAA
+>LACR_2457(adhE) Score=4.7 Pos=-58 [Lactococcus lactis subsp. cremoris SK11]
+TTGTTAAACTATTCACGT
+>LACR_2457(adhE) Score=4.5 Pos=-34 [Lactococcus lactis subsp. cremoris SK11]
+AAGTGAATGAAATCACAA
+>LACR_0668(eno) Score=4.4 Pos=-80 [Lactococcus lactis subsp. cremoris SK11]
+TTGAAAAATCTTTCAAAA
+>LACR_0248(pgk) Score=4.5 Pos=-91 [Lactococcus lactis subsp. cremoris SK11]
+TTGTGATATAATTAACCT
+>LACR_1455(ldh) Score=4.1 Pos=-63 [Lactococcus lactis subsp. cremoris SK11]
+TTGTTGAAAAGATTATAT
+>LACR_1156(rex) Score=5.3 Pos=-74 [Lactococcus lactis subsp. cremoris SK11]
+TTGATAAAATTATCACAA
+>L107468(pncB) Score=3.9 Pos=-181 [Lactococcus lactis subsp. lactis Il1403]
+TTGTAGTACAAAAAACAT
+>L13145(adhE) Score=4.3 Pos=-34 [Lactococcus lactis subsp. lactis Il1403]
+AAGTGAATGAAGTCACAA
+>L0009(fba) Score=4.8 Pos=-63 [Lactococcus lactis subsp. lactis Il1403]
+TAGAAAAATACTTCACAA
+>L13145(adhE) Score=5 Pos=-101 [Lactococcus lactis subsp. lactis Il1403]
+TTGTAAAAACTATCACAA
+>L0017(ldh) Score=4.1 Pos=-63 [Lactococcus lactis subsp. lactis Il1403]
+TTGTTGAAAAGATTATAT
+>L0007(eno) Score=4.4 Pos=-80 [Lactococcus lactis subsp. lactis Il1403]
+TTGAAAAATCTTTCAAAA
+>L0010(pgk) Score=4.5 Pos=-91 [Lactococcus lactis subsp. lactis Il1403]
+TTGTGATATAATTAACCT
+>L13145(adhE) Score=4.7 Pos=-58 [Lactococcus lactis subsp. lactis Il1403]
+TTGTTAAACTATTCACGT
+>L71932(rex) Score=5.3 Pos=-75 [Lactococcus lactis subsp. lactis Il1403]
+TTGATAAAATTATCACAA
+>SAG0054(adhB1) Score=4.4 Pos=-118 [Streptococcus agalactiae 2603V/R]
+TTAAGAATATTTTCAAAA
+>SAG1768(gap) Score=4.4 Pos=-76 [Streptococcus agalactiae 2603V/R]
+AAGTTAATCTTTTCACAT
+>SAG0958(noxE) Score=4.3 Pos=-165 [Streptococcus agalactiae 2603V/R]
+TTGTGAATTTGTGAAAAA
+>SAG0958(noxE) Score=4.7 Pos=-59 [Streptococcus agalactiae 2603V/R]
+TTGTGAATAATGTTATAA
+>SAG0053(adhE) Score=5.6 Pos=-35 [Streptococcus agalactiae 2603V/R]
+TTGTGAAACATTTAACAA
+>SAG0053(adhE) Score=5.2 Pos=-113 [Streptococcus agalactiae 2603V/R]
+TTGAAAAAAAGTTCACAA
+>SAG0053(adhE) Score=5.5 Pos=-90 [Streptococcus agalactiae 2603V/R]
+TTGTGAAACTATTTACAA
+>SAG0628(eno) Score=4.4 Pos=-123 [Streptococcus agalactiae 2603V/R]
+TAGTGATTTTTTTATCAA
+>SAG1766(pgk) Score=4.7 Pos=-84 [Streptococcus agalactiae 2603V/R]
+TTGTGAAAAAGTAATCAA
+>SAG1084(forT) Score=4.5 Pos=-32 [Streptococcus agalactiae 2603V/R]
+AAGTTAATAAAATCACAT
+>SAG0959(ldh) Score=4.4 Pos=-102 [Streptococcus agalactiae 2603V/R]
+TTGCAAATTTTTTCACAT
+>SAG0763(tpi) Score=4 Pos=-72 [Streptococcus agalactiae 2603V/R]
+TCGTGAAACTTTTAATTA
+>SAG0054(adhB1) Score=4.8 Pos=-73 [Streptococcus agalactiae 2603V/R]
+TTGTGAAGAATAATACAA
+>SAG1100(rex) Score=4.5 Pos=-36 [Streptococcus agalactiae 2603V/R]
+TAATAAAATTTTTAACAA
+>SDEG_1936(gap) Score=4.7 Pos=-78 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AAGTTAATCTTTTCACAA
+>SDEG_1714(pncB) Score=4.7 Pos=-39 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ATGTTATAATAGTAACAA
+>SDEG_2053(ahpC) Score=4.5 Pos=-141 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ATGTGATGCTATTCACAT
+>SDEG_0909(noxE) Score=4.6 Pos=-23 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAAATGAGGAACAA
+>SDEG_0062(adhB1) Score=5.1 Pos=-76 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAAAAGATATACAA
+>SDEG_0061(adhE) Score=5.2 Pos=-112 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGAAAAAAACTTCACAA
+>SDEG_0061(adhE) Score=5.4 Pos=-89 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAAATGATTTACAA
+>SDEG_0061(adhE) Score=5.5 Pos=-34 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAAACTTTTAACAA
+>SDEG_0704(eno) Score=4.8 Pos=-52 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGGTATTATTAACAT
+>SDEG_0911(ldh) Score=4.2 Pos=-77 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+ATGACAAACAATTCTCAA
+>SDEG_1466(forT) Score=4.8 Pos=-2 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAATACGATAACAA
+>SDEG_0629(tpi) Score=5.1 Pos=-97 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGTGAAAATATTCCTAA
+>Sez_0137(ahpC) Score=5 Pos=-134 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGACTAAATTCACAT
+>Sez_1574(pncB) Score=4.3 Pos=-39 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ATGGTATAATAATAACAA
+>Sez_1023(noxE) Score=4.3 Pos=-81 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAATGAGGAACAT
+>Sez_0043(adhE) Score=5 Pos=-112 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGAAAAAAACATCACAA
+>Sez_0043(adhE) Score=5.4 Pos=-89 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAATGATTTACAA
+>Sez_0043(adhE) Score=5.5 Pos=-34 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAACTTTTAACAA
+>Sez_0774(eno) Score=4.8 Pos=-52 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGGTATTATTAACAT
+>Sez_0272(pgk) Score=4.3 Pos=-96 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAATAGTTAATTT
+>Sez_1022(ldh) Score=3.9 Pos=-79 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ATGACAAAGACATTACAA
+>Sez_0639(forT) Score=5.1 Pos=-2 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAATATACTAACAA
+>Sez_1321(tpi) Score=5 Pos=-97 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAAATATTACTAA
+>Sez_0046(adhB1) Score=5.1 Pos=-80 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGTGAAAAAGTATACAA
+>Sez_1050(rex) Score=4.4 Pos=-31 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TAGTTGCATATTTCACAA
+>GALLO_0255(fba) Score=4.2 Pos=-60 [Streptococcus gallolyticus UCN34]
+TTGTGATAAAATGTACGT
+>GALLO_1458(eno) Score=4.4 Pos=-38 [Streptococcus gallolyticus UCN34]
+GTGTAAAAATATTAAAAA
+>GALLO_1995(pgk) Score=4.4 Pos=-137 [Streptococcus gallolyticus UCN34]
+TTGTAAAATGATACAGAA
+>GALLO_1995(pgk) Score=4.5 Pos=-47 [Streptococcus gallolyticus UCN34]
+TTGTGATATAATTAGCAT
+>GALLO_2034(ldh) Score=3.8 Pos=-85 [Streptococcus gallolyticus UCN34]
+TTATTATACAATTCCAAA
+>GALLO_1129(ldh) Score=4 Pos=-106 [Streptococcus gallolyticus UCN34]
+TTTTCAAAGTTTTTACAA
+>GALLO_0220(adhE) Score=4.2 Pos=-260 [Streptococcus gallolyticus UCN34]
+TTGTAATAAAAATGAAAA
+>GALLO_0220(adhE) Score=4.3 Pos=-216 [Streptococcus gallolyticus UCN34]
+TTGAAAAAAGTTTAATAT
+>GALLO_0220(adhE) Score=4.7 Pos=-195 [Streptococcus gallolyticus UCN34]
+TGGTGAAGAATATCACAA
+>SGO_1137(forT) Score=3.8 Pos=-40 [Streptococcus gordonii str. Challis substr. CH1]
+ATGATATATTGGTCATAA
+>SGO_1745(fba) Score=4.6 Pos=-61 [Streptococcus gordonii str. Challis substr. CH1]
+AAGTGATAAAATAAACAA
+>SGO_0565(adhB1) Score=5.2 Pos=-52 [Streptococcus gordonii str. Challis substr. CH1]
+TTGTGATATAATTAACAT
+>SGO_0113(adhE) Score=5.1 Pos=-140 [Streptococcus gordonii str. Challis substr. CH1]
+TTGAAATATATTTCACAA
+>SGO_0113(adhE) Score=5.8 Pos=-51 [Streptococcus gordonii str. Challis substr. CH1]
+TTGTGAAAAAATTAACAA
+>SGO_0209(pgk) Score=4.7 Pos=-46 [Streptococcus gordonii str. Challis substr. CH1]
+TTGTGATATAATTATCAT
+>SGO_0762(tpi) Score=4.5 Pos=-89 [Streptococcus gordonii str. Challis substr. CH1]
+TTGATAAAAACTTAGCAA
+>SGO_1232(ldh) Score=3.8 Pos=-118 [Streptococcus gordonii str. Challis substr. CH1]
+TTCTAAAAACGTTTACAT
+>SGO_0207(gap) Score=4 Pos=-158 [Streptococcus gordonii str. Challis substr. CH1]
+ATTTGAAAGAATGAACAA
+>SGO_1228(rex) Score=4.7 Pos=-54 [Streptococcus gordonii str. Challis substr. CH1]
+TAGTTGATTTTTTCACAA
+>smi_0231(adhE) Score=5.1 Pos=-191 [Streptococcus mitis B6]
+TTGAAATAATTTTCACAA
+>smi_0231(adhE) Score=4.5 Pos=-209 [Streptococcus mitis B6]
+TTGTGAAATAAAAAATAT
+>smi_1492(pncB) Score=4.3 Pos=-114 [Streptococcus mitis B6]
+TTGTTACTCTTTTCTCAA
+>smi_1009(forT) Score=4.3 Pos=-41 [Streptococcus mitis B6]
+TTGTGATATAATTATCAG
+>smi_1138(hemH) Score=5.1 Pos=-28 [Streptococcus mitis B6]
+TTGATAAAAACATCACAA
+>smi_0203(adhB2) Score=5 Pos=-95 [Streptococcus mitis B6]
+AAGTTAAAAAAATCACAA
+>smi_0231(adhE) Score=5.4 Pos=-141 [Streptococcus mitis B6]
+ATGAGAAAAATTTCACAA
+>smi_0231(adhE) Score=4.6 Pos=-97 [Streptococcus mitis B6]
+TTATGAAACTGTTTACAA
+>smi_0231(adhE) Score=5.8 Pos=-53 [Streptococcus mitis B6]
+TTGTGAAAAAATTAACAA
+>smi_0695(fba) Score=4.5 Pos=-62 [Streptococcus mitis B6]
+AAGTGATAAAATGAACAA
+>smi_1006(ldh) Score=4.2 Pos=-62 [Streptococcus mitis B6]
+AAGTGATAAAATTAAAAT
+>smi_0275(adhB1) Score=5.1 Pos=-114 [Streptococcus mitis B6]
+TTGTGATATACTTCACAT
+>smi_1188(rex) Score=5 Pos=-57 [Streptococcus mitis B6]
+TTGTTGATTTTTTCACAA
+>SMU.360(gap) Score=4.7 Pos=-81 [Streptococcus mutans UA159]
+AAGTTAATCTTTTCACAA
+>SMU.464(pncB) Score=4.3 Pos=-265 [Streptococcus mutans UA159]
+GTGTTATAATAGTAACAA
+>SMU.1053(rex) Score=4.4 Pos=-117 [Streptococcus mutans UA159]
+TTGTTATAAAAAAAACTA
+>SMU.1247(eno) Score=4.6 Pos=-49 [Streptococcus mutans UA159]
+TTGTGGTATGATTAACAT
+>SMU.361(pgk) Score=4.7 Pos=-47 [Streptococcus mutans UA159]
+TTGTGATATAATTATCAT
+>SMU.99(fba) Score=4.6 Pos=-61 [Streptococcus mutans UA159]
+AAGTGATAAAATAAACAA
+>SMU.1115(ldh) Score=4.4 Pos=-81 [Streptococcus mutans UA159]
+TAGTGACTTTCTTAACAA
+>SMU.148(adhE) Score=5.3 Pos=-130 [Streptococcus mutans UA159]
+TTGGGAAAAAATTCACAA
+>SMU.148(adhE) Score=4.8 Pos=-96 [Streptococcus mutans UA159]
+TTGTGAAAAGGGTTACAA
+>SMU.148(adhE) Score=4.8 Pos=-74 [Streptococcus mutans UA159]
+AAGTGAAGAAAATCACAA
+>SMU.1053(rex) Score=4.5 Pos=-58 [Streptococcus mutans UA159]
+ATGTTGCATTTTTCACAA
+>SMU.1410(frdC) Score=4.1 Pos=-57 [Streptococcus mutans UA159]
+ATGTGATGTTTTTCACTT
+>SP_0605(fba) Score=4.5 Pos=-62 [Streptococcus pneumoniae TIGR4]
+AAGTGATAAAATGAACAA
+>SP_0285(adhB1) Score=5.1 Pos=-114 [Streptococcus pneumoniae TIGR4]
+TTGTGATATACTTCACAT
+>SP_1421(pncB) Score=4.3 Pos=-114 [Streptococcus pneumoniae TIGR4]
+TTGTTACTCTTTTCTCAA
+>SP_1215(forT) Score=5 Pos=-41 [Streptococcus pneumoniae TIGR4]
+TTGTGATATAATTATCAA
+>SP_1009(hemH) Score=5.1 Pos=-28 [Streptococcus pneumoniae TIGR4]
+TTGATAAAAACATCACAA
+>SP_2055(adhB2) Score=5 Pos=-96 [Streptococcus pneumoniae TIGR4]
+AAGTTAAAAAAATCACAA
+>SP_2026(adhE) Score=4.5 Pos=-208 [Streptococcus pneumoniae TIGR4]
+TTGTGAAATAAAAAATAT
+>SP_2026(adhE) Score=5.1 Pos=-190 [Streptococcus pneumoniae TIGR4]
+TTGAAATAAATTTCACAA
+>SP_2026(adhE) Score=5.1 Pos=-140 [Streptococcus pneumoniae TIGR4]
+ATGAGAAAAGTTTCACAA
+>SP_2026(adhE) Score=4.6 Pos=-96 [Streptococcus pneumoniae TIGR4]
+TTATGAAACTGTTTACAA
+>SP_2026(adhE) Score=5.8 Pos=-52 [Streptococcus pneumoniae TIGR4]
+TTGTGAAAAAATTAACAA
+>SP_1119(gapN) Score=5.2 Pos=-94 [Streptococcus pneumoniae TIGR4]
+TTGTGAAAATAATCTCAA
+>SP_1090(rex) Score=5 Pos=-57 [Streptococcus pneumoniae TIGR4]
+TTGTTGATTTTTTCACAA
+>SPy0274(gap) Score=4.7 Pos=-79 [Streptococcus pyogenes M1 GAS]
+AAGTTAATCTTTTCACAA
+>SPy1653(pncB) Score=4.7 Pos=-39 [Streptococcus pyogenes M1 GAS]
+ATGTTATAATAGTAACAA
+>SPy2079(ahpC) Score=5.1 Pos=-136 [Streptococcus pyogenes M1 GAS]
+ATGTGATTTATTTCACAA
+>SPy1150(noxE) Score=4.6 Pos=-23 [Streptococcus pyogenes M1 GAS]
+TTGTGAAATGAGGAACAA
+>SPy0044(adhB1) Score=5 Pos=-67 [Streptococcus pyogenes M1 GAS]
+TTGTGAAAAGATGTACAA
+>SPy0613(tpi) Score=5.1 Pos=-97 [Streptococcus pyogenes M1 GAS]
+TTGTGAAAATATTCCTAA
+>SPy0731(eno) Score=4.3 Pos=-52 [Streptococcus pyogenes M1 GAS]
+TTGTGGTATTATGAACAT
+>SPy1151(ldh) Score=4.1 Pos=-77 [Streptococcus pyogenes M1 GAS]
+ATGACAAACAATTATCAA
+>SPy1424(forT) Score=4.8 Pos=-29 [Streptococcus pyogenes M1 GAS]
+TTGTGAATACAGTAACAA
+>SPy1120(rex) Score=4.5 Pos=-76 [Streptococcus pyogenes M1 GAS]
+ATGTTGCATTTTTCACAA
+>SSA_0774(gapN) Score=4.5 Pos=-91 [Streptococcus sanguinis SK36]
+TTGTGAAAAAATTCTTTA
+>SSA_1098(forT) Score=4.5 Pos=-44 [Streptococcus sanguinis SK36]
+TTGTGATATACTATACAT
+>SSA_0068(adhE) Score=5 Pos=-156 [Streptococcus sanguinis SK36]
+TTGTTATGTATTTCACAA
+>SSA_0068(adhE) Score=5.7 Pos=-67 [Streptococcus sanguinis SK36]
+TTGTGAAATATTTAACAA
+>SSA_1917(adhB1) Score=5.2 Pos=-51 [Streptococcus sanguinis SK36]
+TTGTGATATAATTAACAT
+>SSA_0068(adhE) Score=4.3 Pos=-226 [Streptococcus sanguinis SK36]
+ATGTGAAATCTTTAAAAT
+>SSA_0302(pgk) Score=4.5 Pos=-87 [Streptococcus sanguinis SK36]
+TTGTGAAAATTTTCTTTA
+>SSA_1992(fba) Score=4.6 Pos=-62 [Streptococcus sanguinis SK36]
+AAGTGATAAAATAAACAA
+>SSA_0886(eno) Score=4.7 Pos=-111 [Streptococcus sanguinis SK36]
+TTGTGCAAAATTTCTCAA
+>SSA_0886(eno) Score=4.2 Pos=-35 [Streptococcus sanguinis SK36]
+TAGTAAATAATTTTAAAT
+>SSA_1221(ldh) Score=4.5 Pos=-116 [Streptococcus sanguinis SK36]
+TTGTAAAAACGTTTACAT
+>SSA_2108(gap) Score=4.8 Pos=-157 [Streptococcus sanguinis SK36]
+TAGTGAAAGAATTCATAA
+>SSA_1216(rex) Score=4.7 Pos=-55 [Streptococcus sanguinis SK36]
+TAGTTGATTTTTTCACAA
+>SSU05_0280(adhE) Score=4.5 Pos=-129 [Streptococcus suis 05ZYH33]
+TTGGGGAAAAGTTAACAA
+>SSU05_0336(fba) Score=4.7 Pos=-111 [Streptococcus suis 05ZYH33]
+ATGTGAAAGTTTTCTCAA
+>SSU05_0279(adhB1) Score=5.2 Pos=-82 [Streptococcus suis 05ZYH33]
+TTGTGATATTCTTAACAA
+>SSU05_0157(pgk) Score=4.4 Pos=-87 [Streptococcus suis 05ZYH33]
+TTGTGAAAAAAATATCTT
+>SSU05_1069(rex) Score=4.5 Pos=-100 [Streptococcus suis 05ZYH33]
+CTGTTGATTTTTTCACAA
+>str1788(gap) Score=4.7 Pos=-50 [Streptococcus thermophilus CNRZ1066]
+AAGTTAATCTTTTCACAA
+>str1899(fba) Score=4.9 Pos=-60 [Streptococcus thermophilus CNRZ1066]
+TTGTGATAAAATAAACAT
+>str1884(adhE) Score=5.3 Pos=-37 [Streptococcus thermophilus CNRZ1066]
+TTGTGAAGTTTTTAACAA
+>str0488(tpi) Score=4.7 Pos=-46 [Streptococcus thermophilus CNRZ1066]
+TTGTGATAAAATAAACGA
+>str1281(noxE) Score=4.6 Pos=-91 [Streptococcus thermophilus CNRZ1066]
+TTGTTCAAAAAGTAACAA
+>str1463(rex) Score=4.6 Pos=-39 [Streptococcus thermophilus CNRZ1066]
+TTGTTGCAATCTTCACAA
+>SUB1630(gap) Score=4.7 Pos=-78 [Streptococcus uberis 0140J]
+AAGTTAATCTTTTCACAA
+>SUB0877(noxE) Score=4.6 Pos=-170 [Streptococcus uberis 0140J]
+TTGTGAATTTATGAACTA
+>SUB0877(noxE) Score=4.7 Pos=-24 [Streptococcus uberis 0140J]
+TTGTGAAAAGAGGAACAA
+>SUB0330(fba) Score=4.4 Pos=-59 [Streptococcus uberis 0140J]
+TTGTGCTAAAATGAACAA
+>SUB0063(adhE) Score=5.5 Pos=-38 [Streptococcus uberis 0140J]
+TTGTGAAACTTTTAACAA
+>SUB0063(adhE) Score=5.2 Pos=-116 [Streptococcus uberis 0140J]
+TTGAAAAAAAGTTCACAA
+>SUB0655(eno) Score=4.3 Pos=-101 [Streptococcus uberis 0140J]
+AAGTGAAATTTTTCATTA
+>SUB0655(eno) Score=4.2 Pos=-52 [Streptococcus uberis 0140J]
+TTGTGATATTATGGACAT
+>SUB1629(pgk) Score=4.5 Pos=-96 [Streptococcus uberis 0140J]
+TTGTGAAAAAAATAATTT
+>SUB0063(adhE) Score=5.5 Pos=-93 [Streptococcus uberis 0140J]
+TTGTGAAACTATTTACAA
+>SUB0879(ldh) Score=4.3 Pos=-77 [Streptococcus uberis 0140J]
+GTGACAAACTATTCACAA
+>SUB1260(forT) Score=4.9 Pos=-29 [Streptococcus uberis 0140J]
+TTGTGAAAATGATAACTA
+>SUB0605(tpi) Score=5.2 Pos=-98 [Streptococcus uberis 0140J]
+TTGTGAAAATTATCCCAA
+>SUB0845(rex) Score=4.4 Pos=-52 [Streptococcus uberis 0140J]
+TTGTTACAATAGTAACAT

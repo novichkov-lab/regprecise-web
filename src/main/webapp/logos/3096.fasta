@@ -1,0 +1,38 @@
+>PE36_15295(fadB) Score=5.6 Pos=-135 [Moritella sp. PE36]
+AGTTAAACAGTCGTTTAAAA
+>PE36_15295(fadB) Score=4.8 Pos=-122 [Moritella sp. PE36]
+TTTAAAATAAGTGTTGAAAT
+>PE36_04678(psrA) Score=5.3 Pos=-81 [Moritella sp. PE36]
+TTTCAAACATTTGTTTACAT
+>PE36_04678(psrA) Score=5.6 Pos=-30 [Moritella sp. PE36]
+TTTAAAACGTTCGTTTAAAA
+>PE36_17987(fadI) Score=5.1 Pos=-96 [Moritella sp. PE36]
+TTTCAAACTAATGTTTGAAT
+>PE36_13067(fadH) Score=4.4 Pos=-132 [Moritella sp. PE36]
+GATTAAAATAGCGTTTGAAA
+>PE36_13067(fadH) Score=4.3 Pos=-119 [Moritella sp. PE36]
+TTTGAAATGAACGATTAAAT
+>PE36_15065 Score=5.7 Pos=-55 [Moritella sp. PE36]
+ATTCAAACATATGTTTGAAA
+>PE36_17450(fadD2) Score=5.3 Pos=-138 [Moritella sp. PE36]
+AATCATACGACTGTTTAAAT
+>AHA_0139(fadB) Score=5.1 Pos=-123 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TGTTAAACGAATGTTTTAAA
+>AHA_0139(fadB) Score=4.8 Pos=-110 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TTTTAAATAGGTGTTGAAAT
+>AHA_1345(psrA) Score=5.4 Pos=-30 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TTTTAAACATTCGTTTAAGT
+>AHA_2153(fadI) Score=4.8 Pos=-100 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TTTCAATCAGCCGTATGAAA
+>AHA_3357(fadH) Score=5 Pos=-182 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+GTCCAAACATTTGTTTGAAA
+>ASA_4250(fadB) Score=5.2 Pos=-123 [Aeromonas salmonicida subsp. salmonicida A449]
+TGTTAAACAAATGTTTTAAA
+>ASA_4250(fadB) Score=4.8 Pos=-110 [Aeromonas salmonicida subsp. salmonicida A449]
+TTTTAAATAGGTGTTGAAAA
+>ASA_1317(psrA) Score=5.1 Pos=-19 [Aeromonas salmonicida subsp. salmonicida A449]
+TTTTAAACATTCGTTTTAAG
+>ASA_2146(fadI) Score=4.8 Pos=-89 [Aeromonas salmonicida subsp. salmonicida A449]
+TTTCAATCAGCCGTATGAAA
+>ASA_0950(fadH) Score=5 Pos=-81 [Aeromonas salmonicida subsp. salmonicida A449]
+GTCCAAACATTTGTTTGAAA

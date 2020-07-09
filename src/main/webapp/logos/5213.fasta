@@ -1,0 +1,974 @@
+>Dret_2390(zraP) Score=5 Pos=-78 [Desulfohalobium retbaense DSM 5692]
+TTTGGCACGCCCAATGCAT
+>Dret_0589(flhF) Score=4.2 Pos=-92 [Desulfohalobium retbaense DSM 5692]
+GACGGAACGGTATTTGCCC
+>Dret_0569(fliF) Score=4.5 Pos=-290 [Desulfohalobium retbaense DSM 5692]
+ATTGGAGCACTTTTTGCTC
+>Dret_0569(fliF) Score=4.7 Pos=-130 [Desulfohalobium retbaense DSM 5692]
+TATGGCGTGGTATTTGCAT
+>Dret_0653(flgB) Score=3.5 Pos=-159 [Desulfohalobium retbaense DSM 5692]
+TAGGGCTCAGGTGTTGCCT
+>Dret_0199(adh) Score=4.9 Pos=-95 [Desulfohalobium retbaense DSM 5692]
+TTTGGCCCGATATTTGCTC
+>Dret_2267(amt) Score=5.1 Pos=-53 [Desulfohalobium retbaense DSM 5692]
+TTTGGCACCTCTCTTGCCT
+>Dret_2081(lpxC) Score=4.9 Pos=-40 [Desulfohalobium retbaense DSM 5692]
+CGTGGAATGATTTTTGCTT
+>Dret_0578(motA) Score=4.5 Pos=-51 [Desulfohalobium retbaense DSM 5692]
+GCTGGCATAATTTATGCTA
+>Dret_0446 Score=4.8 Pos=-67 [Desulfohalobium retbaense DSM 5692]
+ATCGGCACGGACATTGCTA
+>Dret_0113(amt) Score=4.8 Pos=-70 [Desulfohalobium retbaense DSM 5692]
+ATTGGCCCCATCCTTGCTA
+>Dret_0167 Score=4.1 Pos=-228 [Desulfohalobium retbaense DSM 5692]
+TCAGGCATATAAATTGCTT
+>Dret_0164 Score=4.6 Pos=-82 [Desulfohalobium retbaense DSM 5692]
+ATCGGAACGGATATTGCTT
+>Dret_1039(lldP) Score=4.5 Pos=-90 [Desulfohalobium retbaense DSM 5692]
+TATGGCATGGATATTGAAT
+>Dret_1220 Score=4.6 Pos=-147 [Desulfohalobium retbaense DSM 5692]
+TTTGGTTTGCTTTTTGCTT
+>Dret_1485(ald) Score=4.6 Pos=-210 [Desulfohalobium retbaense DSM 5692]
+TTTGGCAAAGTTTGTGCAT
+>Dbac_2711(zraP) Score=5 Pos=-81 [Desulfomicrobium baculatum DSM 4028]
+ATTGGCACGGCGTCTGCTA
+>Dbac_0116 Score=4.1 Pos=-45 [Desulfomicrobium baculatum DSM 4028]
+ATGGGTACCAATCTTGCTT
+>Dbac_2264 Score=5.2 Pos=-101 [Desulfomicrobium baculatum DSM 4028]
+GCTGGCATGGTCTTTGCCT
+>Dbac_2224 Score=3.9 Pos=-311 [Desulfomicrobium baculatum DSM 4028]
+CCGGGCATTGAACTTGCTC
+>Dbac_0370 Score=3.7 Pos=-62 [Desulfomicrobium baculatum DSM 4028]
+ATTGGGCAGGCGGTTGCTT
+>Dbac_2404(DVU0518) Score=4 Pos=-106 [Desulfomicrobium baculatum DSM 4028]
+ACTGGTCGGGATTTTGCAA
+>Dbac_0116 Score=4.1 Pos=-45 [Desulfomicrobium baculatum DSM 4028]
+ATGGGTACCAATCTTGCTT
+>Dbac_3471(flhA) Score=4.9 Pos=-144 [Desulfomicrobium baculatum DSM 4028]
+CCTGGCACGCGCCTTGTAT
+>Dbac_3470(flhF) Score=4.8 Pos=-95 [Desulfomicrobium baculatum DSM 4028]
+CCTGGCCCGTTTTTTGCCA
+>Dbac_2434(fliK) Score=4.8 Pos=-44 [Desulfomicrobium baculatum DSM 4028]
+TTTGGCCCGCCTTTTGATC
+>Dbac_2433(flgD) Score=3.8 Pos=-85 [Desulfomicrobium baculatum DSM 4028]
+TCTGGTCCGGGATGTGCAC
+>Dbac_0833(nifV) Score=4.2 Pos=-57 [Desulfomicrobium baculatum DSM 4028]
+CGTGGCATCGACCATGCAA
+>Dbac_0547 Score=4.8 Pos=-44 [Desulfomicrobium baculatum DSM 4028]
+TCTGGCATGGGATCTGCTT
+>Dbac_1614(flgE) Score=4.1 Pos=-84 [Desulfomicrobium baculatum DSM 4028]
+CATGGACCCATTCCTGCAT
+>Dbac_1014(zraP) Score=4.8 Pos=-63 [Desulfomicrobium baculatum DSM 4028]
+TCTGGCACGGCACTTGATA
+>Dbac_2249(fliJ) Score=4.5 Pos=-29 [Desulfomicrobium baculatum DSM 4028]
+TTGTGCACGCTTTTTGCTA
+>Dbac_3026(flgB) Score=4.7 Pos=-91 [Desulfomicrobium baculatum DSM 4028]
+TCTGGAATGGTCATTGCAA
+>Dbac_0848(hdrC) Score=4.4 Pos=-149 [Desulfomicrobium baculatum DSM 4028]
+TATGGCACTAAATCTGCTT
+>Dbac_2146 Score=5.2 Pos=-113 [Desulfomicrobium baculatum DSM 4028]
+CTTGGAACGCTCTTTGCTC
+>Dbac_2155 Score=5.3 Pos=-282 [Desulfomicrobium baculatum DSM 4028]
+TTTGGAATGCTCCTTGCTT
+>Dbac_3326(adh) Score=4.7 Pos=-88 [Desulfomicrobium baculatum DSM 4028]
+TCTGGCCTCATTCTTGCCT
+>Dbac_2669 Score=5 Pos=-55 [Desulfomicrobium baculatum DSM 4028]
+CATGGCACGCGCCTTGTTT
+>Dbac_3025 Score=4.2 Pos=-73 [Desulfomicrobium baculatum DSM 4028]
+GGTGGCATCAAAGTTGCTA
+>Dbac_1587 Score=4.3 Pos=-156 [Desulfomicrobium baculatum DSM 4028]
+ATTGGCACAGAGAATGCTC
+>Dbac_1588(dtcP) Score=4.9 Pos=-109 [Desulfomicrobium baculatum DSM 4028]
+GATGGCATGCATTCTGCTC
+>Dbac_2588 Score=4.3 Pos=-49 [Desulfomicrobium baculatum DSM 4028]
+AATGGCACAATTCTTTCAT
+>Dbac_1772 Score=4.4 Pos=-70 [Desulfomicrobium baculatum DSM 4028]
+GCTGGCCCGAAATCTGCTA
+>Dbac_1496(glnN) Score=4.4 Pos=-89 [Desulfomicrobium baculatum DSM 4028]
+TGTGGCATCTGAATTGCTT
+>Dbac_2789(lpxC) Score=4.4 Pos=-29 [Desulfomicrobium baculatum DSM 4028]
+TCTGGCATGAAGTTTGATA
+>Dbac_2430(flaB1) Score=4.1 Pos=-53 [Desulfomicrobium baculatum DSM 4028]
+AATGGCATTCTGTGTGCAA
+>Dbac_2386(fliD) Score=4.7 Pos=-64 [Desulfomicrobium baculatum DSM 4028]
+TCTGGCACCAGGTTTGCTC
+>Dbac_0245 Score=4.6 Pos=-46 [Desulfomicrobium baculatum DSM 4028]
+CTTGGTATCTATCTTGCTT
+>Dbac_2476 Score=5 Pos=-47 [Desulfomicrobium baculatum DSM 4028]
+CTTGGCAGGGACTTTGCTT
+>Dbac_2410(flgF) Score=4.8 Pos=-46 [Desulfomicrobium baculatum DSM 4028]
+ACTGGCCTGGTATTTGCTC
+>Dbac_3473(fliR) Score=4.7 Pos=-30 [Desulfomicrobium baculatum DSM 4028]
+TCTGGTCCGCGTTTTGCTG
+>Dbac_2301 Score=4.7 Pos=-43 [Desulfomicrobium baculatum DSM 4028]
+GGCGGCACGGCTCATGCTT
+>Dbac_0448 Score=5 Pos=-96 [Desulfomicrobium baculatum DSM 4028]
+CATGGCACCGCATTTGCTT
+>Dbac_3049(amt) Score=4.8 Pos=-56 [Desulfomicrobium baculatum DSM 4028]
+TTTGGCACTGCCTGTGCTT
+>Dbac_1044(por) Score=4.3 Pos=-91 [Desulfomicrobium baculatum DSM 4028]
+AGTGGCACAAAACTTGTTT
+>Dbac_1728(lldG) Score=5 Pos=-53 [Desulfomicrobium baculatum DSM 4028]
+GCTGGCACGCATCCTGCCT
+>Dbac_1016(zraS) Score=4.3 Pos=-112 [Desulfomicrobium baculatum DSM 4028]
+TCAGGCAGGGTATTTGCTA
+>Dbac_1225(pspA) Score=4.7 Pos=-61 [Desulfomicrobium baculatum DSM 4028]
+ACTGGCATGATCTCTGCTC
+>Dbac_2656 Score=4.9 Pos=-84 [Desulfomicrobium baculatum DSM 4028]
+TGTGGCAGGTCTTTTGCTT
+>Dbac_0313 Score=4.9 Pos=-85 [Desulfomicrobium baculatum DSM 4028]
+GTTGGCATGTGCGTTGCTT
+>Dbac_3071(ald) Score=4.4 Pos=-67 [Desulfomicrobium baculatum DSM 4028]
+TGTGGTAAGCTTTTTGCCA
+>Dbac_0834(nifH) Score=5.1 Pos=-81 [Desulfomicrobium baculatum DSM 4028]
+TTTGGCACGCCCGTTGCCC
+>Dbac_2976 Score=4.4 Pos=-40 [Desulfomicrobium baculatum DSM 4028]
+GTTGGCATGAATCTGGCTC
+>Dbac_0691 Score=4.4 Pos=-67 [Desulfomicrobium baculatum DSM 4028]
+GCTGGCATGAATGTTGATT
+>Dbac_3048 Score=5.2 Pos=-45 [Desulfomicrobium baculatum DSM 4028]
+TATGGCACCGTCCTTGCTC
+>Dbac_2235 Score=5 Pos=-63 [Desulfomicrobium baculatum DSM 4028]
+TTTGGCACGGTCGATGCAT
+>Dbac_2231 Score=5 Pos=-65 [Desulfomicrobium baculatum DSM 4028]
+ATTGGCATGGACCATGCTT
+>Dbac_2944 Score=5.3 Pos=-62 [Desulfomicrobium baculatum DSM 4028]
+CCTGGCACGGCCCTTGCCT
+>Dbac_1721 Score=4.4 Pos=-62 [Desulfomicrobium baculatum DSM 4028]
+CTTGGCAACAAACTTGCTA
+>Dbac_2385(fliC) Score=3.8 Pos=-64 [Desulfomicrobium baculatum DSM 4028]
+CAAGGCCCGCAAACTGCTC
+>Dbac_0594(nifA-2) Score=4.7 Pos=-29 [Desulfomicrobium baculatum DSM 4028]
+TGCGGCATCCTTGTTGCTT
+>Dbac_1753 Score=4.5 Pos=-84 [Desulfomicrobium baculatum DSM 4028]
+CCCGGCATATATTTTGCTA
+>Dbac_2145 Score=5 Pos=-84 [Desulfomicrobium baculatum DSM 4028]
+TATGGCATGCCATCTGCTT
+>Dbac_2236 Score=4.6 Pos=-115 [Desulfomicrobium baculatum DSM 4028]
+GCTGGTACGTTCGTTGCTA
+>Dde_0191 Score=5.1 Pos=-227 [Desulfovibrio desulfuricans G20]
+GTTGGCACGGCAGTTGCTA
+>Dde_0357 Score=5.2 Pos=-141 [Desulfovibrio desulfuricans G20]
+GGTGGCACGGTTCCTGCTT
+>Dde_1684(hydH) Score=4.6 Pos=-54 [Desulfovibrio desulfuricans G20]
+TTTGGCACGTGTTTTTCAT
+>Dde_0318 Score=4.5 Pos=18 [Desulfovibrio desulfuricans G20]
+AAAGGCACGGCTTCTGCTG
+>Dde_0323 Score=5.2 Pos=-187 [Desulfovibrio desulfuricans G20]
+GTTGGCACGTTCCTTGCCT
+>Dde_0438 Score=4 Pos=-80 [Desulfovibrio desulfuricans G20]
+CCCGGCACGTGGCATGCAA
+>Dde_0438 Score=5.1 Pos=-73 [Desulfovibrio desulfuricans G20]
+CGTGGCATGCAACTTGCTT
+>Dde_0380(flhA) Score=4.8 Pos=-145 [Desulfovibrio desulfuricans G20]
+GCTGGCACGGGCCTTGTAT
+>Dde_3153(DVU0518) Score=4.1 Pos=-164 [Desulfovibrio desulfuricans G20]
+GCTGGCAGGAAAATTGCTG
+>Dde_0645 Score=4.4 Pos=-48 [Desulfovibrio desulfuricans G20]
+TTTGGCACCGGTGTTGTAA
+>Dde_0816 Score=4.1 Pos=-98 [Desulfovibrio desulfuricans G20]
+CACGGCATCATGATTGCAT
+>Dde_0438 Score=5.1 Pos=-73 [Desulfovibrio desulfuricans G20]
+CGTGGCATGCAACTTGCTT
+>Dde_0420 Score=4.4 Pos=-45 [Desulfovibrio desulfuricans G20]
+TGTGGCCGGCATTTTGCAC
+>Dde_1712(flgD) Score=4 Pos=-87 [Desulfovibrio desulfuricans G20]
+TTTGGCCCAGGAAATGCAA
+>Dde_1713(fliK) Score=4.8 Pos=-44 [Desulfovibrio desulfuricans G20]
+TCTGGAACGCCTTTTGTAT
+>Dde_2287(nudF) Score=4.9 Pos=-243 [Desulfovibrio desulfuricans G20]
+AATGGCACGCTTGATGCTA
+>Dde_3237(por) Score=4.8 Pos=-163 [Desulfovibrio desulfuricans G20]
+CATGGCATACTTTTTGTTT
+>Dde_0298(flgE) Score=5.3 Pos=-86 [Desulfovibrio desulfuricans G20]
+TCTGGCACGGTCCATGCTT
+>Dde_0356(flgB) Score=4.9 Pos=-75 [Desulfovibrio desulfuricans G20]
+CATGGAACACACCTTGCTT
+>Dde_0102(glnN) Score=4.7 Pos=-96 [Desulfovibrio desulfuricans G20]
+GTTGGCACCGACTCTGCAA
+>Dde_1258(frdC) Score=4.9 Pos=-159 [Desulfovibrio desulfuricans G20]
+ACTGGCACGGCATATGCTT
+>Dde_3523(adh) Score=5.1 Pos=-98 [Desulfovibrio desulfuricans G20]
+TTTGGCCCGTTCCTTGCCT
+>Dde_1275(dtcP) Score=4.4 Pos=-187 [Desulfovibrio desulfuricans G20]
+ATTGGAACACGCCTTGCCG
+>Dde_1275(dtcP) Score=4.7 Pos=-84 [Desulfovibrio desulfuricans G20]
+TTTGGCACATTACCTGCTC
+>Dde_1278 Score=4.5 Pos=-54 [Desulfovibrio desulfuricans G20]
+CAAGGCACGCTTTTTGCGA
+>Dde_0828 Score=4.8 Pos=-94 [Desulfovibrio desulfuricans G20]
+TGTGGCACGGTTTTGGCTA
+>Dde_0818 Score=3.9 Pos=-64 [Desulfovibrio desulfuricans G20]
+ACTGGCATGAAATTGGCAA
+>Dde_0696(cckA) Score=4 Pos=-71 [Desulfovibrio desulfuricans G20]
+ACAGGCACACCCCGTGCAC
+>Dde_0108 Score=4.2 Pos=-57 [Desulfovibrio desulfuricans G20]
+ATCGGCACTATGGTTGCTA
+>Dde_1120(fliD) Score=4.7 Pos=-70 [Desulfovibrio desulfuricans G20]
+CATGGCATTTTCCTTGCAT
+>Dde_2573 Score=4.2 Pos=-132 [Desulfovibrio desulfuricans G20]
+CATGGCCCTTCTTTTGCCG
+>Dde_2573 Score=4.3 Pos=-65 [Desulfovibrio desulfuricans G20]
+CACGGCACTCAATTTGCAT
+>Dde_2986(lpxC) Score=4.8 Pos=-41 [Desulfovibrio desulfuricans G20]
+AACGGCACGATTATTGCTT
+>Dde_1501(flaB3) Score=5.2 Pos=-136 [Desulfovibrio desulfuricans G20]
+TCTGGCACGATTTATGCTT
+>Dde_1400 Score=5.1 Pos=-212 [Desulfovibrio desulfuricans G20]
+CTTGGCATGCATTGTGCTT
+>Dde_1709(flaB1) Score=5.1 Pos=-53 [Desulfovibrio desulfuricans G20]
+TTTGGCACCACCTTTGCTC
+>Dde_1455 Score=4.7 Pos=-54 [Desulfovibrio desulfuricans G20]
+GTTGGCAGACTTATTGCTA
+>Dde_3230 Score=4.4 Pos=-95 [Desulfovibrio desulfuricans G20]
+AATGGCAGAACCTTTGCAT
+>Dde_3197 Score=4.2 Pos=-49 [Desulfovibrio desulfuricans G20]
+GTCGGCATCATTCCTGCCT
+>Dde_3591(era) Score=4 Pos=-85 [Desulfovibrio desulfuricans G20]
+CGTGGCGCGCTGCTTGACT
+>Dde_3159(flgF) Score=4.9 Pos=-66 [Desulfovibrio desulfuricans G20]
+GCTGGCCCGCATGTTGCAT
+>Dde_2708(fliM) Score=4.1 Pos=-136 [Desulfovibrio desulfuricans G20]
+AATGGCATTTATTATGCAT
+>Dde_0378(fliR) Score=4.6 Pos=-30 [Desulfovibrio desulfuricans G20]
+GATGGTCTGTTTTTTGCTT
+>Dde_0564 Score=4.5 Pos=-83 [Desulfovibrio desulfuricans G20]
+ACCGGCACGGATACTGCAT
+>Dde_2311(amt) Score=5.2 Pos=-75 [Desulfovibrio desulfuricans G20]
+TCTGGCCTGCTGCTTGCTT
+>Dde_3492(amt) Score=4.9 Pos=-71 [Desulfovibrio desulfuricans G20]
+TTTGGCCCTCCTTTTGCTC
+>Dde_0657 Score=4.6 Pos=-83 [Desulfovibrio desulfuricans G20]
+ACCGGCACGGTTTGTGCTG
+>Dde_0110(zraS) Score=4.3 Pos=-208 [Desulfovibrio desulfuricans G20]
+TCTGGTGCGTTGCTTGCAT
+>Dde_3226(pspA) Score=4.4 Pos=-49 [Desulfovibrio desulfuricans G20]
+TCTGGCATAGAAGGTGCTT
+>Dde_3225(pspB) Score=4.3 Pos=-74 [Desulfovibrio desulfuricans G20]
+GCTGGCCTGTATGTTGCCA
+>Dde_1940 Score=5.1 Pos=-79 [Desulfovibrio desulfuricans G20]
+TCTGGCATCCATTTTGCTA
+>Dde_0876 Score=5.2 Pos=-116 [Desulfovibrio desulfuricans G20]
+TCTGGCACGCTTCTTGTTA
+>Dde_1553(ald) Score=5.1 Pos=-84 [Desulfovibrio desulfuricans G20]
+TCTGGCAAGGTGTTTGCTT
+>Dde_2357 Score=5.1 Pos=-82 [Desulfovibrio desulfuricans G20]
+CTTGGCACGGTGGTTGCCT
+>Dde_1654 Score=4.8 Pos=-87 [Desulfovibrio desulfuricans G20]
+GGTGGCATGCTTTATGCTC
+>Dde_2960 Score=4.8 Pos=-101 [Desulfovibrio desulfuricans G20]
+CATTGCACGCCTTTTGCAT
+>Dde_1786(mltC) Score=4.3 Pos=8 [Desulfovibrio desulfuricans G20]
+AATGGCATTGCCGCTGCTT
+>Dde_0111(zraP) Score=5.3 Pos=-78 [Desulfovibrio desulfuricans G20]
+TATGGCACGCCTGTTGCTC
+>Dde_2705(fliJ) Score=5.1 Pos=-112 [Desulfovibrio desulfuricans G20]
+TCTGGCCTGATCTTTGCTT
+>Dde_0404 Score=4.5 Pos=-52 [Desulfovibrio desulfuricans G20]
+AGTGGCACCACCTTTGCCA
+>Dde_2510 Score=4.9 Pos=-72 [Desulfovibrio desulfuricans G20]
+TTTGGAACCGCTATTGCTT
+>Dde_2509 Score=5.1 Pos=-76 [Desulfovibrio desulfuricans G20]
+CATGGAACGCTGTTTGCTT
+>Dde_2507 Score=4.6 Pos=-73 [Desulfovibrio desulfuricans G20]
+ACAGGCACGGCGATTGCTT
+>Dde_1017 Score=4.6 Pos=-58 [Desulfovibrio desulfuricans G20]
+TTTGGTACGCCTTTTGTAG
+>Dde_1834 Score=3.7 Pos=-70 [Desulfovibrio desulfuricans G20]
+CACGGCGCAAAGGTTGCAT
+>Dde_0288 Score=4.5 Pos=-308 [Desulfovibrio desulfuricans G20]
+TACGGCACGGCCGCTGCTC
+>Dde_1532 Score=4.7 Pos=-55 [Desulfovibrio desulfuricans G20]
+TCCGGCCTGTATTTTGCTT
+>Dde_2819(zraP) Score=5.2 Pos=-59 [Desulfovibrio desulfuricans G20]
+TTTGGCACACCTGTTGCTG
+>Dde_3211 Score=4.9 Pos=-88 [Desulfovibrio desulfuricans G20]
+GCTGGCACGCACGTTGCAC
+>Ddes_0750(nudF) Score=4.1 Pos=-76 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TGCGGCCCGGCGCGTGCTG
+>Ddes_0811 Score=4 Pos=47 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TATGGCAAAGCTCCTGTTG
+>Ddes_2002(DVU0518) Score=4.4 Pos=-84 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CGAGGCACGGAAATTGCTT
+>Ddes_0327(flhF) Score=4.5 Pos=-96 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGGCCCCTAATTTGCAT
+>Ddes_1259(fliK) Score=4.6 Pos=-43 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGAACACTCTTTGTAT
+>Ddes_1260(flgD) Score=4.4 Pos=-98 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTTGGAACAGCCTGTGCAT
+>Ddes_0185(zraP) Score=4.3 Pos=-134 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AGTTGCATGATTTTTGCAA
+>Ddes_2091(flgE) Score=5.3 Pos=-76 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCACGCTCTCTGCAT
+>Ddes_1576(flgB) Score=4.8 Pos=-59 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGAACAAATGTTGCTT
+>Ddes_1573(fliF) Score=4.5 Pos=-79 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTAGGCATGAATGTTGCTA
+>Ddes_0698(fliJ) Score=3.9 Pos=-119 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CGTGGCATGGTGGCTGCGC
+>Ddes_0698(fliJ) Score=5 Pos=-63 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGGCCCGCTGTTTGCAC
+>Ddes_2374 Score=5.3 Pos=-198 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCACGCACATTGCTC
+>Ddes_1436 Score=4.7 Pos=-123 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TGTGGCATGCCCCATGCAA
+>Ddes_0220 Score=4.6 Pos=-190 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGAACACTTCTTGTAT
+>Ddes_1437 Score=5.1 Pos=-228 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCACGCATCCTGCAA
+>Ddes_0311 Score=4.8 Pos=-61 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGGCACTGTACTTGCTG
+>Ddes_0313 Score=4.9 Pos=-75 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCATACAGTTTGCTT
+>Ddes_1147(amt) Score=4.7 Pos=-126 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGGCACAGATAGTGCTT
+>Ddes_0596 Score=4.9 Pos=-177 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCACGTTTCTGGCAT
+>Ddes_0596 Score=4.3 Pos=-148 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCACACACTGTGCCG
+>Ddes_0596 Score=4 Pos=-54 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTTGGCAAGGTGAATGCCA
+>Ddes_0530(fliD) Score=4.5 Pos=-82 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AGTTGCACGCATTTTGCAA
+>Ddes_2282(flaB3) Score=4.8 Pos=-243 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCATGATTCCTGCTG
+>Ddes_0763 Score=4.6 Pos=-59 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGGCAGCATTTTTGCAT
+>Ddes_2004(flgI) Score=4.9 Pos=-57 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTCGGCACGCTTTCTGCAA
+>Ddes_0373(fliL) Score=4.7 Pos=-141 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCACAGTGTCTGCAA
+>Ddes_0378(fliQ) Score=4.4 Pos=-71 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCATCAATCTTGAAT
+>Ddes_0332(flhB) Score=4.5 Pos=-79 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CCGGGTACGCTTCTTGCTA
+>Ddes_0193(fliR) Score=4.7 Pos=-29 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCAACCATTTTGCAA
+>Ddes_0391(flgF) Score=5.3 Pos=-101 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCCCGCACTTTGCAT
+>Ddes_1836(fliM) Score=4.4 Pos=-78 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCCTTTTTCTTGCAT
+>Ddes_0331(flhA) Score=4.9 Pos=-175 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCACGGGCTTTGTAT
+>Ddes_1867(DVU2108) Score=3.8 Pos=-118 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GCAGGGACGCTTTTTGTAT
+>Ddes_0695 Score=4.9 Pos=-76 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCAAGACCTTTGCAT
+>Ddes_0186(zraS) Score=3.4 Pos=-27 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+ATTTGCAAAAATCATGCAA
+>Ddes_1230 Score=5.3 Pos=-120 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCATCCATCTTGCTT
+>Ddes_2345 Score=4.7 Pos=-151 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTTGGCCTGCCTATTGCAC
+>Ddes_2346 Score=4.3 Pos=-62 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TCTGGCATCATTAGTGCAA
+>Ddes_2342 Score=4.7 Pos=-63 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCACGACTACTGCAG
+>Ddes_0154 Score=4.8 Pos=-244 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGAACAATGTTTGCTA
+>Ddes_2343 Score=4.6 Pos=-81 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTTGGCATACTTATTGATT
+>Ddes_1559 Score=4.4 Pos=-66 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TATGGACCATATTTTGCAT
+>Ddes_0082(nrfH) Score=4.2 Pos=-191 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+ACTGGTACGTTTCTTGAAA
+>Ddes_1642 Score=4.9 Pos=-115 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCATGGCGATTGCTA
+>Ddes_2079(mltC) Score=4.1 Pos=-173 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATGGCAGCAAATTTGCAT
+>Ddes_0767 Score=5.1 Pos=-110 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+ATTGGCACGACCTTTGCCT
+>Ddes_1028(fliC) Score=4.6 Pos=-58 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+TTTGGCACATGGATTGCAA
+>DMR_40340(rmlB) Score=3.8 Pos=-139 [Desulfovibrio magneticus RS-1]
+TTAGGATCGATTTTTGCAA
+>DMR_40120 Score=3.9 Pos=-132 [Desulfovibrio magneticus RS-1]
+AAAGGCACAATCCTTGATA
+>DMR_31520(flgJ) Score=4.7 Pos=-71 [Desulfovibrio magneticus RS-1]
+ACTGGCCCGCAATTTGCCT
+>DMR_23880(flhA) Score=4.7 Pos=-156 [Desulfovibrio magneticus RS-1]
+CTTGGCACAGGCCTTGTAT
+>DMR_24580 Score=5 Pos=-117 [Desulfovibrio magneticus RS-1]
+GTTGGCATCCATTTTGCTG
+>DMR_13730(fliK) Score=4.4 Pos=-43 [Desulfovibrio magneticus RS-1]
+TTTGGAACGGGTCTTGAAG
+>DMR_16470(flgE) Score=4.2 Pos=-180 [Desulfovibrio magneticus RS-1]
+ATTGGCCCAGCATGTGCAA
+>DMR_11080 Score=4.9 Pos=-29 [Desulfovibrio magneticus RS-1]
+TCTGGACCGGTATTTGCTT
+>DMR_20070(por) Score=4.4 Pos=-84 [Desulfovibrio magneticus RS-1]
+GATGGCACACGACTTGCGA
+>DMR_45020(flgB) Score=4.9 Pos=-82 [Desulfovibrio magneticus RS-1]
+GCTGGAACGCTTTTTGCCC
+>DMR_42100(fliJ) Score=4.7 Pos=-58 [Desulfovibrio magneticus RS-1]
+ACTGGCCCGTGTCTTGCAA
+>DMR_05720(dcu) Score=4.8 Pos=-209 [Desulfovibrio magneticus RS-1]
+CCTGGCATCGTCCCTGCTA
+>DMR_34260(dctA) Score=5.2 Pos=-179 [Desulfovibrio magneticus RS-1]
+ATTGGCACACTCTTTGCCT
+>DMR_25590 Score=4.9 Pos=-78 [Desulfovibrio magneticus RS-1]
+TTTGGCACGGTTGTTGTAA
+>DMR_33160 Score=4.9 Pos=-52 [Desulfovibrio magneticus RS-1]
+TTTGGCCCCGCCTTTGCAA
+>DMR_03980(fliD) Score=4.9 Pos=-71 [Desulfovibrio magneticus RS-1]
+GTTGGCATCCGCCTTGCTC
+>DMR_39260 Score=5.1 Pos=-52 [Desulfovibrio magneticus RS-1]
+TCTGGCAGGTTTTTTGCTT
+>DMR_25570 Score=5 Pos=-89 [Desulfovibrio magneticus RS-1]
+CTTGGCAGGCTCTTTGCTA
+>DMR_11290 Score=4.9 Pos=-42 [Desulfovibrio magneticus RS-1]
+TTCGGCACGGTTCCTGCCT
+>DMR_31570(flgF) Score=4.8 Pos=-46 [Desulfovibrio magneticus RS-1]
+GCTGGCCCGCATGTTGCAA
+>DMR_22570 Score=4.2 Pos=-60 [Desulfovibrio magneticus RS-1]
+GTTGGCATGACAATTGATA
+>DMR_23860(fliR) Score=4.6 Pos=-29 [Desulfovibrio magneticus RS-1]
+CTTGGTCCAGCTTTTGCTA
+>DMR_33620 Score=5.1 Pos=-104 [Desulfovibrio magneticus RS-1]
+TTTGGCACGTTCCCTGCTG
+>DMR_19620(zraS) Score=4.1 Pos=-114 [Desulfovibrio magneticus RS-1]
+TTTGGAACGGGGGATGCAG
+>DMR_05510 Score=4.5 Pos=-54 [Desulfovibrio magneticus RS-1]
+CCGGGCATCGTCCTTGCAT
+>DMR_38330(pspA) Score=5.4 Pos=-60 [Desulfovibrio magneticus RS-1]
+TCTGGCACGCTCCCTGCTT
+>DMR_43550 Score=4.7 Pos=-13 [Desulfovibrio magneticus RS-1]
+CCTGGCATGGCCTGTGCCT
+>DMR_45640(ald) Score=4.6 Pos=-76 [Desulfovibrio magneticus RS-1]
+CCTGGCAAGGGACTTGCTA
+>DMR_20560(nifH) Score=5 Pos=-60 [Desulfovibrio magneticus RS-1]
+ACTGGCATGACTCTTGCCT
+>DMR_17520(nifE) Score=4.9 Pos=-62 [Desulfovibrio magneticus RS-1]
+TCTGGCACGCTCCTTGTAG
+>DMR_33860(cpaB) Score=5.1 Pos=-246 [Desulfovibrio magneticus RS-1]
+CTTGGCAGGCTTCTTGCTC
+>DMR_45010 Score=4.8 Pos=-138 [Desulfovibrio magneticus RS-1]
+CTTGGCATGAGGATTGCTT
+>DMR_42220 Score=5 Pos=-78 [Desulfovibrio magneticus RS-1]
+GCCGGCACACCCCTTGCTT
+>DMR_16170 Score=5.3 Pos=50 [Desulfovibrio magneticus RS-1]
+TTTGGCACGGCGTTTGCCT
+>DMR_06700 Score=4.1 Pos=-259 [Desulfovibrio magneticus RS-1]
+TTGGGCACGGGTCTTGAAG
+>DMR_10270(fliC) Score=3.8 Pos=-161 [Desulfovibrio magneticus RS-1]
+TTAGGTATGTAAATTGCTA
+>DMR_06380 Score=5.5 Pos=-79 [Desulfovibrio magneticus RS-1]
+TTTGGCACGCCCCCTGCTT
+>DMR_37280(zraP) Score=5 Pos=-101 [Desulfovibrio magneticus RS-1]
+CATGGCACGGATGCTGCTT
+>DMR_45210(zraP) Score=4.9 Pos=-101 [Desulfovibrio magneticus RS-1]
+GTTGGCACGGCTGCTGCAA
+>DMR_05460 Score=4.1 Pos=-13 [Desulfovibrio magneticus RS-1]
+GTCGGCACAAGGGTTGCAA
+>DMR_06420 Score=5.2 Pos=-79 [Desulfovibrio magneticus RS-1]
+CTTGGCACGGCCTATGCTT
+>DMR_06400 Score=5.5 Pos=-78 [Desulfovibrio magneticus RS-1]
+TTTGGCACGCCCCCTGCTT
+>DMR_06410 Score=5.5 Pos=-79 [Desulfovibrio magneticus RS-1]
+TTTGGCACGCCCCCTGCTT
+>DMR_06390 Score=5.3 Pos=-78 [Desulfovibrio magneticus RS-1]
+TTTGGCATGCCCCCTGCTT
+>DMR_13760(fliC) Score=5.2 Pos=-70 [Desulfovibrio magneticus RS-1]
+TTTGGAACGCCTCCTGCTT
+>DESPIG_01518(nudF) Score=3.6 Pos=8 [Desulfovibrio piger ATCC 29098]
+TGCGGCCGGCATGCTGCTG
+>DESPIG_02393(glcD) Score=4 Pos=-112 [Desulfovibrio piger ATCC 29098]
+TTCGGAGCAGGTCTTGCTG
+>DESPIG_02787(zraP) Score=4.4 Pos=-128 [Desulfovibrio piger ATCC 29098]
+GCTTGCATGTTTTTTGCAA
+>DESPIG_02139 Score=5.3 Pos=-147 [Desulfovibrio piger ATCC 29098]
+TATGGCACGCTTGTTGCTG
+>DESPIG_02849 Score=4.8 Pos=-80 [Desulfovibrio piger ATCC 29098]
+AATGGCACAGGCATTGCTA
+>DESPIG_00642(amt) Score=5.1 Pos=-127 [Desulfovibrio piger ATCC 29098]
+TATGGCACAGGGCTTGCTT
+>DESPIG_01879 Score=4.1 Pos=-43 [Desulfovibrio piger ATCC 29098]
+CCTGGTCTATCTTTTGCAA
+>DESPIG_00689 Score=4.5 Pos=-73 [Desulfovibrio piger ATCC 29098]
+TGTGGCATGATTCTGGCAT
+>DESPIG_02462(fliM) Score=4.8 Pos=-51 [Desulfovibrio piger ATCC 29098]
+TTTGGCCTTGTTCTTGCAT
+>DESPIG_00690 Score=5.2 Pos=-54 [Desulfovibrio piger ATCC 29098]
+CATGGCACGCTTTATGCTT
+>DESPIG_00156 Score=4.6 Pos=-59 [Desulfovibrio piger ATCC 29098]
+CATGGTACGTTTTATGCTT
+>DESPIG_02269 Score=5.1 Pos=-49 [Desulfovibrio piger ATCC 29098]
+AATGGCATGTTTTTTGCTG
+>DESPIG_02193 Score=5.3 Pos=-68 [Desulfovibrio piger ATCC 29098]
+TCTGGCACGGTTCCTGCTG
+>DESPIG_02142 Score=5.1 Pos=-99 [Desulfovibrio piger ATCC 29098]
+TTTGGCACAGCCTATGCTT
+>DESPIG_02788(zraP) Score=5.1 Pos=-110 [Desulfovibrio piger ATCC 29098]
+TTTGGCACGCGGGTTGCTA
+>DESPIG_01831(nrfH) Score=5.4 Pos=-119 [Desulfovibrio piger ATCC 29098]
+ACTGGCACGCCCCTTGCTC
+>DESPIG_02990 Score=5.3 Pos=-105 [Desulfovibrio piger ATCC 29098]
+ATTGGCACGGGTGTTGCTT
+>DESPIG_02585 Score=5.3 Pos=-57 [Desulfovibrio piger ATCC 29098]
+ATTGGCACGGACTTTGCTG
+>Desal_3185 Score=4 Pos=-65 [Desulfovibrio salexigens DSM 2638]
+TCAGGCATAATTACTGCAT
+>Desal_3506 Score=4.3 Pos=-81 [Desulfovibrio salexigens DSM 2638]
+TCTGGCATAACGAGTGCTT
+>Desal_3525 Score=4.1 Pos=-57 [Desulfovibrio salexigens DSM 2638]
+AAAGGCACTCCCTTTGCAG
+>Desal_1016(flgK) Score=4.6 Pos=-147 [Desulfovibrio salexigens DSM 2638]
+GCTGGCCCAGGCCCTGCTT
+>Desal_1015(DVU0518) Score=4.5 Pos=-104 [Desulfovibrio salexigens DSM 2638]
+ATTGGCAAGAAACTTGCTG
+>Desal_0577 Score=4.3 Pos=-221 [Desulfovibrio salexigens DSM 2638]
+CTCGGCATCGGCATTGCAT
+>Desal_2595(flhF) Score=5 Pos=-107 [Desulfovibrio salexigens DSM 2638]
+GATGGTACGCTTCTTGCCT
+>Desal_2601 Score=4.3 Pos=-77 [Desulfovibrio salexigens DSM 2638]
+GCTGGCGCACCTATTGCCC
+>Desal_2594(flhA) Score=4.8 Pos=-180 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACAGGCCTTGTAT
+>Desal_0581 Score=4.3 Pos=-97 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACCCAAATTGAAT
+>Desal_3007(fliK) Score=4.7 Pos=-43 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACGCCTCGTGAAT
+>Desal_3006(flgD) Score=4.2 Pos=-115 [Desulfovibrio salexigens DSM 2638]
+TTTGGCCCGGGAAATGCAA
+>Desal_2793(nudF) Score=5 Pos=-380 [Desulfovibrio salexigens DSM 2638]
+TTTGGCATACCCATTGCTA
+>Desal_2938(flgE) Score=5.2 Pos=-115 [Desulfovibrio salexigens DSM 2638]
+TTAGGCACGCCCCTTGCTT
+>Desal_1156(flgB) Score=4.9 Pos=-96 [Desulfovibrio salexigens DSM 2638]
+AATGGAACACCTTTTGCTA
+>Desal_1153(fliF) Score=4.8 Pos=-50 [Desulfovibrio salexigens DSM 2638]
+AATGGCCCACCATTTGCTT
+>Desal_0284(adh) Score=5 Pos=-92 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACACGTCTTGCCC
+>Desal_3524 Score=5.1 Pos=-300 [Desulfovibrio salexigens DSM 2638]
+ATTGGCACCCTGTTTGCTA
+>Desal_2290(glnN) Score=5 Pos=-102 [Desulfovibrio salexigens DSM 2638]
+TACGGCACGCCTCCTGCTT
+>Desal_3438(amt) Score=4.8 Pos=-145 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACAATGCGTGCTT
+>Desal_2827 Score=4.8 Pos=-81 [Desulfovibrio salexigens DSM 2638]
+GTTGGCATGACTCTTGTAT
+>Desal_2614 Score=4.3 Pos=-59 [Desulfovibrio salexigens DSM 2638]
+GTTGGTACGTTTGCTGCAA
+>Desal_1249(fliD) Score=4.9 Pos=-67 [Desulfovibrio salexigens DSM 2638]
+TTTGGCATCCTGATTGCAT
+>Desal_1243 Score=4.6 Pos=-38 [Desulfovibrio salexigens DSM 2638]
+TACGGCACAAATATTGCTT
+>Desal_0681(zraP) Score=5.2 Pos=-67 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACGGGCCATGCTT
+>Desal_0680(zraP) Score=4.9 Pos=-67 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACAGCACGTGCTT
+>Desal_2604(lpxC) Score=4.6 Pos=-43 [Desulfovibrio salexigens DSM 2638]
+GATGGCATATTATTTGCTG
+>Desal_3004(flaB1) Score=5.1 Pos=-69 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACACGCTCTGCTT
+>Desal_0181 Score=5 Pos=-54 [Desulfovibrio salexigens DSM 2638]
+TTTGGCAAGGTCATTGCAT
+>Desal_2513 Score=4.8 Pos=-57 [Desulfovibrio salexigens DSM 2638]
+CAAGGCACGGCTGTTGCTT
+>Desal_0622 Score=4.7 Pos=-30 [Desulfovibrio salexigens DSM 2638]
+CATGGCACGGACTATGCCT
+>Desal_2592(fliR) Score=3.4 Pos=-41 [Desulfovibrio salexigens DSM 2638]
+ATGGGTCCTGATTTTGCAG
+>Desal_1008(flgF) Score=5 Pos=-71 [Desulfovibrio salexigens DSM 2638]
+TTTGGCCTGCACTTTGCAA
+>Desal_1014(flgJ) Score=4.3 Pos=-87 [Desulfovibrio salexigens DSM 2638]
+GACGGTATGCAATTTGCTT
+>Desal_0448(nifV) Score=4.5 Pos=-58 [Desulfovibrio salexigens DSM 2638]
+TTTGGCATCAATAATGCTT
+>Desal_3066(amt) Score=5.1 Pos=-65 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACAGTCCATGCTT
+>Desal_0829 Score=4.3 Pos=-80 [Desulfovibrio salexigens DSM 2638]
+GTAGGTACGGATTCTGCTT
+>Desal_0361 Score=4.8 Pos=-20 [Desulfovibrio salexigens DSM 2638]
+TATGGCATGTCTTATGCTA
+>Desal_0416 Score=5.2 Pos=-87 [Desulfovibrio salexigens DSM 2638]
+TCTGGCCCGCCTTTTGCCT
+>Desal_2196 Score=5 Pos=-88 [Desulfovibrio salexigens DSM 2638]
+TGTGGCACAGCGTTTGCTC
+>Desal_3303(ald) Score=4.8 Pos=-111 [Desulfovibrio salexigens DSM 2638]
+TTTGGCATGCGGATTGCCT
+>Desal_0447(nifH) Score=5.1 Pos=-69 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACACCACTTGCCT
+>Desal_3549 Score=5.2 Pos=-184 [Desulfovibrio salexigens DSM 2638]
+TTTGGCCCGCTTATTGCTC
+>Desal_3028 Score=3.9 Pos=-67 [Desulfovibrio salexigens DSM 2638]
+ATTGGCACGAATAGAGCTT
+>Desal_1157 Score=4.9 Pos=-100 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACGGGGTGTGCAT
+>Desal_1330 Score=5.1 Pos=-51 [Desulfovibrio salexigens DSM 2638]
+TTTGGCACCCCTTATGCTT
+>Desal_3528 Score=4.9 Pos=-102 [Desulfovibrio salexigens DSM 2638]
+TCTGGCACAGCCCGTGCTA
+>Desal_2983 Score=3.9 Pos=-73 [Desulfovibrio salexigens DSM 2638]
+GTAGGCAGGAATATTGCAA
+>Desal_2461 Score=4.8 Pos=-77 [Desulfovibrio salexigens DSM 2638]
+ATTGGCATTACCCTTGCTT
+>Desal_3705 Score=4.7 Pos=-69 [Desulfovibrio salexigens DSM 2638]
+ACTGGCACGATTTTGGCTT
+>Desal_3710 Score=4.3 Pos=-67 [Desulfovibrio salexigens DSM 2638]
+AGTGGCCCTTTTTTTGCAA
+>Desal_2292 Score=4.6 Pos=-59 [Desulfovibrio salexigens DSM 2638]
+CATGGCACCAATTATGCTT
+>Desal_0518(nifA-2) Score=4.8 Pos=-29 [Desulfovibrio salexigens DSM 2638]
+GCTGGCACTTACTTTGCTT
+>DVU3232(flhA) Score=4.8 Pos=-199 [Desulfovibrio vulgaris Hildenborough]
+GCTGGCACGGGCCTTGTAT
+>DVUA0036 Score=4.5 Pos=29 [Desulfovibrio vulgaris Hildenborough]
+TGTGGCACGGTATTGGCTC
+>DVU1418(hydH) Score=4.4 Pos=-46 [Desulfovibrio vulgaris Hildenborough]
+TTCGGCACAGTTCTTTCAT
+>DVU0047(fliL) Score=4.3 Pos=-186 [Desulfovibrio vulgaris Hildenborough]
+GCTGGAACATTTTCTGCAA
+>DVU2277 Score=4.2 Pos=-90 [Desulfovibrio vulgaris Hildenborough]
+GCAGGCATGACCCTTGCCG
+>DVU0682 Score=4.9 Pos=-200 [Desulfovibrio vulgaris Hildenborough]
+GGTGGCCCGATTTTTGCTC
+>DVU2957 Score=4.7 Pos=-65 [Desulfovibrio vulgaris Hildenborough]
+GCTGGCACGGAACTTGTTA
+>DVU3004(DVU3004) Score=5.2 Pos=-77 [Desulfovibrio vulgaris Hildenborough]
+GCTGGCCCGCTTATTGCTT
+>DVU3342 Score=3.8 Pos=-113 [Desulfovibrio vulgaris Hildenborough]
+AATGGAGCATTAATTGCTA
+>DVU1152 Score=3.9 Pos=-258 [Desulfovibrio vulgaris Hildenborough]
+GGCGGTATGCAACTTGCAA
+>DVU3003 Score=4.9 Pos=-220 [Desulfovibrio vulgaris Hildenborough]
+GTTGGCACGGATAGTGCTT
+>DVU1445(fliK) Score=4.5 Pos=-43 [Desulfovibrio vulgaris Hildenborough]
+ATTGGAACACTCCTTGTAT
+>DVU1444(flgD) Score=3.9 Pos=-82 [Desulfovibrio vulgaris Hildenborough]
+TATGGCGCGGGAAATGCAA
+>DVUA0016(nifV) Score=4.3 Pos=26 [Desulfovibrio vulgaris Hildenborough]
+CTTGGCATCGGGTCTGCAA
+>DVU3025(por) Score=4.8 Pos=-153 [Desulfovibrio vulgaris Hildenborough]
+ATTGGCACATTTCTTGTTA
+>DVU1962 Score=5.4 Pos=-317 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCCTGCCTCTTGCTT
+>DVU1258(glnN) Score=5.2 Pos=-100 [Desulfovibrio vulgaris Hildenborough]
+ATTGGCCCGCTCTTTGCTC
+>DVU0307(flgE) Score=5.3 Pos=-59 [Desulfovibrio vulgaris Hildenborough]
+TCTGGCACGGCTCGTGCTT
+>DVU0316(flgB) Score=4.9 Pos=-91 [Desulfovibrio vulgaris Hildenborough]
+CGTGGAACCCTTTTTGCTT
+>DVU2405(adh) Score=5.1 Pos=-99 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCCCCTTCCTTGCTT
+>DVU3302(DVU3302) Score=4.8 Pos=-56 [Desulfovibrio vulgaris Hildenborough]
+CTTGGCACGGGGCTTGTTA
+>DVU0318 Score=4.9 Pos=-115 [Desulfovibrio vulgaris Hildenborough]
+TTGGGCATGGCGCTTGCTT
+>DVU2280 Score=4.8 Pos=-132 [Desulfovibrio vulgaris Hildenborough]
+GCTGGTACGCTTGTTGCTG
+>DVU2822(dtcP) Score=5.1 Pos=-91 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCACGTTCCCTGCTC
+>DVU3387 Score=4.1 Pos=-92 [Desulfovibrio vulgaris Hildenborough]
+GCAGGTGCGGTTCTTGCTA
+>DVU0410 Score=5.1 Pos=-70 [Desulfovibrio vulgaris Hildenborough]
+GTTGGCCCGGAATTTGCTT
+>DVU2451(lldP) Score=4.8 Pos=-211 [Desulfovibrio vulgaris Hildenborough]
+CTTGGCCCGGTAATTGCTG
+>DVU0542 Score=5.1 Pos=-71 [Desulfovibrio vulgaris Hildenborough]
+CGTGGCATGCAGCTTGCTT
+>DVU0863(fliD) Score=4.2 Pos=-71 [Desulfovibrio vulgaris Hildenborough]
+CGTGGCATCTGGATTGCAT
+>DVU0858 Score=5 Pos=-79 [Desulfovibrio vulgaris Hildenborough]
+TCCGGCATCGTTCTTGCTT
+>DVU2917(lpxC) Score=4 Pos=-196 [Desulfovibrio vulgaris Hildenborough]
+GACGGCAAGCCGCCTGCTG
+>DVU2917(lpxC) Score=5.3 Pos=-40 [Desulfovibrio vulgaris Hildenborough]
+TCTGGCACATCTTTTGCTT
+>DVU0036(zraP) Score=5.1 Pos=-60 [Desulfovibrio vulgaris Hildenborough]
+TGTGGCACGCTATCTGCTT
+>DVU2090 Score=4.3 Pos=-96 [Desulfovibrio vulgaris Hildenborough]
+CAAGGTACACACCTTGCTT
+>DORF39640(DORF39640) Score=4.7 Pos=-78 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCATGAGGGTTGCTC
+>DVU2896 Score=5 Pos=-13 [Desulfovibrio vulgaris Hildenborough]
+CATTGCACGGTTCTTGCTT
+>DVU2357 Score=5.5 Pos=-430 [Desulfovibrio vulgaris Hildenborough]
+CTTGGCACACCCCTTGCTT
+>DVU1441(flaB1) Score=4.9 Pos=-54 [Desulfovibrio vulgaris Hildenborough]
+ATTGGCATCGTGTTTGCTG
+>DVU1032 Score=4.8 Pos=-52 [Desulfovibrio vulgaris Hildenborough]
+GGTGGCGTGCTTCTTGCTC
+>DVUA0106 Score=4.5 Pos=-257 [Desulfovibrio vulgaris Hildenborough]
+TCTGGCCCGCTTTTCGCAA
+>DVU2392 Score=3.9 Pos=-74 [Desulfovibrio vulgaris Hildenborough]
+CAAGGCGTGTTCCTTGCCA
+>DVU4010(DVU4010) Score=4.6 Pos=-106 [Desulfovibrio vulgaris Hildenborough]
+AGTGGCACGCCTTTCGCTA
+>DVU3234(fliR) Score=4.8 Pos=-29 [Desulfovibrio vulgaris Hildenborough]
+CGTGGCCCGTATTTTGCTC
+>DVU0512(flgF) Score=4.1 Pos=-68 [Desulfovibrio vulgaris Hildenborough]
+CGTGGTCTGCATATTGCAA
+>DVU0910(fliM) Score=4.5 Pos=-128 [Desulfovibrio vulgaris Hildenborough]
+ACTGGCCCCTATCTTGCAA
+>DVU3020 Score=5.1 Pos=-56 [Desulfovibrio vulgaris Hildenborough]
+CATGGCATGTGCCTTGCTT
+>DVU2105 Score=4.4 Pos=-60 [Desulfovibrio vulgaris Hildenborough]
+CGTGGAACGGAACGTGCTT
+>DVU2107(DVU2107) Score=4.4 Pos=-51 [Desulfovibrio vulgaris Hildenborough]
+CACGGCATCATTCCTGCTT
+>DVU1231(amt) Score=5 Pos=-81 [Desulfovibrio vulgaris Hildenborough]
+GTTGGCACGCGACTTGCCT
+>DVU3143 Score=4.5 Pos=-68 [Desulfovibrio vulgaris Hildenborough]
+TCAGGCACAGTTCCTGCTC
+>DVU3382(zraS) Score=4.5 Pos=-247 [Desulfovibrio vulgaris Hildenborough]
+GTTGGTGCAGTCCTTGCTT
+>DVU1164(amiE) Score=4.6 Pos=-110 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCACACTTGTCGCTA
+>DVUA0030 Score=4.3 Pos=-68 [Desulfovibrio vulgaris Hildenborough]
+TATGGAGTGCTACTTGCAA
+>DVU2988(pspA) Score=4.7 Pos=-46 [Desulfovibrio vulgaris Hildenborough]
+CCCGGCACGCTTCGTGCTG
+>DVU2133 Score=4.9 Pos=-73 [Desulfovibrio vulgaris Hildenborough]
+CATTGCACGCTTCTTGCTC
+>DVU0943 Score=5.2 Pos=-73 [Desulfovibrio vulgaris Hildenborough]
+TCTGGCACGCTTCTTGTTC
+>DVU1854 Score=5 Pos=34 [Desulfovibrio vulgaris Hildenborough]
+TTAGGCACGCATATTGCTT
+>DVU0139(cckA) Score=4.8 Pos=-79 [Desulfovibrio vulgaris Hildenborough]
+AATGGTACGCTGTTTGCTC
+>DVU0132 Score=5.2 Pos=-232 [Desulfovibrio vulgaris Hildenborough]
+TATGGCACACCCGTTGCTT
+>DVU0571(ald) Score=5 Pos=-124 [Desulfovibrio vulgaris Hildenborough]
+GTTGGCAAGGCCTTTGCTA
+>DVU0913(fliJ) Score=4.6 Pos=-72 [Desulfovibrio vulgaris Hildenborough]
+AACGGCCCGTTCCTTGCTA
+>DVU2272 Score=4.5 Pos=-232 [Desulfovibrio vulgaris Hildenborough]
+CGTGGCATGGCTTGTGCAG
+>DVU1880 Score=5 Pos=-68 [Desulfovibrio vulgaris Hildenborough]
+ATTGGCATGATTCATGCTT
+>DVUA203(DVUA203) Score=4.6 Pos=-62 [Desulfovibrio vulgaris Hildenborough]
+CATGGCATACTTGCTGCTA
+>DVU2820 Score=4.8 Pos=-58 [Desulfovibrio vulgaris Hildenborough]
+CTGGGCATGGTTCTTGCCT
+>DVU0624(nrfH) Score=4.7 Pos=-196 [Desulfovibrio vulgaris Hildenborough]
+TTCGGCACGCCTTTTGTAA
+>DVU0150 Score=5.3 Pos=-180 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCACGGCCATTGCTC
+>DVU0617 Score=4.8 Pos=-60 [Desulfovibrio vulgaris Hildenborough]
+TCTGGCCCGTTTCCTGCTC
+>DVUA0032 Score=4.9 Pos=-76 [Desulfovibrio vulgaris Hildenborough]
+GTTGGAACAGTCATTGCTT
+>DVUA0015(nifH) Score=4.7 Pos=-326 [Desulfovibrio vulgaris Hildenborough]
+CATGGCACATCCCTTGCCC
+>DVU1536(mltC) Score=5 Pos=-90 [Desulfovibrio vulgaris Hildenborough]
+ACTGGCCCGGATGTTGCTT
+>DVU0805 Score=3.9 Pos=-59 [Desulfovibrio vulgaris Hildenborough]
+GATGGTATGATATTTGATA
+>DVU1276 Score=4.1 Pos=-70 [Desulfovibrio vulgaris Hildenborough]
+GGCGGCATCCACCTTGCCC
+>DVU1805 Score=5 Pos=-69 [Desulfovibrio vulgaris Hildenborough]
+AATGGCCCGCATATTGCTT
+>DVU3339.1(kdpF) Score=4.2 Pos=-61 [Desulfovibrio vulgaris Hildenborough]
+AGTGGCACGTCAAATGCTC
+>DVU0123 Score=4.7 Pos=-54 [Desulfovibrio vulgaris Hildenborough]
+CATGGCACTCCATTTGCTC
+>DVU2232 Score=4.6 Pos=-51 [Desulfovibrio vulgaris Hildenborough]
+AATGGAGCGTTTCTTGCTT
+>DVU0320 Score=5.1 Pos=-55 [Desulfovibrio vulgaris Hildenborough]
+GCTTGCACGCTTCTTGCTT
+>DVU0320 Score=4.7 Pos=-296 [Desulfovibrio vulgaris Hildenborough]
+AATGGCCCGCGTCTTGCCC
+>DVU0750 Score=4.9 Pos=-201 [Desulfovibrio vulgaris Hildenborough]
+AATGGCACTGCTCTTGCTG
+>DVUA0143(nifA-2) Score=4.7 Pos=-29 [Desulfovibrio vulgaris Hildenborough]
+CGAGGCACGGCTATTGCTT
+>DVU2652 Score=4.5 Pos=-100 [Desulfovibrio vulgaris Hildenborough]
+AATGGCACAGTGTATGCTC
+>DVU3384(zraP) Score=5.2 Pos=-82 [Desulfovibrio vulgaris Hildenborough]
+TTTGGCACGCTCCATGCTC
+>DVUA0089 Score=4.9 Pos=-51 [Desulfovibrio vulgaris Hildenborough]
+TATGGAATGCAATTTGCTT
+>DvMF_2405 Score=4 Pos=-338 [Desulfovibrio vulgaris str. Miyazaki F]
+TGCGGCATGAACCATGCAG
+>DvMF_0213 Score=4.2 Pos=-90 [Desulfovibrio vulgaris str. Miyazaki F]
+GTTGGCACGAGGTTTTCAT
+>DvMF_1764 Score=4.5 Pos=-205 [Desulfovibrio vulgaris str. Miyazaki F]
+GATGGCACGAAACTTGTTA
+>DvMF_2014(flhA) Score=4.6 Pos=-177 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCACAGGCTTTGTAT
+>DvMF_1840 Score=4.4 Pos=-253 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTTGCACACTACTTGCAT
+>DvMF_2524(flgK) Score=4.1 Pos=-148 [Desulfovibrio vulgaris str. Miyazaki F]
+CCTGGCCCTGGCCCTGCTG
+>DvMF_0248(fliK) Score=4.7 Pos=-44 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGAACGGTCCTTGTAA
+>DvMF_2612(nifV) Score=4.2 Pos=-117 [Desulfovibrio vulgaris str. Miyazaki F]
+GTTGGCATCGGCGATGCAT
+>DvMF_0866(amt) Score=5.3 Pos=-98 [Desulfovibrio vulgaris str. Miyazaki F]
+GATGGCACGCTCCTTGCCT
+>DvMF_1860(por) Score=4.8 Pos=-368 [Desulfovibrio vulgaris str. Miyazaki F]
+ACTGGCACACTTCTTGTTG
+>DvMF_1590(glnN) Score=4.9 Pos=-201 [Desulfovibrio vulgaris str. Miyazaki F]
+AGTGGACCGCTTCTTGCTT
+>DvMF_1808(flgE) Score=5.2 Pos=-128 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCACGGCTCGTGCTT
+>DvMF_2284(flgB) Score=4.8 Pos=-106 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGAACACCTCTTGCTG
+>DvMF_1393(fliJ) Score=4.8 Pos=-93 [Desulfovibrio vulgaris str. Miyazaki F]
+TTCGGCCCGGTATTTGCTA
+>DvMF_0321(adh) Score=5.2 Pos=-98 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCCCCGTCCTTGCTT
+>DvMF_2747 Score=4.9 Pos=-79 [Desulfovibrio vulgaris str. Miyazaki F]
+CTTGGCACGCGGGTTGCTG
+>DvMF_2283 Score=4.6 Pos=-211 [Desulfovibrio vulgaris str. Miyazaki F]
+CGTGGCACATGGTTTGCTA
+>DvMF_2283 Score=4.7 Pos=-158 [Desulfovibrio vulgaris str. Miyazaki F]
+AATGGCACGCATAGTGCTA
+>DvMF_1934 Score=3.8 Pos=-119 [Desulfovibrio vulgaris str. Miyazaki F]
+GCAGGCTCATATTTTGCTA
+>DvMF_1932(dtcP) Score=4.2 Pos=-183 [Desulfovibrio vulgaris str. Miyazaki F]
+GACGGCATGTCGGTTGCAA
+>DvMF_0691 Score=4.3 Pos=-61 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCATGGTATTGGCTC
+>DvMF_3071 Score=4.5 Pos=-74 [Desulfovibrio vulgaris str. Miyazaki F]
+GATGGCACGGACTTTTCAT
+>DvMF_1546 Score=4.8 Pos=-75 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGTCCGTTTCTTGCTT
+>DvMF_2067 Score=5 Pos=-67 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCATTCCCCTTGCTT
+>DvMF_2603 Score=4.7 Pos=-272 [Desulfovibrio vulgaris str. Miyazaki F]
+GTTGGTCCGCGTCTTGCTC
+>DvMF_2912(fliD) Score=4.7 Pos=-73 [Desulfovibrio vulgaris str. Miyazaki F]
+TCTGGCACCAGCCTTGCAG
+>DvMF_2906 Score=4.7 Pos=-127 [Desulfovibrio vulgaris str. Miyazaki F]
+TACGGCACCATTCTTGCTG
+>DvMF_1446(lpxC) Score=5.3 Pos=-38 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCACGGTTCATGCTC
+>DvMF_3011 Score=5.1 Pos=-400 [Desulfovibrio vulgaris str. Miyazaki F]
+TCTGGCACGGGTTGTGCTT
+>DvMF_0244(flaB1) Score=4.9 Pos=-54 [Desulfovibrio vulgaris str. Miyazaki F]
+GTTGGCACCAACATTGCTT
+>DvMF_0905 Score=5.1 Pos=-38 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGCAGGGTTCTTGCTT
+>DvMF_2517(flgF) Score=4.5 Pos=-58 [Desulfovibrio vulgaris str. Miyazaki F]
+TGTGGCCCATGCCTTGCAA
+>DvMF_2518(flgG) Score=4.3 Pos=-89 [Desulfovibrio vulgaris str. Miyazaki F]
+TCCGGCATCCGGTTTGCAA
+>DvMF_2521(flgI) Score=4.4 Pos=-220 [Desulfovibrio vulgaris str. Miyazaki F]
+ACTGGCACGGTGTTGGCAA
+>DvMF_2521(flgI) Score=3.8 Pos=-150 [Desulfovibrio vulgaris str. Miyazaki F]
+TGCGGAATGCTTGTTTCTT
+>DvMF_2016(fliR) Score=5.1 Pos=-29 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGCCCGCATCTTGCTG
+>DvMF_2406 Score=4.2 Pos=-119 [Desulfovibrio vulgaris str. Miyazaki F]
+GGCGGCACGCTTGTTGTAA
+>DvMF_2419 Score=4 Pos=-63 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGCGTGATTCTCGCAT
+>DvMF_2411(flrC) Score=4.1 Pos=-59 [Desulfovibrio vulgaris str. Miyazaki F]
+ACCGGCCCGCCCCCTGCCG
+>DvMF_1396(fliM) Score=4.4 Pos=-237 [Desulfovibrio vulgaris str. Miyazaki F]
+CTTGGCGTTCATCTTGCAT
+>DvMF_1856 Score=4.7 Pos=-71 [Desulfovibrio vulgaris str. Miyazaki F]
+CTCGGCAAGGCTCTTGCAT
+>DvMF_1693 Score=4.5 Pos=-95 [Desulfovibrio vulgaris str. Miyazaki F]
+CCGGGCATGCTTCCTGCTC
+>DvMF_0621 Score=4.5 Pos=-252 [Desulfovibrio vulgaris str. Miyazaki F]
+CCCGGCGTGCTTCTTGCAA
+>DvMF_2148(zraS) Score=4.5 Pos=-244 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGTGCGCTTGTTGCTT
+>DvMF_1799(pspA) Score=5.1 Pos=-60 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCACGGTTGCTGCTT
+>DvMF_1800(pspB) Score=4.5 Pos=-272 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCCTGGCGGTTGCTG
+>DvMF_1800(pspB) Score=4.4 Pos=-251 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCCTGGCGGTTGCAG
+>DvMF_1800(pspB) Score=4.5 Pos=-230 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCCTGGCGGTTGCTG
+>DvMF_1363 Score=5.3 Pos=-85 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCACGCCTCTTGATT
+>DvMF_2106 Score=5.1 Pos=-53 [Desulfovibrio vulgaris str. Miyazaki F]
+TCTGGCACGGCGCTTGTTT
+>DvMF_0386 Score=5.1 Pos=-69 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCACCGATCTTGCTC
+>DvMF_2420 Score=4.6 Pos=-56 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCATCCTTGCTGCAA
+>DvMF_2435 Score=4.2 Pos=-38 [Desulfovibrio vulgaris str. Miyazaki F]
+CGTGGCGCGCGCCCTGCCT
+>DvMF_1984 Score=5 Pos=-111 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCACAACCGTTGCTA
+>DvMF_2333 Score=3.4 Pos=-57 [Desulfovibrio vulgaris str. Miyazaki F]
+GGCGGCATCATGTCTGTTC
+>DvMF_2154(ald) Score=5 Pos=-120 [Desulfovibrio vulgaris str. Miyazaki F]
+GTTGGCAAGGCGTTTGCTT
+>DvMF_2613(nifH) Score=4.8 Pos=-110 [Desulfovibrio vulgaris str. Miyazaki F]
+ACTGGCACGGGGTTTGCCC
+>DvMF_1509 Score=4 Pos=-29 [Desulfovibrio vulgaris str. Miyazaki F]
+TATGGCGCGGAAAGTGCTG
+>DvMF_0574 Score=4.4 Pos=-68 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCATGGGCGATGCAT
+>DvMF_1325 Score=4.4 Pos=-146 [Desulfovibrio vulgaris str. Miyazaki F]
+CGCTGCACGCTTTTTGCTA
+>DvMF_1491(nrfH) Score=4.1 Pos=-146 [Desulfovibrio vulgaris str. Miyazaki F]
+AACGGCACGGGTCTTGAAG
+>DvMF_2341 Score=5.2 Pos=-197 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTGGCATGCGGCTTGCTA
+>DvMF_0693 Score=5.2 Pos=-77 [Desulfovibrio vulgaris str. Miyazaki F]
+ATTGGCACAGCGCTTGCTT
+>DvMF_2578(kdpF) Score=4.9 Pos=-132 [Desulfovibrio vulgaris str. Miyazaki F]
+CTTGGCACGCCGCATGCTC
+>DvMF_0177(mltC) Score=4.9 Pos=-183 [Desulfovibrio vulgaris str. Miyazaki F]
+CTTGGCGCGGAATTTGCTT
+>DvMF_1024 Score=3.9 Pos=-237 [Desulfovibrio vulgaris str. Miyazaki F]
+TCCGGCGCATTCCATGCAT
+>DvMF_2842 Score=3.9 Pos=-63 [Desulfovibrio vulgaris str. Miyazaki F]
+TGCGGTACGACTTTTGATA
+>DvMF_0825 Score=4.9 Pos=-135 [Desulfovibrio vulgaris str. Miyazaki F]
+GCTGGCACGACTCCTGCCT
+>DvMF_0509 Score=4.6 Pos=-128 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGACCAATTCTTGCTT
+>DvMF_1812 Score=4.6 Pos=-59 [Desulfovibrio vulgaris str. Miyazaki F]
+TTTTGCACGTCACTTGCAT
+>DvMF_0828 Score=5.2 Pos=-48 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGCATGCTTCCTGCTT
+>DvMF_2785 Score=5.3 Pos=-63 [Desulfovibrio vulgaris str. Miyazaki F]
+CATGGCACGGCCCTTGCTG
+>DvMF_1255 Score=4.9 Pos=-53 [Desulfovibrio vulgaris str. Miyazaki F]
+TCTGGCATCACTCTTGCCT
+>DvMF_1121 Score=4.9 Pos=-124 [Desulfovibrio vulgaris str. Miyazaki F]
+AATGGCACGGGCTGTGCTT
+>DvMF_2528(nifA-2) Score=4 Pos=-29 [Desulfovibrio vulgaris str. Miyazaki F]
+GGCGGAACCATCCTTGCAA
+>DvMF_2147(zraP) Score=5.1 Pos=-139 [Desulfovibrio vulgaris str. Miyazaki F]
+CTTGGCACGCCGGTTGCTC
+>DvMF_3023 Score=4.2 Pos=-152 [Desulfovibrio vulgaris str. Miyazaki F]
+AATGGCCTGAATGATGCTT
+>LI0746(DVU0518) Score=3.8 Pos=-62 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGTATAAAAGCTGCAT
+>LI0568(fliK) Score=4.5 Pos=-44 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGAACACTCCTTGTAC
+>LI0567(flgD) Score=4.4 Pos=-82 [Lawsonia intracellularis PHE/MN1-00]
+CTTGGCACATAACATGCAT
+>LI0348(flgE) Score=5.2 Pos=-77 [Lawsonia intracellularis PHE/MN1-00]
+CTTGGCATGGCTTCTGCTT
+>LI0860(flgB) Score=5 Pos=-68 [Lawsonia intracellularis PHE/MN1-00]
+TATGGCATATGTTTTGCTT
+>LI0856(fliG) Score=4.4 Pos=-108 [Lawsonia intracellularis PHE/MN1-00]
+ATAGGCATGCAGATTGCAT
+>LI1060(fliJ) Score=4.3 Pos=-73 [Lawsonia intracellularis PHE/MN1-00]
+TTAGGAATATTTTTTGCAT
+>LI0700 Score=5.1 Pos=-80 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGCATGTGCATTGCTT
+>LI0507 Score=3.9 Pos=-62 [Lawsonia intracellularis PHE/MN1-00]
+TAAGGCCTAAAATTTGCAT
+>LI0211(fliD) Score=4.7 Pos=-61 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGCACTTTATTTGCTG
+>LI0627(lpxC) Score=4.3 Pos=-40 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGATCGTTTATTGCAT
+>LI0887 Score=5.3 Pos=-53 [Lawsonia intracellularis PHE/MN1-00]
+CTTGGCAAGCTTTTTGCTT
+>LI0740(flgF) Score=4.6 Pos=-147 [Lawsonia intracellularis PHE/MN1-00]
+CTTGGTATAACTTTTGCTA
+>LI0277 Score=4.4 Pos=-57 [Lawsonia intracellularis PHE/MN1-00]
+TTAGGCATAGTTTTTGATT
+>LI1017 Score=4.4 Pos=-60 [Lawsonia intracellularis PHE/MN1-00]
+AATGGCTCACCTCTTGCAA
+>LI1156 Score=4.6 Pos=-151 [Lawsonia intracellularis PHE/MN1-00]
+ATTGGTATACTCTTTGCTG
+>LI1157 Score=4.7 Pos=-193 [Lawsonia intracellularis PHE/MN1-00]
+TTTGGCATAGTCTCTGCAG
+>LI0899 Score=3.5 Pos=-60 [Lawsonia intracellularis PHE/MN1-00]
+AATAGTATGAATATTGCAT
+>LI0570(fliC) Score=4.2 Pos=-56 [Lawsonia intracellularis PHE/MN1-00]
+ATTGGTATATCCATTGCAT

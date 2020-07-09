@@ -1,0 +1,66 @@
+>b2710(norV) Score=5.7 Pos=-178 [Escherichia coli str. K-12 substr. MG1655]
+CACTGTCAATTTGACTATA
+>b2710(norV) Score=4.7 Pos=-157 [Escherichia coli str. K-12 substr. MG1655]
+TATTGTCATATCGACCATT
+>b2710(norV) Score=4.9 Pos=-133 [Escherichia coli str. K-12 substr. MG1655]
+GATAGTCATTTTGACTACT
+>b2709(norR) Score=5 Pos=-72 [Escherichia coli str. K-12 substr. MG1655]
+AGTAGTCAAAATGACTATC
+>b2709(norR) Score=5.5 Pos=-48 [Escherichia coli str. K-12 substr. MG1655]
+AATGGTCGATATGACAATA
+>b2709(norR) Score=5.1 Pos=-27 [Escherichia coli str. K-12 substr. MG1655]
+TATAGTCAAATTGACAGTG
+>STM2839(norR) Score=5.4 Pos=-48 [Salmonella typhimurium LT2]
+TGCTGTCAATATGACACTA
+>STM2839(norR) Score=6.1 Pos=-27 [Salmonella typhimurium LT2]
+GGTTGTCAAAATGACAATG
+>STM2840(norV) Score=6.1 Pos=-177 [Salmonella typhimurium LT2]
+CATTGTCATTTTGACAACC
+>STM2840(norV) Score=5.1 Pos=-156 [Salmonella typhimurium LT2]
+TAGTGTCATATTGACAGCA
+>CKO_04063(norR) Score=5.9 Pos=-48 [Citrobacter koseri ATCC BAA-895]
+AATTGTCAATATGACACTA
+>CKO_04063(norR) Score=6.2 Pos=-27 [Citrobacter koseri ATCC BAA-895]
+AATTGTCAAAATGACAATG
+>CKO_04064(norV) Score=6.1 Pos=-178 [Citrobacter koseri ATCC BAA-895]
+CATTGTCATTTTGACAATT
+>CKO_04064(norV) Score=5.6 Pos=-157 [Citrobacter koseri ATCC BAA-895]
+TAGTGTCATATTGACAATT
+>KPN_03045(norV) Score=6.3 Pos=-179 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CATTGTCATTTTGACAATA
+>KPN_03045(norV) Score=5.1 Pos=-158 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CATTGTCATATCGACTATT
+>KPN_03045(norV) Score=6.2 Pos=-134 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CATTGTCATTTTGACAACA
+>KPN_03044(norR) Score=6 Pos=-72 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTGTCAAAATGACAATG
+>KPN_03044(norR) Score=5.3 Pos=-48 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AATAGTCGATATGACAATG
+>KPN_03044(norR) Score=6.2 Pos=-27 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TATTGTCAAAATGACAATG
+>Ent638_3181(norR) Score=4.6 Pos=6 [Enterobacter sp. 638]
+GGTAGTCAAAGTGACTATC
+>Ent638_3181(norR) Score=5.7 Pos=30 [Enterobacter sp. 638]
+TACTGTCAATATGACAACA
+>Ent638_3181(norR) Score=5.6 Pos=51 [Enterobacter sp. 638]
+CATTGTCAAAATGACAGCG
+>Ent638_3182(norV) Score=5.8 Pos=-178 [Enterobacter sp. 638]
+CGCTGTCATTTTGACAATG
+>Ent638_3182(norV) Score=5.4 Pos=-157 [Enterobacter sp. 638]
+TGTTGTCATATTGACAGTA
+>Ent638_3182(norV) Score=4.6 Pos=-133 [Enterobacter sp. 638]
+GATAGTCACTTTGACTACC
+>Spro_3033(norV) Score=5.5 Pos=-119 [Serratia proteamaculans 568]
+CGATGTCAAAATGACATCA
+>Spro_3032(norR) Score=5.4 Pos=-54 [Serratia proteamaculans 568]
+TGATGTCATTTTGACATCG
+>Spro_3032(norR) Score=4.5 Pos=-29 [Serratia proteamaculans 568]
+CATTGTCTTTATGACTAGT
+>ECA0902(norV) Score=5 Pos=-146 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTGTGTCATTAAGACAATA
+>ECA0902(norV) Score=5.7 Pos=-121 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGTGTCAATTTGACAATC
+>ECA0903(norR) Score=5.6 Pos=-65 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GATTGTCAAATTGACACAC
+>ECA0903(norR) Score=4.8 Pos=-40 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TATTGTCTTAATGACACAG

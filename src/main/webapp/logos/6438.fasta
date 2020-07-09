@@ -1,0 +1,48 @@
+>lin0191(znuA) Score=6.1 Pos=-34 [Listeria innocua Clip11262]
+TAAATCGTAATCATTACGAAAAA
+>lin0191(znuA) Score=5.9 Pos=-97 [Listeria innocua Clip11262]
+CAAATAAGAATGATTACGTTTTA
+>lin1779(znuA2) Score=5.3 Pos=-37 [Listeria innocua Clip11262]
+TAAACAAGAACAATTTCGATTTA
+>lin1779(znuA2) Score=5.9 Pos=-69 [Listeria innocua Clip11262]
+TAAATCGTAATTGCTACGATTAG
+>lin1485(znuC2) Score=6.2 Pos=-89 [Listeria innocua Clip11262]
+TAATTCGAAGTAATTACGATTTA
+>lin1995(rpsN2) Score=6.3 Pos=-38 [Listeria innocua Clip11262]
+TAAATCGGAATGATTATTATTTA
+>lmo0153(znuA) Score=5.8 Pos=-97 [Listeria monocytogenes EGD-e]
+CAAATAAGAATTATTACGTTTTG
+>lmo0153(znuA) Score=6.1 Pos=-34 [Listeria monocytogenes EGD-e]
+TAAATCGTAATCATTACGAAAAA
+>lmo1447(znuC2) Score=6.2 Pos=-89 [Listeria monocytogenes EGD-e]
+TAATTCGAAGTAATTACGATTTA
+>lmo1882(rpsN2) Score=6.3 Pos=-39 [Listeria monocytogenes EGD-e]
+TAAATCGGAATGATTATTATTTA
+>lmo1671(znuA2) Score=5.6 Pos=-69 [Listeria monocytogenes EGD-e]
+TAAATCGTAATTGCTACGATTCG
+>lmo1671(znuA2) Score=5.6 Pos=-37 [Listeria monocytogenes EGD-e]
+TAAACAAGAATTATTTCGATTTA
+>lse_1639(znuA2) Score=5.3 Pos=-37 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAAACAAGAACAATTTCGATTTA
+>lse_1639(znuA2) Score=6.1 Pos=-69 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAAATCGTAATTACTACGATTGG
+>lse_0133(znuA) Score=5.7 Pos=-96 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+CAAATAAGAATGATTACGTTTTG
+>lse_0133(znuA) Score=6 Pos=-32 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAAATCGTAATCATTACGAAAAG
+>lse_1365(znuC2) Score=6.2 Pos=-88 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAATTCGAAGTTATTACGATTTA
+>lse_1865(rpsN2) Score=6.5 Pos=-38 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAAATCGGAATTATTACTATTTA
+>lwe0129(znuA) Score=5.7 Pos=-97 [Listeria welshimeri serovar 6b str. SLCC5334]
+CAAATAAGAATGATTACGTTTTG
+>lwe0129(znuA) Score=6.1 Pos=-34 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAAATCGTAATCATTACGAAAAA
+>lwe1689(znuA2) Score=5.6 Pos=-37 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAAACAAGAATAATTTCGATTTA
+>lwe1689(znuA2) Score=5.9 Pos=-69 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAAATCGTAATTGCTACGATTAG
+>lwe1463(znuC2) Score=6.2 Pos=-89 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAATTCGAAGTAATTACGATTTA
+>lwe1901(rpsN2) Score=6.3 Pos=-39 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAAATCGGAATGATTATTATTTA

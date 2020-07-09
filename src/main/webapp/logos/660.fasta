@@ -1,0 +1,42 @@
+>SA0533(yhfT) Score=7.1 Pos=-48 [Staphylococcus aureus subsp. aureus N315]
+AATGTTAACAAGATGTATTTTAAAGTTTACATT
+>SA2077(bioY) Score=7.5 Pos=-75 [Staphylococcus aureus subsp. aureus N315]
+ATTGTAAACTTTTCATTTCTTAAAGTTTACAAT
+>SA2215(bioD) Score=7.9 Pos=-55 [Staphylococcus aureus subsp. aureus N315]
+AATGTAAACTTATTAATTATAAAAGTTTACATT
+>STACA0001_0458(yhfT) Score=7.2 Pos=-43 [Staphylococcus capitis SK14]
+AATGTTAACATATTTATAAATATAGTTTACATA
+>STACA0001_1211(bioY) Score=7.8 Pos=-70 [Staphylococcus capitis SK14]
+TATGTAAACTTTTTATTTCTTAAAGTTTACATT
+>STACA0001_0034(bioB) Score=8 Pos=-87 [Staphylococcus capitis SK14]
+AATGTAAACTTATAAATATATAAAGTTTACATT
+>SE0344(yhfT) Score=7.1 Pos=-44 [Staphylococcus epidermidis ATCC 12228]
+AATGTAAACATAATTATATAAAGTGTTTACAAA
+>SE1856(bioY) Score=6.9 Pos=-70 [Staphylococcus epidermidis ATCC 12228]
+ATTGTAAACTTTCCATTCATAAAAGTTTACAAG
+>SE0234(bioB) Score=7.9 Pos=-110 [Staphylococcus epidermidis ATCC 12228]
+AATGTAAACTTATAAATATATAAAGTTTACAAT
+>SE0179(bioD) Score=7.7 Pos=-55 [Staphylococcus epidermidis ATCC 12228]
+AATGTAAACTTTAAAATGTAATAAGTTTACATT
+>Sca_2225(bioY) Score=8 Pos=-73 [Staphylococcus carnosus subsp. carnosus TM300]
+AATGTAAACTTATAAAAATTAAAAGTTTACATT
+>Sca_0740(pycA) Score=7.2 Pos=-367 [Staphylococcus carnosus subsp. carnosus TM300]
+AATGTAAACTTAAAAATAAATAAAATTAACAAT
+>Sca_1775(bioY) Score=7.3 Pos=-75 [Staphylococcus carnosus subsp. carnosus TM300]
+AATGTAAACTTTTAGTAAATTCAAGTTAACAAT
+>Sca_2002(bioB) Score=7.4 Pos=-63 [Staphylococcus carnosus subsp. carnosus TM300]
+AATGTTAACTATATAAAAAAATAAGTTAACAAT
+>SH2418(yhfT) Score=7.6 Pos=-55 [Staphylococcus haemolyticus JCSC1435]
+AATGTTAACATAATATAAAATAAAGTTAACATT
+>SH0770(bioY) Score=8.2 Pos=-69 [Staphylococcus haemolyticus JCSC1435]
+AATGTAAACTTTTTATTTTATAAAGTTTACATT
+>SH0269(bioB) Score=8 Pos=-75 [Staphylococcus haemolyticus JCSC1435]
+AATGTAAACTTATTTATATATAAAGTTTACATT
+>SSP2146(yhfT) Score=6.6 Pos=-49 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+AATGTTAACATATTTGTTATGAAGGTTAACAAA
+>SSP0625(bioY) Score=8.1 Pos=-67 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+AATGTAAACTTTTTATTTTTTAAAGTTTACATT
+>MCCL_0376(bioB) Score=6.8 Pos=-76 [Macrococcus caseolyticus JCSC5402]
+ATTGTTAACTTATATTCAAAATTAGTTTACAAT
+>MCCL_0134(bioY) Score=6.7 Pos=-75 [Macrococcus caseolyticus JCSC5402]
+ATTGTTAACTTTTTGTACTAAAAGGTTAACGAA

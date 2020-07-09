@@ -1,0 +1,26 @@
+>SAV_2578(bglX) Score=6.5 Pos=-53 [Streptomyces avermitilis MA-4680]
+GCATCGAAGCGCTTCGAAAG
+>SAV_2577(SAV_2577) Score=6.6 Pos=-151 [Streptomyces avermitilis MA-4680]
+ACATCGAAGCGCTTCGACTC
+>SAV_2578(bglX) Score=6.3 Pos=-235 [Streptomyces avermitilis MA-4680]
+GAGTCGAAGCGCTTCGATGT
+>SAV_2569(SCO5692) Score=6.6 Pos=-125 [Streptomyces avermitilis MA-4680]
+TTGTCGAAGCGCTTCGACAG
+>SCO5685(bglX) Score=6.7 Pos=-51 [Streptomyces coelicolor A3(2)]
+GCATCGAAGCGCTTCGACGT
+>SCO5685(bglX) Score=6.2 Pos=-160 [Streptomyces coelicolor A3(2)]
+GTGTCGAAGCGCTTCGATGT
+>SCO5686(SAV_2577) Score=6.3 Pos=-218 [Streptomyces coelicolor A3(2)]
+ACGTCGAAGCGCTTCGATGC
+>SCO5686(SAV_2577) Score=6.7 Pos=-109 [Streptomyces coelicolor A3(2)]
+ACATCGAAGCGCTTCGACAC
+>SCO5692(SCO5692) Score=6.9 Pos=-124 [Streptomyces coelicolor A3(2)]
+GAGTCGAAGCGCTTCGACGG
+>SCAB_25641(bglX) Score=6.5 Pos=-53 [Streptomyces scabiei 87.22]
+GCATCGAAGCGCTTCGAAAG
+>SCAB_25641(bglX) Score=6.2 Pos=-248 [Streptomyces scabiei 87.22]
+CAGTCGAAGCGCTTCGATGT
+>SCAB_25621(SAV_2577) Score=6.7 Pos=-151 [Streptomyces scabiei 87.22]
+ACATCGAAGCGCTTCGACTG
+>SCAB_25511(SCO5692) Score=6.3 Pos=-125 [Streptomyces scabiei 87.22]
+TGATCGAAGCGCTTCGACAA

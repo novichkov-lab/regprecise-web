@@ -1,0 +1,120 @@
+>TM0384(nrdG) Score=5.3 Pos=-55 [Thermotoga maritima MSB8]
+CCACAATATATTGTGG
+>TM0152(TM0152) Score=3.8 Pos=-109 [Thermotoga maritima MSB8]
+ATACTACAAAATGTAC
+>TM0152(TM0152) Score=5.3 Pos=-140 [Thermotoga maritima MSB8]
+ATACAATATATGGTAT
+>TM1286(metE) Score=4.3 Pos=-25 [Thermotoga maritima MSB8]
+ATACAACAAATGGAGG
+>TM1286(metE) Score=4.8 Pos=-55 [Thermotoga maritima MSB8]
+ACACAACATGTGGTAT
+>TM0384(nrdG) Score=4.1 Pos=-85 [Thermotoga maritima MSB8]
+CAACAATTTTTTGAGA
+>TM0118(nrdJ) Score=5.3 Pos=-34 [Thermotoga maritima MSB8]
+ACACAATATGTTGTTT
+>TM0118(nrdJ) Score=4.5 Pos=-64 [Thermotoga maritima MSB8]
+CTACCACATGTTGAAT
+>TRQ2_0829(nrdJ) Score=5 Pos=-34 [Thermotoga sp. RQ2]
+ACACAATATGTTGTTA
+>TRQ2_0549(nrdG) Score=4.1 Pos=-85 [Thermotoga sp. RQ2]
+CAACAATTTTTTGAGA
+>TRQ2_0796(TM0152) Score=4.6 Pos=-140 [Thermotoga sp. RQ2]
+ATACAATATACGGTAT
+>TRQ2_0796(TM0152) Score=4.2 Pos=-109 [Thermotoga sp. RQ2]
+ATACTACAAAATGTAT
+>TRQ2_1533(metE) Score=4.3 Pos=-25 [Thermotoga sp. RQ2]
+ATACAACAAATGGAGG
+>TRQ2_0829(nrdJ) Score=4.3 Pos=-64 [Thermotoga sp. RQ2]
+CTACCAAATGTTGAAT
+>TRQ2_1533(metE) Score=4.8 Pos=-55 [Thermotoga sp. RQ2]
+ACACAACATGTGGTAT
+>TRQ2_0549(nrdG) Score=5.3 Pos=-55 [Thermotoga sp. RQ2]
+CCACAATATATTGTGG
+>CTN_0571(nrdJ) Score=5 Pos=-7 [Thermotoga neapolitana DSM 4359]
+AcACAATATgTTGTta
+>CTN_1290(metE) Score=4.3 Pos=-25 [Thermotoga neapolitana DSM 4359]
+ATACAACAAATGGAGG
+>CTN_0535(TM0152) Score=4.2 Pos=-141 [Thermotoga neapolitana DSM 4359]
+CTACTTCATGTTGTGT
+>CTN_1290(metE) Score=4.8 Pos=-55 [Thermotoga neapolitana DSM 4359]
+ACACAACATGTGGTAT
+>CTN_0313(nrdG) Score=5.1 Pos=-54 [Thermotoga neapolitana DSM 4359]
+CCACAACATATTGTGG
+>CTN_0313(nrdG) Score=4.5 Pos=-84 [Thermotoga neapolitana DSM 4359]
+CAACAATTTATTGAGA
+>CTN_0535(TM0152) Score=4.5 Pos=-110 [Thermotoga neapolitana DSM 4359]
+ATACCATAAGTAGTGT
+>CTN_0571(nrdJ) Score=4.4 Pos=-37 [Thermotoga neapolitana DSM 4359]
+CCACCACATGTTGAAT
+>Tpet_1489(metE) Score=4.8 Pos=-55 [Thermotoga petrophila RKU-1]
+ACACAACATGTGGTAT
+>Tpet_0806(nrdJ) Score=5 Pos=-34 [Thermotoga petrophila RKU-1]
+ACACAATATGTTGTTA
+>Tpet_0535(nrdG) Score=5.3 Pos=-61 [Thermotoga petrophila RKU-1]
+CCACAATATATTGTGG
+>Tpet_0535(nrdG) Score=4.1 Pos=-91 [Thermotoga petrophila RKU-1]
+CAACAATTTTTTGAGA
+>Tpet_0806(nrdJ) Score=4.3 Pos=-64 [Thermotoga petrophila RKU-1]
+CTACCAAATGTTGAAT
+>Tpet_1489(metE) Score=4.3 Pos=-25 [Thermotoga petrophila RKU-1]
+ATACAACAAATGGAGG
+>Tpet_0773(TM0152) Score=3.8 Pos=-109 [Thermotoga petrophila RKU-1]
+ATACTACAAAATGTAC
+>Tpet_0773(TM0152) Score=4.6 Pos=-140 [Thermotoga petrophila RKU-1]
+ATACAATATACGGTAT
+>Tnap_0782(TM0152) Score=3.8 Pos=-109 [Thermotoga naphthophila RKU-10]
+ATACTACAAAATGTAC
+>Tnap_0177(nrdG) Score=4.1 Pos=-85 [Thermotoga naphthophila RKU-10]
+CAACAATTTTTTGAGA
+>Tnap_0177(nrdG) Score=5.3 Pos=-55 [Thermotoga naphthophila RKU-10]
+CCACAATATATTGTGG
+>Tnap_0748(nrdJ) Score=4.3 Pos=-64 [Thermotoga naphthophila RKU-10]
+CTACCAAATGTTGAAT
+>Tnap_0748(nrdJ) Score=5 Pos=-34 [Thermotoga naphthophila RKU-10]
+ACACAATATGTTGTTA
+>Tnap_1512(metE) Score=4.8 Pos=-55 [Thermotoga naphthophila RKU-10]
+ACACAACATGTGGTAT
+>Tnap_0782(TM0152) Score=4.6 Pos=-140 [Thermotoga naphthophila RKU-10]
+ATACAATATACGGTAT
+>Tnap_1512(metE) Score=4.3 Pos=-25 [Thermotoga naphthophila RKU-10]
+ATACAACAAATGGAGG
+>Tlet_0432(nrdD) Score=5.3 Pos=-28 [Thermotoga lettingae TMO]
+ATACTATATATAGTAT
+>Tlet_0432(nrdD) Score=4.8 Pos=-58 [Thermotoga lettingae TMO]
+ATCCTATATATTGTAT
+>Tlet_0333(nrdJ) Score=4.7 Pos=-45 [Thermotoga lettingae TMO]
+ATACAACTTGTAGTAT
+>Tlet_0333(nrdJ) Score=5.4 Pos=-75 [Thermotoga lettingae TMO]
+ACACAATATATAGTGT
+>THA_677(nrdD) Score=5.3 Pos=-91 [Thermosipho africanus TCF52B]
+AAACTATATATTGTAT
+>THA_677(nrdD) Score=5.5 Pos=-59 [Thermosipho africanus TCF52B]
+ATACAATATATTGTGG
+>Tmel_0604(nrdD) Score=5.4 Pos=-103 [Thermosipho melanesiensis BI429]
+ACACAATATATAGTAT
+>Tmel_0604(nrdD) Score=5.5 Pos=-71 [Thermosipho melanesiensis BI429]
+ATACAATATATTGTGG
+>Fnod_0421(nrdJ) Score=5.1 Pos=-98 [Fervidobacterium nodosum Rt17-B1]
+ATACTATATATGGTAT
+>Fnod_0421(nrdJ) Score=4.5 Pos=-128 [Fervidobacterium nodosum Rt17-B1]
+TAACTATAAGTTGTGT
+>Fnod_1248(nrdG) Score=5.2 Pos=-91 [Fervidobacterium nodosum Rt17-B1]
+ATACTATATATAGTGT
+>Fnod_1248(nrdG) Score=5.2 Pos=-61 [Fervidobacterium nodosum Rt17-B1]
+ATTCAATATATTGTTT
+>Pmob_1872(nrdJ) Score=4.6 Pos=-63 [Petrotoga mobilis SJ95]
+TTTCAATATATTGTCG
+>Pmob_0978(nrdD) Score=5 Pos=-62 [Petrotoga mobilis SJ95]
+ACACAATAAATTGAGT
+>Pmob_1872(nrdJ) Score=4.9 Pos=-32 [Petrotoga mobilis SJ95]
+GTACAATATATTGATT
+>Pmob_0978(nrdD) Score=4.6 Pos=-94 [Petrotoga mobilis SJ95]
+ATACAATATACAGTGG
+>Kole_0584(TM0152) Score=4.5 Pos=-154 [Thermotogales bacterium TBF 19.5.1]
+TTTCTATATGTTGTGA
+>Kole_0584(TM0152) Score=4.1 Pos=-126 [Thermotogales bacterium TBF 19.5.1]
+CTCCAATACATTGTGT
+>Kole_0530(nrdD) Score=3.7 Pos=-35 [Thermotogales bacterium TBF 19.5.1]
+TTACTATTTATAGGGA
+>Kole_0530(nrdD) Score=4.9 Pos=-66 [Thermotogales bacterium TBF 19.5.1]
+ATACTATATATAGTAC

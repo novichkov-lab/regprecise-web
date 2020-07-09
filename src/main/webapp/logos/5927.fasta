@@ -1,0 +1,10 @@
+>CLOBAR_00985(bioY2) Score=7.8 Pos=-104 [Clostridium bartlettii DSM 16795]
+ATGTTAAC----------------GTTAACGT
+>CD0297(bioB) Score=7.8 Pos=-108 [Clostridium difficile 630]
+TAGTAAAC----------------GTTGACCA
+>CD2971(bioY) Score=8.2 Pos=-132 [Clostridium difficile 630]
+ATGTAAAC----------------GTTGACAA
+>CD0297(bioB) Score=8.2 Pos=-44 [Clostridium difficile 630]
+AAGTAAAC----------------GTTGACAA
+>CLOHIR_02034(bioY2) Score=8.3 Pos=-152 [Clostridium hiranonis DSM 13275]
+AGGTAAAC----------------GTTGACAT

@@ -1,0 +1,52 @@
+>BSU40340(rocD) Score=7.9 Pos=-175 [Bacillus subtilis subsp. subtilis str. 168]
+TGCAAAAGATTTTGCA
+>BSU40350(rocR) Score=7.9 Pos=-82 [Bacillus subtilis subsp. subtilis str. 168]
+TGCAAAATCTTTTGCA
+>BSU37780(rocA) Score=8.6 Pos=-213 [Bacillus subtilis subsp. subtilis str. 168]
+CGCAAAATATTTTGCA
+>BSU37780(rocA) Score=8 Pos=-169 [Bacillus subtilis subsp. subtilis str. 168]
+CGCAAAATAATTTGCG
+>RBAM_037260(rocR) Score=8.7 Pos=-59 [Bacillus amyloliquefaciens FZB42]
+CGCAAAATTTTTTGCG
+>RBAM_034980(rocA) Score=7.6 Pos=-199 [Bacillus amyloliquefaciens FZB42]
+CGCAAAGAATTTTGCA
+>RBAM_034980(rocA) Score=7.8 Pos=-165 [Bacillus amyloliquefaciens FZB42]
+CGCAAAATTCTTTGCG
+>RBAM_037250(rocD) Score=8.7 Pos=-177 [Bacillus amyloliquefaciens FZB42]
+CGCAAAAAATTTTGCG
+>BPUM_3061(rocR) Score=7.2 Pos=-89 [Bacillus pumilus SAFR-032]
+AGCAAAATTCTTTGCA
+>BPUM_3060(rocD) Score=7.2 Pos=-137 [Bacillus pumilus SAFR-032]
+TGCAAAGAATTTTGCT
+>BLi00422(rocD) Score=8.7 Pos=-142 [Bacillus licheniformis DSM 13]
+CGCAAAATTTTTTGCG
+>BLi00421(rocR) Score=8.7 Pos=-22 [Bacillus licheniformis DSM 13]
+CGCAAAAAATTTTGCG
+>GK0187(rocA) Score=7.7 Pos=-37 [Geobacillus kaustophilus HTA426]
+CGAAAAATTTTTTGCC
+>GK0186(rocC) Score=8.1 Pos=-93 [Geobacillus kaustophilus HTA426]
+TGAAAAATATTTTGCA
+>GK0186(rocC) Score=7.7 Pos=-168 [Geobacillus kaustophilus HTA426]
+TGAAAAAATTTTTGCT
+>GK0185(rocR) Score=8.1 Pos=-159 [Geobacillus kaustophilus HTA426]
+TGCAAAATATTTTTCA
+>GK0185(rocR) Score=7.7 Pos=-84 [Geobacillus kaustophilus HTA426]
+AGCAAAAATTTTTTCA
+>BC0473(rocR) Score=8.2 Pos=-87 [Bacillus cereus ATCC 14579]
+AGCAAAAATTTTTGCG
+>BH3944(rocR) Score=8 Pos=-116 [Bacillus halodurans C-125]
+CGAAAAATATTTTTCT
+>BH3944(rocR) Score=7.3 Pos=-73 [Bacillus halodurans C-125]
+CGAAAAAAAATTTGCA
+>BH3943(rocD) Score=8 Pos=-172 [Bacillus halodurans C-125]
+AGAAAAATATTTTTCG
+>BH3943(rocD) Score=7.3 Pos=-215 [Bacillus halodurans C-125]
+TGCAAATTTTTTTTCG
+>ABC0017(rocD) Score=8.5 Pos=-173 [Bacillus clausii KSM-K16]
+CGCAAAAAATTTTTCG
+>ABC0017(rocD) Score=7.7 Pos=-140 [Bacillus clausii KSM-K16]
+TGCAAAAATTTTTTCT
+>ABC0016(rocR) Score=7.7 Pos=-95 [Bacillus clausii KSM-K16]
+AGAAAAAATTTTTGCA
+>ABC0016(rocR) Score=8.5 Pos=-62 [Bacillus clausii KSM-K16]
+CGAAAAATTTTTTGCG

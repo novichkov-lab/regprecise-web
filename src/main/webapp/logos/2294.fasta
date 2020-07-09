@@ -1,0 +1,42 @@
+>HI1694(modE) Score=5.9 Pos=-118 [Haemophilus influenzae Rd KW20]
+AACGTTATTTACTTGATTATATATTGAA
+>HI0105(ybgI) Score=6.5 Pos=-161 [Haemophilus influenzae Rd KW20]
+ATCGCTATAAATTTATGTATATAATGAA
+>HI1525(momA) Score=6.8 Pos=-60 [Haemophilus influenzae Rd KW20]
+TTCATTATACAATTTTATATATATCGAT
+>HI1693(modA) Score=6.2 Pos=-101 [Haemophilus influenzae Rd KW20]
+AGCGTTATATATTTTACTAAATAATTTT
+>HI1676(moaA) Score=6.8 Pos=-246 [Haemophilus influenzae Rd KW20]
+TTCATTATGTATTTTTTTATATAATTGA
+>NT05HA_0380(ybgI) Score=6.4 Pos=-191 [Aggregatibacter aphrophilus NJ8700]
+ATCGTTATATATTAAATTGTATAATGAA
+>NT05HA_1098(modA) Score=6 Pos=-58 [Aggregatibacter aphrophilus NJ8700]
+TTCGTTGTATAATTTGTGCTATATATAA
+>NT05HA_0272(momA) Score=6.5 Pos=-68 [Aggregatibacter aphrophilus NJ8700]
+TTCATTATATTTATTTTTATATAACCAA
+>NT05HA_0848(moaA) Score=6.9 Pos=-252 [Aggregatibacter aphrophilus NJ8700]
+ATCGCTATATAAATTTATATATAATTGA
+>PM0744(modA) Score=6.7 Pos=-69 [Pasteurella multocida subsp. multocida str. Pm70]
+AACATTGTATAATTTTTTATATAAAGTT
+>PM0183(ybgI) Score=5.9 Pos=-190 [Pasteurella multocida subsp. multocida str. Pm70]
+ACCATTATATAATAAAGTATATAATGAG
+>PM1108(momA) Score=6.3 Pos=-68 [Pasteurella multocida subsp. multocida str. Pm70]
+TTCGATATATTACATTTTATATAATGAT
+>PM0625(moaA) Score=6.7 Pos=-266 [Pasteurella multocida subsp. multocida str. Pm70]
+AACGCTATATATTTTGTTATATAATTGA
+>MS1344(modE) Score=5.5 Pos=-107 [Mannheimia succiniciproducens MBEL55E]
+TTCGCTATTTATCCAATTATATAATGAA
+>MS1342(modA) Score=6.4 Pos=-46 [Mannheimia succiniciproducens MBEL55E]
+TTCATTATATAATTGGATAAATAGCGAA
+>MS1021(moaA) Score=6.2 Pos=-254 [Mannheimia succiniciproducens MBEL55E]
+TCTGTTATATACATTTATATATAACTGA
+>Asuc_1560(modE) Score=6 Pos=-118 [Actinobacillus succinogenes 130Z]
+TGCGTTATATAATTTAAGATATATGTAA
+>Asuc_1559(modA) Score=6 Pos=-63 [Actinobacillus succinogenes 130Z]
+TAAGTTATATAATTTATTACATATATCT
+>Asuc_1677(moaA) Score=6.6 Pos=-258 [Actinobacillus succinogenes 130Z]
+TTCGCTATAAAATTAAATATATAATTGA
+>HAPS_1455(modE) Score=6.1 Pos=-119 [Haemophilus parasuis SH0165]
+AACAATATATAAACTATTATATAACGAA
+>HAPS_1456(modA) Score=6.6 Pos=-152 [Haemophilus parasuis SH0165]
+TTCGTTATATAATAGTTTATATATTGTT

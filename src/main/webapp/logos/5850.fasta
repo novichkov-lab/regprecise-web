@@ -1,0 +1,44 @@
+>PA0119(dctA) Score=5.7 Pos=-74 [Pseudomonas aeruginosa PAO1]
+ACTGGTCAGACCGGT
+>PA0119(dctA) Score=4.6 Pos=-65 [Pseudomonas aeruginosa PAO1]
+ACCGGTAATACCACA
+>PSEEN1849(dctA) Score=4.8 Pos=-84 [Pseudomonas entomophila L48]
+ACCGGTAAGACCACA
+>PSEEN1849(dctA) Score=5.7 Pos=-160 [Pseudomonas entomophila L48]
+ACTGGTCAGACCGGT
+>PSEEN1849(dctA) Score=4 Pos=-151 [Pseudomonas entomophila L48]
+ACCGGTCAGTCCAAA
+>PFL_5347(dctA) Score=4.8 Pos=-85 [Pseudomonas fluorescens Pf-5]
+ACCGGTAAGACCACA
+>PFL_5347(dctA) Score=4.8 Pos=-94 [Pseudomonas fluorescens Pf-5]
+ACTGGACATACCGGT
+>PFL_5347(dctA) Score=5.7 Pos=-170 [Pseudomonas fluorescens Pf-5]
+ACTGGTCAGACCGGT
+>Pmen_0306(ureA) Score=4.7 Pos=-277 [Pseudomonas mendocina ymp]
+GCCGGTCAGTCCAGT
+>Pmen_0306(ureA) Score=5.2 Pos=-138 [Pseudomonas mendocina ymp]
+ACTGTTCAGACCAGT
+>Pmen_0307(ureR) Score=5.2 Pos=-164 [Pseudomonas mendocina ymp]
+ACTGGTCTGAACAGT
+>Pmen_0307(ureR) Score=4.7 Pos=-25 [Pseudomonas mendocina ymp]
+ACTGGACTGACCGGC
+>Pmen_0307(ureR) Score=4.1 Pos=-16 [Pseudomonas mendocina ymp]
+ACCGGCCCGAACAGT
+>Pmen_0306(ureA) Score=4.1 Pos=-286 [Pseudomonas mendocina ymp]
+ACTGTTCGGGCCGGT
+>PP2255(dctA) Score=4.8 Pos=-85 [Pseudomonas putida KT2440]
+ACCGGTAAGACCACA
+>PP2255(dctA) Score=5.7 Pos=-160 [Pseudomonas putida KT2440]
+ACTGGTCAGACCGGT
+>PSPTO5245(ureA) Score=4.6 Pos=-249 [Pseudomonas syringae pv. tomato str. DC3000]
+ACTGTTCAGGCCAGT
+>PSPTO5245(ureA) Score=4.1 Pos=-240 [Pseudomonas syringae pv. tomato str. DC3000]
+GCCAGTCAGTCCAGT
+>PSPTO5245(ureA) Score=5.9 Pos=-124 [Pseudomonas syringae pv. tomato str. DC3000]
+ACTGGTCAGACCAGT
+>PSPTO5244(ureR) Score=5.9 Pos=-141 [Pseudomonas syringae pv. tomato str. DC3000]
+ACTGGTCTGACCAGT
+>PSPTO5244(ureR) Score=4.1 Pos=-25 [Pseudomonas syringae pv. tomato str. DC3000]
+ACTGGACTGACTGGC
+>PSPTO5244(ureR) Score=4.6 Pos=-16 [Pseudomonas syringae pv. tomato str. DC3000]
+ACTGGCCTGAACAGT

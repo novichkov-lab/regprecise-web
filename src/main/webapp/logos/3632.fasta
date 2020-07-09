@@ -1,0 +1,98 @@
+>LVIS_0392(cadA) Score=4.6 Pos=-52 [Lactobacillus brevis ATCC 367]
+CAATAATTGTTATAA
+>LVIS_B09(npr) Score=5.9 Pos=-90 [Lactobacillus brevis ATCC 367]
+TTAGAATGATTCTAA
+>LVIS_1881(pcl2) Score=5.6 Pos=-98 [Lactobacillus brevis ATCC 367]
+TAAGAATTATTCTAA
+>LVIS_1917(ycnB) Score=5.2 Pos=-39 [Lactobacillus brevis ATCC 367]
+TAAGAATATTTCTAA
+>LVIS_1882(perR) Score=5.5 Pos=-186 [Lactobacillus brevis ATCC 367]
+TTAGAATAATTCTTA
+>LVIS_0086(ahpC) Score=4.9 Pos=-82 [Lactobacillus brevis ATCC 367]
+TTAGAATCATTCTTG
+>LSEI_2506(ahpC) Score=5.5 Pos=-31 [Lactobacillus casei ATCC 334]
+TAATAATCATTCTAA
+>LSEI_0397(npr) Score=4.7 Pos=-74 [Lactobacillus casei ATCC 334]
+TTGGAACTATTCTAA
+>LSEI_2799(cadA) Score=5.2 Pos=-46 [Lactobacillus casei ATCC 334]
+TTGTAATGGTTATAA
+>LSEI_2799(cadA) Score=5 Pos=-80 [Lactobacillus casei ATCC 334]
+TTATATTCGTTCTAA
+>LSEI_2417(cueO) Score=5.3 Pos=-192 [Lactobacillus casei ATCC 334]
+TTAGATTAATTCTAA
+>LSEI_2588(ybbL) Score=5.8 Pos=-40 [Lactobacillus casei ATCC 334]
+TTAGAATGATTATAA
+>LAF_0409(ahpC) Score=5 Pos=-32 [Lactobacillus fermentum IFO 3956]
+TGATAATCGTTCTAA
+>LAF_1546(pcl2) Score=5.3 Pos=-103 [Lactobacillus fermentum IFO 3956]
+TTAGAATTCTTCTAA
+>LAF_1546(pcl2) Score=5.7 Pos=-39 [Lactobacillus fermentum IFO 3956]
+TTATAATGGTTCTAA
+>LAF_1361(ycnB) Score=5.3 Pos=-109 [Lactobacillus fermentum IFO 3956]
+TTATAATCATTTTAA
+>LAF_1361(ycnB) Score=4.8 Pos=-30 [Lactobacillus fermentum IFO 3956]
+TTATAAGTTTTCTAA
+>LAF_1362(perR) Score=5.6 Pos=-27 [Lactobacillus fermentum IFO 3956]
+TTAAAATGATTATAA
+>lp_2544(npr) Score=5.1 Pos=-95 [Lactobacillus plantarum WCFS1]
+TTAGAATAATTACAA
+>lp_3327(cadA) Score=5.4 Pos=-93 [Lactobacillus plantarum WCFS1]
+TTAGAATCATTCTTA
+>lp_3247(perR) Score=4.8 Pos=-63 [Lactobacillus plantarum WCFS1]
+TTGGAATCCTTCTAA
+>lp_3247(perR) Score=5 Pos=-79 [Lactobacillus plantarum WCFS1]
+TAGTAATGTTTCTAA
+>lp_3225(ybbL) Score=6 Pos=-36 [Lactobacillus plantarum WCFS1]
+TTATAATGATTCTAA
+>lp_3360(pcl2) Score=5.6 Pos=-37 [Lactobacillus plantarum WCFS1]
+TAATAATGATTATAA
+>lp_0355(cueO) Score=5.6 Pos=-88 [Lactobacillus plantarum WCFS1]
+TTAAAATAATTCTAA
+>LAR_1232(perR) Score=5.3 Pos=-107 [Lactobacillus reuteri JCM 1112]
+TTAGAATAATTATTA
+>LAR_1232(perR) Score=5.5 Pos=-31 [Lactobacillus reuteri JCM 1112]
+TTATAATTATTTTAA
+>LAR_1019(ahpC) Score=5.6 Pos=-94 [Lactobacillus reuteri JCM 1112]
+TTAGAATTGTTCTAA
+>LAR_1019(ahpC) Score=5.7 Pos=-33 [Lactobacillus reuteri JCM 1112]
+TAAGAATGATTCTAA
+>LAR_1418(pcl2) Score=5.4 Pos=-102 [Lactobacillus reuteri JCM 1112]
+TTTTAATGATTCTAA
+>LAR_1418(pcl2) Score=6 Pos=-38 [Lactobacillus reuteri JCM 1112]
+TTATAATGATTCTAA
+>LAR_1231(ycnB) Score=5.4 Pos=-107 [Lactobacillus reuteri JCM 1112]
+TTAAAATAATTATAA
+>LAR_1231(ycnB) Score=5.6 Pos=-31 [Lactobacillus reuteri JCM 1112]
+TAATAATTATTCTAA
+>LGG_02803(cadA) Score=5 Pos=-80 [Lactobacillus rhamnosus GG]
+TTATATTCGTTCTAA
+>LGG_02803(cadA) Score=5.2 Pos=-46 [Lactobacillus rhamnosus GG]
+TTGTAATGGTTATAA
+>LGG_00491(npr) Score=5.5 Pos=-75 [Lactobacillus rhamnosus GG]
+TTGTAATTATTCTAA
+>LGG_02565(ybbL) Score=5 Pos=-35 [Lactobacillus rhamnosus GG]
+TTAGAATGGTTACAA
+>LGG_02415(cueO) Score=4.8 Pos=-72 [Lactobacillus rhamnosus GG]
+TTAGATTAATTCCAA
+>LSA0466(perR) Score=4.7 Pos=-38 [Lactobacillus sakei subsp. sakei 23K]
+TGATAATGATTATCA
+>LSA1194(pcl2) Score=5.6 Pos=-43 [Lactobacillus sakei subsp. sakei 23K]
+TTATAATGGTTATAA
+>LSA0969(cadA) Score=5.3 Pos=-65 [Lactobacillus sakei subsp. sakei 23K]
+TGATAATAATTCTAA
+>LSA0575(npr) Score=5 Pos=-61 [Lactobacillus sakei subsp. sakei 23K]
+TTGTAATAATTATTA
+>LSL_1367(perR) Score=4.8 Pos=-33 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTATAAAAGTTATAA
+>LSL_1578(ycnB) Score=4.6 Pos=-64 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTACAAAAATTCTAA
+>LSL_0409(pcl2) Score=5.5 Pos=-38 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTATAATTTTTCTAA
+>LSL_1684(ybbL) Score=5.5 Pos=-38 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTATAATTTTTCTAA
+>LSL_0169(cadA) Score=5.5 Pos=-93 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTATAATTTTTCTAA
+>PEPE_0043(pcl2) Score=5.7 Pos=-37 [Pediococcus pentosaceus ATCC 25745]
+TTAAAATGATTCTAA
+>PEPE_0502(cueO) Score=5.3 Pos=-73 [Pediococcus pentosaceus ATCC 25745]
+TTAGATTAATTCTAA

@@ -1,0 +1,48 @@
+>SO_1578(SO1578) Score=6.6 Pos=-112 [Shewanella oneidensis MR-1]
+TTAACGGAACGATCGGTTAG
+>SO_1577(SO1577) Score=6.6 Pos=-63 [Shewanella oneidensis MR-1]
+CTAACCGATCGTTCCGTTAA
+>Shewana3_2864(SO1578) Score=6.6 Pos=-112 [Shewanella sp ANA-3]
+TTAACGGAACGATCGGTTAG
+>Shewana3_2865(SO1577) Score=6.6 Pos=-63 [Shewanella sp ANA-3]
+CTAACCGATCGTTCCGTTAA
+>Shewmr4_2694(SO1578) Score=6.6 Pos=-112 [Shewanella sp MR-4]
+TTAACGGAACGATCGGTTAG
+>Shewmr4_2695(SO1577) Score=6.6 Pos=-63 [Shewanella sp MR-4]
+CTAACCGATCGTTCCGTTAA
+>Shewmr7_2762(SO1578) Score=6.7 Pos=-111 [Shewanella sp MR-7]
+TTAACGGAACGTTCGGTTAG
+>Shewmr7_2763(SO1577) Score=6.7 Pos=-63 [Shewanella sp MR-7]
+CTAACCGAACGTTCCGTTAA
+>Sbal_1395(SO1578) Score=5 Pos=-122 [Shewanella baltica OS155]
+ATATCTAAACGATCAGTCAA
+>Sbal_1395(SO1578) Score=6.6 Pos=-157 [Shewanella baltica OS155]
+TTAACGGAACGATCGGTTAG
+>Sbal_1394(SO1577) Score=6.6 Pos=-75 [Shewanella baltica OS155]
+CTAACCGATCGTTCCGTTAA
+>Sbal_1394(SO1577) Score=5 Pos=-110 [Shewanella baltica OS155]
+TTGACTGATCGTTTAGATAT
+>Sama_1089(SO1578) Score=5.5 Pos=-68 [Shewanella amazonensis SB2B]
+ATAACTGAACGAACGGTCAA
+>Sama_1089(SO1578) Score=6.2 Pos=-103 [Shewanella amazonensis SB2B]
+TTATCTGAACGATCGGTTAG
+>Sama_1088(SO1577) Score=6.2 Pos=-31 [Shewanella amazonensis SB2B]
+CTAACCGATCGTTCAGATAA
+>Sama_1088(SO1577) Score=5.5 Pos=-66 [Shewanella amazonensis SB2B]
+TTGACCGTTCGTTCAGTTAT
+>Shew_2729(SO1578) Score=6.1 Pos=-66 [Shewanella loihica PV-4]
+ATAACTGAACGTTCGGTCAA
+>Shew_2729(SO1578) Score=5.6 Pos=-101 [Shewanella loihica PV-4]
+TTAACTGAACGCTCGTTTAG
+>Shew_2730(SO1577) Score=5.6 Pos=-79 [Shewanella loihica PV-4]
+CTAAACGAGCGTTCAGTTAA
+>Shew_2730(SO1577) Score=6.1 Pos=-114 [Shewanella loihica PV-4]
+TTGACCGAACGTTCAGTTAT
+>Swoo_3433(SO1578) Score=6.6 Pos=-90 [Shewanella woodyi ATCC 51908]
+TTAACTGAACGATCGGTTAG
+>Swoo_3433(SO1578) Score=5 Pos=-55 [Shewanella woodyi ATCC 51908]
+ATAGCTAAACGTTCGGTCAA
+>Swoo_3434(SO1577) Score=6.6 Pos=-62 [Shewanella woodyi ATCC 51908]
+CTAACCGATCGTTCAGTTAA
+>Swoo_3434(SO1577) Score=5 Pos=-97 [Shewanella woodyi ATCC 51908]
+TTGACCGAACGTTTAGCTAT

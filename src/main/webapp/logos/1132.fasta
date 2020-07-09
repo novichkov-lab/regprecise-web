@@ -1,0 +1,56 @@
+>b2714(ascG) Score=6.3 Pos=-175 [Escherichia coli str. K-12 substr. MG1655]
+TTAAGAAACCGGTTTCACAA
+>b2715(ascF) Score=5.1 Pos=-177 [Escherichia coli str. K-12 substr. MG1655]
+TCAGGTGACCGGTTTCACAA
+>b2715(ascF) Score=5.8 Pos=-101 [Escherichia coli str. K-12 substr. MG1655]
+TTGTGAAACCGGTTTCTTAA
+>CKO_02999(celA2) Score=5.6 Pos=-117 [Citrobacter koseri ATCC BAA-895]
+TACTGCAACCGGTTTCAGTT
+>CKO_04069(ascG) Score=6.7 Pos=-172 [Citrobacter koseri ATCC BAA-895]
+ATAGGAAACCGGTTCCACAA
+>CKO_04070(ascF) Score=5.1 Pos=-103 [Citrobacter koseri ATCC BAA-895]
+TTGTGGAACCGGTTTCCTAT
+>KPN_03050(ascG) Score=6.7 Pos=-194 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAGGAAACCGGTTCCACAA
+>KPN_04054(celA) Score=4.6 Pos=-72 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AATGGAAACCGGTTTCCGTC
+>KPN_04054(celA) Score=4.3 Pos=-198 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTGGAAACCGATTTTCCAT
+>KPN_04369(celA2) Score=5.8 Pos=-151 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAATGAAACCGGTTTCAATT
+>KPN_03051(ascF) Score=5.1 Pos=-93 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGTGGAACCGGTTTCCTAT
+>Ent638_0526(bglF) Score=5 Pos=-202 [Enterobacter sp. 638]
+TACAGTAACCGGTTGCAGAG
+>Ent638_0038(celA) Score=4.7 Pos=-72 [Enterobacter sp. 638]
+AATGGAAACCGGTTTCCATA
+>Ent638_0200(celA2) Score=5.4 Pos=-126 [Enterobacter sp. 638]
+AATTGAAACCGGTTTCATAG
+>Ent638_3187(ascG) Score=6.7 Pos=-182 [Enterobacter sp. 638]
+ATAGGAAACCGGTTTCACAA
+>Ent638_3188(ascF) Score=5.6 Pos=-52 [Enterobacter sp. 638]
+TTGTGAAACCGGTTTCCTAT
+>Ent638_0526(bglF) Score=5.5 Pos=-215 [Enterobacter sp. 638]
+CACGGAAACCGGTTACAGTA
+>EAM_2929(ascG) Score=6.1 Pos=-297 [Erwinia amylovora ATCC 49946]
+TTCTGCAACCGGTTTCATAT
+>EAM_2930(bglE) Score=6.6 Pos=-68 [Erwinia amylovora ATCC 49946]
+ATATGAAACCGGTTGCAGAA
+>Spro_4224(bglE) Score=5.4 Pos=-86 [Serratia proteamaculans 568]
+TACTGAAACCGGTTGCTGTT
+>Spro_4224(bglE) Score=4.9 Pos=-99 [Serratia proteamaculans 568]
+CCCTGCAACCGGTTACTGAA
+>Spro_0576(ascF) Score=5.8 Pos=-113 [Serratia proteamaculans 568]
+TTGTGAAACCGGTTTCTTAT
+>Spro_0577(ascG) Score=6.5 Pos=-193 [Serratia proteamaculans 568]
+ATAAGAAACCGGTTTCACAA
+>ECA4436(ascG) Score=6.4 Pos=-164 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATATGCAACCGGTTTCATAT
+>ECA2488(celB) Score=4.5 Pos=-242 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGGAAAACGGTTTCCATAT
+>ECA2164(ascG) Score=6 Pos=-173 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGGGTAACCGGTTCCACAT
+>ECA2165(ascF) Score=5.1 Pos=-180 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGTGGAACCGGTTACCCAT
+>ECA4435(bglE) Score=6.6 Pos=-69 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATATGAAACCGGTTGCATAT

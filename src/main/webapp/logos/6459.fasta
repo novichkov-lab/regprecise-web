@@ -1,0 +1,48 @@
+>CD1287(fur) Score=5.3 Pos=-41 [Clostridium difficile 630]
+TTTAATAAAGATTATCAAT
+>CD1647 Score=5.3 Pos=-91 [Clostridium difficile 630]
+ATTGACAATGATAATTATT
+>CD1647 Score=5.3 Pos=-85 [Clostridium difficile 630]
+AATGATAATTATTATTGAT
+>CD1647 Score=6 Pos=-50 [Clostridium difficile 630]
+AATGATAATAATTTTCATT
+>CD1485 Score=5.4 Pos=-37 [Clostridium difficile 630]
+CTTGATATTAATTTTCATT
+>CD2878(fhuD) Score=5.8 Pos=-50 [Clostridium difficile 630]
+TATGATAATCAATATCATA
+>CD1485 Score=6.3 Pos=-74 [Clostridium difficile 630]
+ATTGATATTGATTATCATT
+>CD1087(zupT) Score=6.3 Pos=-38 [Clostridium difficile 630]
+AATGATAATCAATATCAAT
+>CD1819(PF11449) Score=6.2 Pos=-71 [Clostridium difficile 630]
+ATTGATATTGATTATCAAT
+>CD2499(PF10087) Score=5.8 Pos=-37 [Clostridium difficile 630]
+AATGAAAATCAATATCAAA
+>CD2499(PF10087) Score=5.6 Pos=-43 [Clostridium difficile 630]
+AATAATAATGAAAATCAAT
+>CD2499(PF10087) Score=6 Pos=-106 [Clostridium difficile 630]
+AATGATAATTAATATCAAT
+>CD3273(feoA) Score=5.7 Pos=-33 [Clostridium difficile 630]
+AGTGATAATGAATTTCATT
+>CD1745A(feoA) Score=6 Pos=-33 [Clostridium difficile 630]
+TTTGATAATGATTTTCATT
+>CLOBAR_01156(PF10087) Score=5.4 Pos=-163 [Clostridium bartlettii DSM 16795]
+ACTGATAAATATTATCAAT
+>CLOBAR_00861(fhuD) Score=6.1 Pos=-41 [Clostridium bartlettii DSM 16795]
+ATTGATAATCATTATTAAT
+>CLOBAR_01156(PF10087) Score=6 Pos=-103 [Clostridium bartlettii DSM 16795]
+AATGATAATCAGTATCATT
+>CLOBAR_00960 Score=5.6 Pos=-115 [Clostridium bartlettii DSM 16795]
+AATGATAATCGTTATCATG
+>CLOBAR_01994 Score=5.2 Pos=-35 [Clostridium bartlettii DSM 16795]
+GGTGATAATAATTATCAAT
+>CLOBAR_01994 Score=5.4 Pos=-67 [Clostridium bartlettii DSM 16795]
+AATTATTATCATTATCAAT
+>CLOBAR_00324(feoA) Score=5.7 Pos=-30 [Clostridium bartlettii DSM 16795]
+TATGAAAATGAATTTCATT
+>CLOHIR_00610(PF10087) Score=5.5 Pos=-71 [Clostridium hiranonis DSM 13275]
+CATAATAATGATTATCAAA
+>CLOHIR_01757(zupT) Score=5.3 Pos=-53 [Clostridium hiranonis DSM 13275]
+ATTAATATTCACTTTCATT
+>CLOHIR_00731(feoA) Score=6.1 Pos=-39 [Clostridium hiranonis DSM 13275]
+ATTGATAATGAATTTCATT

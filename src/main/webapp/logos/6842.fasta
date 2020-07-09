@@ -1,0 +1,72 @@
+>BAD_0919(argG) Score=5.6 Pos=-46 [Bifidobacterium adolescentis ATCC 15703]
+ATGCATAAATATACAG
+>BAD_0925(argC) Score=5.8 Pos=-33 [Bifidobacterium adolescentis ATCC 15703]
+CTGCATAATTATGCAA
+>BIFANG_01042(argG) Score=4.9 Pos=-62 [Bifidobacterium angulatum DSM 20098]
+GTGCATAAATATACGC
+>BIFANG_01042(argG) Score=4.4 Pos=-42 [Bifidobacterium angulatum DSM 20098]
+CTGTATATACTTGCAT
+>BIFANG_01035(argC) Score=5.8 Pos=-65 [Bifidobacterium angulatum DSM 20098]
+CTGCATAATTATGCAT
+>BLA_1245(argC) Score=5.4 Pos=-79 [Bifidobacterium animalis subsp. lactis AD011]
+ATGCATGTTTATGCAA
+>BLA_1251(argG) Score=5.2 Pos=-64 [Bifidobacterium animalis subsp. lactis AD011]
+ATGAATAAATATACAG
+>BLA_1081(artX) Score=4.8 Pos=-144 [Bifidobacterium animalis subsp. lactis AD011]
+ATGCATATCTAGGCAT
+>BLA_1081(artX) Score=4.7 Pos=-134 [Bifidobacterium animalis subsp. lactis AD011]
+AGGCATATGTATACAG
+>BbifN4_010100005455(argG) Score=5.6 Pos=-63 [Bifidobacterium bifidum NCIMB 41171]
+TTGCATAAATATACAG
+>BIFBRE_00979(argH) Score=4.7 Pos=-207 [Bifidobacterium breve DSM 20213]
+TTGCGTATATATTCAA
+>BIFBRE_00755(artX) Score=5.3 Pos=-87 [Bifidobacterium breve DSM 20213]
+TTGTATATGTATGCAC
+>BIFBRE_00755(artX) Score=5.1 Pos=-67 [Bifidobacterium breve DSM 20213]
+GTGTATAAATATGCTT
+>BIFBRE_00970(argG) Score=5.6 Pos=-72 [Bifidobacterium breve DSM 20213]
+GTGCATAAATATACAA
+>BIFBRE_00970(argG) Score=4.2 Pos=-52 [Bifidobacterium breve DSM 20213]
+CTGTATATACTTACAT
+>BIFBRE_00964(argC) Score=5.3 Pos=-66 [Bifidobacterium breve DSM 20213]
+CTGTATAACTATGCAA
+>BDP_1290(argG) Score=5.6 Pos=-64 [Bifidobacterium dentium Bd1]
+ATGCATAAATATACAG
+>BDP_1296(argC) Score=5.9 Pos=-75 [Bifidobacterium dentium Bd1]
+ATGCATAATTATGCAA
+>BIFGAL_01041(artX) Score=3.9 Pos=-90 [Bifidobacterium gallicum DSM 20093]
+ATGCTTGCTTGTGCAT
+>BIFGAL_01788(argC) Score=4.2 Pos=-61 [Bifidobacterium gallicum DSM 20093]
+ATGCAGTTTCATGCAT
+>BIFGAL_01782(argG) Score=5.8 Pos=-29 [Bifidobacterium gallicum DSM 20093]
+ATGCATAATTATGCAG
+>BL1058(argG) Score=5.6 Pos=-72 [Bifidobacterium longum NCC2705]
+GTGCATAAATATACAG
+>BL1178(artX) Score=5.1 Pos=-67 [Bifidobacterium longum NCC2705]
+GTGTATAAATATGCTT
+>BL1058(argG) Score=4.4 Pos=-52 [Bifidobacterium longum NCC2705]
+CTGTATATACTTGCAT
+>BL1178(artX) Score=5.3 Pos=-87 [Bifidobacterium longum NCC2705]
+TTGTATATGTATGCAC
+>BL1064(argC) Score=5.8 Pos=-72 [Bifidobacterium longum NCC2705]
+CTGCATAAATATGCAA
+>Blon_2021(artX) Score=5.3 Pos=-87 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTGTATATGTATGCAC
+>Blon_2021(artX) Score=5.1 Pos=-67 [Bifidobacterium longum subsp. infantis ATCC 15697]
+GTGTATAAATATGCTT
+>Blon_1875(argG) Score=5.6 Pos=-72 [Bifidobacterium longum subsp. infantis ATCC 15697]
+GTGCATAAATATACAG
+>Blon_1875(argG) Score=4.4 Pos=-52 [Bifidobacterium longum subsp. infantis ATCC 15697]
+CTGTATATACTTGCAT
+>Blon_1881(argC) Score=5.8 Pos=-66 [Bifidobacterium longum subsp. infantis ATCC 15697]
+CTGCATAAATATGCAA
+>HMPREF0424_1068(artX) Score=5.1 Pos=-63 [Gardnerella vaginalis 409-05]
+GTGTATAGTTATACAC
+>HMPREF0424_1068(artX) Score=4 Pos=-53 [Gardnerella vaginalis 409-05]
+ATACACATTAATGCAA
+>HMPREF0424_0674(argG) Score=4.7 Pos=-37 [Gardnerella vaginalis 409-05]
+TTGTTTATTTATTCAA
+>HMPREF0424_0673(argR) Score=4.3 Pos=-67 [Gardnerella vaginalis 409-05]
+TAGCATTTTCATGCAT
+>HMPREF0424_0674(argG) Score=3.9 Pos=-158 [Gardnerella vaginalis 409-05]
+ATGTATAACTATAATT

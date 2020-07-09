@@ -1,0 +1,44 @@
+>BIFANG_00301(bgaR) Score=6 Pos=-176 [Bifidobacterium angulatum DSM 20098]
+AAATGTTTGCGTTATCATTA
+>BIFANG_00302(bgaB) Score=4.8 Pos=-124 [Bifidobacterium angulatum DSM 20098]
+AAATGGTTTCGTCACCATTT
+>BIFANG_00302(bgaB) Score=6 Pos=-35 [Bifidobacterium angulatum DSM 20098]
+TAATGATAACGCAAACATTT
+>BLA_0464(bgaY) Score=5.2 Pos=-191 [Bifidobacterium animalis subsp. lactis AD011]
+AACTGTTTGCGCAATCATGC
+>BLA_0464(bgaY) Score=5.9 Pos=-114 [Bifidobacterium animalis subsp. lactis AD011]
+CTATGTTTGCGTAAACATTC
+>BLA_0461(bgaX) Score=6.4 Pos=-83 [Bifidobacterium animalis subsp. lactis AD011]
+ATATGTTTGCGCAAACATAA
+>BLA_0465(bgaR) Score=5.9 Pos=-174 [Bifidobacterium animalis subsp. lactis AD011]
+GAATGTTTACGCAAACATAG
+>BLA_0465(bgaR) Score=5.2 Pos=-97 [Bifidobacterium animalis subsp. lactis AD011]
+GCATGATTGCGCAAACAGTT
+>BbifN4_010100008751(bgaR) Score=5.7 Pos=-128 [Bifidobacterium bifidum NCIMB 41171]
+AAATGTTTGCGTTACCATGA
+>BbifN4_010100008756(bgaZ) Score=4.7 Pos=-200 [Bifidobacterium bifidum NCIMB 41171]
+CTATGTTTTGGTTACCATCA
+>BbifN4_010100008756(bgaZ) Score=5.7 Pos=-118 [Bifidobacterium bifidum NCIMB 41171]
+TCATGGTAACGCAAACATTT
+>BIFBRE_00764(bgaX) Score=5.3 Pos=-156 [Bifidobacterium breve DSM 20213]
+AGATGTTATCGCAACCATAG
+>BIFBRE_00761(bgaR) Score=5.5 Pos=-208 [Bifidobacterium breve DSM 20213]
+AATTGTTTACGTTATCATCA
+>BDP_0658(abfA1) Score=6 Pos=-169 [Bifidobacterium dentium Bd1]
+ATATGTTTACGCAAACAAAA
+>BDP_0655(bgaY) Score=5.1 Pos=-270 [Bifidobacterium dentium Bd1]
+TAATGTTTTCGTCATCATAG
+>BDP_0655(bgaY) Score=5.5 Pos=-179 [Bifidobacterium dentium Bd1]
+TTCTGATAACGTAAACATTT
+>BDP_0659(bgaX) Score=6 Pos=-124 [Bifidobacterium dentium Bd1]
+TTTTGTTTGCGTAAACATAT
+>BL1166(abfA1) Score=5.8 Pos=-71 [Bifidobacterium longum NCC2705]
+TTATGTTTACGCAAACACGA
+>BL1170(bgaY) Score=5.8 Pos=-44 [Bifidobacterium longum NCC2705]
+TGATGATAACGCAAACATTT
+>BL1165(bgaX) Score=5.8 Pos=-108 [Bifidobacterium longum NCC2705]
+TCGTGTTTGCGTAAACATAA
+>BL1164(bgaX) Score=5.3 Pos=-170 [Bifidobacterium longum NCC2705]
+AGATGTTATCGCAACCATAG
+>BL1171(bgaR) Score=5.8 Pos=-192 [Bifidobacterium longum NCC2705]
+AAATGTTTGCGTTATCATCA

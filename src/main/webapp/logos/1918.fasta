@@ -1,0 +1,36 @@
+>SMb20261(hypS) Score=3.8 Pos=-71 [Sinorhizobium meliloti 1021]
+GTTTGTATACTCTA
+>SMb20258(hypR) Score=5.3 Pos=-24 [Sinorhizobium meliloti 1021]
+TTTTGTCGACAAGA
+>SMb20259(hypD) Score=5.1 Pos=-108 [Sinorhizobium meliloti 1021]
+TTTTGTCGACAAAT
+>SMb20263(hypM) Score=4.5 Pos=-101 [Sinorhizobium meliloti 1021]
+TTTTGTATACTAAT
+>SMb20262(hypH) Score=3.8 Pos=-185 [Sinorhizobium meliloti 1021]
+TAGAGTATACAAAC
+>pRL100269(hypR) Score=4.6 Pos=-113 [Rhizobium leguminosarum bv. viciae 3841]
+AACTGTCGACAAGA
+>pRL100268(hypD) Score=4.6 Pos=-51 [Rhizobium leguminosarum bv. viciae 3841]
+TCTTGTCGACAGTT
+>RHE_PC00042(hypD) Score=4.6 Pos=-51 [Rhizobium etli CFN 42]
+TCTTGTCGACAGTT
+>RHE_PC00043(hypR) Score=4.6 Pos=-93 [Rhizobium etli CFN 42]
+AACTGTCGACAAGA
+>Atu4676(hypS) Score=3.5 Pos=-52 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGTATACTTTA
+>Atu4676(hypS) Score=4.2 Pos=-232 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATGAGTATACAAAA
+>Atu4674(hypR) Score=4.7 Pos=-25 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTATGTCGACAAGA
+>Atu4676(hypS) Score=3.7 Pos=-41 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTATGTATTCAAAA
+>Atu4675(hypD) Score=5.1 Pos=-99 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TCTTGTCGACAAAT
+>Atu4678(hypM) Score=4.2 Pos=-100 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTGTATACTCAT
+>Meso_2568(hypD) Score=4.6 Pos=-71 [Mesorhizobium sp. BNC1]
+TTGTGTCGACAAAC
+>Meso_2569(hypR) Score=3.4 Pos=-143 [Mesorhizobium sp. BNC1]
+ACGTGTTTACAATC
+>BMEII1006(hypD) Score=5.2 Pos=-89 [Brucella melitensis 16M]
+TCTTGTCGACAAGA

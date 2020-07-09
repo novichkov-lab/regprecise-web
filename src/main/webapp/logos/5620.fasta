@@ -1,0 +1,32 @@
+>lin0583(gmuD) Score=4.8 Pos=-63 [Listeria innocua Clip11262]
+ATAAGTTTATACTTTT
+>lin0900(gmuC) Score=5.8 Pos=-87 [Listeria innocua Clip11262]
+AAAAGACTAGACATTT
+>lin0901(gmuR1) Score=5.6 Pos=-42 [Listeria innocua Clip11262]
+AAATGGCTAGACATTT
+>lin2215(manA) Score=4.8 Pos=-62 [Listeria innocua Clip11262]
+ATTAGTATATACTTTT
+>lmo0574(gmuD) Score=4.8 Pos=-63 [Listeria monocytogenes EGD-e]
+ATAAGTTTATACTTTT
+>lmo0901(gmuC) Score=5.8 Pos=-89 [Listeria monocytogenes EGD-e]
+AAAAGACTAGACATTT
+>lmo0902(gmuR1) Score=5.6 Pos=-42 [Listeria monocytogenes EGD-e]
+AAATGGCTAGACATTT
+>lmo2110(manA) Score=4.8 Pos=-62 [Listeria monocytogenes EGD-e]
+ATTAGTATATACTTTT
+>lse_0482(gmuD) Score=4.8 Pos=-65 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+ATAAGTTTATACTTTT
+>lse_0803(gmuC) Score=5.8 Pos=-88 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAAAGACTAGACATTT
+>lse_0804(gmuR1) Score=5.6 Pos=-42 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATGGCTAGACATTT
+>lse_2099(manA) Score=4.8 Pos=-63 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+ATTAGTATATACTTTT
+>lwe0540(gmuD) Score=4.8 Pos=-63 [Listeria welshimeri serovar 6b str. SLCC5334]
+ATAAGTTTATACTTTT
+>lwe0886(gmuC) Score=5.8 Pos=-87 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAAAGACTAGACATTT
+>lwe0887(gmuR1) Score=5.6 Pos=-42 [Listeria welshimeri serovar 6b str. SLCC5334]
+AAATGGCTAGACATTT
+>lwe2129(manA) Score=4.8 Pos=-62 [Listeria welshimeri serovar 6b str. SLCC5334]
+ATTAGTATATACTTTT

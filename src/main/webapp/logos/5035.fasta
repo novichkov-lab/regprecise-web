@@ -1,0 +1,44 @@
+>ebB35(groS) Score=7.4 Pos=-115 [Azoarcus sp. EbN1]
+TTAGCACTCGTTGGCAGTGAGTGCTAA
+>ebA4241(rpoH) Score=7 Pos=-54 [Azoarcus sp. EbN1]
+TTAGCACTCCAACGCCATGAGTGCTAA
+>Tmz1t_1419(groS) Score=7.5 Pos=-144 [Thauera sp. MZ1T]
+TTAGCACTCGTTGGCGTCGAGTGCTAA
+>Tmz1t_1062(rpoH) Score=7.1 Pos=-55 [Thauera sp. MZ1T]
+TTAGCACTCTCACGCCCCGAGTGCTAA
+>Daro_0425(groS) Score=7.4 Pos=-115 [Dechloromonas aromatica RCB]
+TTAGCACTCACCGGCGACGAGTGCTAA
+>Daro_3837(rpoH) Score=7.1 Pos=-61 [Dechloromonas aromatica RCB]
+TTAGCACTCTTATGCAGCGAGTGCTAA
+>NE0027(groS) Score=7.4 Pos=-128 [Nitrosomonas europaea ATCC 19718]
+TTAGCACTCGTTGCTGTTGAGTGCTAA
+>NE0584(rpoH) Score=7 Pos=-85 [Nitrosomonas europaea ATCC 19718]
+TTAGCACTCATGAACTAAGAGTGCTAG
+>Nmul_A2345(groS) Score=7.3 Pos=-120 [Nitrosospira multiformis ATCC 25196]
+TTAGCACTCATTGGCATTGAGTGCTAA
+>Tbd_0092(groS) Score=6.8 Pos=-102 [Thiobacillus denitrificans]
+TCAGCACTCTATGGCGGCGAGTGCTAA
+>Tbd_0345(rpoH) Score=7 Pos=-52 [Thiobacillus denitrificans]
+TTAGCACTCCCAATGCGCGAGTGCTAA
+>CV4015(groS) Score=7.3 Pos=-94 [Chromobacterium violaceum ATCC 12472]
+TTAGCACTCGCAATGGTCGAGTGCTAA
+>CV4206(rpoH) Score=6.8 Pos=-58 [Chromobacterium violaceum ATCC 12472]
+CTAGCACTCTCAATATTCGAGTGCTAA
+>LHK_01878(groS) Score=7 Pos=-97 [Laribacter hongkongensis HLHK9]
+TTAGCACTCGTGAAGCGGGAGTGCTAA
+>LHK_00659(groS) Score=6.9 Pos=-97 [Laribacter hongkongensis HLHK9]
+TTGGCACTCGTGAGTGATGAGTGCTAA
+>LHK_00231(rpoH) Score=6.7 Pos=-55 [Laribacter hongkongensis HLHK9]
+TTATCACTCAACCAGGCCGAGTGCTAA
+>Mfla_0365(groS) Score=7.3 Pos=-97 [Methylobacillus flagellatus KT]
+TTAGCACTCGATAGGGTTGAGTGCTAA
+>Mfla_0702(rpoH) Score=6.3 Pos=-55 [Methylobacillus flagellatus KT]
+CTAGCACACTCAAACAGTGAGTGCTAG
+>Mmol_0429(groS) Score=6.9 Pos=-94 [Methylotenera mobilis JLW8]
+TTAGCAATCGAGGTGCGCGAGTGCTAA
+>Mmol_1814(rpoH) Score=7 Pos=-56 [Methylotenera mobilis JLW8]
+CTAGCACTCTCGAACGTAGAGTGCTAA
+>MB2181_06400(groS) Score=7 Pos=-91 [Methylophilales bacterium HTCC2181]
+TTAGCACTCTATCAAGTTGAGTGCTAA
+>MB2181_02680(rpoH) Score=7.1 Pos=-47 [Methylophilales bacterium HTCC2181]
+TTAGCACTCTATAGGATTGAGTGCTAA

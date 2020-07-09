@@ -1,0 +1,80 @@
+>VC2330(nnrS) Score=4.9 Pos=-56 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGGTGTCATTATGACTTTT
+>VC2330(nnrS) Score=4.3 Pos=-80 [Vibrio cholerae O1 biovar eltor str. N16961]
+AAAAGTCATAATGACTCGA
+>VCA0182(norR2) Score=5.1 Pos=-52 [Vibrio cholerae O1 biovar eltor str. N16961]
+TCGTGTCGATTTGACACTA
+>VCA0183(hmp) Score=5.1 Pos=-157 [Vibrio cholerae O1 biovar eltor str. N16961]
+TAGTGTCAAATCGACACGA
+>VV21342(norR1) Score=5.8 Pos=-32 [Vibrio vulnificus CMCP6]
+AATTGTCATATTGACATTA
+>VV21342(norR1) Score=5.5 Pos=-52 [Vibrio vulnificus CMCP6]
+TTTTGTCATTTAGACACTA
+>VV21342(norR1) Score=5.6 Pos=-76 [Vibrio vulnificus CMCP6]
+CAGTGTCTAAATGACACTA
+>VV21343(norV) Score=5.5 Pos=-170 [Vibrio vulnificus CMCP6]
+TAGTGTCTAAATGACAAAA
+>VV21343(norV) Score=5.8 Pos=-190 [Vibrio vulnificus CMCP6]
+TAATGTCAATATGACAATT
+>VV21343(norV) Score=5.6 Pos=-146 [Vibrio vulnificus CMCP6]
+TAGTGTCATTTAGACACTG
+>VSAK1_23189(norR2) Score=4.5 Pos=-59 [Vibrio shilonii AK1]
+TTAGGTCAATATGACTCTA
+>VSAK1_23829(norR1) Score=5.5 Pos=-32 [Vibrio shilonii AK1]
+AATTGTCATATTGACAAAG
+>VSAK1_17902(tehB) Score=4.2 Pos=-186 [Vibrio shilonii AK1]
+TGAGGTCGTTATGACACAA
+>VSAK1_23834(norV) Score=5.1 Pos=-138 [Vibrio shilonii AK1]
+CAGTGTCGTTTAGACAGTT
+>VSAK1_23834(norV) Score=5.1 Pos=-162 [Vibrio shilonii AK1]
+TAATGTCTAAATGACATCT
+>VSAK1_23834(norV) Score=5.5 Pos=-182 [Vibrio shilonii AK1]
+CTTTGTCAATATGACAATT
+>VSAK1_23829(norR1) Score=5.1 Pos=-52 [Vibrio shilonii AK1]
+AGATGTCATTTAGACATTA
+>VSAK1_23829(norR1) Score=5.1 Pos=-76 [Vibrio shilonii AK1]
+AACTGTCTAAACGACACTG
+>VS_II1439(norV) Score=4.8 Pos=-10 [Vibrio splendidus LGP32]
+TATTATCATTATGACTATT
+>VS_II0563(norR2) Score=4.9 Pos=-53 [Vibrio splendidus LGP32]
+TTATGTCATAAAGACTCTA
+>VS_II0563(norR2) Score=4.3 Pos=-75 [Vibrio splendidus LGP32]
+TTTAGTCAAAAAGACCTTT
+>VS_II0563(norR2) Score=4.5 Pos=-175 [Vibrio splendidus LGP32]
+TTCAGTCATATAGACAACA
+>VS_II0152(fpr) Score=5 Pos=-127 [Vibrio splendidus LGP32]
+AGATGTCATTTAGACACAA
+>VS_II0152(fpr) Score=4.6 Pos=-103 [Vibrio splendidus LGP32]
+CAAAGTCTATTTGACATCA
+>VS_II1439(norV) Score=4.4 Pos=-168 [Vibrio splendidus LGP32]
+CTGAGTCATAAAGACACCT
+>VS_2426(nnrS) Score=4.8 Pos=-187 [Vibrio splendidus LGP32]
+GTGTGTTTAATTGACACTT
+>VS_II0564(hmp) Score=4.6 Pos=-52 [Vibrio splendidus LGP32]
+ATTAGTCAATTTGACATGA
+>VS_II0564(hmp) Score=4.5 Pos=-193 [Vibrio splendidus LGP32]
+TGTTGTCTATATGACTGAA
+>VF_1783(norR1) Score=5.4 Pos=-38 [Vibrio fischeri ES114]
+AATTGTCAAATTAACACTG
+>VF_1783(norR1) Score=5.6 Pos=-83 [Vibrio fischeri ES114]
+AAGTGTCATTATGACAATC
+>VF_1783(norR1) Score=5.4 Pos=-58 [Vibrio fischeri ES114]
+TTTTGTCAAAACGACACTA
+>VF_1782(norV) Score=5.6 Pos=-123 [Vibrio fischeri ES114]
+GATTGTCATAATGACACTT
+>VF_1782(norV) Score=5.4 Pos=-148 [Vibrio fischeri ES114]
+TAGTGTCGTTTTGACAAAA
+>VF_1782(norV) Score=5.4 Pos=-168 [Vibrio fischeri ES114]
+CAGTGTTAATTTGACAATT
+>VSAL_I2198(norR1) Score=5.4 Pos=-39 [Vibrio salmonicida LFI1238]
+AATAGTCAAATTGACATTA
+>VSAL_I2198(norR1) Score=5.2 Pos=-59 [Vibrio salmonicida LFI1238]
+TTCTGTCAAAAAGACAGTA
+>VSAL_I2198(norR1) Score=5.6 Pos=-84 [Vibrio salmonicida LFI1238]
+AAATGTCAATTTGACACTC
+>VSAL_I2199(norV) Score=5.6 Pos=-122 [Vibrio salmonicida LFI1238]
+GAGTGTCAAATTGACATTT
+>VSAL_I2199(norV) Score=5.2 Pos=-147 [Vibrio salmonicida LFI1238]
+TACTGTCTTTTTGACAGAA
+>VSAL_I2199(norV) Score=5.4 Pos=-167 [Vibrio salmonicida LFI1238]
+TAATGTCAATTTGACTATT

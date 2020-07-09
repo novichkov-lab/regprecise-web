@@ -1,0 +1,598 @@
+>MAB_3902c(Rv2004c) Score=3.9 Pos=-96 [Mycobacterium abscessus ATCC 19977]
+AGGGGCCCGAAGTCACCG
+>MAB_3902c(Rv2004c) Score=4.5 Pos=-117 [Mycobacterium abscessus ATCC 19977]
+CAGGGCCCTTGGTCACCG
+>MAB_2489(MSMEG_3940) Score=3.9 Pos=-108 [Mycobacterium abscessus ATCC 19977]
+TATGGCCGAAAGTCACCA
+>MAB_2489(MSMEG_3940) Score=3.8 Pos=-182 [Mycobacterium abscessus ATCC 19977]
+CTGGGCCTTGGGTCCCAA
+>MAB_3903(acg) Score=3.7 Pos=-161 [Mycobacterium abscessus ATCC 19977]
+GTGGGACCGAAGTCACCA
+>MAB_3903(acg) Score=3.9 Pos=-96 [Mycobacterium abscessus ATCC 19977]
+CGGTGACTTCGGGCCCCT
+>MAB_3903(acg) Score=4.5 Pos=-75 [Mycobacterium abscessus ATCC 19977]
+CGGTGACCAAGGGCCCTG
+>MAB_3902c(Rv2004c) Score=3.7 Pos=-31 [Mycobacterium abscessus ATCC 19977]
+TGGTGACTTCGGTCCCAC
+>MAB_3354(desA) Score=4.6 Pos=-96 [Mycobacterium abscessus ATCC 19977]
+GAGGGACCTTCGTCACTA
+>MAB_3891c(dosR) Score=4.5 Pos=-132 [Mycobacterium abscessus ATCC 19977]
+TAGGGACCAAAGACCGTA
+>MAV_2502(Rv3131 ) Score=3.9 Pos=-102 [Mycobacterium avium 104]
+TACGGCACAAAGTCCCTC
+>MAV_2502(Rv3131 ) Score=3.4 Pos=-80 [Mycobacterium avium 104]
+CAGGGGACGTCGTCCCCT
+>MAV_1793(desA) Score=5 Pos=-110 [Mycobacterium avium 104]
+AAGGGACTTTCGGCCCTA
+>MAV_4010(Rv3134c) Score=3.9 Pos=-101 [Mycobacterium avium 104]
+TGGGGACCAACGCCTCTG
+>MAV_4010(Rv3134c) Score=4 Pos=-122 [Mycobacterium avium 104]
+TAGGGTCTTATGGCACCT
+>MAV_4109(dosR) Score=4 Pos=-93 [Mycobacterium avium 104]
+TCGGGACCAAAGTCGTTG
+>MAV_2505(MAV_2505) Score=4.7 Pos=-81 [Mycobacterium avium 104]
+ACGGGACCTAGGACCCTA
+>MAV_2507(MAV_2507) Score=3.9 Pos=-91 [Mycobacterium avium 104]
+GAAGGTCTGTCGTCCTTG
+>MAV_2507(MAV_2507) Score=4.3 Pos=-69 [Mycobacterium avium 104]
+TGGGGACGAAAGTCTCCT
+>MAV_4109(dosR) Score=3.6 Pos=-115 [Mycobacterium avium 104]
+GGCGGCCGAAGGTCCTCT
+>MAV_4110(MAV_4110) Score=4 Pos=-138 [Mycobacterium avium 104]
+CAACGACTTTGGTCCCGA
+>MAV_4111(usp) Score=4.2 Pos=-83 [Mycobacterium avium 104]
+TAGAGCCGTCGGGCCCTC
+>MAV_4111(usp) Score=3.8 Pos=-105 [Mycobacterium avium 104]
+ATCGGCCGAAAGTCCCTC
+>Mb2020(ctpF) Score=4.2 Pos=-111 [Mycobacterium bovis AF2122/97]
+CTGGACCGTAGGTCCCTG
+>Mb2020(ctpF) Score=4 Pos=-89 [Mycobacterium bovis AF2122/97]
+GGATGACTTACGGCCCTG
+>Mb0082 Score=4.6 Pos=-88 [Mycobacterium bovis AF2122/97]
+ATGGGACTTTCGGCCCTG
+>Mb2662 Score=4.2 Pos=-300 [Mycobacterium bovis AF2122/97]
+GGATGACTTTGGTCCCTA
+>Mb1844(Erg3_1) Score=4.3 Pos=-155 [Mycobacterium bovis AF2122/97]
+TAGGGCATAAAGTCTCTA
+>Mb1844(Erg3_1) Score=4.2 Pos=-122 [Mycobacterium bovis AF2122/97]
+TAGGGAACAACGGCCTTC
+>Mb0586c Score=4.2 Pos=-51 [Mycobacterium bovis AF2122/97]
+CAGGGACCTAATTCCATA
+>Mb1843c Score=4.2 Pos=-304 [Mycobacterium bovis AF2122/97]
+GAAGGCCGTTGTTCCCTA
+>Mb1843c Score=4.3 Pos=-271 [Mycobacterium bovis AF2122/97]
+TAGAGACTTTATGCCCTA
+>Mb2661 Score=4.7 Pos=-275 [Mycobacterium bovis AF2122/97]
+TAGGGACTTACGTCCCGC
+>Mb2661 Score=4.2 Pos=-36 [Mycobacterium bovis AF2122/97]
+AAGTGACGAAAGACCCCA
+>Mb1766c(narK2) Score=4.6 Pos=-171 [Mycobacterium bovis AF2122/97]
+TAGGGCCTGAAGTCCCGG
+>Mb1766c(narK2) Score=4.6 Pos=-109 [Mycobacterium bovis AF2122/97]
+TGGGGACTTCCGGCCCTA
+>Mb2019(Rv1996) Score=3.8 Pos=-75 [Mycobacterium bovis AF2122/97]
+TAGGGACCATCGCCTCCT
+>Mb1767 Score=4.6 Pos=-195 [Mycobacterium bovis AF2122/97]
+TAGGGCCGGAAGTCCCCA
+>Mb1767 Score=4.6 Pos=-133 [Mycobacterium bovis AF2122/97]
+CCGGGACTTCAGGCCCTA
+>Mb0081c Score=4.6 Pos=-332 [Mycobacterium bovis AF2122/97]
+CAGGGCCGAAAGTCCCAT
+>Mb0589c Score=4.5 Pos=-111 [Mycobacterium bovis AF2122/97]
+TGAGGACCTTCGGCCCCA
+>Mb1762c(Rv1733c) Score=4.2 Pos=-145 [Mycobacterium bovis AF2122/97]
+AAGGGGCGAAAGTCCCTT
+>Mb1763c(Rv1734c) Score=4.6 Pos=-48 [Mycobacterium bovis AF2122/97]
+TGGGGACCGAAGTCCCCG
+>Mb2057c(hspX) Score=4.6 Pos=-81 [Mycobacterium bovis AF2122/97]
+CGGGGACTTCTGTCCCTA
+>Mb2057c(hspX) Score=4.6 Pos=-138 [Mycobacterium bovis AF2122/97]
+CAGGGTCAATGGTCCCCA
+>Mb2659c(Rv2626c) Score=4.2 Pos=-89 [Mycobacterium bovis AF2122/97]
+ACGGGTCAAACGACCCTA
+>Mb2659c(Rv2626c) Score=3.8 Pos=-255 [Mycobacterium bovis AF2122/97]
+CGGGGCCGATCGGCATCA
+>Mb2030c(fdxA ) Score=4.6 Pos=-76 [Mycobacterium bovis AF2122/97]
+TAAGGCCTTTGGTCCTTT
+>Mb2029(otsB1) Score=3.5 Pos=-66 [Mycobacterium bovis AF2122/97]
+ATGAGGCTTTAGTCCCCA
+>Mb2058(acg) Score=4.6 Pos=-76 [Mycobacterium bovis AF2122/97]
+TGGGGACCATTGACCCTG
+>Mb2028c(Rv2005c) Score=3.5 Pos=-70 [Mycobacterium bovis AF2122/97]
+TGGGGACTAAAGCCTCAT
+>Mb2058(acg) Score=4.6 Pos=-133 [Mycobacterium bovis AF2122/97]
+TAGGGACAGAAGTCCCCG
+>Mb2659c(Rv2626c) Score=3.8 Pos=-112 [Mycobacterium bovis AF2122/97]
+ACGGGTCCATCGACCCGC
+>Mb1762c(Rv1733c) Score=4.1 Pos=-63 [Mycobacterium bovis AF2122/97]
+TCGTGACCGACGTCCCCA
+>Mb1762c(Rv1733c) Score=4.6 Pos=-41 [Mycobacterium bovis AF2122/97]
+CAAGGCCGAACGACCCTA
+>Mb3158c(Rv3134c) Score=4.3 Pos=-91 [Mycobacterium bovis AF2122/97]
+TGGGGACCAACGCCCCTG
+>Mb3158c(Rv3134c) Score=4.6 Pos=-112 [Mycobacterium bovis AF2122/97]
+TAAGGACTAACGGCCCTC
+>Mb3154c(DGAT) Score=4.3 Pos=-93 [Mycobacterium bovis AF2122/97]
+GGAGGACCTTTGGCCCTG
+>Mb3155(Rv3131 ) Score=4.3 Pos=-109 [Mycobacterium bovis AF2122/97]
+CAGGGCCAAAGGTCCTCC
+>Mb2660c Score=4.7 Pos=-52 [Mycobacterium bovis AF2122/97]
+GCGGGACGTAAGTCCCTA
+>Mb2660c Score=3.7 Pos=-121 [Mycobacterium bovis AF2122/97]
+TAGGGCACTTGGGCCACC
+>Mb2660c Score=4.2 Pos=-291 [Mycobacterium bovis AF2122/97]
+TGGGGTCTTTCGTCACTT
+>Mb2656(Rv2623 usp) Score=3.5 Pos=-130 [Mycobacterium bovis AF2122/97]
+TGAGGACCTAAGCCCGTT
+>MMAR_1522(acg) Score=3.9 Pos=-59 [Mycobacterium marinum M]
+GAATGACGAATGACCCTA
+>MMAR_2995(usp) Score=4.2 Pos=-138 [Mycobacterium marinum M]
+TGGGGTCCATGGACTCTG
+>MMAR_3407(gltD) Score=4.5 Pos=-75 [Mycobacterium marinum M]
+CAGGGTCAGAAGTCCCTA
+>MMAR_3406(DGAT) Score=4.5 Pos=-52 [Mycobacterium marinum M]
+TAGGGACTTCTGACCCTG
+>MMAR_1518(Rv3131 ) Score=4.8 Pos=-116 [Mycobacterium marinum M]
+CAGGGCCAAAGGTCCCTC
+>MMAR_3488(acs_1) Score=4.1 Pos=-266 [Mycobacterium marinum M]
+AAGGGCCTTTGGCCCCCG
+>MMAR_3488(acs_1) Score=3.6 Pos=-245 [Mycobacterium marinum M]
+CGACGACATAGGGCCCCG
+>MMAR_3475(nitroreductase) Score=4.7 Pos=-74 [Mycobacterium marinum M]
+GAAGGACCAACGGCCCTG
+>MMAR_3477(MAV_2507) Score=3.4 Pos=-289 [Mycobacterium marinum M]
+CCGGGACCGCTGGCCTGC
+>MMAR_3705 Score=4.8 Pos=-68 [Mycobacterium marinum M]
+CAAGGACTTTCGGCCCTA
+>MMAR_2071(fadD11_1) Score=4.1 Pos=-153 [Mycobacterium marinum M]
+GGATGACTTTGGGCCCTA
+>MMAR_2071(fadD11_1) Score=4.7 Pos=-219 [Mycobacterium marinum M]
+TAGGGTCTTACGTCCCGA
+>MMAR_3392 Score=4 Pos=-102 [Mycobacterium marinum M]
+ATGGGCCTAAAGACCCGT
+>MMAR_3392 Score=3.5 Pos=-125 [Mycobacterium marinum M]
+GTGGGACGAATGGCTCCC
+>MMAR_2691(Erg3_1) Score=4.6 Pos=-94 [Mycobacterium marinum M]
+CCGGGCCTTTTGGCCCTG
+>MMAR_2069 Score=4 Pos=-54 [Mycobacterium marinum M]
+GCGTGACATTCGGCCCTG
+>MMAR_1426 Score=4.8 Pos=-419 [Mycobacterium marinum M]
+TAGGGCCGATAGTCCCCG
+>MMAR_1426 Score=4.1 Pos=-260 [Mycobacterium marinum M]
+CATTGACATTGGTCCCTA
+>MMAR_2649(DGAT) Score=4.1 Pos=-79 [Mycobacterium marinum M]
+TGAGGACCAAAGTCATTG
+>MMAR_1515(Rv3134c) Score=3.9 Pos=-81 [Mycobacterium marinum M]
+TCGGGACCAACGCCTCTG
+>MMAR_1228(ctpH_1) Score=4 Pos=-177 [Mycobacterium marinum M]
+TAGTGACGAAAGACCCGC
+>MMAR_3503(MMAR_3503) Score=3.8 Pos=-149 [Mycobacterium marinum M]
+CGAAGTCCTAAGGCCCGG
+>MMAR_3503(MMAR_3503) Score=4 Pos=-126 [Mycobacterium marinum M]
+CTGGGTATTACGGCCCTA
+>MMAR_3502(Rv3131 ) Score=3.7 Pos=-100 [Mycobacterium marinum M]
+AATGGCACAAAGTCCCTC
+>MMAR_3487(MAV_2505) Score=4.1 Pos=-70 [Mycobacterium marinum M]
+CGGGGGCCAAAGGCCCTT
+>MMAR_1515(Rv3134c) Score=4.6 Pos=-102 [Mycobacterium marinum M]
+TAGGGACCAATGGCACTG
+>MMAR_1519(DGAT) Score=4.8 Pos=-93 [Mycobacterium marinum M]
+GAGGGACCTTTGGCCCTG
+>MMAR_5410(Rv1996) Score=3.7 Pos=-113 [Mycobacterium marinum M]
+AAGGGACCAACGCCTCCT
+>MMAR_5272(acrA1_1) Score=3.8 Pos=-101 [Mycobacterium marinum M]
+GCGGGTCGAAAGGCCCAT
+>MMAR_0944(MSMEG_3935) Score=4.5 Pos=-52 [Mycobacterium marinum M]
+CGAGGACCTTTGGCCCTG
+>MMAR_2257(otsB1) Score=4.1 Pos=-119 [Mycobacterium marinum M]
+CCGGGACTTTTGTCACCA
+>MMAR_2738 Score=3.7 Pos=-158 [Mycobacterium marinum M]
+TGAGGCCGTACTGCCCCT
+>MMAR_3484(hspX) Score=4.7 Pos=-87 [Mycobacterium marinum M]
+CGGGGACTTCCGTCCCTA
+>MMAR_3477(MAV_2507) Score=4.6 Pos=-214 [Mycobacterium marinum M]
+CAGGGCCGTTTGGCCCCG
+>MMAR_2072 Score=4.7 Pos=-53 [Mycobacterium marinum M]
+TCGGGACGTAAGACCCTA
+>MMAR_2072 Score=4.1 Pos=-119 [Mycobacterium marinum M]
+TAGGGCCCAAAGTCATCC
+>MMAR_2994(fdxA ) Score=4.6 Pos=-74 [Mycobacterium marinum M]
+AAAGGTCTTTGGTCCCTG
+>MMAR_3478(usp) Score=3.4 Pos=-31 [Mycobacterium marinum M]
+GCAGGCCAGCGGTCCCGG
+>MMAR_3481(usp) Score=3.8 Pos=-79 [Mycobacterium marinum M]
+AGCGGTCCAACGGCCCTC
+>MMAR_3478(usp) Score=4.6 Pos=-106 [Mycobacterium marinum M]
+CGGGGCCAAACGGCCCTG
+>MMAR_3403(DGAT) Score=3.6 Pos=-146 [Mycobacterium marinum M]
+CAGGGACTTACGGCTGGC
+>MMAR_3403(DGAT) Score=4.7 Pos=-123 [Mycobacterium marinum M]
+AAGGGCCCTTAGGCCCTC
+>MMAR_2077(Rv2623 usp) Score=3.8 Pos=-104 [Mycobacterium marinum M]
+GAGTGACAAACGGCTCTG
+>MMAR_3486(MAV_3502) Score=4.3 Pos=-94 [Mycobacterium marinum M]
+AGGTGACTTACGGCCCTA
+>MSMEG_3947(pfkB) Score=3.6 Pos=-51 [Mycobacterium smegmatis str. MC2 155]
+GTGCGACTTCGGTCCCTA
+>MSMEG_3943(acg) Score=4.8 Pos=-104 [Mycobacterium smegmatis str. MC2 155]
+TGAGGACCATAGTCCCTG
+>MSMEG_3943(acg) Score=4.5 Pos=-125 [Mycobacterium smegmatis str. MC2 155]
+CAGGGTCCTACGGCCCCC
+>MSMEG_3954(otsB1) Score=4.4 Pos=-81 [Mycobacterium smegmatis str. MC2 155]
+CAGGGCCGTTGGTCACCG
+>MSMEG_3948(DGAT) Score=3.6 Pos=-60 [Mycobacterium smegmatis str. MC2 155]
+ATGGGACTTCTGCCCCTG
+>MSMEG_3939(usp) Score=4.3 Pos=-79 [Mycobacterium smegmatis str. MC2 155]
+CCGGGACTTAGGTCACCA
+>MSMEG_3953 Score=4.4 Pos=-51 [Mycobacterium smegmatis str. MC2 155]
+CGGTGACCAACGGCCCTG
+>MSMEG_3616 Score=3.7 Pos=-51 [Mycobacterium smegmatis str. MC2 155]
+CCAGGGCGTAAGGCCCGA
+>MSMEG_3935 Score=4.3 Pos=-81 [Mycobacterium smegmatis str. MC2 155]
+AGGTGACTTTCGGCCCTG
+>MSMEG_3940(MSMEG_3940) Score=4.9 Pos=-79 [Mycobacterium smegmatis str. MC2 155]
+TCGGGACTTTCGTCCCTA
+>MSMEG_3947(pfkB) Score=4.4 Pos=-145 [Mycobacterium smegmatis str. MC2 155]
+TAGGGACGAAAGTCTCAA
+>MSMEG_3932(hspX) Score=4.6 Pos=-84 [Mycobacterium smegmatis str. MC2 155]
+ACGGGACTTCGGTCCCTA
+>MSMEG_3932(hspX) Score=3.9 Pos=-105 [Mycobacterium smegmatis str. MC2 155]
+CAGGGACGAAAGTTCGTG
+>MSMEG_3942(Rv2004c) Score=4.8 Pos=-73 [Mycobacterium smegmatis str. MC2 155]
+CAGGGACTATGGTCCTCA
+>MSMEG_3939(usp) Score=4.1 Pos=-150 [Mycobacterium smegmatis str. MC2 155]
+AAGGGACCGAAGTCCACG
+>MSMEG_3942(Rv2004c) Score=4.5 Pos=-52 [Mycobacterium smegmatis str. MC2 155]
+GGGGGCCGTAGGACCCTG
+>MSMEG_3950(usp) Score=4.7 Pos=-80 [Mycobacterium smegmatis str. MC2 155]
+AAAGGACCAAAGGCCCTT
+>MSMEG_3932(hspX) Score=4 Pos=-324 [Mycobacterium smegmatis str. MC2 155]
+GAAGGCCTTAGGTCACCT
+>MSMEG_3946 Score=3.6 Pos=-117 [Mycobacterium smegmatis str. MC2 155]
+CAGGGGCAGAAGTCCCAT
+>MSMEG_5246(acg) Score=4.6 Pos=-51 [Mycobacterium smegmatis str. MC2 155]
+TGAGGACCAAAGACCCTA
+>MSMEG_5733(usp) Score=4.4 Pos=-51 [Mycobacterium smegmatis str. MC2 155]
+TAGGGACTTTCGGCCATT
+>MSMEG_3949(MAV_3502) Score=4.4 Pos=-88 [Mycobacterium smegmatis str. MC2 155]
+TTGAGACTTTCGTCCCTA
+>Mmcs_3621(usp) Score=5.1 Pos=-84 [Mycobacterium sp. MCS]
+AAGGGACCAAAGGCCCTA
+>Mmcs_1102(Rv1996) Score=5.1 Pos=-52 [Mycobacterium sp. MCS]
+CAGGGTCCAAGGTCCCTA
+>Mmcs_3408(DGAT) Score=4.6 Pos=-23 [Mycobacterium sp. MCS]
+AAGAGACCAACGGCCCTG
+>Mmcs_1083(MAV_4110) Score=4.5 Pos=-47 [Mycobacterium sp. MCS]
+TGGGGTCTTTCGACCCTG
+>Mmcs_1081(Mb2055c) Score=4.7 Pos=-81 [Mycobacterium sp. MCS]
+TAGGGCCCATTGTCCCCT
+>Mmcs_1088 Score=4.1 Pos=-74 [Mycobacterium sp. MCS]
+AGGAGCCTTAAGTCCCCT
+>Mmcs_1088 Score=4.2 Pos=-103 [Mycobacterium sp. MCS]
+TAGAGACGAAAGTCACCA
+>Mmcs_3036 Score=4.5 Pos=-85 [Mycobacterium sp. MCS]
+GAGTGACCAAAGTCCCTG
+>Mmcs_1104(usp) Score=3.7 Pos=-102 [Mycobacterium sp. MCS]
+CATGGTCTTTGGTCCTCC
+>Mmcs_3408(DGAT) Score=4.4 Pos=-77 [Mycobacterium sp. MCS]
+CAGGGTCTGAAGTCCCGA
+>Mmcs_3414 Score=4.3 Pos=-57 [Mycobacterium sp. MCS]
+AAGGGTCCAAATGCCCTG
+>Mmcs_1080(Mmcs_1080) Score=4.4 Pos=-52 [Mycobacterium sp. MCS]
+GCGGGACCTTCGACCCTG
+>Mmcs_1097(Rv1996) Score=4.8 Pos=-148 [Mycobacterium sp. MCS]
+CCGGGACCAACGGCCCTG
+>Mmcs_3409(DGAT) Score=4.4 Pos=-18 [Mycobacterium sp. MCS]
+TCGGGACTTCAGACCCTG
+>Mmcs_1095(MSMEG_3935) Score=4.1 Pos=-40 [Mycobacterium sp. MCS]
+AGGTGACCAATGACCCTG
+>Mmcs_3406 Score=3.6 Pos=-76 [Mycobacterium sp. MCS]
+GTGTGACTTCCGACCCTG
+>Mmcs_3409(DGAT) Score=4.6 Pos=-72 [Mycobacterium sp. MCS]
+CAGGGCCGTTGGTCTCTT
+>Mmcs_4128(acg) Score=4.6 Pos=-51 [Mycobacterium sp. MCS]
+ACAGGACCTAAGGCCCTA
+>Mmcs_1074(Rv2004c) Score=3.5 Pos=-37 [Mycobacterium sp. MCS]
+AAGAGTCTTTGGTCACAC
+>Mmcs_1075(acg) Score=4.4 Pos=-107 [Mycobacterium sp. MCS]
+CGGGGCCATTGGTCCTCA
+>Mmcs_1081(Mb2055c) Score=3.8 Pos=-44 [Mycobacterium sp. MCS]
+GGATGACTTCCGTCCCTA
+>Mmcs_2719(fdxA ) Score=4.5 Pos=-52 [Mycobacterium sp. MCS]
+TGAGGACTTTCGGCCCCA
+>Mmcs_4257 Score=3.8 Pos=-51 [Mycobacterium sp. MCS]
+ACCAGACCAACGGCCCTA
+>Mmcs_1087(usp) Score=5 Pos=-123 [Mycobacterium sp. MCS]
+CAGGGACTTTCGGCCCTG
+>Mmcs_1087(usp) Score=3.9 Pos=-185 [Mycobacterium sp. MCS]
+TACGGGCCAAAGTCCCTT
+>Mmcs_1082 Score=4.7 Pos=-52 [Mycobacterium sp. MCS]
+AGGGGACAATGGGCCCTA
+>Mmcs_1082 Score=3.8 Pos=-89 [Mycobacterium sp. MCS]
+TAGGGACGGAAGTCATCC
+>Mmcs_1078(Rv3131 ) Score=4.7 Pos=-128 [Mycobacterium sp. MCS]
+ACGGGCCGATGGTCCCTA
+>Mmcs_4124(Rv3131 ) Score=4.3 Pos=-51 [Mycobacterium sp. MCS]
+TCGGGCCTTTGTGCCCTA
+>Mmcs_1107(Rv3131 ) Score=4.6 Pos=-76 [Mycobacterium sp. MCS]
+TCGGGACCTTCGTCTCTG
+>Mmcs_3541(MSMEG_5242) Score=4.7 Pos=-52 [Mycobacterium sp. MCS]
+TCGGGACCAATGGCCCTG
+>Mmcs_1083(MAV_4110) Score=4.1 Pos=-79 [Mycobacterium sp. MCS]
+GCGGGTCGAACGTCCCGA
+>Mmcs_1089(MAV_3502) Score=4.1 Pos=-107 [Mycobacterium sp. MCS]
+AGGGGACTTAAGGCTCCT
+>Mmcs_1089(MAV_3502) Score=4.2 Pos=-78 [Mycobacterium sp. MCS]
+TGGTGACTTTCGTCTCTA
+>Rv1997(ctpF) Score=4.2 Pos=-111 [Mycobacterium tuberculosis H37Rv]
+CTGGACCGTAGGTCCCTG
+>Rv0079 Score=4.6 Pos=-88 [Mycobacterium tuberculosis H37Rv]
+ATGGGACTTTCGGCCCTG
+>Rv2629 Score=4.2 Pos=-300 [Mycobacterium tuberculosis H37Rv]
+GGATGACTTTGGTCCCTA
+>Rv1996(Rv1996) Score=3.8 Pos=-75 [Mycobacterium tuberculosis H37Rv]
+TAGGGACCATCGCCTCCT
+>Rv1814(Erg3_1) Score=4.3 Pos=-155 [Mycobacterium tuberculosis H37Rv]
+TAGGGCATAAAGTCTCTA
+>Rv1814(Erg3_1) Score=4.2 Pos=-122 [Mycobacterium tuberculosis H37Rv]
+TAGGGAACAACGGCCTTC
+>Rv0571c Score=4.2 Pos=-51 [Mycobacterium tuberculosis H37Rv]
+CAGGGACCTAATTCCATA
+>Rv1813c Score=4.2 Pos=-304 [Mycobacterium tuberculosis H37Rv]
+GAAGGCCGTTGTTCCCTA
+>Rv1813c Score=4.3 Pos=-271 [Mycobacterium tuberculosis H37Rv]
+TAGAGACTTTATGCCCTA
+>Rv2628 Score=4.7 Pos=-275 [Mycobacterium tuberculosis H37Rv]
+TAGGGACTTACGTCCCGC
+>Rv2628 Score=4.2 Pos=-36 [Mycobacterium tuberculosis H37Rv]
+AAGTGACGAAAGACCCCA
+>Rv1737c(narK2) Score=4.6 Pos=-171 [Mycobacterium tuberculosis H37Rv]
+TAGGGCCTGAAGTCCCGG
+>Rv1737c(narK2) Score=4.6 Pos=-109 [Mycobacterium tuberculosis H37Rv]
+TGGGGACTTCCGGCCCTA
+>Rv2006(otsB1) Score=3.5 Pos=-66 [Mycobacterium tuberculosis H37Rv]
+ATGAGGCTTTAGTCCCCA
+>Rv1738 Score=4.6 Pos=-195 [Mycobacterium tuberculosis H37Rv]
+TAGGGCCGGAAGTCCCCA
+>Rv1738 Score=4.6 Pos=-133 [Mycobacterium tuberculosis H37Rv]
+CCGGGACTTCAGGCCCTA
+>Rv0078A Score=4.6 Pos=-332 [Mycobacterium tuberculosis H37Rv]
+CAGGGCCGAAAGTCCCAT
+>Rv0574c Score=4.5 Pos=-111 [Mycobacterium tuberculosis H37Rv]
+TGAGGACCTTCGGCCCCA
+>Rv2626c(Rv2626c) Score=4.2 Pos=-89 [Mycobacterium tuberculosis H37Rv]
+ACGGGTCAAACGACCCTA
+>Rv1997(ctpF) Score=4 Pos=-89 [Mycobacterium tuberculosis H37Rv]
+GGATGACTTACGGCCCTG
+>Rv3130c(DGAT) Score=4.3 Pos=-93 [Mycobacterium tuberculosis H37Rv]
+GGAGGACCTTTGGCCCTG
+>Rv1734c(Rv1734c) Score=4.6 Pos=-48 [Mycobacterium tuberculosis H37Rv]
+TGGGGACCGAAGTCCCCG
+>Rv1733c(Rv1733c) Score=4.2 Pos=-145 [Mycobacterium tuberculosis H37Rv]
+AAGGGGCGAAAGTCCCTT
+>Rv1733c(Rv1733c) Score=4.1 Pos=-63 [Mycobacterium tuberculosis H37Rv]
+TCGTGACCGACGTCCCCA
+>Rv1733c(Rv1733c) Score=4.6 Pos=-41 [Mycobacterium tuberculosis H37Rv]
+CAAGGCCGAACGACCCTA
+>Rv2032(acg) Score=4.6 Pos=-133 [Mycobacterium tuberculosis H37Rv]
+TAGGGACAGAAGTCCCCG
+>Rv2032(acg) Score=4.6 Pos=-76 [Mycobacterium tuberculosis H37Rv]
+TGGGGACCATTGACCCTG
+>Rv3134c(Rv3134c) Score=4.6 Pos=-112 [Mycobacterium tuberculosis H37Rv]
+TAAGGACTAACGGCCCTC
+>Rv2626c(Rv2626c) Score=3.8 Pos=-255 [Mycobacterium tuberculosis H37Rv]
+CGGGGCCGATCGGCATCA
+>Rv2626c(Rv2626c) Score=3.8 Pos=-112 [Mycobacterium tuberculosis H37Rv]
+ACGGGTCCATCGACCCGC
+>Rv2005c(Rv2005c) Score=3.5 Pos=-70 [Mycobacterium tuberculosis H37Rv]
+TGGGGACTAAAGCCTCAT
+>Rv3134c(Rv3134c) Score=4.3 Pos=-91 [Mycobacterium tuberculosis H37Rv]
+TGGGGACCAACGCCCCTG
+>Rv2007c(fdxA ) Score=4.6 Pos=-76 [Mycobacterium tuberculosis H37Rv]
+TAAGGCCTTTGGTCCTTT
+>Rv2031c(hspX) Score=4.6 Pos=-81 [Mycobacterium tuberculosis H37Rv]
+CGGGGACTTCTGTCCCTA
+>Rv2031c(hspX) Score=4.6 Pos=-138 [Mycobacterium tuberculosis H37Rv]
+CAGGGTCAATGGTCCCCA
+>Rv2627c Score=4.7 Pos=-52 [Mycobacterium tuberculosis H37Rv]
+GCGGGACGTAAGTCCCTA
+>Rv2627c Score=3.7 Pos=-121 [Mycobacterium tuberculosis H37Rv]
+TAGGGCACTTGGGCCACC
+>Rv2627c Score=4.2 Pos=-291 [Mycobacterium tuberculosis H37Rv]
+TGGGGTCTTTCGTCACTT
+>Rv3131(Rv3131 ) Score=4.3 Pos=-109 [Mycobacterium tuberculosis H37Rv]
+CAGGGCCAAAGGTCCTCC
+>Rv2623(Rv2623 usp) Score=3.5 Pos=-130 [Mycobacterium tuberculosis H37Rv]
+TGAGGACCTAAGCCCGTT
+>MUL_2421(Rv3131 ) Score=4.8 Pos=-68 [Mycobacterium ulcerans Agy99]
+CAGGGCCAAAGGTCCCTC
+>MUL_3647 Score=4.8 Pos=-68 [Mycobacterium ulcerans Agy99]
+CAAGGACTTTCGGCCCTA
+>MUL_3274(fadD11_1) Score=4.1 Pos=-153 [Mycobacterium ulcerans Agy99]
+GGATGACTTTGGGCCCTA
+>MUL_3274(fadD11_1) Score=4.7 Pos=-219 [Mycobacterium ulcerans Agy99]
+TAGGGTCTTACGTCCCGA
+>MUL_0695 Score=4.5 Pos=-52 [Mycobacterium ulcerans Agy99]
+CGAGGACCTTTGGCCCTG
+>MUL_3066(Erg3_1) Score=4.6 Pos=-52 [Mycobacterium ulcerans Agy99]
+CCGGGCCTTTTGGCCCTG
+>MUL_3276 Score=4 Pos=-54 [Mycobacterium ulcerans Agy99]
+GCGTGACATTCGGCCCTG
+>MUL_3125(DGAT) Score=4.3 Pos=-64 [Mycobacterium ulcerans Agy99]
+TGGGGACCAAAGTCATTG
+>MUL_2420(DGAT) Score=4.8 Pos=-93 [Mycobacterium ulcerans Agy99]
+GAGGGACCTTTGGCCCTG
+>MUL_4346(acrA1_1) Score=3.8 Pos=-101 [Mycobacterium ulcerans Agy99]
+GCGGGTCGAAAGGCCCAT
+>MUL_3016 Score=3.7 Pos=-167 [Mycobacterium ulcerans Agy99]
+TGAGGCCGTACTGCCCCT
+>MUL_2236(usp) Score=4.2 Pos=-138 [Mycobacterium ulcerans Agy99]
+TGGGGTCCATGGACTCTG
+>MUL_2417(acg) Score=3.9 Pos=-53 [Mycobacterium ulcerans Agy99]
+GAATGACGAATGACCCTA
+>MUL_5033(Rv1996) Score=3.7 Pos=-113 [Mycobacterium ulcerans Agy99]
+AAGGGACCAACGCCTCCT
+>MUL_2424(Rv3134c) Score=4.7 Pos=-102 [Mycobacterium ulcerans Agy99]
+TAGGGACCAACGGCACTG
+>MUL_3269(Rv2625c) Score=4.5 Pos=-108 [Mycobacterium ulcerans Agy99]
+GAAGGCCGAACGGCCCTA
+>MUL_2234(Rv2005c) Score=4.6 Pos=-435 [Mycobacterium ulcerans Agy99]
+AAAGGTCTTTGGTCCCTG
+>MUL_3267(Rv2623 usp) Score=3.6 Pos=-104 [Mycobacterium ulcerans Agy99]
+GAATGACAAACGGCTCTG
+>Mvan_1405 Score=3.9 Pos=-73 [Mycobacterium vanbaalenii PYR-1]
+TGGTGGCTTAGGTCCCTG
+>Mvan_1405 Score=3.9 Pos=-101 [Mycobacterium vanbaalenii PYR-1]
+TAGAGACGAAAGTCACCC
+>Mvan_1377 Score=4.3 Pos=-52 [Mycobacterium vanbaalenii PYR-1]
+CGATGACCTTAGGCCCTA
+>Mvan_1397 Score=4.4 Pos=-124 [Mycobacterium vanbaalenii PYR-1]
+AAGGGCCGAAAGTCCCAC
+>Mvan_4722(DGAT) Score=4 Pos=-79 [Mycobacterium vanbaalenii PYR-1]
+TAGGGCACAAAGTCACCG
+>Mvan_1387(usp) Score=4.1 Pos=-80 [Mycobacterium vanbaalenii PYR-1]
+CGATGACCAATGGCCCTA
+>Mvan_1383(acg) Score=4.5 Pos=-71 [Mycobacterium vanbaalenii PYR-1]
+TGAGGACCATTGGCCCTG
+>Mvan_1384(Rv2004c) Score=4.5 Pos=-74 [Mycobacterium vanbaalenii PYR-1]
+CAGGGCCAATGGTCCTCA
+>Mvan_0299(fdxA ) Score=4.3 Pos=-52 [Mycobacterium vanbaalenii PYR-1]
+AAGGGACCTTTGGCCCAC
+>Mvan_4104(DGAT) Score=4.7 Pos=-138 [Mycobacterium vanbaalenii PYR-1]
+AAAGGTCCTAAGTCCCTG
+>Mvan_4728(acrA1_1) Score=3.7 Pos=-279 [Mycobacterium vanbaalenii PYR-1]
+TACGGCCGAAAGTCCACG
+>Mvan_1427(dosR) Score=4.3 Pos=-75 [Mycobacterium vanbaalenii PYR-1]
+CGGGGACCTGCGGCCCTA
+>Mvan_1426(Mmcs_1103) Score=3.9 Pos=-103 [Mycobacterium vanbaalenii PYR-1]
+GAAGGACCTCGGACTCTG
+>Mvan_1421(dosS) Score=4 Pos=-89 [Mycobacterium vanbaalenii PYR-1]
+CGGGGTCGAAGTGCCCTT
+>Mvan_1415(usp) Score=4.8 Pos=-200 [Mycobacterium vanbaalenii PYR-1]
+ACGGGACCAACGGCCCTA
+>Mvan_1426(Mmcs_1103) Score=4.3 Pos=-126 [Mycobacterium vanbaalenii PYR-1]
+TAGGGCCGCAGGTCCCCG
+>Mvan_1374(hspX) Score=4.3 Pos=-87 [Mycobacterium vanbaalenii PYR-1]
+GGAGGACTTCAGTCCCTA
+>Mvan_1373(Mmcs_1080) Score=4 Pos=-108 [Mycobacterium vanbaalenii PYR-1]
+GAGGGCCGGCGGTCCCGG
+>Mvan_1373(Mmcs_1080) Score=3.9 Pos=-74 [Mycobacterium vanbaalenii PYR-1]
+CCGGGCCAACGGTCCTCT
+>Mvan_2550(nitroreductase) Score=4.5 Pos=-72 [Mycobacterium vanbaalenii PYR-1]
+TGAGGACCATTGGCCCTG
+>Mvan_1427(dosR) Score=3.9 Pos=-98 [Mycobacterium vanbaalenii PYR-1]
+CAGAGTCCGAGGTCCTTC
+>Mvan_4106 Score=4.2 Pos=-88 [Mycobacterium vanbaalenii PYR-1]
+GGGTGACCTTCGGCCCTG
+>Mvan_4106 Score=3.5 Pos=-111 [Mycobacterium vanbaalenii PYR-1]
+GCGGGTCGGCCGTCCCCT
+>Mvan_4105(pfkB) Score=4.7 Pos=-72 [Mycobacterium vanbaalenii PYR-1]
+CAGGGACTTAGGACCTTT
+>Mvan_1375 Score=4.3 Pos=-75 [Mycobacterium vanbaalenii PYR-1]
+TAGGGACTGAAGTCCTCC
+>Mvan_0443 Score=3.5 Pos=-97 [Mycobacterium vanbaalenii PYR-1]
+CACGGACTTTAGCCTCTA
+>Mvan_1393 Score=4.2 Pos=-274 [Mycobacterium vanbaalenii PYR-1]
+AGGGGTCTTTGGTCCTCG
+>Mvan_1406(MAV_3502) Score=3.9 Pos=-105 [Mycobacterium vanbaalenii PYR-1]
+CAGGGACCTAAGCCACCA
+>Mvan_1406(MAV_3502) Score=3.9 Pos=-77 [Mycobacterium vanbaalenii PYR-1]
+GGGTGACTTTCGTCTCTA
+>Mvan_1425(usp) Score=3.9 Pos=-104 [Mycobacterium vanbaalenii PYR-1]
+CGGGGCCGAAGGCCTCTA
+>Mvan_1963(usp) Score=4.7 Pos=-144 [Mycobacterium vanbaalenii PYR-1]
+AGAGGACTTTGGTCCCTG
+>nfa19090 Score=4.6 Pos=-81 [Nocardia farcinica IFM 10152]
+CGAGGACTTTCGGCCCTG
+>nfa28920 Score=4.2 Pos=-90 [Nocardia farcinica IFM 10152]
+TGAGGACCTTCGGCACTG
+>nfa27670(acg) Score=4.1 Pos=-74 [Nocardia farcinica IFM 10152]
+CAGGGCCGGTCGGCCCGC
+>nfa28970(usp) Score=4.1 Pos=-106 [Nocardia farcinica IFM 10152]
+GTGGGCCTTTCGGCCCCT
+>nfa28910(adhA) Score=3.8 Pos=-343 [Nocardia farcinica IFM 10152]
+GCGAGACGATGGACCCGG
+>nfa27670(acg) Score=3.5 Pos=-188 [Nocardia farcinica IFM 10152]
+CCGGGGACAAAGTCCCCG
+>nfa28950(dosR) Score=4.2 Pos=-124 [Nocardia farcinica IFM 10152]
+CAGGGTCGGAGGACCCTC
+>nfa27670(acg) Score=3.4 Pos=-96 [Nocardia farcinica IFM 10152]
+AAGAGTCGCCGGTCCCTT
+>nfa6080 Score=4.6 Pos=-169 [Nocardia farcinica IFM 10152]
+CCGGGACCTTCGTCCCAA
+>nfa28960(Mvan_0168) Score=4.2 Pos=-44 [Nocardia farcinica IFM 10152]
+GAGGGTCCTCCGACCCTG
+>RHA1_ro00030 Score=4.7 Pos=-90 [Rhodococcus sp. RHA1]
+TAGGGCCGATGGTCACTG
+>RHA1_ro00030 Score=4.3 Pos=-52 [Rhodococcus sp. RHA1]
+TCGGGCCGGAAGACCCTA
+>RHA1_ro00059 Score=4.3 Pos=-68 [Rhodococcus sp. RHA1]
+TGAGGTCCTAGGACCCTT
+>RHA1_ro00059 Score=4.3 Pos=-127 [Rhodococcus sp. RHA1]
+CAGGGCATTTGGACCCTT
+>RHA1_ro03145 Score=3.8 Pos=-96 [Rhodococcus sp. RHA1]
+AGGGGCACGAAGTCCCGA
+>RHA1_ro00027(acg) Score=4.3 Pos=-110 [Rhodococcus sp. RHA1]
+CGATGACCTACGGCCCTA
+>RHA1_ro00048(dosR) Score=4.4 Pos=-489 [Rhodococcus sp. RHA1]
+TGGTGACTTTCGGCCCTG
+>RHA1_ro02263(usp) Score=4.8 Pos=-73 [Rhodococcus sp. RHA1]
+TGGGGACTTAAGTCCCTC
+>RHA1_ro00058 Score=4.3 Pos=-117 [Rhodococcus sp. RHA1]
+AAGGGTCCAAATGCCCTG
+>RHA1_ro00058 Score=4.3 Pos=-176 [Rhodococcus sp. RHA1]
+AAGGGTCCTAGGACCTCA
+>RHA1_ro00053 Score=4.3 Pos=-115 [Rhodococcus sp. RHA1]
+CAGAGCCTTTGGTCCTCG
+>RHA1_ro02256(dosR) Score=4.4 Pos=-101 [Rhodococcus sp. RHA1]
+TTGGGTCGAAGGTCCCGA
+>RHA1_ro08739(Mmcs_1080) Score=4.3 Pos=-148 [Rhodococcus sp. RHA1]
+CCGTGACGTTGGTCCCTT
+>RHA1_ro00031(nitroreductase) Score=4.3 Pos=-123 [Rhodococcus sp. RHA1]
+TAGGGTCTTCCGGCCCGA
+>RHA1_ro00031(nitroreductase) Score=4.7 Pos=-85 [Rhodococcus sp. RHA1]
+CAGTGACCATCGGCCCTA
+>RHA1_ro00054(Mmcs_1106) Score=4.3 Pos=-79 [Rhodococcus sp. RHA1]
+CGAGGACCAAAGGCTCTG
+>RHA1_ro02257(Rv3131 ) Score=4.4 Pos=-89 [Rhodococcus sp. RHA1]
+TCGGGACCTTCGACCCAA
+>RHA1_ro00025 Score=4.3 Pos=-137 [Rhodococcus sp. RHA1]
+CGATGACCTTGGGCCCTA
+>RHA1_ro08645(DGAT) Score=4.3 Pos=-188 [Rhodococcus sp. RHA1]
+CCGGGACTTTCGGCCTCG
+>RHA1_ro00042(RHA1_ro00042) Score=4.1 Pos=-69 [Rhodococcus sp. RHA1]
+TAGGGTCTACCGTCACTT
+>RHA1_ro00050(usp) Score=3.9 Pos=-92 [Rhodococcus sp. RHA1]
+TGGGGACCTTCTCCCCTA
+>RHA1_ro05356(DGAT) Score=5.1 Pos=-316 [Rhodococcus sp. RHA1]
+TAGGGACTTTCGGCCCTA
+>SACE_0142 Score=4.5 Pos=-97 [Saccharopolyspora erythraea NRRL 2338]
+GCGGGACCTTGGTCCCGG
+>SACE_0142 Score=3.7 Pos=-74 [Saccharopolyspora erythraea NRRL 2338]
+ACGGGACTCTCGGCCCGG
+>SACE_2408(acs_1) Score=4.4 Pos=-72 [Saccharopolyspora erythraea NRRL 2338]
+GAGGGACCTTGGCCCCTG
+>SACE_2448 Score=4 Pos=-290 [Saccharopolyspora erythraea NRRL 2338]
+AAGGGACGGTGGTCTTCG
+>SACE_2448 Score=4.2 Pos=-115 [Saccharopolyspora erythraea NRRL 2338]
+GCGGGCCTATGGGCTCTG
+>SACE_2434 Score=3.8 Pos=-149 [Saccharopolyspora erythraea NRRL 2338]
+CCGTGACGAAATGCCCTG
+>SACE_2453(Rv2004c) Score=3.8 Pos=-474 [Saccharopolyspora erythraea NRRL 2338]
+TCGGGCACGTGGGCCCCG
+>SACE_2453(Rv2004c) Score=4.1 Pos=-90 [Saccharopolyspora erythraea NRRL 2338]
+GGTGGCCGTTGGTCCCTG
+>SACE_2467(ctpF) Score=3.7 Pos=-164 [Saccharopolyspora erythraea NRRL 2338]
+GCATGACGTCGGTCCCTG
+>SACE_3382 Score=3.8 Pos=-113 [Saccharopolyspora erythraea NRRL 2338]
+CCGGGTCATAGGACTCTT
+>SACE_3237 Score=3.9 Pos=-126 [Saccharopolyspora erythraea NRRL 2338]
+CCGGGTCGTTCGACTCTG
+>SACE_2447 Score=4.2 Pos=-29 [Saccharopolyspora erythraea NRRL 2338]
+CAGAGCCCATAGGCCCGC
+>SACE_2418 Score=3.7 Pos=-123 [Saccharopolyspora erythraea NRRL 2338]
+AGGTGACCTGAGGCCCTG
+>SACE_2452(Rv3131 ) Score=4.1 Pos=-127 [Saccharopolyspora erythraea NRRL 2338]
+CAGGGACCAACGGCCACC
+>SACE_2426 Score=4 Pos=-174 [Saccharopolyspora erythraea NRRL 2338]
+AAAGGCCGTTCGCCCCTG

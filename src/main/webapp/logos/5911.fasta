@@ -1,0 +1,38 @@
+>SAV_6513(nrtR1) Score=5.4 Pos=-68 [Streptomyces avermitilis MA-4680]
+TATTGGTCGAAGTGACTATTA
+>SAV_6513(nrtR1) Score=5.4 Pos=-84 [Streptomyces avermitilis MA-4680]
+TTATAGTCGAGATGACTATTG
+>SAV_2447(nrtR2) Score=4.9 Pos=-31 [Streptomyces avermitilis MA-4680]
+TTATCGTCAGGCAGACGACTA
+>SAV_5948(nadE) Score=4.6 Pos=-31 [Streptomyces avermitilis MA-4680]
+ATCGTGTCGCTTTGACGATTA
+>SAV_2321(orfX) Score=5.6 Pos=-42 [Streptomyces avermitilis MA-4680]
+TTATCGTCGTAGTGACGAAAA
+>SAV_2321(orfX) Score=4.5 Pos=-76 [Streptomyces avermitilis MA-4680]
+ATTTCGTCCCCTTGACGATAA
+>SCO1767(nrtR1) Score=6.4 Pos=-36 [Streptomyces coelicolor A3(2)]
+TTATAGTCGCAGTGACTATTA
+>SCO2238(nadE) Score=4.4 Pos=41 [Streptomyces coelicolor A3(2)]
+ATTGCGTCGTTCTGACGATTA
+>SGR_5730(pnuC) Score=6.4 Pos=-11 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTATAGTCAGAGTGACTATTA
+>SGR_5258(nadE) Score=4.4 Pos=-32 [Streptomyces griseus subsp. griseus NBRC 13350]
+ATCGCGTCAGAAAGACGATTA
+>SGR_831(orfX) Score=4.8 Pos=-37 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTATCGTCGCCATGACGAAAT
+>SGR_1704(nrtR2) Score=4.9 Pos=-31 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTATCGTCAGGCAGACGACTA
+>SGR_831(orfX) Score=6 Pos=-70 [Streptomyces griseus subsp. griseus NBRC 13350]
+TAATAGTCACCTTGACTCTAA
+>SCAB_71891(nrtR1) Score=6.2 Pos=-52 [Streptomyces scabiei 87.22]
+TTATAGTCGTTCTGACTATTA
+>SCAB_24481(nrtR2) Score=4.9 Pos=-31 [Streptomyces scabiei 87.22]
+TTATCGTCAGGCAGACGACTA
+>SCAB_66451(nadE) Score=5 Pos=-31 [Streptomyces scabiei 87.22]
+ATAATGTCGCTCTGACGATTA
+>SCAB_23161(orfX) Score=5.5 Pos=-59 [Streptomyces scabiei 87.22]
+TTATCGTCTGAGTGACACTAA
+>SCAB_23161(orfX) Score=4.7 Pos=-92 [Streptomyces scabiei 87.22]
+ATCTCGTCCCCTTGACGATAA
+>SCAB_71891(nrtR1) Score=5.5 Pos=-36 [Streptomyces scabiei 87.22]
+TATTAGTCATGGTGACCATAA

@@ -1,0 +1,56 @@
+>RSc2870(dppA) Score=4.6 Pos=-193 [Ralstonia solanacearum GMI1000]
+TGCACCAATTTGTGGCG
+>RS03167(narK) Score=4.8 Pos=-258 [Ralstonia solanacearum GMI1000]
+TGCACCGAAACCGTGCA
+>RSc1258(glnA) Score=5.1 Pos=-334 [Ralstonia solanacearum GMI1000]
+CGCACTATGATGGTGCG
+>Rpic_4163(narK) Score=4.4 Pos=-272 [Ralstonia pickettii 12J]
+TGCACCGAAAGCGTGCG
+>Rpic_0087(amtB) Score=4.9 Pos=-137 [Ralstonia pickettii 12J]
+CGCACGACCATGGTGCG
+>Rpic_1086(glnA) Score=4.7 Pos=-346 [Ralstonia pickettii 12J]
+TGCACCGTTTATGTGCG
+>Rmet_4817(narK) Score=5 Pos=-284 [Ralstonia metallidurans CH34]
+CGCACCATTGCCGTGCG
+>Rmet_3158(dppA) Score=4.3 Pos=-91 [Ralstonia metallidurans CH34]
+CGCACCAAAATGCGGCC
+>Rmet_3158(dppA) Score=4.5 Pos=-218 [Ralstonia metallidurans CH34]
+CGCAGCATTGCGGGGCA
+>Rmet_2062(glnA) Score=4.9 Pos=-297 [Ralstonia metallidurans CH34]
+CGCACCGTTATGGTGTT
+>Rmet_2061(ntrZ) Score=4.4 Pos=-193 [Ralstonia metallidurans CH34]
+TGCACCAGGAAGGGGCG
+>Rmet_4750(amtB) Score=4.5 Pos=-185 [Ralstonia metallidurans CH34]
+TGCGCCATCACGGCGCA
+>Reut_B4859(narK) Score=4.2 Pos=-271 [Ralstonia eutropha JMP134]
+CGCACCATGACTGTGCC
+>Reut_A3006(dppA) Score=4.9 Pos=-93 [Ralstonia eutropha JMP134]
+CGCACCAAAATGCAGCG
+>Reut_B4038(amtB) Score=4.6 Pos=-91 [Ralstonia eutropha JMP134]
+TCCACCATGAAGGTGCA
+>Reut_A2057(glnA) Score=4.9 Pos=-319 [Ralstonia eutropha JMP134]
+CGCACCGTTATGGTGTT
+>Reut_A2056(ntrZ) Score=4.6 Pos=-80 [Ralstonia eutropha JMP134]
+AGCACCATCAAGGGGCG
+>Reut_B4038(amtB) Score=4.7 Pos=-232 [Ralstonia eutropha JMP134]
+TGCACCACTAAGGTTCA
+>H16_A3298(dppA) Score=4.7 Pos=-93 [Ralstonia eutropha H16]
+CGCACCAAAACGCAGCG
+>H16_B1234(amtB) Score=4.9 Pos=-188 [Ralstonia eutropha H16]
+CGCGCCATTTTGGCGCA
+>H16_B1234(amtB) Score=5.1 Pos=-221 [Ralstonia eutropha H16]
+CGCACCATAACGGTTCA
+>H16_A2335(glnA) Score=4.7 Pos=-295 [Ralstonia eutropha H16]
+TGCACCATTGTGGTGTT
+>H16_A2334(ntrZ) Score=4.7 Pos=-95 [Ralstonia eutropha H16]
+TGCACCAGAAAGGGGCG
+>RALTA_A2753(dppA) Score=4.6 Pos=-93 [Cupriavidus taiwanensis]
+CGCACCAAAAAGCAGCG
+>RALTA_B1139(amtB) Score=4.9 Pos=-187 [Cupriavidus taiwanensis]
+CGCGCCATTTTGGCGCA
+>RALTA_A1880(glnA) Score=4.8 Pos=-334 [Cupriavidus taiwanensis]
+CGCACTAATGCGGTGCG
+>RALTA_A1880(glnA) Score=4.7 Pos=-304 [Cupriavidus taiwanensis]
+TGCACCATGATGGTGTT
+>RALTA_A1879(ntrZ) Score=4.5 Pos=-190 [Cupriavidus taiwanensis]
+TGCACCACAAGGGGGCG

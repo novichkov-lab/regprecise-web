@@ -1,0 +1,36 @@
+>BACCELL_02847(hcp) Score=5.7 Pos=-292 [Bacteroides cellulosilyticus DSM 14838]
+GTGTAACATACGTGACAA
+>BACCELL_02846(hcpR) Score=5.7 Pos=-43 [Bacteroides cellulosilyticus DSM 14838]
+TTGTCACGTATGTTACAC
+>BACCOPRO_02571(dnrN) Score=5.8 Pos=-72 [Bacteroides coprophilus DSM 18228]
+ATGTAACCTATGTGACAA
+>BACCOPRO_00666(hcp) Score=5.3 Pos=-87 [Bacteroides coprophilus DSM 18228]
+GTGTCACATAAGTTACAG
+>BACCOPRO_00665(hcpR) Score=5.3 Pos=-45 [Bacteroides coprophilus DSM 18228]
+CTGTAACTTATGTGACAC
+>BACDOR_04541(hcp) Score=6.1 Pos=-35 [Bacteroides dorei DSM 17855]
+CTGTAACATATGGTACAA
+>BACDOR_04542(hcpR) Score=6.1 Pos=-49 [Bacteroides dorei DSM 17855]
+TTGTACCATATGTTACAG
+>BF2204(hcp) Score=6 Pos=-88 [Bacteroides fragilis NCTC 9343]
+TTGTAACATTGGTTACAG
+>BF3316(dnrN) Score=6 Pos=-64 [Bacteroides fragilis NCTC 9343]
+CTGTAACATTGGTTACAA
+>BACOVA_02390(hcp) Score=6 Pos=-91 [Bacteroides ovatus ATCC 8483]
+TTGTAACATTGGTTACAG
+>BACPLE_00934(hcpR) Score=5.5 Pos=-45 [Bacteroides plebeius DSM 17135]
+CTGTCACCTATGTGACAC
+>BACPLE_00933(hcp) Score=5.5 Pos=-87 [Bacteroides plebeius DSM 17135]
+GTGTCACATAGGTGACAG
+>BACPLE_01452(dnrN) Score=5.5 Pos=-74 [Bacteroides plebeius DSM 17135]
+GTGTCACGTATGTGACAA
+>BT_0687(hcp) Score=5.9 Pos=-91 [Bacteroides thetaiotaomicron VPI-5482]
+ATGTAACATTGGTTACAA
+>BACUNI_04425(hcp) Score=5.6 Pos=-145 [Bacteroides uniformis ATCC 8492]
+ATGTAACATTCGTGACAG
+>BACUNI_04426(hcpR) Score=5.6 Pos=-44 [Bacteroides uniformis ATCC 8492]
+CTGTCACGAATGTTACAT
+>BVU_2981(hcp) Score=6.1 Pos=-71 [Bacteroides vulgatus ATCC 8482]
+CTGTAACATATGGTACAA
+>BVU_2982(hcpR) Score=6.1 Pos=-49 [Bacteroides vulgatus ATCC 8482]
+TTGTACCATATGTTACAG

@@ -1,0 +1,32 @@
+>SMc02874(murQ) Score=6.3 Pos=-43 [Sinorhizobium meliloti 1021]
+TGGTATTTTTTTGGCATT
+>SMc02875(nagK) Score=-1.5 Pos=-174 [Sinorhizobium meliloti 1021]
+AATGCCAAAAAAATACCA
+>NGR_c35300(murQ) Score=6.3 Pos=-42 [Rhizobium sp. NGR234]
+TGGTATTTTTTTGGCATT
+>NGR_c35310(nagK) Score=-1.5 Pos=-172 [Rhizobium sp. NGR234]
+AATGCCAAAAAAATACCA
+>RL3360(nagK) Score=-1.5 Pos=-187 [Rhizobium leguminosarum bv. viciae 3841]
+AATGCCAAAAAAATACCA
+>RHE_CH02899(nagK) Score=-0.9 Pos=-186 [Rhizobium etli CFN 42]
+AAGGCCAAAAAAATACCA
+>Atu2606(nagQ) Score=-2 Pos=-233 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GATGCCAAAACAATACCA
+>Atu2604(nagD1) Score=6.1 Pos=-236 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TGGCATTTTTTTGGTATT
+>Atu2604(nagD1) Score=6.1 Pos=-225 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TGGTATTGTTTTGGCATC
+>Atu2606(nagQ) Score=-1.5 Pos=-222 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATACCAAAAAAATGCCA
+>mll4769(nagK) Score=-1.8 Pos=-186 [Mesorhizobium loti MAFF303099]
+AATACCAGAACAATACCA
+>mll4769(nagK) Score=-1.5 Pos=-175 [Mesorhizobium loti MAFF303099]
+AATACCAAAAAAATACCA
+>mlr4770(murQ) Score=5.9 Pos=-30 [Mesorhizobium loti MAFF303099]
+TGGTATTGTTCTGGTATT
+>mlr4770(murQ) Score=6.5 Pos=-41 [Mesorhizobium loti MAFF303099]
+TGGTATTTTTTTGGTATT
+>BMEII0756(nagK) Score=-1.1 Pos=-132 [Brucella melitensis 16M]
+AATGCCAAAAACGCACCA
+>BMEII0755(nagT) Score=4.7 Pos=-219 [Brucella melitensis 16M]
+TGGTGCGTTTTTGGCATT

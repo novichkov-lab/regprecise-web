@@ -1,0 +1,24 @@
+>BAD_1302(csoR) Score=6.2 Pos=-82 [Bifidobacterium adolescentis ATCC 15703]
+ATACCCCTATAGGGTAT
+>BAD_1301(copA) Score=6.2 Pos=-23 [Bifidobacterium adolescentis ATCC 15703]
+ATACCCTATAGGGGTAT
+>BbifN4_010100007162(csoR) Score=6.2 Pos=-36 [Bifidobacterium bifidum NCIMB 41171]
+ATACCCCTAGAGGGTAT
+>BbifN4_010100007157(copA) Score=6.2 Pos=-67 [Bifidobacterium bifidum NCIMB 41171]
+ATACCCTCTAGGGGTAT
+>BIFBRE_02066(csoR) Score=6.3 Pos=-8 [Bifidobacterium breve DSM 20213]
+ATACCCCTATGGGGTAT
+>BIFBRE_02065(copA) Score=6.3 Pos=-64 [Bifidobacterium breve DSM 20213]
+ATACCCCATAGGGGTAT
+>BDP_1760(csoR) Score=6.2 Pos=-85 [Bifidobacterium dentium Bd1]
+ATACCCCTATAGGGTAT
+>BDP_1759(copA) Score=6.2 Pos=-73 [Bifidobacterium dentium Bd1]
+ATACCCTATAGGGGTAT
+>BL0408(csoR) Score=6.2 Pos=-63 [Bifidobacterium longum NCC2705]
+ATACCCCTAGAGGGTAT
+>BL0409(copA) Score=6.2 Pos=-65 [Bifidobacterium longum NCC2705]
+ATACCCTCTAGGGGTAT
+>Blon_0252(csoR) Score=6.2 Pos=-63 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATACCCCTAGAGGGTAT
+>Blon_0251(copA) Score=6.2 Pos=-64 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATACCCTCTAGGGGTAT

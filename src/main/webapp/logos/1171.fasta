@@ -1,0 +1,20 @@
+>b3603(lldP) Score=5.1 Pos=-89 [Escherichia coli str. K-12 substr. MG1655]
+AATTGGCAGTGCCACTT
+>b3603(lldP) Score=6.8 Pos=-215 [Escherichia coli str. K-12 substr. MG1655]
+AATTGGCCCTACCAATT
+>STM3692(lldP) Score=4.7 Pos=-91 [Salmonella typhimurium LT2]
+TATTGGCAGGACCACTT
+>STM3692(lldP) Score=6.8 Pos=-217 [Salmonella typhimurium LT2]
+AATTGGCCCTACCAATT
+>CKO_05059(lldP) Score=4.4 Pos=-89 [Citrobacter koseri ATCC BAA-895]
+TATTGGCAGGGCCACTT
+>CKO_05059(lldP) Score=6.8 Pos=-215 [Citrobacter koseri ATCC BAA-895]
+AATTGGCCCAACCAATT
+>KPN_03947(lldP) Score=6.2 Pos=-88 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AATTGGCCGGGCCAATT
+>KPN_03947(lldP) Score=5.1 Pos=-214 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GATTGGTCCAACCAATA
+>Ent638_0132(lldP) Score=4.7 Pos=-91 [Enterobacter sp. 638]
+TATTGGCAGGACCACTT
+>Ent638_0132(lldP) Score=6.5 Pos=-217 [Enterobacter sp. 638]
+AATTGGCCCAACCAATC

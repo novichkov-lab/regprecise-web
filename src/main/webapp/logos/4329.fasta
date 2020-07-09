@@ -1,0 +1,42 @@
+>CKO_03302(leuO) Score=3.5 Pos=-241 [Citrobacter koseri ATCC BAA-895]
+ATTCGCCACGCTTAT
+>ETAE_0623(leuO) Score=4.7 Pos=-246 [Edwardsiella tarda EIB202]
+ATTGCCCTTAATTAT
+>Ent638_0623(leuO) Score=4.6 Pos=-229 [Enterobacter sp. 638]
+ATTCATTGGATTTAT
+>b0497(rhsD) Score=4.4 Pos=-291 [Escherichia coli str. K-12 substr. MG1655]
+ATTGATTTTAAATAT
+>b0497(rhsD) Score=4.2 Pos=-323 [Escherichia coli str. K-12 substr. MG1655]
+ATTGCTGATATTAAT
+>b0076(leuO) Score=4.1 Pos=-325 [Escherichia coli str. K-12 substr. MG1655]
+ATTAATGTTAAGAAT
+>b2760(casA) Score=4.9 Pos=-268 [Escherichia coli str. K-12 substr. MG1655]
+ATTCATGGTAATTAT
+>b2760(casA) Score=4.3 Pos=-298 [Escherichia coli str. K-12 substr. MG1655]
+ATTCACAGTATGAAT
+>b0076(leuO) Score=4.9 Pos=-243 [Escherichia coli str. K-12 substr. MG1655]
+ATTCGCGGTAGTTAT
+>KPN_00081(leuO) Score=4.2 Pos=-291 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTTTTATGGATTAT
+>plu0745(cas3) Score=4.4 Pos=-242 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTATCTTTATTTAT
+>plu3672(leuO) Score=4.2 Pos=-223 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTGGAATTATATAT
+>plu3672(leuO) Score=4.7 Pos=-112 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTGATCTCGTTAAT
+>PMI2082(leuO) Score=3.8 Pos=-289 [Proteus mirabilis HI4320]
+ATTTTGTTTTATTAT
+>STM2944(cas3) Score=4.2 Pos=-165 [Salmonella typhimurium LT2]
+ATTTATAATAATTAT
+>STM2944(cas3) Score=4 Pos=-152 [Salmonella typhimurium LT2]
+ATTCGTGGGGTAAAT
+>STM0115(leuO) Score=4.4 Pos=-240 [Salmonella typhimurium LT2]
+ATTCGCCATAGTTAT
+>STM0115(leuO) Score=3.9 Pos=-263 [Salmonella typhimurium LT2]
+ATTCACTTGGTGTAT
+>Spro_0746(leuO) Score=3.6 Pos=-400 [Serratia proteamaculans 568]
+ATTCTTGATATCAAT
+>y3642(leuO) Score=5 Pos=-210 [Yersinia pestis KIM]
+ATTGGCGTTATTAAT
+>y3642(leuO) Score=4.2 Pos=-413 [Yersinia pestis KIM]
+ATTATTGGTGATTAT

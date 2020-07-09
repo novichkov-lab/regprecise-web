@@ -1,0 +1,56 @@
+>Blon_2174(lnpA) Score=4.1 Pos=-31 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTTTGATGATCAACCTCACAAAG
+>Blon_0881(nagB) Score=6.5 Pos=-169 [Bifidobacterium longum subsp. infantis ATCC 15697]
+AATTGTTAGTATCATTAACAAAT
+>Blon_0881(nagB) Score=5.5 Pos=-251 [Bifidobacterium longum subsp. infantis ATCC 15697]
+AATTGTTATGAAACTTCACCAAT
+>Blon_0879(nagK) Score=5.3 Pos=-78 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATTTGTTAAGATAGTTGTCAATA
+>Blon_0880(nagR) Score=6.5 Pos=-191 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATTTGTTAATGATACTAACAATT
+>Blon_0880(nagR) Score=5.5 Pos=-109 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATTGGTGAAGTTTCATAACAATT
+>Blon_2177(lnbA) Score=4.9 Pos=-95 [Bifidobacterium longum subsp. infantis ATCC 15697]
+AATTGTTAGTTGGGTTGACAATA
+>Blon_2177(lnbA) Score=4 Pos=-175 [Bifidobacterium longum subsp. infantis ATCC 15697]
+GTGAGTTAATGAAATGAACAAAC
+>BbifN4_010100004904(nahK) Score=4.9 Pos=-144 [Bifidobacterium bifidum NCIMB 41171]
+TTATGTAACTATAATTAACAAAT
+>BbifN4_010100004949(lnbA) Score=4.7 Pos=-101 [Bifidobacterium bifidum NCIMB 41171]
+AAATGTTAATGTAGTTGACATTT
+>BbifN4_010100002384(nagB) Score=6.3 Pos=-135 [Bifidobacterium bifidum NCIMB 41171]
+ATTAGTTAGTATCATTAACAAAT
+>BbifN4_010100004909(nagR) Score=4.9 Pos=-168 [Bifidobacterium bifidum NCIMB 41171]
+ATTTGTTAATTATAGTTACATAA
+>BbifN4_010100002379(nagR) Score=6.3 Pos=-138 [Bifidobacterium bifidum NCIMB 41171]
+ATTTGTTAATGATACTAACTAAT
+>BIFBRE_01707(nagR) Score=5.5 Pos=-116 [Bifidobacterium breve DSM 20213]
+ATTAGTGAAGTTCCCTAACAGAT
+>BIFBRE_01706(nagB) Score=5.5 Pos=-180 [Bifidobacterium breve DSM 20213]
+ATCTGTTAGGGAACTTCACTAAT
+>BIFBRE_00332(lnbA) Score=5.2 Pos=-96 [Bifidobacterium breve DSM 20213]
+AATTGTTAGTTAGGTTGACAATA
+>BIFBRE_00332(lnbA) Score=4.6 Pos=-184 [Bifidobacterium breve DSM 20213]
+CTTTGTAAGGAGTATTAATAAAA
+>BIFBRE_01706(nagB) Score=6 Pos=-100 [Bifidobacterium breve DSM 20213]
+AATTGTAAGTAGTATTAACAAAT
+>BIFBRE_01708(nagK) Score=5.3 Pos=-78 [Bifidobacterium breve DSM 20213]
+ATTTGTTAAGATAGTTGTCAATA
+>BIFBRE_00337(nahK) Score=4.8 Pos=-69 [Bifidobacterium breve DSM 20213]
+TTATGTATATATACTTAACAAAT
+>BIFBRE_00635(galT2) Score=5.9 Pos=-40 [Bifidobacterium breve DSM 20213]
+AATTGTTAGGGTAATTAACAATA
+>BIFBRE_01707(nagR) Score=6 Pos=-196 [Bifidobacterium breve DSM 20213]
+ATTTGTTAATACTACTTACAATT
+>BL1341(nagK) Score=5.1 Pos=-78 [Bifidobacterium longum NCC2705]
+ATTTGTTAAGATGGTTGTCAATA
+>BL1342(nagR) Score=5.3 Pos=-109 [Bifidobacterium longum NCC2705]
+ATTAGTGAAGTTTCATAACAGTT
+>BL1343(nagB) Score=5.3 Pos=-251 [Bifidobacterium longum NCC2705]
+AACTGTTATGAAACTTCACTAAT
+>BL1343(nagB) Score=6.5 Pos=-169 [Bifidobacterium longum NCC2705]
+AATTGTTAGTATCATTAACAAAT
+>BL1342(nagR) Score=6.5 Pos=-191 [Bifidobacterium longum NCC2705]
+ATTTGTTAATGATACTAACAATT
+>BL1638(lnbA) Score=5.2 Pos=-95 [Bifidobacterium longum NCC2705]
+AATTGTTAGCTAAGTTGACAATA

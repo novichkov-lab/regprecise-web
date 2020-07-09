@@ -1,0 +1,36 @@
+>SA0305(nanK) Score=6.1 Pos=-42 [Staphylococcus aureus subsp. aureus N315]
+ATGAAAATGTTTTTCAA
+>SA0306(nanR) Score=6.3 Pos=-53 [Staphylococcus aureus subsp. aureus N315]
+TTGAAAATATTTTTCAT
+>SA0307(nanE) Score=6.3 Pos=-103 [Staphylococcus aureus subsp. aureus N315]
+ATGAAAAATATTTTCAA
+>SA0304(nanA) Score=6.1 Pos=-132 [Staphylococcus aureus subsp. aureus N315]
+TTGAAAAACATTTTCAT
+>Sca_2391(nanR) Score=6.3 Pos=-58 [Staphylococcus carnosus subsp. carnosus TM300]
+TTGAAAAAAATTTTCAT
+>Sca_2390(nanK) Score=6.3 Pos=-86 [Staphylococcus carnosus subsp. carnosus TM300]
+ATGAAAATAATTTTCAA
+>Sca_2392(nanE) Score=6.3 Pos=-124 [Staphylococcus carnosus subsp. carnosus TM300]
+ATGAAAATTTTTTTCAA
+>Sca_2389(nanA) Score=6.3 Pos=-176 [Staphylococcus carnosus subsp. carnosus TM300]
+TTGAAAATTATTTTCAT
+>SH0281(nanK) Score=6.3 Pos=-84 [Staphylococcus haemolyticus JCSC1435]
+ATGAAAATATTTTTCAA
+>SH0280(nanR) Score=6.2 Pos=-57 [Staphylococcus haemolyticus JCSC1435]
+TTGAAAAATATTTTCAA
+>SH0279(nanE) Score=6.2 Pos=-132 [Staphylococcus haemolyticus JCSC1435]
+TTGAAAATATTTTTCAA
+>SH0282(nanA) Score=6.3 Pos=-175 [Staphylococcus haemolyticus JCSC1435]
+TTGAAAAATATTTTCAT
+>SH0358(nagE) Score=6.1 Pos=-124 [Staphylococcus haemolyticus JCSC1435]
+TTGAAAATGTTTTTCAT
+>SSP0374(nanK) Score=6.3 Pos=-90 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATGAAAATATTTTTCAA
+>SSP0373(nanR) Score=6.2 Pos=-58 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATGAAAAACATTTTCAT
+>SSP0372(nanE) Score=6.2 Pos=-125 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATGAAAATGTTTTTCAT
+>SSP0375(nanA) Score=6.3 Pos=-250 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTGAAAAATATTTTCAT
+>SSP0233(nagE) Score=5.8 Pos=-85 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATGAAAATATTTTTCGT

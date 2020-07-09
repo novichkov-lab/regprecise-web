@@ -1,0 +1,34 @@
+>Blon_2458(rafB) Score=5.5 Pos=-152 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTTATTGCGTTAATCACAAAATA
+>Blon_2459(rafR) Score=5.5 Pos=-43 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TATTTTGTGATTAACGCAATAAA
+>BAD_1574(rafB) Score=5.5 Pos=-161 [Bifidobacterium adolescentis ATCC 15703]
+TACTTTCCAAGAATAACAAAATA
+>BAD_1576(agaL) Score=5 Pos=-104 [Bifidobacterium adolescentis ATCC 15703]
+TACTTTCCGAAAGAAACAAACAC
+>BAD_1575(rafR) Score=5.5 Pos=-47 [Bifidobacterium adolescentis ATCC 15703]
+TATTTTGTTATTCTTGGAAAGTA
+>BIFANG_00401(rafB) Score=4.2 Pos=-230 [Bifidobacterium angulatum DSM 20098]
+TTCTTTCCTTCGATATGAAATTT
+>BIFANG_00406(agaL) Score=5 Pos=-104 [Bifidobacterium angulatum DSM 20098]
+TAGTTTCTGAAAACAAGAAACAC
+>BIFANG_00405(rafR) Score=3.8 Pos=-22 [Bifidobacterium angulatum DSM 20098]
+TAGTTACTCTTGGATAGTAAATA
+>BLA_1522(rafB) Score=4.1 Pos=-158 [Bifidobacterium animalis subsp. lactis AD011]
+TAGTTTCCATGAGTATATAAATA
+>BLA_1523(rafR) Score=4.1 Pos=-13 [Bifidobacterium animalis subsp. lactis AD011]
+TATTTATATACTCATGGAAACTA
+>BIFBRE_00616(rafB) Score=5.5 Pos=-152 [Bifidobacterium breve DSM 20213]
+TTTATTGCGTTAATCACAAAATA
+>BIFBRE_00617(rafR) Score=5.5 Pos=-25 [Bifidobacterium breve DSM 20213]
+TATTTTGTGATTAACGCAATAAA
+>BDP_2226(rafB) Score=5.3 Pos=-159 [Bifidobacterium dentium Bd1]
+TACTTTCTCAGAATAACAAAATC
+>BDP_2229(agaL) Score=5.3 Pos=-106 [Bifidobacterium dentium Bd1]
+TACTTTCCGAAAATAAGAAACAC
+>BDP_2227(rafR) Score=5.3 Pos=-115 [Bifidobacterium dentium Bd1]
+GATTTTGTTATTCTGAGAAAGTA
+>BL1521(rafB) Score=5.5 Pos=-155 [Bifidobacterium longum NCC2705]
+TTTATTGCGTTAATCACAAAATA
+>BL1520(rafR) Score=5.5 Pos=-41 [Bifidobacterium longum NCC2705]
+TATTTTGTGATTAACGCAATAAA

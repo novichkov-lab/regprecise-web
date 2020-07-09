@@ -1,0 +1,78 @@
+>Patl_0201(fadB) Score=4.4 Pos=-199 [Pseudoalteromonas atlantica T6c]
+AACTGGCATGACCAGTT
+>Patl_2492(fadE) Score=5.3 Pos=-31 [Pseudoalteromonas atlantica T6c]
+CTCTGGTCTGACCTCTA
+>Patl_1663(fadI) Score=5.6 Pos=-46 [Pseudoalteromonas atlantica T6c]
+TACAGGTCAGACCACTT
+>Patl_1688(fadE2) Score=4.8 Pos=-31 [Pseudoalteromonas atlantica T6c]
+AACTGGTCAGATGAGCG
+>Patl_1408(acdB) Score=4.9 Pos=-75 [Pseudoalteromonas atlantica T6c]
+AAGTGGTTAGACCAGTT
+>MADE_02424(tesB) Score=3.7 Pos=-24 [Alteromonas macleodii 'Deep ecotype']
+AACTCATCAGACCAGAC
+>MADE_03736(fadB) Score=3.8 Pos=-174 [Alteromonas macleodii 'Deep ecotype']
+AAGTCATCGGACCACTA
+>MADE_02152(fadE) Score=4.5 Pos=-97 [Alteromonas macleodii 'Deep ecotype']
+TGCTGGTCTGACCTCGA
+>MADE_02701(fadI) Score=5.6 Pos=-65 [Alteromonas macleodii 'Deep ecotype']
+TACAGGTCAGACCACTT
+>MADE_01137(fadD) Score=4.2 Pos=-79 [Alteromonas macleodii 'Deep ecotype']
+AAGTTATCAGACCAGTT
+>MADE_02616(fadE2) Score=4.8 Pos=-28 [Alteromonas macleodii 'Deep ecotype']
+AACTGGTCAGATGAGCG
+>GHTCC_010100011184(fadB) Score=4.4 Pos=-67 [Glaciecola sp. HTCC2999]
+TACTTGTAAGACCAGTT
+>GHTCC_010100006812(fadE) Score=4.6 Pos=-27 [Glaciecola sp. HTCC2999]
+ATCTGGTCTGACCATCA
+>GHTCC_010100010338(fadI) Score=4.8 Pos=-100 [Glaciecola sp. HTCC2999]
+TAGAGGTCGGACCACTG
+>GHTCC_010100000785(fadE2) Score=4.9 Pos=-59 [Glaciecola sp. HTCC2999]
+AACTGGTCAGATGAGCT
+>CPS_3157(fadI) Score=5.6 Pos=-55 [Colwellia psychrerythraea 34H]
+AAGAGGTCAGACCTCTT
+>CPS_2263(acdB) Score=4.6 Pos=-70 [Colwellia psychrerythraea 34H]
+TAGTGGTATGACCAGTG
+>CPS_0925(fadH) Score=4.7 Pos=-30 [Colwellia psychrerythraea 34H]
+AACTGGTACGACCAATA
+>ATW7_08866(fadE) Score=5.1 Pos=-30 [Alteromonadales bacterium TW-7]
+AGGTGGTCTGACCTCTA
+>ATW7_00335(COG0596) Score=4.7 Pos=-54 [Alteromonadales bacterium TW-7]
+TAGTGGTCTGACAACTT
+>ATW7_05611(fadI) Score=5.5 Pos=-32 [Alteromonadales bacterium TW-7]
+AACAGGTCAGACCTGTC
+>ATW7_02822(tesB) Score=4.6 Pos=-65 [Alteromonadales bacterium TW-7]
+TACTGGCCTGACCAGTT
+>ATW7_02937(fadE2) Score=4.3 Pos=-22 [Alteromonadales bacterium TW-7]
+ATCTGGTCGGATGAGTT
+>ATW7_07132(fadH) Score=4.8 Pos=-30 [Alteromonadales bacterium TW-7]
+CACAGGTTAGACCAGTT
+>PSHAa1952(fadE) Score=5.1 Pos=-31 [Pseudoalteromonas haloplanktis TAC125]
+AGGTGGTCTGACCTCTA
+>PSHAa0966(fadI) Score=5.5 Pos=-33 [Pseudoalteromonas haloplanktis TAC125]
+AACAGGTCAGACCTGTC
+>PSHAb0355(tesB) Score=4.3 Pos=-67 [Pseudoalteromonas haloplanktis TAC125]
+TGCTGGTCTGACAAGTT
+>PSHAa1410(fadH) Score=4.8 Pos=-18 [Pseudoalteromonas haloplanktis TAC125]
+CACAGGTTAGACCAGTT
+>PSHAb0374(fadE2) Score=4.3 Pos=-22 [Pseudoalteromonas haloplanktis TAC125]
+ATCTGGTCGGATGAGTT
+>PTD2_11739(fadI) Score=5.7 Pos=-32 [Pseudoalteromonas tunicata D2]
+AACAGGTCAGACCTGTA
+>PTD2_22672(fadE) Score=5.6 Pos=-131 [Pseudoalteromonas tunicata D2]
+TAGTGGTCAGACCTCTA
+>PTD2_19952(fadH) Score=4.7 Pos=-33 [Pseudoalteromonas tunicata D2]
+CAGAGGTATGACCAGTA
+>PTD2_02811(fadE2) Score=4.3 Pos=-20 [Pseudoalteromonas tunicata D2]
+ATCTGGTCGGATGAGTT
+>PTD2_02881(tesB) Score=5.1 Pos=-66 [Pseudoalteromonas tunicata D2]
+AACTGGTCTGACCTTTT
+>OS145_01812(fadE) Score=5.7 Pos=-33 [Idiomarina baltica OS145]
+TACTGGTCAGACCTCTA
+>OS145_12280(fadI) Score=4.8 Pos=-48 [Idiomarina baltica OS145]
+GTGTGGTCAGACCAGTA
+>IL1827(fadD) Score=4 Pos=-67 [Idiomarina loihiensis L2TR]
+AACTGGTCGGATATGCG
+>IL1665(fadE) Score=5.5 Pos=-34 [Idiomarina loihiensis L2TR]
+CACTGGTCAGACCTCCA
+>IL0994(fadI) Score=5.1 Pos=-42 [Idiomarina loihiensis L2TR]
+TTGTGGTCAGACCAGTA

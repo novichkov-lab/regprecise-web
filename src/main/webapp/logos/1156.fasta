@@ -1,0 +1,34 @@
+>b3748(rbsD) Score=7 Pos=-31 [Escherichia coli str. K-12 substr. MG1655]
+TCAGCGAAACGTTTCGCTGA
+>STM3881(rbsD) Score=7.1 Pos=-32 [Salmonella typhimurium LT2]
+CCAGCGAAACGTTTCGCTAG
+>STM3881(rbsD) Score=6.2 Pos=-111 [Salmonella typhimurium LT2]
+CTAGCGAAACGTTTCGACGG
+>CKO_00088(rbsD) Score=7.1 Pos=-155 [Citrobacter koseri ATCC BAA-895]
+CCAGCGAAACGTTTCGCTAG
+>KPN_04153(rbsD) Score=6.2 Pos=-116 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTCGCGAAACGTTTCGATGG
+>KPN_04153(rbsD) Score=7.1 Pos=-38 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTAGCGAAACGTTTCGCTAG
+>Ent638_4116(rbsD) Score=7.1 Pos=-32 [Enterobacter sp. 638]
+TCAGCGAAACGTTTCGCTAG
+>EAM_0015(rbsD) Score=6.5 Pos=-108 [Erwinia amylovora ATCC 49946]
+CCAGCAAAACGTTTCGATGG
+>EAM_0015(rbsD) Score=6.1 Pos=-30 [Erwinia amylovora ATCC 49946]
+CTGGCGAAACGTTTCGCTGT
+>Spro_4901(rbsD) Score=6.8 Pos=-117 [Serratia proteamaculans 568]
+CCAGCGAAACGTTTCGATAG
+>Spro_4901(rbsD) Score=6.9 Pos=-37 [Serratia proteamaculans 568]
+CAAGCGAAACGTTTCGCTGG
+>ECA0010(rbsD) Score=7.1 Pos=-32 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTAGCGAAACGTTTCGCTGG
+>ECA0010(rbsD) Score=6.8 Pos=-109 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTAGCGAAACGTTTCGATGG
+>ETAE_3516(rbsD) Score=7 Pos=-31 [Edwardsiella tarda EIB202]
+ATAGCGAAACGTTTCGCTGG
+>PMI0093(rbsD) Score=7 Pos=-30 [Proteus mirabilis HI4320]
+ACAGCGAAACGTTTCGCTGA
+>plu0055(rbsD) Score=6.9 Pos=-32 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAGCGAAACGTTTCGCTAA
+>plu0055(rbsD) Score=6.2 Pos=-110 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTATCGAAACGTTTCGATAG

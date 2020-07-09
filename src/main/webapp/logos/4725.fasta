@@ -1,0 +1,64 @@
+>LVIS_1585(gntK) Score=5.2 Pos=-143 [Lactobacillus brevis ATCC 367]
+AGTGAAACTTTTTTACATA
+>LVIS_1584(gntR1) Score=5.2 Pos=-63 [Lactobacillus brevis ATCC 367]
+GTTGTAAAATGTTTACAAA
+>LVIS_1584(gntR1) Score=5.2 Pos=-95 [Lactobacillus brevis ATCC 367]
+TATGTAAAAAAGTTTCACT
+>LVIS_0144(gntZ) Score=6.3 Pos=-75 [Lactobacillus brevis ATCC 367]
+TATGTAAATTTTTTTCATA
+>LVIS_1585(gntK) Score=5.2 Pos=-175 [Lactobacillus brevis ATCC 367]
+TTTGTAAACATTTTACAAC
+>LVIS_1576(gntP) Score=4.6 Pos=-131 [Lactobacillus brevis ATCC 367]
+TTTGAAAATAACATTCAAT
+>LVIS_1576(gntP) Score=5.7 Pos=-99 [Lactobacillus brevis ATCC 367]
+CTTGAAAATATTTTTCATA
+>LVIS_0144(gntZ) Score=4.8 Pos=-106 [Lactobacillus brevis ATCC 367]
+TTTGTAATTTTTTTACGGT
+>LSEI_0226(gntR1) Score=5.7 Pos=-208 [Lactobacillus casei ATCC 334]
+TATGTAAATCGTTTACAAA
+>LSEI_0226(gntR1) Score=4.7 Pos=-175 [Lactobacillus casei ATCC 334]
+ACCGTAAATTATTTTCACG
+>LSEI_0227(gntZ) Score=4.7 Pos=-146 [Lactobacillus casei ATCC 334]
+CGTGAAAATAATTTACGGT
+>LSEI_0227(gntZ) Score=5.7 Pos=-113 [Lactobacillus casei ATCC 334]
+TTTGTAAACGATTTACATA
+>lp_1251(gntZ) Score=6 Pos=-109 [Lactobacillus plantarum WCFS1]
+AATGAAAATAATTTACAAA
+>lp_1251(gntZ) Score=5.1 Pos=-77 [Lactobacillus plantarum WCFS1]
+TATGTAAATAGTTTTATTA
+>LGG_00273(gntR1) Score=5.8 Pos=-96 [Lactobacillus rhamnosus GG]
+TATGTAAAATAATTACAAA
+>LGG_00273(gntR1) Score=5.4 Pos=-63 [Lactobacillus rhamnosus GG]
+TTCGTAAATAATTTTCAAT
+>LGG_00274(gntZ) Score=5.4 Pos=-238 [Lactobacillus rhamnosus GG]
+ATTGAAAATTATTTACGAA
+>LGG_00274(gntZ) Score=5.8 Pos=-205 [Lactobacillus rhamnosus GG]
+TTTGTAATTATTTTACATA
+>LSA0296(gntR1) Score=5.2 Pos=-70 [Lactobacillus sakei subsp. sakei 23K]
+ATAGAAAATTATTTTCGTA
+>LSA0297(gntZ) Score=5.2 Pos=-96 [Lactobacillus sakei subsp. sakei 23K]
+TACGAAAATAATTTTCTAT
+>LEUM_0550(gntR1) Score=5.1 Pos=-51 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+ATTGAAAATTGTTTTCTAA
+>LEUM_0550(gntR1) Score=6.1 Pos=-83 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TATGAAAATAATTTACACA
+>LEUM_0551(gntZ) Score=5.1 Pos=-97 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTAGAAAACAATTTTCAAT
+>LEUM_0551(gntZ) Score=6.1 Pos=-65 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TGTGTAAATTATTTTCATA
+>OEOE_1524(gntR1) Score=5.4 Pos=-64 [Oenococcus oeni PSU-1]
+TATGTAATTTTTTTACTCA
+>OEOE_1523(gntZ) Score=5.6 Pos=-78 [Oenococcus oeni PSU-1]
+TATGTAAATATTTTACACG
+>OEOE_1523(gntZ) Score=5.4 Pos=-46 [Oenococcus oeni PSU-1]
+TGAGTAAAAAAATTACATA
+>OEOE_1524(gntR1) Score=5.6 Pos=-32 [Oenococcus oeni PSU-1]
+CGTGTAAAATATTTACATA
+>PEPE_1363(gntR1) Score=5.8 Pos=-101 [Pediococcus pentosaceus ATCC 25745]
+TATGAAAATATGTTACATA
+>PEPE_1363(gntR1) Score=5.3 Pos=-69 [Pediococcus pentosaceus ATCC 25745]
+CAAGAAAATTATTTTCTTA
+>PEPE_1362(gntZ) Score=5.3 Pos=-98 [Pediococcus pentosaceus ATCC 25745]
+TAAGAAAATAATTTTCTTG
+>PEPE_1362(gntZ) Score=5.8 Pos=-66 [Pediococcus pentosaceus ATCC 25745]
+TATGTAACATATTTTCATA

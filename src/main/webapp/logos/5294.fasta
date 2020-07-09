@@ -1,0 +1,16 @@
+>lin0030(lmo0031) Score=7.1 Pos=-92 [Listeria innocua Clip11262]
+TTTTGATAACGTTACCAAAT
+>lin0030(lmo0031) Score=7.3 Pos=-187 [Listeria innocua Clip11262]
+TTTTGGTAACGTTACCAAAT
+>lin0031(lmo0032) Score=7.1 Pos=-129 [Listeria innocua Clip11262]
+ATTTGGTAACGTTATCAAAA
+>lin0031(lmo0032) Score=7.3 Pos=-34 [Listeria innocua Clip11262]
+ATTTGGTAACGTTACCAAAA
+>lmo0031(lmo0031) Score=7.2 Pos=-92 [Listeria monocytogenes EGD-e]
+TTTTGATAACGTTACCAAAA
+>lmo0031(lmo0031) Score=7.3 Pos=-187 [Listeria monocytogenes EGD-e]
+TTTTGGTAACGTTACCAAAT
+>lmo0032(lmo0032) Score=7.2 Pos=-129 [Listeria monocytogenes EGD-e]
+TTTTGGTAACGTTATCAAAA
+>lmo0032(lmo0032) Score=7.3 Pos=-34 [Listeria monocytogenes EGD-e]
+ATTTGGTAACGTTACCAAAA

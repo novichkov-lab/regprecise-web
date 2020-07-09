@@ -1,0 +1,32 @@
+>Atu1847(PF06568) Score=9.2 Pos=-102 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTTGTCA---TGACAATT
+>Atu1848(Mll0059) Score=9.2 Pos=-10 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATTGTCA---TGACAAAT
+>msr0060(PF06568) Score=9.2 Pos=-102 [Mesorhizobium loti MAFF303099]
+ATTTGTCA---TGACAATT
+>mll0059(Mll0059) Score=9.2 Pos=-10 [Mesorhizobium loti MAFF303099]
+AATTGTCA---TGACAAAT
+>RHE_CH03501(phzF) Score=6 Pos=-80 [Rhizobium etli CFN 42]
+CATTGTCA---CGACAAGA
+>RHE_CH02284(Mll0059) Score=6 Pos=-34 [Rhizobium etli CFN 42]
+CAGAGTCA---TGACAATA
+>RHE_CH02284(Mll0059) Score=9.2 Pos=-10 [Rhizobium etli CFN 42]
+AATTGTCA---TGACAAAT
+>RHE_CH02283(PF06568) Score=9.2 Pos=-90 [Rhizobium etli CFN 42]
+ATTTGTCA---TGACAATT
+>RHE_CH02283(PF06568) Score=6 Pos=-66 [Rhizobium etli CFN 42]
+TATTGTCA---TGACTCTG
+>RL4013(phzF) Score=6 Pos=-81 [Rhizobium leguminosarum bv. viciae 3841]
+CATTGTCA---CGACAAGA
+>RL2610(Mll0059) Score=9.2 Pos=-10 [Rhizobium leguminosarum bv. viciae 3841]
+AATTGTCA---TGACAAAT
+>NGR_c28110(phzF) Score=7.7 Pos=-84 [Rhizobium sp. NGR234]
+AATTGTCA---AGACAAGT
+>NGR_c16240(Mll0059) Score=9 Pos=-10 [Rhizobium sp. NGR234]
+AATTGTCA---TGACAACT
+>SMc03984(phzF) Score=7.7 Pos=-85 [Sinorhizobium meliloti 1021]
+AATTGTCA---AGACAAGT
+>SMc00491(PF06568) Score=9 Pos=-181 [Sinorhizobium meliloti 1021]
+AGTTGTCA---TGACAATT
+>SMc00490(Mll0059) Score=9 Pos=-10 [Sinorhizobium meliloti 1021]
+AATTGTCA---TGACAACT

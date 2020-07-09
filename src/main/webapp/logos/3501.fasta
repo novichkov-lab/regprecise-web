@@ -1,0 +1,30 @@
+>LVIS_0462(xylS) Score=5.3 Pos=-150 [Lactobacillus brevis ATCC 367]
+GTTGGTTTAGTAAACCAATTTAC
+>LVIS_0463(xynT) Score=5.3 Pos=-151 [Lactobacillus brevis ATCC 367]
+GTAAATTGGTTTACTAAACCAAC
+>LVIS_0183(xylA) Score=5.7 Pos=-42 [Lactobacillus brevis ATCC 367]
+GTTGGTTGTCGCAACGAACTAAC
+>LVIS_2109(xylR) Score=5.4 Pos=-154 [Lactobacillus brevis ATCC 367]
+GTTGGTTGGTTCACTGAACCATG
+>LVIS_2287 Score=5.1 Pos=-90 [Lactobacillus brevis ATCC 367]
+GTTGGTTGCTTTCGACAACTAAT
+>LVIS_0185 Score=5.4 Pos=-111 [Lactobacillus brevis ATCC 367]
+CATGGTTGGTTGCGGCAATCAAC
+>LVIS_0185 Score=6.1 Pos=-107 [Lactobacillus brevis ATCC 367]
+GTTGGTTGCGGCAATCAACCAAC
+>LAF_0402(xylA) Score=5.1 Pos=-53 [Lactobacillus fermentum IFO 3956]
+GTTAGTTGTTTTAAAAAACCAAT
+>LAF_0405(xynB2) Score=5.5 Pos=-121 [Lactobacillus fermentum IFO 3956]
+GTTTGTTTACTAAATAAACTAAC
+>LAF_0401(xylT) Score=5.2 Pos=-90 [Lactobacillus fermentum IFO 3956]
+GTTAGTTTTTATCAGCAACTAAC
+>LEUM_0130(xylA) Score=5.8 Pos=-59 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+GTTGGTTGGTGTAACCAACTATG
+>LEUM_0128(xylT) Score=5.6 Pos=-87 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+GTTAGTTGGTTGCGTAAATAAAC
+>LEUM_0128(xylT) Score=5.7 Pos=-83 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+GTTGGTTGCGTAAATAAACTAAC
+>PEPE_0184(xylS) Score=5.1 Pos=-182 [Pediococcus pentosaceus ATCC 25745]
+GTTTGTTAGTTCTATTTACAAAC
+>PEPE_0185(xynT) Score=5.1 Pos=-66 [Pediococcus pentosaceus ATCC 25745]
+GTTTGTAAATAGAACTAACAAAC

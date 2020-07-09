@@ -1,0 +1,36 @@
+>CKO_00371(pdxR2) Score=4.9 Pos=-39 [Citrobacter koseri ATCC BAA-895]
+ATCGTCATATGCTAAA
+>CKO_00371(pdxR2) Score=5.6 Pos=-17 [Citrobacter koseri ATCC BAA-895]
+TTTGTCATAGGTCAAT
+>CKO_00372(pdxK) Score=5.6 Pos=-81 [Citrobacter koseri ATCC BAA-895]
+ATTGACCTATGACAAA
+>CKO_00372(pdxK) Score=4.9 Pos=-59 [Citrobacter koseri ATCC BAA-895]
+TTTAGCATATGACGAT
+>Ent638_4213(pdxR2) Score=5.3 Pos=-36 [Enterobacter sp. 638]
+ATTGTCCTAGGCTAAA
+>Ent638_4213(pdxR2) Score=4.1 Pos=-14 [Enterobacter sp. 638]
+TTTGAACCAGGTCAAT
+>Ent638_4212(COG0325) Score=4.1 Pos=-71 [Enterobacter sp. 638]
+ATTGACCTGGTTCAAA
+>Ent638_4212(COG0325) Score=5.3 Pos=-49 [Enterobacter sp. 638]
+TTTAGCCTAGGACAAT
+>KPN_02767(pdxR2) Score=5.1 Pos=-39 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTCGTCCTATGCTAAA
+>KPN_02767(pdxR2) Score=5.6 Pos=-17 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTGTCATAGGTCAAT
+>KPN_02766(pdxK) Score=5.6 Pos=-81 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTGACCTATGACAAA
+>KPN_02766(pdxK) Score=5.1 Pos=-59 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTAGCATAGGACGAA
+>STM2436(pdxR2) Score=5.3 Pos=-39 [Salmonella typhimurium LT2]
+ATTGTCATATGCTAAA
+>STM2436(pdxR2) Score=5.6 Pos=-17 [Salmonella typhimurium LT2]
+TTTGTCATAGGTCAAT
+>STM2435(pdxK) Score=5.6 Pos=-81 [Salmonella typhimurium LT2]
+ATTGACCTATGACAAA
+>STM2435(pdxK) Score=5.3 Pos=-59 [Salmonella typhimurium LT2]
+TTTAGCATATGACAAT
+>Spro_2563(pdxR2) Score=4 Pos=-28 [Serratia proteamaculans 568]
+TTTGAACTAATACAAA
+>Spro_2564(pdxZ) Score=4 Pos=-56 [Serratia proteamaculans 568]
+TTTGTATTAGTTCAAA

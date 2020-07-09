@@ -1,0 +1,12 @@
+>DIP0656(rbsR) Score=6 Pos=-31 [Corynebacterium diphtheriae NCTC 13129]
+TACGCAAACGTTTGCAGA
+>CE1349(rbsR) Score=5.4 Pos=-18 [Corynebacterium efficiens YS-314]
+GGTGCAAACGATTGCCCT
+>CE1485(uriR) Score=5.3 Pos=-49 [Corynebacterium efficiens YS-314]
+AATGTAAACGTTTACATC
+>cg1547(uriR) Score=5.9 Pos=-61 [Corynebacterium glutamicum ATCC 13032]
+AATGTAATCGTTTGCAGC
+>cg1410(rbsR) Score=6.1 Pos=-68 [Corynebacterium glutamicum ATCC 13032]
+AATGCAATCGATTGCATT
+>cg2554(rbsK) Score=6.1 Pos=-37 [Corynebacterium glutamicum ATCC 13032]
+TATGAAAACGTTTGCATA

@@ -1,0 +1,30 @@
+>BPSL2850(phnC) Score=5.3 Pos=-61 [Burkholderia pseudomallei K96243]
+GAAAAACATCTAGACGTATATA
+>BPSL2850(phnC) Score=5.3 Pos=-53 [Burkholderia pseudomallei K96243]
+TCTAGACGTATATACGGATTCA
+>BPSL2857(phnG) Score=6.9 Pos=-66 [Burkholderia pseudomallei K96243]
+TATAGACGTCTAGACGTTTAGA
+>BPSL2858(phnF) Score=6.9 Pos=-88 [Burkholderia pseudomallei K96243]
+TCTAAACGTCTAGACGTCTATA
+>BMA2407(phnC) Score=5.3 Pos=-109 [Burkholderia mallei ATCC 23344]
+GAAAAACATCTAGACGTATATA
+>BMA2407(phnC) Score=5.3 Pos=-101 [Burkholderia mallei ATCC 23344]
+TCTAGACGTATATACGGATTCA
+>BMA2400(phnG) Score=6.9 Pos=-66 [Burkholderia mallei ATCC 23344]
+TATAGACGTCTAGACGTTTAGA
+>BMA2399(phnF) Score=6.9 Pos=-130 [Burkholderia mallei ATCC 23344]
+TCTAAACGTCTAGACGTCTATA
+>Bxe_B2179(phnG) Score=7.3 Pos=-68 [Burkholderia xenovorans LB400]
+CCTAAACGTCTAGACGTTTAGA
+>Bxe_B2178(phnF) Score=7.3 Pos=-135 [Burkholderia xenovorans LB400]
+TCTAAACGTCTAGACGTTTAGG
+>Bxe_B0839(phnC) Score=5.4 Pos=-104 [Burkholderia xenovorans LB400]
+TATAGTCGTCTAGACGTTGCGA
+>Bphy_4623(phnC) Score=4.7 Pos=-111 [Burkholderia phymatum STM815]
+TGCAAAGATATAGTCGTCTAGA
+>Bphy_3773(phnG) Score=6.8 Pos=-90 [Burkholderia phymatum STM815]
+TACAAACGTCTAGACGTTTAGA
+>Bphy_3772(phnF) Score=6.8 Pos=-128 [Burkholderia phymatum STM815]
+TCTAAACGTCTAGACGTTTGTA
+>Bphy_4623(phnC) Score=4.9 Pos=-103 [Burkholderia phymatum STM815]
+TATAGTCGTCTAGATGTTGCGA

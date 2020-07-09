@@ -1,0 +1,104 @@
+>Rru_A1898(lexA) Score=0.9 Pos=-114 [Rhodospirillum rubrum ATCC 11170]
+GAACCAAAGTAGAAC
+>Rru_A2819(recA) Score=1 Pos=-68 [Rhodospirillum rubrum ATCC 11170]
+GAACAAAAAGAGTAC
+>Rru_A3530(dinB) Score=1.6 Pos=-54 [Rhodospirillum rubrum ATCC 11170]
+GAACATTTAGGGTAC
+>Rru_A2819(recA) Score=4.4 Pos=-104 [Rhodospirillum rubrum ATCC 11170]
+GATCTTGTTCTGTTC
+>Magn03009696(lexA) Score=-0.6 Pos=-120 [Magnetospirillum magnetotacticum MS-1]
+AAACAAAACGGAATC
+>Magn03009220(dinB) Score=2.3 Pos=-95 [Magnetospirillum magnetotacticum MS-1]
+GAACATATGGTGATC
+>Magn03011075(recA) Score=4.7 Pos=-98 [Magnetospirillum magnetotacticum MS-1]
+GTTCTCCTCTCGTTC
+>Magn03009696(lexA) Score=4.6 Pos=-48 [Magnetospirillum magnetotacticum MS-1]
+GTTTGTTCTTTGTTC
+>Magn03010153(rmuC) Score=5 Pos=-26 [Magnetospirillum magnetotacticum MS-1]
+GTTCCCGTAATGTTC
+>Magn03008981(yoaA) Score=3.9 Pos=-54 [Magnetospirillum magnetotacticum MS-1]
+GTGCACCAATCGTTC
+>Magn03007150(dnaB) Score=4.7 Pos=-254 [Magnetospirillum magnetotacticum MS-1]
+GTTCTCAATCCGTTC
+>amb3608(yoaA) Score=3.9 Pos=-33 [Magnetospirillum magneticum AMB-1]
+GTGCACCAATCGTTC
+>amb2866(lexA) Score=-0.6 Pos=-118 [Magnetospirillum magneticum AMB-1]
+AAACAAAACGGAATC
+>amb0622(recA) Score=1.1 Pos=-110 [Magnetospirillum magneticum AMB-1]
+GAACTGAAATGGAAC
+>amb0623(dinB) Score=2.3 Pos=4 [Magnetospirillum magneticum AMB-1]
+GAACATATGGTGATC
+>amb2866(lexA) Score=4.6 Pos=-46 [Magnetospirillum magneticum AMB-1]
+GTTTGTTCTTTGTTC
+>amb4124(rmuC) Score=5 Pos=16 [Magnetospirillum magneticum AMB-1]
+GTTCCCGTAATGTTC
+>AZL_e01730(dnaB) Score=4.3 Pos=-33 [Azospirillum sp. B510]
+GTTCCCGTTCCGTTT
+>AZL_016060(lexA) Score=0.8 Pos=-74 [Azospirillum sp. B510]
+GAACCAAACTAGAAC
+>AZL_012130(recA) Score=0.2 Pos=-103 [Azospirillum sp. B510]
+GAACGCACCGGAAAC
+>AZL_018280(parC) Score=1.3 Pos=-56 [Azospirillum sp. B510]
+GAACGTTACGCGAAC
+>AZL_026530(PF04055) Score=5 Pos=-41 [Azospirillum sp. B510]
+GTTCACTTTACGTTC
+>AZL_014850(uvrA) Score=1.7 Pos=-9 [Azospirillum sp. B510]
+GAACACACCATGAAC
+>RC1_1053(uvrA) Score=1.5 Pos=-9 [Rhodospirillum centenum SW]
+GAACACAGCATGAAC
+>RC1_1189(lexA) Score=4.4 Pos=-50 [Rhodospirillum centenum SW]
+GTTCCGGTAATGTTC
+>RC1_0899(recA) Score=0.8 Pos=-104 [Rhodospirillum centenum SW]
+GAACATAGAGAGAAC
+>RC1_1189(lexA) Score=0.8 Pos=-76 [Rhodospirillum centenum SW]
+GAACCAAACTAGAAC
+>RC1_1053(uvrA) Score=1.2 Pos=-236 [Rhodospirillum centenum SW]
+GAACATTTCAGGAAC
+>RC1_3178(PF04055) Score=5.1 Pos=-9 [Rhodospirillum centenum SW]
+GTTCTTGATATGTTC
+>RC1_3311(yoaA) Score=4.6 Pos=-86 [Rhodospirillum centenum SW]
+GTTCACCTTTTGTTG
+>Gdia_0107(recG) Score=4.5 Pos=-111 [Gluconacetobacter diazotrophicus PAl 5]
+GGTTTCGTTTTGTTC
+>Gdia_0538(uvrA) Score=1.6 Pos=-65 [Gluconacetobacter diazotrophicus PAl 5]
+GAACAGAGTATGAAC
+>Gdia_0513(recA) Score=4.5 Pos=-135 [Gluconacetobacter diazotrophicus PAl 5]
+GATCATGTTTTGTTC
+>Gdia_0145(lexA) Score=4.5 Pos=-71 [Gluconacetobacter diazotrophicus PAl 5]
+GTTTCCTGTTTGTTC
+>Gdia_0269(yoaA) Score=4.3 Pos=-20 [Gluconacetobacter diazotrophicus PAl 5]
+GTGCCCTATATGTTC
+>Gdia_3517(PF04055) Score=5.5 Pos=-47 [Gluconacetobacter diazotrophicus PAl 5]
+GTTCCCGTTTTGTTC
+>APA01_17830(yoaA) Score=4.3 Pos=-50 [Acetobacter pasteurianus IFO 3283-01]
+GTTCTTCATATGTTG
+>APA01_10940(lexA) Score=1.9 Pos=-64 [Acetobacter pasteurianus IFO 3283-01]
+GAACTTATATAGAAC
+>APA01_00110(uvrA) Score=0.6 Pos=-32 [Acetobacter pasteurianus IFO 3283-01]
+GGACAAAACAGGAAC
+>APA01_00440(recA) Score=4.4 Pos=-33 [Acetobacter pasteurianus IFO 3283-01]
+GTTGCCAATTTGTTC
+>APA01_09170(rmuC) Score=4.3 Pos=4 [Acetobacter pasteurianus IFO 3283-01]
+GTTCCATAATTGTTC
+>APA01_02490(dinB) Score=4.6 Pos=-50 [Acetobacter pasteurianus IFO 3283-01]
+GTTTTCTGTTTGTTC
+>GOX1522(recA) Score=2.1 Pos=-116 [Gluconobacter oxydans 621H]
+GAACATTTTGCGAAC
+>GOX2276(lexA) Score=1.6 Pos=-24 [Gluconobacter oxydans 621H]
+GAACCTATAAGGAAC
+>GOX1904(yoaA) Score=4.1 Pos=-71 [Gluconobacter oxydans 621H]
+TTTCACGTTCCGTTC
+>GOX0844(dinB) Score=4.6 Pos=-39 [Gluconobacter oxydans 621H]
+GATCTTGTTTCGTTC
+>GOX0056(recG) Score=4.5 Pos=-90 [Gluconobacter oxydans 621H]
+GGTTTCGTTTTGTTC
+>GbCGDNIH1_1384(recA) Score=2.5 Pos=-108 [Granulibacter bethesdensis CGDNIH1]
+GAACATATTATGAAC
+>GbCGDNIH1_0995(parC) Score=0.2 Pos=-9 [Granulibacter bethesdensis CGDNIH1]
+AAACGGAACGTGAAC
+>GbCGDNIH1_1221(uvrA) Score=1.1 Pos=25 [Granulibacter bethesdensis CGDNIH1]
+GAACTTTTCCAGAAC
+>GbCGDNIH1_1856(PF04055) Score=4.6 Pos=-71 [Granulibacter bethesdensis CGDNIH1]
+GTTCATTCATTGTTC
+>GbCGDNIH1_0816(lexA) Score=4.3 Pos=-62 [Granulibacter bethesdensis CGDNIH1]
+GTTGCCCGTTTGTTC

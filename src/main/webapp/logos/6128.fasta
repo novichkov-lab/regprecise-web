@@ -1,0 +1,20 @@
+>PA4130(cysI) Score=7.9 Pos=-183 [Pseudomonas aeruginosa PAO1]
+ATCTGATGTGTTTTT---------ATCTGCCGCTGTTTC
+>PA4133(ccoN) Score=7.2 Pos=-137 [Pseudomonas aeruginosa PAO1]
+ATCTGATACCCAAAT---------ACCTGAAGCTGTTTT
+>PSEEN2987(COG0348) Score=8.5 Pos=-98 [Pseudomonas entomophila L48]
+ATCTGATATGGTTTT---------ACCTGAGTCTGTGCT
+>PFL_2834(ccoN) Score=8.1 Pos=-120 [Pseudomonas fluorescens Pf-5]
+ATCTGATCCGTATTA---------TTCTGAGCCTGTTTT
+>PFL_2869(COG0348) Score=9.4 Pos=-97 [Pseudomonas fluorescens Pf-5]
+ATCTGATCCGGTTTT---------ACCTGAGTCTGTTAT
+>PFL_2835(cysI) Score=7.1 Pos=-118 [Pseudomonas fluorescens Pf-5]
+GGCTGATATGGTTTT---------ACCTGAATCTGTAAC
+>PFL_0053(gadh3) Score=7.8 Pos=-203 [Pseudomonas fluorescens Pf-5]
+AGCTGATCCGCTTTT---------TTCTGATCTTTTTTT
+>Pmen_3094(COG0348) Score=9 Pos=-99 [Pseudomonas mendocina ymp]
+ATCTGATCCGCTTTT---------ACCTGAGTCTGTTTT
+>PP3543(COG0348) Score=8.8 Pos=-98 [Pseudomonas putida KT2440]
+ATCTGATATGGTTTT---------ATCTGAACCTGTGCT
+>PST_2730(COG0348) Score=8.8 Pos=-97 [Pseudomonas stutzeri A1501]
+ATCTGATCCGTATTT---------ATCTGAGTCTGTTAT

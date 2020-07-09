@@ -1,0 +1,60 @@
+>PBPRA2084(ebgA) Score=4.2 Pos=-53 [Photobacterium profundum SS9]
+AAAACTTTAACTAACATAGCT
+>PBPRA2084(ebgA) Score=5.9 Pos=-65 [Photobacterium profundum SS9]
+ATTTATTTTACTAAAACTTTA
+>PBPRA2083(ebgR) Score=5.3 Pos=-191 [Photobacterium profundum SS9]
+GATAATTTTACTAAAACATCA
+>PBPRA2084(ebgA) Score=5.5 Pos=-332 [Photobacterium profundum SS9]
+TTGTATTTTACTAAAATTTAA
+>PBPRA2084(ebgA) Score=4.3 Pos=-78 [Photobacterium profundum SS9]
+AACAGATTTACCAATTTATTT
+>VAS14_15114(ebgA) Score=4.3 Pos=-118 [Vibrio angustum S14]
+AACGTTTTCACTAATTTATTT
+>VAS14_15114(ebgA) Score=5.7 Pos=-93 [Vibrio angustum S14]
+AAAACTTTTACTAAAATCGTT
+>VAS14_15114(ebgA) Score=6.1 Pos=-105 [Vibrio angustum S14]
+ATTTATTTTAGTAAAACTTTT
+>VAS14_15119(ebgR) Score=5.7 Pos=-109 [Vibrio angustum S14]
+AAAGTTTTTACTAAAAAAATT
+>VAS14_15119(ebgR) Score=4.6 Pos=-159 [Vibrio angustum S14]
+ATATTTATTATTATATTTTTT
+>VAS14_15119(ebgR) Score=4.5 Pos=-162 [Vibrio angustum S14]
+AATATATTTATTATTATATTT
+>VF_A0338(SSF48208) Score=5.5 Pos=-45 [Vibrio fischeri ES114]
+GTTAAATTTAGTAAAACTTTA
+>VF_A0340(ygjI) Score=5.3 Pos=-71 [Vibrio fischeri ES114]
+CTATAATTTACTAAAAGTTAC
+>VF_A0340(ygjI) Score=4.9 Pos=-81 [Vibrio fischeri ES114]
+AAATTAATTACTATAATTTAC
+>VF_A0340(ygjI) Score=5.9 Pos=-94 [Vibrio fischeri ES114]
+GTAACTTTTAGTAAAATTAAT
+>VF_A0347(ebgA) Score=4.3 Pos=-67 [Vibrio fischeri ES114]
+GAGTTATTTACTACGATTTAT
+>VF_A0347(ebgA) Score=4.5 Pos=-96 [Vibrio fischeri ES114]
+TAAAACTTTAGTTAATATCTT
+>VF_A0347(ebgA) Score=5.7 Pos=-107 [Vibrio fischeri ES114]
+ATTTGTTTTACTAAAACTTTA
+>VF_A0348(ebgR) Score=4.9 Pos=-92 [Vibrio fischeri ES114]
+TAAAACTTTAGTAAAAGCCAT
+>VIBHAR_03334(ebgR) Score=5.4 Pos=-104 [Vibrio harveyi ATCC BAA-1116]
+CACAGTTTTACTAAAAATTTG
+>VP2403(ebgA) Score=4.3 Pos=-168 [Vibrio parahaemolyticus RIMD 2210633]
+AACGTTTTCACTAATTTATTT
+>VP2403(ebgA) Score=6.1 Pos=-155 [Vibrio parahaemolyticus RIMD 2210633]
+ATTTATTTTAGTAAAACTTTT
+>VP2403(ebgA) Score=5.7 Pos=-143 [Vibrio parahaemolyticus RIMD 2210633]
+AAAACTTTTACTAATATCTTT
+>VP2402(ebgR) Score=5.1 Pos=-102 [Vibrio parahaemolyticus RIMD 2210633]
+CTCGATTTTACTAAAAGTTTG
+>VSAK1_18704(ebgA) Score=6.2 Pos=-98 [Vibrio shilonii AK1]
+ATATATTTTAGTAAAACTTTT
+>VSAK1_18704(ebgA) Score=5.6 Pos=-86 [Vibrio shilonii AK1]
+AAAACTTTTACTAAAATTACC
+>VSAK1_18699(ebgR) Score=5.1 Pos=-104 [Vibrio shilonii AK1]
+GCTGTTTTTACTAAAATTTTA
+>VV1_1767(ebgA) Score=5.9 Pos=-95 [Vibrio vulnificus CMCP6]
+AAAAGTTTTACTAATATATTT
+>VV1_1767(ebgA) Score=5.2 Pos=-107 [Vibrio vulnificus CMCP6]
+ATTCTATTTAGTAAAAGTTTT
+>VV1_1769(ebgR) Score=4.3 Pos=-102 [Vibrio vulnificus CMCP6]
+TCGATTTTTACTAAAAAAACG

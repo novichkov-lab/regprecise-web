@@ -1,0 +1,68 @@
+>CKO_04269(gcvT) Score=5.3 Pos=-371 [Citrobacter koseri ATCC BAA-895]
+TTGAAATAATCTAAT
+>CKO_04269(gcvT) Score=4.5 Pos=-339 [Citrobacter koseri ATCC BAA-895]
+ATTAGTTTTTTTAAT
+>CKO_04171(gcvA) Score=5.5 Pos=-71 [Citrobacter koseri ATCC BAA-895]
+ATTAAAAAAACTAAT
+>ETAE_2941(gcvT) Score=4.8 Pos=-349 [Edwardsiella tarda EIB202]
+GTGAAATATTCTAAT
+>ETAE_2941(gcvT) Score=4.2 Pos=-316 [Edwardsiella tarda EIB202]
+ATTAGTTTTTCTCAT
+>ETAE_0719(gcvA) Score=5.4 Pos=-67 [Edwardsiella tarda EIB202]
+ATAAAAAAAACTAAT
+>Ent638_3324(gcvT) Score=5.2 Pos=-369 [Enterobacter sp. 638]
+TTGAAATATTCTAAT
+>Ent638_3324(gcvT) Score=5.1 Pos=-337 [Enterobacter sp. 638]
+ATTAGATTATCTAAT
+>Ent638_3254(gcvA) Score=5.4 Pos=-71 [Enterobacter sp. 638]
+ATAAAAAAAACTAAT
+>EAM_2791(gcvT) Score=4.5 Pos=-308 [Erwinia amylovora ATCC 49946]
+ATTAGTTTAAATAAT
+>EAM_2719(gcvA) Score=5.4 Pos=-71 [Erwinia amylovora ATCC 49946]
+ATAAAAAAAACTAAT
+>EAM_2791(gcvT) Score=5.2 Pos=-340 [Erwinia amylovora ATCC 49946]
+TTGAAATATTCTAAT
+>ECA0743(gcvT) Score=5.1 Pos=-306 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATTATATTATCTAAT
+>ECA0743(gcvT) Score=5.2 Pos=-338 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGAAAAAATCTAAT
+>ECA1015(gcvA) Score=5.3 Pos=-193 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATTACAAAAACTAAT
+>b2905(gcvT) Score=5.1 Pos=-338 [Escherichia coli str. K-12 substr. MG1655]
+ATTATATTTTCTAAT
+>b2905(gcvT) Score=5.3 Pos=-370 [Escherichia coli str. K-12 substr. MG1655]
+TTGAAATAAACTAAT
+>b2808(gcvA) Score=5.5 Pos=-71 [Escherichia coli str. K-12 substr. MG1655]
+ATTAAAAAAACTAAT
+>KPN_03341(gcvT) Score=4.8 Pos=-340 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATTAGATTTATTAAT
+>KPN_03341(gcvT) Score=5.2 Pos=-372 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGAAATATTCTAAT
+>KPN_03159(gcvA) Score=5.4 Pos=-72 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAAAAAAAACTAAT
+>plu3598(gcvT) Score=5 Pos=-372 [Photorhabdus luminescens subsp. laumondii TTO1]
+CTGAAAAAATCTAAT
+>plu3598(gcvT) Score=4 Pos=-340 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAACTTTTTCTCAT
+>plu0652(gcvA) Score=5.3 Pos=-65 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATTACAAAAACTAAT
+>PMI2301(gcvA) Score=5.4 Pos=-66 [Proteus mirabilis HI4320]
+ATAAAAAAAACTAAT
+>PMI2021(gcvT) Score=5 Pos=-427 [Proteus mirabilis HI4320]
+CTGAAAAAATCTAAT
+>STM3055(gcvT) Score=5.3 Pos=-373 [Salmonella typhimurium LT2]
+TTGAAATAATCTAAT
+>STM3055(gcvT) Score=5.1 Pos=-341 [Salmonella typhimurium LT2]
+ATTATATTTTCTAAT
+>STM2982(gcvA) Score=5.5 Pos=-70 [Salmonella typhimurium LT2]
+ATTAAAAAAACTAAT
+>Spro_3805(gcvA) Score=5.5 Pos=-116 [Serratia proteamaculans 568]
+ATTAAAAAAACTAAT
+>Spro_3916(gcvT) Score=4.9 Pos=-396 [Serratia proteamaculans 568]
+ATTAGTTTTTCTAAT
+>y3294(gcvT) Score=5.3 Pos=-363 [Yersinia pestis KIM]
+TTGAAATAATCTAAT
+>y3294(gcvT) Score=4.4 Pos=-304 [Yersinia pestis KIM]
+TTTAAAAAGTTTAAT
+>y3154(gcvA) Score=5.3 Pos=-70 [Yersinia pestis KIM]
+ATTATAAAAACTAAT

@@ -1,0 +1,84 @@
+>cauri_1607(gdh) Score=5.1 Pos=-86 [Corynebacterium aurimucosum ATCC 700975]
+AATTTAGGTCGATTGATAGAAAAC
+>DIP0956(cg2181) Score=4 Pos=-162 [Corynebacterium diphtheriae NCTC 13129]
+TAAAACTATTATTTGATAGTTTTA
+>DIP1547(gdh) Score=5.3 Pos=-156 [Corynebacterium diphtheriae NCTC 13129]
+ACTTTCGATAGTTCAATAGGAATT
+>DIP1644(glnA) Score=5.4 Pos=-117 [Corynebacterium diphtheriae NCTC 13129]
+TTTTTTGATAGCTCTATAGATAAT
+>CE1701(amtA) Score=5.3 Pos=-99 [Corynebacterium efficiens YS-314]
+TTAAACTATTGACCGATAGAAACA
+>CE1701(amtA) Score=5.1 Pos=-65 [Corynebacterium efficiens YS-314]
+GTTATCTGTTATGCAATAGAAAAT
+>CE0715(amt1) Score=5.6 Pos=-102 [Corynebacterium efficiens YS-314]
+ATTATCGGTCGATCTATAGATAAA
+>CE0993(ureA) Score=4.7 Pos=-25 [Corynebacterium efficiens YS-314]
+TCTAACTATTGACTTATAGTTATT
+>CE0157(hkm) Score=5.7 Pos=-46 [Corynebacterium efficiens YS-314]
+ATTTTCGATCAACCTATAGGAAAA
+>CE1000(urtA) Score=5.1 Pos=-39 [Corynebacterium efficiens YS-314]
+TAAACCTGTCGATCTATAGAAATC
+>CE1000(urtA) Score=5.6 Pos=-65 [Corynebacterium efficiens YS-314]
+ATTACCTATAGCTTTATAGAAACA
+>CE0158(gltB) Score=5.4 Pos=-107 [Corynebacterium efficiens YS-314]
+TTTTCCTATAGGTTGATCGAAAAT
+>CE0158(gltB) Score=5.1 Pos=-40 [Corynebacterium efficiens YS-314]
+ATTATCGAATGATTAATAGAAACC
+>CE0711(uctT) Score=5.9 Pos=-117 [Corynebacterium efficiens YS-314]
+ATTACCTATCGATCGATAGATAAA
+>CE1982(gdh) Score=4.6 Pos=-47 [Corynebacterium efficiens YS-314]
+TAAAACTATTAACCGTTAGGTATA
+>CE1968(amtB) Score=5.3 Pos=-168 [Corynebacterium efficiens YS-314]
+GAATTCTATCGACCTATCGAAAGT
+>CE2104(glnA) Score=5.5 Pos=-147 [Corynebacterium efficiens YS-314]
+AGTTTTGATAGATCGACAGATAAT
+>CE2850(crnT) Score=5.3 Pos=-72 [Corynebacterium efficiens YS-314]
+TAATTCTATAGATCAATAGAATTA
+>CE2850(crnT) Score=5.7 Pos=-27 [Corynebacterium efficiens YS-314]
+AGTTTCTATCACTCAATAGAAAAG
+>CE0157(hkm) Score=5.1 Pos=-113 [Corynebacterium efficiens YS-314]
+GGTTTCTATTAATCATTCGATAAT
+>CE1844(gluA) Score=4.9 Pos=-110 [Corynebacterium efficiens YS-314]
+TTTACCTATTGAGCTATTGATAAA
+>cg2261(amtB) Score=5 Pos=-140 [Corynebacterium glutamicum ATCC 13032]
+CTATTCTATAGATCTATTGAAATT
+>cg2261(amtB) Score=5.4 Pos=-183 [Corynebacterium glutamicum ATCC 13032]
+ATTACCTGTTAAACTATAGAAAAT
+>cg1785(amtA) Score=5.2 Pos=-100 [Corynebacterium glutamicum ATCC 13032]
+GAAATCTATAGAACGATAGGTAAA
+>cg1785(amtA) Score=5.3 Pos=-64 [Corynebacterium glutamicum ATCC 13032]
+TTTATCTATAGCGGAATAGAAAAT
+>cg0113(ureA) Score=4.8 Pos=-31 [Corynebacterium glutamicum ATCC 13032]
+AATTTCTGTTACCTGACAGAAAGG
+>cg0228(hkm) Score=5.4 Pos=-179 [Corynebacterium glutamicum ATCC 13032]
+TGTTTCTATCAATCGTTCGATAAT
+>cg1296(cg1296) Score=6 Pos=-41 [Corynebacterium glutamicum ATCC 13032]
+ATTTTCTATCAATCTATAGATACT
+>cg2181(cg2181) Score=5.7 Pos=-218 [Corynebacterium glutamicum ATCC 13032]
+AATTTCTATCAAACTATAGAAAGA
+>cg1295(cg1295) Score=6.2 Pos=-40 [Corynebacterium glutamicum ATCC 13032]
+AGTATCTATAGATTGATAGAAAAT
+>cg1061(urtA) Score=5.1 Pos=-68 [Corynebacterium glutamicum ATCC 13032]
+ACTACCTATAGGCTGACAGAAACT
+>cg1061(urtA) Score=5.5 Pos=-42 [Corynebacterium glutamicum ATCC 13032]
+AAAAACTATAGAGCTATAGAAACT
+>cg0229(gltB) Score=5.5 Pos=-46 [Corynebacterium glutamicum ATCC 13032]
+ATTATCGAACGATTGATAGAAACA
+>cg0229(gltB) Score=5.3 Pos=-115 [Corynebacterium glutamicum ATCC 13032]
+TTTTCCTATAGGTTGATCGAAAGT
+>cg0228(hkm) Score=5.5 Pos=-110 [Corynebacterium glutamicum ATCC 13032]
+ACTTTCGATCAACCTATAGGAAAA
+>cg2280(gdh) Score=4 Pos=-209 [Corynebacterium glutamicum ATCC 13032]
+TAAAACTATTAACCGTTAGTATGA
+>cg2280(gdh) Score=4.9 Pos=-367 [Corynebacterium glutamicum ATCC 13032]
+AAAATTGATAAACCTAAAGAAATT
+>cg0104(codA) Score=4.9 Pos=-60 [Corynebacterium glutamicum ATCC 13032]
+AATACCTGTCAAGCAATAGAATAG
+>cg2429(glnA) Score=5.2 Pos=-149 [Corynebacterium glutamicum ATCC 13032]
+AGTTTTGATAGATCGACAGGTAAT
+>cg0103(crnT) Score=5.7 Pos=-79 [Corynebacterium glutamicum ATCC 13032]
+CATTTCTATCAATCTATAGAAAGT
+>cg0103(crnT) Score=6 Pos=-33 [Corynebacterium glutamicum ATCC 13032]
+AGTTTCTATAGATTGATAGAAAAG
+>cg2136(gluA) Score=5.2 Pos=-193 [Corynebacterium glutamicum ATCC 13032]
+AATATCTATCATGTGATAGGTAAA

@@ -1,0 +1,32 @@
+>BMAA1480(gabT) Score=11.9 Pos=-139 [Burkholderia mallei ATCC 23344]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>BMAA0431(gbtA) Score=11.9 Pos=-107 [Burkholderia mallei ATCC 23344]
+GTGGTTC-(16)-ATGGTTC-(9)-GAACCGT
+>Bphy_4321(gbtA) Score=11.9 Pos=-161 [Burkholderia phymatum STM815]
+GTGGTTC-(16)-ATGGTTC-(9)-GAACCGT
+>Bphy_4618(gabT) Score=11.9 Pos=-114 [Burkholderia phymatum STM815]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bphy_4851(gabT) Score=10.8 Pos=-143 [Burkholderia phymatum STM815]
+ATGGCTC-(16)-GTGGCTC-(9)-GAGCCGT
+>bglu_2g03380(gabT) Score=11.9 Pos=-127 [Burkholderia glumae BGR1]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bamb_4711(gabT) Score=11.9 Pos=-66 [Burkholderia cepacia AMMD]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bamb_3296(gbtA) Score=11.1 Pos=-107 [Burkholderia cepacia AMMD]
+GTGGTCC-(16)-ATGGTTC-(9)-GGACCGT
+>BPSS1738(gbtA) Score=11.9 Pos=-107 [Burkholderia pseudomallei K96243]
+GTGGTTC-(16)-ATGGTTC-(9)-GAACCGT
+>BPSS0281(gabT) Score=11.9 Pos=-139 [Burkholderia pseudomallei K96243]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bcep18194_B0280(gabT) Score=11.9 Pos=-118 [Burkholderia sp. 383]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bcep18194_B2170(gbtA) Score=11.7 Pos=-107 [Burkholderia sp. 383]
+GTGGTCC-(16)-ATGGTTC-(9)-GAACCGT
+>Bcep1808_3589(gabT) Score=11.9 Pos=-124 [Burkholderia vietnamiensis G4]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA
+>Bcep1808_4395(gbtA) Score=11.7 Pos=-107 [Burkholderia vietnamiensis G4]
+GTGGTCC-(16)-ATGGTTC-(9)-GAACCGT
+>Bxe_B2933(gbtA) Score=11.9 Pos=-129 [Burkholderia xenovorans LB400]
+GTGGTTC-(16)-ATGGTTC-(9)-GAACCGT
+>Bxe_B0834(gabT) Score=11.9 Pos=-114 [Burkholderia xenovorans LB400]
+TTGGCTC-(16)-ATGGCTC-(9)-GAGCCAA

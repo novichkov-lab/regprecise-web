@@ -1,0 +1,38 @@
+>BAD_0425(xosA) Score=5.7 Pos=-275 [Bifidobacterium adolescentis ATCC 15703]
+TTTTCGAAACTTTCGATAT
+>BAD_0425(xosA) Score=5.4 Pos=-141 [Bifidobacterium adolescentis ATCC 15703]
+AAATGGAAATTTTCGAAGG
+>BAD_0424(xosR) Score=5.7 Pos=-57 [Bifidobacterium adolescentis ATCC 15703]
+AAACCGAAACTTTCGTTCG
+>BAD_0424(xosR) Score=5.7 Pos=-80 [Bifidobacterium adolescentis ATCC 15703]
+ATATCGAAAGTTTCGAAAA
+>BAD_0424(xosR) Score=5.4 Pos=-214 [Bifidobacterium adolescentis ATCC 15703]
+CCTTCGAAAATTTCCATTT
+>BAD_0425(xosA) Score=5.7 Pos=-298 [Bifidobacterium adolescentis ATCC 15703]
+CGAACGAAAGTTTCGGTTT
+>BIFANG_00034(xosR) Score=5.7 Pos=-57 [Bifidobacterium angulatum DSM 20098]
+AAACCGAAACTTTCGTTCG
+>BIFANG_00034(xosR) Score=5.4 Pos=-214 [Bifidobacterium angulatum DSM 20098]
+CCTTCGAAAATTTCCATTT
+>BIFANG_00034(xosR) Score=5.7 Pos=-80 [Bifidobacterium angulatum DSM 20098]
+ATATCGAAAGTTTCGAAAA
+>BIFANG_00032(xosA) Score=5.7 Pos=-318 [Bifidobacterium angulatum DSM 20098]
+CGAACGAAAGTTTCGGTTT
+>BIFANG_00032(xosA) Score=5.4 Pos=-161 [Bifidobacterium angulatum DSM 20098]
+AAATGGAAATTTTCGAAGG
+>BIFANG_00032(xosA) Score=5.7 Pos=-295 [Bifidobacterium angulatum DSM 20098]
+TTTTCGAAACTTTCGATAT
+>BDP_0563(xosR) Score=5.7 Pos=-79 [Bifidobacterium dentium Bd1]
+AATCCGAAAGTTTCGAAAT
+>BDP_0563(xosR) Score=5.7 Pos=-56 [Bifidobacterium dentium Bd1]
+AATTCGAAACTTTCGCTCT
+>BDP_0565(xosA) Score=5.3 Pos=-65 [Bifidobacterium dentium Bd1]
+CTTTCGAAGCTTTCGTTCT
+>BDP_0565(xosA) Score=5.7 Pos=-306 [Bifidobacterium dentium Bd1]
+ATTTCGAAACTTTCGGATT
+>BDP_0565(xosA) Score=5.7 Pos=-329 [Bifidobacterium dentium Bd1]
+AGAGCGAAAGTTTCGAATT
+>BIFGAL_00972(xosR) Score=5.9 Pos=-17 [Bifidobacterium gallicum DSM 20093]
+ACTACGAAAGTTTCGATAT
+>BIFGAL_00973(xosA) Score=5.9 Pos=-327 [Bifidobacterium gallicum DSM 20093]
+ATATCGAAACTTTCGTAGT

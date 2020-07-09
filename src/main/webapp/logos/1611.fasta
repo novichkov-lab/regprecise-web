@@ -1,0 +1,26 @@
+>NE2300(bioB) Score=7.6 Pos=-96 [Nitrosomonas europaea ATCC 19718]
+CTGTTTAAT--------------AATTGACAA
+>Nmul_A1129(bioB) Score=7.2 Pos=-164 [Nitrosospira multiformis ATCC 25196]
+TAGTTCAAA--------------AATTGACAA
+>Nmul_A1128(COG1040) Score=7.2 Pos=3 [Nitrosospira multiformis ATCC 25196]
+TTGTCAATT--------------TTTGAACTA
+>Tbd_0319(bioB) Score=7.6 Pos=-583 [Thiobacillus denitrificans]
+ATGTTCAAT--------------ATTTGACAG
+>Tbd_0317(COG1040) Score=7.6 Pos=-25 [Thiobacillus denitrificans]
+CTGTCAAAT--------------ATTGAACAT
+>CV4381(bioB) Score=8 Pos=-132 [Chromobacterium violaceum ATCC 12472]
+TTGTCAATT--------------GTTTGACAG
+>CV4382(COG1040) Score=8 Pos=-39 [Chromobacterium violaceum ATCC 12472]
+CTGTCAAAC--------------AATTGACAA
+>LHK_00097(bioB) Score=7 Pos=-900 [Laribacter hongkongensis HLHK9]
+CTGTTTATA--------------GTTTGACAG
+>LHK_00099(COG1040) Score=7 Pos=12 [Laribacter hongkongensis HLHK9]
+CTGTCAAAC--------------TATAAACAG
+>Mfla_2164(bioB) Score=6.7 Pos=-469 [Methylobacillus flagellatus KT]
+ATGTAAATG--------------GCTTGACAA
+>Mmol_0572(bioB) Score=7.3 Pos=-118 [Methylotenera mobilis JLW8]
+TTGTTCAAA--------------TGTTGACAA
+>Mmol_0571(COG1040) Score=7.3 Pos=17 [Methylotenera mobilis JLW8]
+TTGTCAACA--------------TTTGAACAA
+>MB2181_06030(bioB) Score=7 Pos=-81 [Methylophilales bacterium HTCC2181]
+TTGTTAAAA--------------GCTTAACCA

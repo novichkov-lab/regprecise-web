@@ -1,0 +1,68 @@
+>b0411(tsx) Score=4.5 Pos=-247 [Escherichia coli str. K-12 substr. MG1655]
+TGTTACTCTGCTTACA
+>b2964(nupG) Score=4.9 Pos=-163 [Escherichia coli str. K-12 substr. MG1655]
+TGTTATCCACATCACA
+>b2964(nupG) Score=4.6 Pos=-78 [Escherichia coli str. K-12 substr. MG1655]
+TGATAGAATCCCATCA
+>b4381(deoC) Score=6 Pos=-60 [Escherichia coli str. K-12 substr. MG1655]
+TGTTAGAATACTAACA
+>b2393(nupC) Score=4.4 Pos=-180 [Escherichia coli str. K-12 substr. MG1655]
+TGTTAGCACATTTACA
+>STM0413(tsx) Score=4.4 Pos=-248 [Salmonella typhimurium LT2]
+TGTTGCCCTACTGACA
+>STM3113(nupG) Score=4.6 Pos=-78 [Salmonella typhimurium LT2]
+TGATAGAATCACACCA
+>STM4567(deoC) Score=5.6 Pos=-44 [Salmonella typhimurium LT2]
+TGTTAGAATATTAACA
+>CKO_04339(nupG) Score=4.6 Pos=-78 [Citrobacter koseri ATCC BAA-895]
+TGATAGAATCACATCA
+>CKO_03410(deoC) Score=6 Pos=-45 [Citrobacter koseri ATCC BAA-895]
+TGTTAGAATACTAACA
+>KPN_03396(nupG) Score=4.8 Pos=-46 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTATTTTAAAAACA
+>KPN_04837(deoC) Score=5.4 Pos=-69 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTACAATAGTAACA
+>KPN_04837(deoC) Score=5.7 Pos=-246 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TGTTAGAATTATCACA
+>Ent638_3369(nupG) Score=4.5 Pos=-46 [Enterobacter sp. 638]
+TGTTTACAAAACAACA
+>Ent638_0541(deoC) Score=5.9 Pos=-62 [Enterobacter sp. 638]
+TGTTAGAATACTCACA
+>EAM_2589(tsx) Score=4.9 Pos=-215 [Erwinia amylovora ATCC 49946]
+TGTGATAAAAATCACA
+>EAM_0615(deoC) Score=4.9 Pos=-230 [Erwinia amylovora ATCC 49946]
+TGTGATAATTCTAACA
+>EAM_0615(deoC) Score=5.7 Pos=-78 [Erwinia amylovora ATCC 49946]
+TGTTATAATCCTCACA
+>y2860(deoC2) Score=5.3 Pos=-44 [Yersinia pestis KIM]
+TGTTATGATTATCACA
+>y2860(deoC2) Score=4.3 Pos=-105 [Yersinia pestis KIM]
+TGTAATTTAAATAACA
+>Spro_1632(deoC2) Score=5.5 Pos=-59 [Serratia proteamaculans 568]
+TGTTATTATTCTAACA
+>Spro_1632(deoC2) Score=4.8 Pos=-165 [Serratia proteamaculans 568]
+TGTTACTTAAATAACA
+>ECA3796(tsx) Score=4.7 Pos=-169 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTGATTAAAATCACA
+>ECA2684(deoC2) Score=4.3 Pos=-79 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTTATTTTTGTGACA
+>ECA0727(deoC) Score=5.4 Pos=-185 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTTGAAATAATCACA
+>ECA2684(deoC2) Score=5.5 Pos=-109 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TGTTATTAAAATAACA
+>ETAE_1141(nupC) Score=4.5 Pos=-234 [Edwardsiella tarda EIB202]
+TGCTATGCTAATCACA
+>ETAE_0486(deoC) Score=5.3 Pos=-104 [Edwardsiella tarda EIB202]
+TGTTCAAATAATCACA
+>PMI1822(nupC) Score=5 Pos=-77 [Proteus mirabilis HI4320]
+TGTGACAATAATCACA
+>PMI2416(deoC) Score=4.3 Pos=-302 [Proteus mirabilis HI4320]
+TGTGATTCTGATCACA
+>PMI3512(deoC2) Score=4.8 Pos=-54 [Proteus mirabilis HI4320]
+TGTTGCCAAACTAACA
+>PMI3512(deoC2) Score=4.5 Pos=-105 [Proteus mirabilis HI4320]
+TGTTATTTAAATATCA
+>PMI3512(deoC2) Score=5.4 Pos=-146 [Proteus mirabilis HI4320]
+TGTTAGAATAGTTACA
+>PMI2416(deoC) Score=4 Pos=-259 [Proteus mirabilis HI4320]
+TTTTATTATTGTGACA

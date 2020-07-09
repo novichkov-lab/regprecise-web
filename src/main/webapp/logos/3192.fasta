@@ -1,0 +1,88 @@
+>SMc01814(pydX) Score=5.8 Pos=-71 [Sinorhizobium meliloti 1021]
+ATTTTACCGTTTGATAAAAA
+>SMa2361(pytM) Score=5.5 Pos=-34 [Sinorhizobium meliloti 1021]
+ATTCTACCAATCGGTAAAAA
+>SMc01819(rutR) Score=5.7 Pos=-153 [Sinorhizobium meliloti 1021]
+ATTTGACCGGTTGGTAAACA
+>SMc02884(pntD) Score=5.4 Pos=-157 [Sinorhizobium meliloti 1021]
+TTTTTACCATCCGAAAAAAT
+>SMc04127(pntA) Score=5.3 Pos=-80 [Sinorhizobium meliloti 1021]
+CTTATACCAAATGGTAAAAA
+>SMc01820(pydC) Score=5.5 Pos=-145 [Sinorhizobium meliloti 1021]
+TGTTTACCAACCGGTCAAAT
+>NGR_c35400(pntD) Score=5.2 Pos=-159 [Rhizobium sp. NGR234]
+TTTTTACCATCCGAAAAATT
+>NGR_b02360(pytM) Score=5.3 Pos=-62 [Rhizobium sp. NGR234]
+CATTGACCAAGTGGTAAAAA
+>NGR_c24760(pydX) Score=5.8 Pos=-70 [Rhizobium sp. NGR234]
+ATTTTACCGTTTGATAAAAA
+>NGR_c24830(pydC) Score=5.5 Pos=-147 [Rhizobium sp. NGR234]
+TGTTTACCAACCGGTCAAAT
+>NGR_c24820(rutR) Score=5.7 Pos=-153 [Rhizobium sp. NGR234]
+ATTTGACCGGTTGGTAAACA
+>NGR_c34500(pntA) Score=5.3 Pos=-78 [Rhizobium sp. NGR234]
+CTTATACCAAATGGTAAAAA
+>pRL90203(pytM) Score=5.3 Pos=-33 [Rhizobium leguminosarum bv. viciae 3841]
+TTTGAACCAAATGGTAAAAA
+>RL3716(pydC) Score=5.6 Pos=-159 [Rhizobium leguminosarum bv. viciae 3841]
+TGTTTACCAATCGGTCAAAT
+>RL3707(pydX) Score=5.6 Pos=-78 [Rhizobium leguminosarum bv. viciae 3841]
+ATTTTACCGTTTGATAAATT
+>RL3715(rutR) Score=5.9 Pos=-162 [Rhizobium leguminosarum bv. viciae 3841]
+ATTTGACCGATTGGTAAACA
+>RL0196(pntD) Score=5.1 Pos=-155 [Rhizobium leguminosarum bv. viciae 3841]
+TCTTTACCAGCTGAAAAATT
+>RHE_CH00187(pntD) Score=4.8 Pos=-154 [Rhizobium etli CFN 42]
+TCTTTACCGCCTGAAAAATT
+>RHE_CH03289(rutR) Score=5.9 Pos=-163 [Rhizobium etli CFN 42]
+ATTTGACCGATTGGTAAACA
+>RHE_CH03277(pydX) Score=5.6 Pos=-77 [Rhizobium etli CFN 42]
+ATTTTACCGTTTGATAAATT
+>RHE_PB00102(pytM) Score=5.2 Pos=-32 [Rhizobium etli CFN 42]
+TTTGAACCAGATGGTAAAAA
+>RHE_CH03290(pydC) Score=5.6 Pos=-156 [Rhizobium etli CFN 42]
+TGTTTACCAATCGGTCAAAT
+>Atu0126(pntD) Score=4.7 Pos=-164 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTTTTTCCACCGGGTCAAAA
+>Atu2384(rutR) Score=5.4 Pos=-153 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATTGACCGGCTGGTAAACA
+>Atu3604(hpt) Score=5.1 Pos=-46 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTTACTGAAAGGTAAAAT
+>Atu2500(rutA) Score=5.2 Pos=-101 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTATCCATTTGATAAAAT
+>Atu2500(rutA) Score=5.9 Pos=-157 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTTACCAAATGATAAAAA
+>Atu2385(pydC) Score=5.2 Pos=-145 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TGTTTACCAGCCGGTCAATT
+>Meso_3652(pntA) Score=5.3 Pos=-18 [Mesorhizobium sp. BNC1]
+TGTTGACCAAAAGATAAAAT
+>Meso_2057(pydX) Score=5.6 Pos=-64 [Mesorhizobium sp. BNC1]
+ATTTGACTGATTGATAAAAA
+>Meso_2041(rutR) Score=5.2 Pos=-130 [Mesorhizobium sp. BNC1]
+TTTTGACCGTTTGGACAATC
+>Meso_2042(praX) Score=4.9 Pos=-88 [Mesorhizobium sp. BNC1]
+GATTGTCCAAACGGTCAAAA
+>mll1632(praX) Score=5.3 Pos=-96 [Mesorhizobium loti MAFF303099]
+GTTTGTCCAATCGGTCAAAA
+>mlr3148(pntD) Score=4.7 Pos=-165 [Mesorhizobium loti MAFF303099]
+GCTTTTCCAAAAGGTCAAAA
+>mlr3154(pntA) Score=5.6 Pos=-41 [Mesorhizobium loti MAFF303099]
+TTTTGACCAAGCGATAAAAA
+>mll4178(pytM) Score=5.5 Pos=-99 [Mesorhizobium loti MAFF303099]
+ATTTGACCATGTGGACAAAA
+>mll1646(pydX) Score=5.8 Pos=-68 [Mesorhizobium loti MAFF303099]
+AATTGACCAATTGATAAAAA
+>mlr1634(rutR) Score=5.5 Pos=-151 [Mesorhizobium loti MAFF303099]
+TTTTGACCGATTGGACAAAC
+>BMEI1638(pydX) Score=5.5 Pos=-158 [Brucella melitensis 16M]
+AATTGACCGGATGATAAAAA
+>BMEI1642(rutR) Score=5.3 Pos=-90 [Brucella melitensis 16M]
+ACTTGACTAGTTGGTCAAAA
+>BMEI1643(pydC) Score=5.1 Pos=-148 [Brucella melitensis 16M]
+TTTTGACCAACTAGTCAAGT
+>BBta_6033(pytA) Score=5.1 Pos=-136 [Bradyrhizobium sp. BTAi1]
+ATCTGATCAAATGGTCAAAT
+>BBta_6034(rutR) Score=5.4 Pos=-81 [Bradyrhizobium sp. BTAi1]
+ATTTGACCATTTGATCAGAT
+>BBta_6036(pydX) Score=5.6 Pos=-82 [Bradyrhizobium sp. BTAi1]
+TTTTGATCAACTGGTCAAAT

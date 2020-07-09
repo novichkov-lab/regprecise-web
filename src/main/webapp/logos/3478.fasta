@@ -1,0 +1,26 @@
+>RoseRS_4469(RoseRS_4469) Score=6 Pos=-141 [Roseiflexus sp. RS-1]
+TTATTAGGATATGCTAACCA
+>RoseRS_2294(fbpA) Score=6 Pos=-157 [Roseiflexus sp. RS-1]
+ATGTTAGAGTAATCTAACAA
+>RoseRS_3564(hmuV) Score=6 Pos=-109 [Roseiflexus sp. RS-1]
+TTATTAGACTATACTAACCA
+>Rcas_4373(hmuV) Score=5.9 Pos=-123 [Roseiflexus castenholzii DSM 13941]
+TTATTAGACTATACTAACTT
+>Rcas_0821(RoseRS_4469) Score=6.3 Pos=-98 [Roseiflexus castenholzii DSM 13941]
+TTATTAGCATATGCTAACAT
+>Rcas_3171(fbpA) Score=5.5 Pos=-159 [Roseiflexus castenholzii DSM 13941]
+ATGTTAGAGTAACCTAACAC
+>Chy400_2616(hmuV) Score=5.8 Pos=-57 [Chloroflexus sp. Y-400-fl]
+AAATTAGAGTATTCTAATAG
+>Chy400_0349(fbpA) Score=6.2 Pos=-55 [Chloroflexus sp. Y-400-fl]
+TTATTAGTGTATACTAATAA
+>Chy400_0344(COG0716) Score=6.2 Pos=-158 [Chloroflexus sp. Y-400-fl]
+TTATTAGCATATACTAACCT
+>Chy400_4135(Haur_0321) Score=5.8 Pos=-136 [Chloroflexus sp. Y-400-fl]
+TAATTAGCATACACTAACTA
+>Chy400_0685(RoseRS_4469) Score=5.8 Pos=-92 [Chloroflexus sp. Y-400-fl]
+TTATTAGAGTATGCTAACCG
+>Cagg_3308(hmuV) Score=6 Pos=-57 [Chloroflexus aggregans DSM 9485]
+AAATTAGTATATTCTAACTT
+>Cagg_2416(fbpA) Score=5.6 Pos=-83 [Chloroflexus aggregans DSM 9485]
+ACGTTAGCATATACTAACCC

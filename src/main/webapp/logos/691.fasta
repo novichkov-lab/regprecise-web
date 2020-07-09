@@ -1,0 +1,138 @@
+>SA0778(sufB) Score=4.8 Pos=-104 [Staphylococcus aureus subsp. aureus N315]
+TAAAAATTTTTATAA
+>SA0774(sufC) Score=5.7 Pos=-56 [Staphylococcus aureus subsp. aureus N315]
+TTAAAATTATTATAA
+>SA1678(perR) Score=5.6 Pos=-37 [Staphylococcus aureus subsp. aureus N315]
+TAATAATAATTATTA
+>SA1170(katA) Score=6 Pos=-26 [Staphylococcus aureus subsp. aureus N315]
+TTATAATTATTATAA
+>SA1652(hemE) Score=5.1 Pos=-29 [Staphylococcus aureus subsp. aureus N315]
+TAAGAATGATTTTAA
+>SA1652(hemE) Score=5.1 Pos=-191 [Staphylococcus aureus subsp. aureus N315]
+TTAAAATTACTATAA
+>SA1329(fur) Score=5.6 Pos=-122 [Staphylococcus aureus subsp. aureus N315]
+TTATAATcATTcTAA
+>SA1941(dps) Score=5.6 Pos=-71 [Staphylococcus aureus subsp. aureus N315]
+TTAGAATCATTATAA
+>SA1941(dps) Score=5.2 Pos=-54 [Staphylococcus aureus subsp. aureus N315]
+TAATAATTAATATAA
+>SA1709(ftnA) Score=5.8 Pos=-92 [Staphylococcus aureus subsp. aureus N315]
+TTATAATTATTATTA
+>SA1941(dps) Score=5.8 Pos=-112 [Staphylococcus aureus subsp. aureus N315]
+TTAGAATAATTATAA
+>SA1680(bcp) Score=5.2 Pos=-34 [Staphylococcus aureus subsp. aureus N315]
+ATAAAATTATTATAA
+>SA0366(ahpC) Score=5.8 Pos=-74 [Staphylococcus aureus subsp. aureus N315]
+TTAGAATTATTATAA
+>STACA0001_1946(ftnA) Score=5.6 Pos=-89 [Staphylococcus capitis SK14]
+TTAGAATAATTATTA
+>STACA0001_1946(ftnA) Score=5.5 Pos=-132 [Staphylococcus capitis SK14]
+TTAGAATAATTTTAA
+>STACA0001_0845(dps) Score=4.8 Pos=-54 [Staphylococcus capitis SK14]
+ATATAATAATTATTG
+>STACA0001_1447(ahpC) Score=5.8 Pos=-76 [Staphylococcus capitis SK14]
+TTAGAATTATTATAA
+>STACA0001_0845(dps) Score=5.2 Pos=-109 [Staphylococcus capitis SK14]
+TTGAAATAATTATAA
+>STACA0001_0845(dps) Score=5.8 Pos=-68 [Staphylococcus capitis SK14]
+TTAGAATTATTATAA
+>STACA0001_0212(sufC) Score=5.7 Pos=-55 [Staphylococcus capitis SK14]
+TTAAAATTATTATAA
+>STACA0001_1914(perR) Score=5.6 Pos=-36 [Staphylococcus capitis SK14]
+TAATAATTATTATTA
+>STACA0001_1739(fur) Score=5.5 Pos=-40 [Staphylococcus capitis SK14]
+TTAAAATGATTATAA
+>STACA0001_0695(hemE) Score=5.1 Pos=-32 [Staphylococcus capitis SK14]
+TAAGAATGATTTTAA
+>STACA0001_1577(katA) Score=5.5 Pos=-42 [Staphylococcus capitis SK14]
+TTATAATTATTACAA
+>SE0606(sufC) Score=5.7 Pos=-55 [Staphylococcus epidermidis ATCC 12228]
+TTAAAATTATTATAA
+>SE1545(perR) Score=5.6 Pos=-36 [Staphylococcus epidermidis ATCC 12228]
+TAATAATAATTATTA
+>SE1182(fur) Score=5.5 Pos=-40 [Staphylococcus epidermidis ATCC 12228]
+TTAAAATGATTATAA
+>SE1578(ftnA) Score=5.6 Pos=-84 [Staphylococcus epidermidis ATCC 12228]
+TTAGAATAATTATTA
+>SE1578(ftnA) Score=5.6 Pos=-126 [Staphylococcus epidermidis ATCC 12228]
+TTAGAATAATTATTA
+>SE1738(dps) Score=5.8 Pos=-58 [Staphylococcus epidermidis ATCC 12228]
+TTAGAATTATTATAA
+>SE2357(ahpC) Score=5.8 Pos=-75 [Staphylococcus epidermidis ATCC 12228]
+TTAGAATTATTATAA
+>Sca_0039(ahpC) Score=5.8 Pos=-95 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAGAATTATTATAA
+>Sca_1644(dps) Score=5.5 Pos=-111 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAGAATTATTTTAA
+>Sca_1644(dps) Score=5.8 Pos=-70 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAGAATTATTATAA
+>Sca_1644(dps) Score=5.2 Pos=-53 [Staphylococcus carnosus subsp. carnosus TM300]
+TAATAGTTATTATAA
+>Sca_1124(fur) Score=5.5 Pos=-40 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAAAATGATTATAA
+>Sca_1408(hemE) Score=4.9 Pos=-32 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAGAATGATTTTAT
+>Sca_2336(katA) Score=5.8 Pos=-33 [Staphylococcus carnosus subsp. carnosus TM300]
+TTATAATTATTCTAA
+>Sca_1434(perR) Score=5.6 Pos=-36 [Staphylococcus carnosus subsp. carnosus TM300]
+TAATAATTATTATTA
+>Sca_0458(sufC) Score=5.7 Pos=-58 [Staphylococcus carnosus subsp. carnosus TM300]
+TTAAAATTATTATAA
+>SH2592(ahpC) Score=5.8 Pos=-77 [Staphylococcus haemolyticus JCSC1435]
+TTAGAATTATTATAA
+>SH1098(bcp) Score=5 Pos=-34 [Staphylococcus haemolyticus JCSC1435]
+ATATAATTAATATAA
+>SH0895(dps) Score=5.8 Pos=-71 [Staphylococcus haemolyticus JCSC1435]
+TTATAATCATTATAA
+>SH0895(dps) Score=5.2 Pos=-54 [Staphylococcus haemolyticus JCSC1435]
+TAATAATAATTGTAA
+>SH1060(ftnA) Score=5.8 Pos=-99 [Staphylococcus haemolyticus JCSC1435]
+TTATAATAATTATTA
+>SH1418(fur) Score=5.5 Pos=-40 [Staphylococcus haemolyticus JCSC1435]
+TTAAAATGATTATAA
+>SH1128(hemE) Score=5.1 Pos=-32 [Staphylococcus haemolyticus JCSC1435]
+TAAGAATGATTTTAA
+>SH1573(katA) Score=6 Pos=-37 [Staphylococcus haemolyticus JCSC1435]
+TTATAATTATTATAA
+>SH1102(perR) Score=5.6 Pos=-35 [Staphylococcus haemolyticus JCSC1435]
+TAATAATTATTATTA
+>SH2039(sufC) Score=5.7 Pos=-55 [Staphylococcus haemolyticus JCSC1435]
+TTAAAATTATTATAA
+>SSP1861(sufC) Score=5.7 Pos=-57 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTAAAATTATTATAA
+>SSP0932(perR) Score=5.5 Pos=-36 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TAATAATAATTCTTA
+>SSP1432(katA) Score=5.6 Pos=-41 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TAATAATTATTATTA
+>SSP0965(hemE) Score=4.9 Pos=-32 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+CAAGAATGATTATAA
+>SSP1254(fur) Score=5.5 Pos=-40 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTAAAATGATTATAA
+>SSP0745(dps) Score=5.2 Pos=-71 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TAATAATTATTGTAA
+>SSP2333(ahpC) Score=5.8 Pos=-86 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTAGAATTATTATAA
+>SSP0745(dps) Score=5.3 Pos=-129 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTAAAATGATTCTAA
+>SSP0745(dps) Score=5.8 Pos=-88 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTAGAATTATTATAA
+>MCCL_0542(sufC) Score=5.7 Pos=-57 [Macrococcus caseolyticus JCSC5402]
+TTAAAATTATTATAA
+>MCCL_1591(perR) Score=4.8 Pos=-33 [Macrococcus caseolyticus JCSC5402]
+ATAGAATTACTATAA
+>MCCL_0056(katA) Score=5.4 Pos=-29 [Macrococcus caseolyticus JCSC5402]
+AAATAATTATTATAA
+>MCCL_0056(katA) Score=5.4 Pos=-46 [Macrococcus caseolyticus JCSC5402]
+TTATAATAATTATCA
+>MCCL_1550(hemE) Score=5.1 Pos=-138 [Macrococcus caseolyticus JCSC5402]
+TAATAGTTATTCTAA
+>MCCL_1147(fur) Score=5.6 Pos=-95 [Macrococcus caseolyticus JCSC5402]
+TAATAATTATTCTAA
+>MCCL_1798(dps) Score=5.2 Pos=-38 [Macrococcus caseolyticus JCSC5402]
+TAATAATTAATATAA
+>MCCL_1798(dps) Score=5.6 Pos=-55 [Macrococcus caseolyticus JCSC5402]
+TTAGAATGATTATAA
+>MCCL_0098(ahpC) Score=5.7 Pos=-52 [Macrococcus caseolyticus JCSC5402]
+TTAGAATTATTCTAA
+>MCCL_0098(ahpC) Score=5.2 Pos=-125 [Macrococcus caseolyticus JCSC5402]
+TTGAAATAATTATAA

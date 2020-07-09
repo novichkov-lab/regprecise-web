@@ -1,0 +1,14 @@
+>LSEI_0081(LSEI_0081) Score=5.4 Pos=-119 [Lactobacillus casei ATCC 334]
+GACACATGTGTGAC
+>LSEI_0080(LSEI_0080) Score=5.4 Pos=-53 [Lactobacillus casei ATCC 334]
+GTCACACATGTGTC
+>LGG_00105(LSEI_0081) Score=5.4 Pos=-118 [Lactobacillus rhamnosus GG]
+GACACATGTGTGAC
+>LGG_00104(LSEI_0080) Score=5.4 Pos=-53 [Lactobacillus rhamnosus GG]
+GTCACACATGTGTC
+>OEOE_0758(LSEI_0081) Score=5 Pos=-141 [Oenococcus oeni PSU-1]
+GTAACAAATGTTTC
+>OEOE_0759(LSEI_0080) Score=5 Pos=-34 [Oenococcus oeni PSU-1]
+GAAACATTTGTTAC
+>OEOE_0759(LSEI_0080) Score=3.9 Pos=-53 [Oenococcus oeni PSU-1]
+GTAACAAATGTATA

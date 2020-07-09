@@ -1,0 +1,80 @@
+>HI1739(metR) Score=5.2 Pos=-13 [Haemophilus influenzae Rd KW20]
+ATGAATATTATTAAT
+>HI1739(metR) Score=5 Pos=-82 [Haemophilus influenzae Rd KW20]
+ATTAATTTTATTAAT
+>HI1702(metE) Score=5.2 Pos=-128 [Haemophilus influenzae Rd KW20]
+ATGAATTTATTTAAT
+>HI0889(glyA) Score=5.5 Pos=-109 [Haemophilus influenzae Rd KW20]
+ATGAATTAATTTCAT
+>HI1444(metF) Score=4.7 Pos=-100 [Haemophilus influenzae Rd KW20]
+ATTAATAATAATCAT
+>HI0736(HI0736) Score=4.8 Pos=-55 [Haemophilus influenzae Rd KW20]
+ATGATTAGATTTCAT
+>NT05HA_0341(metE) Score=5.2 Pos=-122 [Aggregatibacter aphrophilus NJ8700]
+ATTAAAATTATTCAT
+>NT05HA_0342(metR) Score=5.2 Pos=-157 [Aggregatibacter aphrophilus NJ8700]
+ATGAATAATTTTAAT
+>NT05HA_1325(glyA) Score=4.9 Pos=-114 [Aggregatibacter aphrophilus NJ8700]
+GTGAAAATTTTTCAT
+>NT05HA_0300(metF) Score=5 Pos=-106 [Aggregatibacter aphrophilus NJ8700]
+ATTAATCTTATTCAT
+>PM0421(metR) Score=4.9 Pos=-13 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGAATCTTTTTAAT
+>PM0420(metE) Score=5.1 Pos=-132 [Pasteurella multocida subsp. multocida str. Pm70]
+ATTAAAAATTTTCAT
+>PM0421(metR) Score=5.1 Pos=-181 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGAAAATTTTTAAT
+>PM0235(metF) Score=5.3 Pos=-109 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGAATTGAATTCAT
+>PM0225(glyA) Score=5.5 Pos=-119 [Pasteurella multocida subsp. multocida str. Pm70]
+ATGAATTTTTTTCAT
+>MS0941(metE2) Score=5.1 Pos=-30 [Mannheimia succiniciproducens MBEL55E]
+ATAAAATTTATTCAT
+>MS0763(metR) Score=4.5 Pos=-13 [Mannheimia succiniciproducens MBEL55E]
+ATGAATTATTCTAAT
+>MS2382(HI0736) Score=5.1 Pos=-110 [Mannheimia succiniciproducens MBEL55E]
+ATAAAAATAATTCAT
+>MS0787(metF) Score=5.3 Pos=-124 [Mannheimia succiniciproducens MBEL55E]
+ATTAATTAAATTCAT
+>MS0941(metE2) Score=4.8 Pos=-104 [Mannheimia succiniciproducens MBEL55E]
+ATGAATCCGTTTCAT
+>MS1295(glyA) Score=4.5 Pos=-103 [Mannheimia succiniciproducens MBEL55E]
+CTTAATTAATTTCAT
+>Asuc_0713(metE2-2) Score=5.3 Pos=-128 [Actinobacillus succinogenes 130Z]
+ATGAATTGAATTCAT
+>Asuc_1191(metE2) Score=4.9 Pos=-30 [Actinobacillus succinogenes 130Z]
+ATTAAAACTATTCAT
+>Asuc_1191(metE2) Score=4.8 Pos=-105 [Actinobacillus succinogenes 130Z]
+ATGAATCCGTTTCAT
+>HSM_1047(metF) Score=4.5 Pos=-199 [Haemophilus somnus 2336]
+ACAAAAAAATTTCAT
+>HSM_1047(metF) Score=5.5 Pos=-111 [Haemophilus somnus 2336]
+ATGAATTTAATTCAT
+>HSM_1293(metE) Score=5.2 Pos=-129 [Haemophilus somnus 2336]
+ATTAATTTTTTTCAT
+>HSM_0382(glyA) Score=5.4 Pos=-112 [Haemophilus somnus 2336]
+ATGAAATTTTTTCAT
+>APP7_0911(metE2) Score=5.5 Pos=-104 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGAATATAATTCAT
+>APP7_1216(metR) Score=4.8 Pos=-13 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGAATTATTTACAT
+>APP7_0324(metE2-2) Score=5.5 Pos=-121 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGAATTAATTTCAT
+>APP7_1441(HI0736) Score=4.9 Pos=-70 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGACATATTTTCAT
+>APP7_0912(metF) Score=5.5 Pos=-139 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGAATTATATTCAT
+>APP7_0911(metE2) Score=4.8 Pos=-139 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATTATTTTTATTCAT
+>APP7_0213(glyA) Score=5.2 Pos=-153 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATTAATTTTTTTCAT
+>APP7_0912(metF) Score=4.8 Pos=-104 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATGAATAAAAATAAT
+>APP7_1214(metE) Score=4.9 Pos=-131 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATTAATATGTTTCAT
+>HAPS_2275(metF) Score=5.2 Pos=-154 [Haemophilus parasuis SH0165]
+ATAAATTAAATTCAT
+>HAPS_2275(metF) Score=4.4 Pos=-186 [Haemophilus parasuis SH0165]
+TTTAAAAATTTTCAT
+>HAPS_1354(metE) Score=5.4 Pos=-136 [Haemophilus parasuis SH0165]
+ATGAAAAATTTTCAT

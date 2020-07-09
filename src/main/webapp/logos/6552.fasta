@@ -1,0 +1,114 @@
+>Acel_1460(chiB) Score=5.5 Pos=-43 [Acidothermus cellulolyticus 11B]
+ATTGGTCTAGGCCACT
+>Acel_0603(chiB) Score=4.8 Pos=-80 [Acidothermus cellulolyticus 11B]
+ATTGGTCTTGACCTAT
+>Acel_0603(chiB) Score=5.6 Pos=-66 [Acidothermus cellulolyticus 11B]
+ATTGGTCTAGGCCAAT
+>Acel_1460(chiB) Score=5 Pos=-65 [Acidothermus cellulolyticus 11B]
+ATTGGACTAGTCCAAT
+>Acel_0552(dasA) Score=5.7 Pos=-64 [Acidothermus cellulolyticus 11B]
+ATTGGTCTAAACCAAT
+>Acel_0552(dasA) Score=4.8 Pos=-86 [Acidothermus cellulolyticus 11B]
+GGTGGTCTATGCCAAC
+>Acel_1854(nagK) Score=4.9 Pos=-94 [Acidothermus cellulolyticus 11B]
+ATCGGTACAGACCACT
+>Acel_0551(dasR) Score=4.8 Pos=-312 [Acidothermus cellulolyticus 11B]
+GTTGGCATAGACCACC
+>Acel_0551(dasR) Score=5.7 Pos=-334 [Acidothermus cellulolyticus 11B]
+ATTGGTTTAGACCAAT
+>Acel_2033(chi) Score=5.3 Pos=-174 [Acidothermus cellulolyticus 11B]
+GTTGGTCTAGTCCAAT
+>Acel_1459 Score=4.3 Pos=-142 [Acidothermus cellulolyticus 11B]
+CCTGGTCTAGTCCTCT
+>Acel_0557(nagA) Score=5.1 Pos=-183 [Acidothermus cellulolyticus 11B]
+TATGGTCTGGACCAAT
+>Acel_0557(nagA) Score=5.2 Pos=-141 [Acidothermus cellulolyticus 11B]
+ATTGGTCTAGTCCACA
+>Acel_0128(hex) Score=4.7 Pos=-61 [Acidothermus cellulolyticus 11B]
+AAAGGTCTAGACCTAT
+>Namu_0953(dasR) Score=4.9 Pos=-47 [Nakamurella multipartita DSM 44233]
+ATTGGCGTAGACCATT
+>Namu_0958(nagE) Score=5.4 Pos=-169 [Nakamurella multipartita DSM 44233]
+ATTGGTCTATGCCAAT
+>Namu_0958(nagE) Score=5.5 Pos=-140 [Nakamurella multipartita DSM 44233]
+GTTGGTCTATACCAAT
+>Noca_0732 Score=5.1 Pos=-27 [Nocardioides sp. JS614]
+GCTGGTCTAGACCTAT
+>PPA0675(nagE) Score=4.9 Pos=-51 [Propionibacterium acnes KPA171202]
+AGTGGTCCATACCACC
+>PPA0676(dasR) Score=4.9 Pos=-140 [Propionibacterium acnes KPA171202]
+GGTGGTATGGACCACT
+>PPA0678(nagF) Score=4.8 Pos=-89 [Propionibacterium acnes KPA171202]
+AGTTGTCTGGACCACT
+>Amir_5259(dasR2) Score=5.1 Pos=-63 [Actinosynnema mirum DSM 43827]
+ACTGGTCTAGACCGGA
+>Amir_6923(nagK2) Score=5.3 Pos=-63 [Actinosynnema mirum DSM 43827]
+CTTGGTATAGACCAAT
+>Amir_0403(dasA) Score=5.6 Pos=-87 [Actinosynnema mirum DSM 43827]
+ATTGGTCTACACCACT
+>Amir_0404(dasR) Score=5.6 Pos=-173 [Actinosynnema mirum DSM 43827]
+AGTGGTGTAGACCAAT
+>Amir_0400(nagB2) Score=5.3 Pos=-63 [Actinosynnema mirum DSM 43827]
+ATTGGTCTAGACCTAA
+>Amir_5336(COG3179) Score=5.5 Pos=-75 [Actinosynnema mirum DSM 43827]
+ACTGGTGTAGACCAAT
+>Amir_1220(chiA) Score=5.4 Pos=-80 [Actinosynnema mirum DSM 43827]
+ATTGGTCTAGTCCACT
+>Amir_1091(hex) Score=4.4 Pos=-41 [Actinosynnema mirum DSM 43827]
+ATTGGTCCAGACCTTG
+>Amir_4031(glcI) Score=4.6 Pos=-167 [Actinosynnema mirum DSM 43827]
+AGAGGTCTAGTCCACC
+>Amir_6558(glmS) Score=5.5 Pos=-91 [Actinosynnema mirum DSM 43827]
+ATTGGTCTACACCAAA
+>Amir_5258(nagF) Score=5.1 Pos=-126 [Actinosynnema mirum DSM 43827]
+TCCGGTCTAGACCAGT
+>Amir_5334(chb) Score=5.1 Pos=-157 [Actinosynnema mirum DSM 43827]
+TATGGTCTAGACCAAG
+>Amir_0446(nagT) Score=4.9 Pos=-100 [Actinosynnema mirum DSM 43827]
+TCTGGTCTAGACCTAC
+>Amir_6206(chiC) Score=4.6 Pos=-80 [Actinosynnema mirum DSM 43827]
+AGTGGTCTAGACCTTG
+>Amir_6206(chiC) Score=4.9 Pos=-57 [Actinosynnema mirum DSM 43827]
+AGTGGTCTGAACCACA
+>Amir_5107(chb) Score=4.7 Pos=-122 [Actinosynnema mirum DSM 43827]
+TATGGTCTAGACCGGC
+>Svir_15390(dasR2) Score=5.2 Pos=-60 [Saccharomonospora viridis DSM 43017]
+AGTGGTCTAGACCGGA
+>Svir_34690(dasR) Score=5.1 Pos=-94 [Saccharomonospora viridis DSM 43017]
+ACCGGTCTAGACCATT
+>Svir_38290(nagA) Score=5.3 Pos=-21 [Saccharomonospora viridis DSM 43017]
+TCTGGTCTGGACCAAT
+>Svir_34700(nagB2) Score=5.1 Pos=-31 [Saccharomonospora viridis DSM 43017]
+AATGGTCTAGACCGGT
+>Svir_15400(nagF) Score=5.2 Pos=-121 [Saccharomonospora viridis DSM 43017]
+TCCGGTCTAGACCACT
+>SACE_2060(dasR2) Score=4.7 Pos=-124 [Saccharopolyspora erythraea NRRL 2338]
+ACTGGTTTAGACCGGA
+>SACE_7183(nagK2) Score=5.3 Pos=-43 [Saccharopolyspora erythraea NRRL 2338]
+GTTGGTGTAGACCACT
+>SACE_0498(nagB2) Score=4.9 Pos=-34 [Saccharopolyspora erythraea NRRL 2338]
+ATTGGTCTAGACCTGG
+>SACE_6768(glmS) Score=4.5 Pos=-38 [Saccharopolyspora erythraea NRRL 2338]
+GGAGGTATGGACCAAT
+>SACE_3887(chi) Score=5.3 Pos=-68 [Saccharopolyspora erythraea NRRL 2338]
+ACTGGTCTGGACCAAA
+>SACE_2061(nagF) Score=4.7 Pos=-159 [Saccharopolyspora erythraea NRRL 2338]
+TCCGGTCTAAACCAGT
+>SACE_5394(chiA) Score=5.1 Pos=-71 [Saccharopolyspora erythraea NRRL 2338]
+AGTGGTCTAGTCCATT
+>SACE_0110(chb) Score=4.7 Pos=-143 [Saccharopolyspora erythraea NRRL 2338]
+GTTGGACTGGACCAAA
+>SACE_0110(chb) Score=4.7 Pos=-121 [Saccharopolyspora erythraea NRRL 2338]
+CATGGTCTGGACCAAA
+>SACE_2232(chiB) Score=4.4 Pos=-104 [Saccharopolyspora erythraea NRRL 2338]
+ATTGGACCGGACCATT
+>SACE_2232(chiB) Score=4.7 Pos=-77 [Saccharopolyspora erythraea NRRL 2338]
+GGTGGTCCAGTCCACT
+>SACE_7368(ptsI) Score=4.7 Pos=-13 [Saccharopolyspora erythraea NRRL 2338]
+TATGGTCTAGACCATG
+>SACE_3851(hex) Score=4.7 Pos=-51 [Saccharopolyspora erythraea NRRL 2338]
+TTTGGTCTATACCTTT
+>SACE_1076(chi) Score=4.7 Pos=-99 [Saccharopolyspora erythraea NRRL 2338]
+GGTGGTACAAACCAAT
+>SACE_6558(chiC) Score=4.6 Pos=-172 [Saccharopolyspora erythraea NRRL 2338]
+GGTGGTCTAGACCTTA

@@ -1,0 +1,96 @@
+>SYNPCC7002_A1815(sufR) Score=5.8 Pos=-39 [Synechococcus sp. PCC 7002]
+TTTAACAACAAAAAAGTTGTCAAA
+>SYNPCC7002_A1443(nifJ) Score=5.1 Pos=-152 [Synechococcus sp. PCC 7002]
+TTTAGCAAGCATTTTGTTGTTAAA
+>SYNPCC7002_A1814(sufB) Score=5.2 Pos=-145 [Synechococcus sp. PCC 7002]
+TTTGACAACTTTTTTGTTGTTAAA
+>SYNPCC7002_A1814(sufB) Score=5.6 Pos=-104 [Synechococcus sp. PCC 7002]
+TAAAACAACCAAACAGTTGTTAAA
+>SYNPCC7002_A1815(sufR) Score=5.5 Pos=-80 [Synechococcus sp. PCC 7002]
+TTTAACAACTGTTTGGTTGTTTTA
+>sll0088(sufR) Score=5.6 Pos=-163 [Synechocystis sp. PCC 6803]
+TAAAACAACAGGTAAGTTGTTTTA
+>sll0088(sufR) Score=5.6 Pos=-123 [Synechocystis sp. PCC 6803]
+ATTAGCAACCCGATTGTTGTCAAA
+>sll0741(nifJ) Score=4.9 Pos=-172 [Synechocystis sp. PCC 6803]
+AAAAACAATCTTGACGTTGTTTAA
+>slr0074(sufB) Score=5.3 Pos=-116 [Synechocystis sp. PCC 6803]
+TAAAACAACTTACCTGTTGTTTTA
+>cce_0953(nifJ) Score=5.6 Pos=-133 [Cyanothece sp. ATCC 51142]
+AAAAACAACCCTAATGTTGTGTTA
+>cce_0685(sufB) Score=4.8 Pos=-155 [Cyanothece sp. ATCC 51142]
+TTTGACAACAATTGAGTTGTTAAT
+>cce_0685(sufB) Score=5.8 Pos=-115 [Cyanothece sp. ATCC 51142]
+TAAAGAAACATAAATGTTGTTTTA
+>cce_1005(sufD) Score=5.8 Pos=-137 [Cyanothece sp. ATCC 51142]
+TTTAACAACATTTTTGTTGCTAAA
+>cce_0683(sufR) Score=5.7 Pos=-109 [Cyanothece sp. ATCC 51142]
+ATTAACAACTCAATTGTTGTCAAA
+>cce_0683(sufR) Score=5.7 Pos=-149 [Cyanothece sp. ATCC 51142]
+TAAAACAACATTTATGTTTCTTTA
+>PCC8801_0414(sufR) Score=5.6 Pos=-160 [Cyanothece sp. PCC 8801]
+AATAACAACCCCATTGTTGTCAAA
+>PCC8801_0414(sufR) Score=5.7 Pos=-200 [Cyanothece sp. PCC 8801]
+TTAAACAACATTTTTGTTGCTCAA
+>PCC8801_3918(nifJ) Score=5.5 Pos=-134 [Cyanothece sp. PCC 8801]
+AAAAACAACCATGAAGTTGTCTTA
+>PCC8801_0415(sufB) Score=4.8 Pos=-188 [Cyanothece sp. PCC 8801]
+TTTGACAACAATGGGGTTGTTATT
+>PCC8801_0415(sufB) Score=5.9 Pos=-148 [Cyanothece sp. PCC 8801]
+TTGAGCAACAAAAATGTTGTTTAA
+>Cyan7425_3450(sufB) Score=5 Pos=-106 [Cyanothece sp. PCC 7425]
+TTAGACAACTGATGTGTTGCTAAA
+>Cyan7425_3450(sufB) Score=5.3 Pos=-67 [Cyanothece sp. PCC 7425]
+TTAAGCAACGCCTGAGTTGTTTAA
+>Cyan7425_3451(sufR) Score=5.8 Pos=-74 [Cyanothece sp. PCC 7425]
+TTTAGCAACACATCAGTTGTCTAA
+>Cyan7425_3451(sufR) Score=5.5 Pos=-113 [Cyanothece sp. PCC 7425]
+TTAAACAACTCAGGCGTTGCTTAA
+>MAE_23100(sufR) Score=5.9 Pos=-182 [Microcystis aeruginosa NIES-843]
+TTAAACAACAATAAAGTTGTTTAA
+>MAE_23100(sufR) Score=5.7 Pos=-142 [Microcystis aeruginosa NIES-843]
+ATTAACAACAAAGCTGTTGTCAAA
+>MAE_23090(sufB) Score=5.1 Pos=-105 [Microcystis aeruginosa NIES-843]
+TTTGACAACAGCTTTGTTGTTAAT
+>MAE_23090(sufB) Score=5.9 Pos=-65 [Microcystis aeruginosa NIES-843]
+TTAAACAACTTTATTGTTGTTTAA
+>all2491(sufR) Score=5.9 Pos=-101 [Nostoc sp. PCC 7120]
+TAAAACAACATCGATGTTGTTTAA
+>all2491(sufR) Score=5.7 Pos=-56 [Nostoc sp. PCC 7120]
+ATTAACAACAACAATGTTGTCAAA
+>alr2492(sufB) Score=5.2 Pos=-193 [Nostoc sp. PCC 7120]
+TTTGACAACATTGTTGTTGTTAAT
+>alr2492(sufB) Score=6 Pos=-148 [Nostoc sp. PCC 7120]
+TTAAACAACATCGATGTTGTTTTA
+>Tery_4355(sufB) Score=6 Pos=-62 [Trichodesmium erythraeum IMS101]
+TTAAACAACAAATAAGTTGTTTAA
+>Tery_4354(sufR) Score=6 Pos=-212 [Trichodesmium erythraeum IMS101]
+TTAAACAACTTATTTGTTGTTTAA
+>Synpcc7942_1734(ftrC) Score=5.1 Pos=-101 [Synechococcus elongatus PCC 7942]
+TTTGACAACATTGATGTTGTTCAA
+>Synpcc7942_1734(ftrC) Score=5.1 Pos=-63 [Synechococcus elongatus PCC 7942]
+TTAAGCAACGTCTGTGTTGTTCAA
+>Synpcc7942_1733(sufR) Score=5.7 Pos=-98 [Synechococcus elongatus PCC 7942]
+TTGAACAACATCAATGTTGTCAAA
+>Synpcc7942_1733(sufR) Score=5.7 Pos=-136 [Synechococcus elongatus PCC 7942]
+TTGAACAACACAGACGTTGCTTAA
+>PMT1607(sufR) Score=5 Pos=-204 [Prochlorococcus marinus str. MIT 9313]
+AAACGAAACCTATTGGTTTCGTTT
+>PMT1606(sufB) Score=5 Pos=-194 [Prochlorococcus marinus str. MIT 9313]
+AAACGAAACCAATAGGTTTCGTTT
+>CYA_2190(sufB) Score=5.3 Pos=-67 [Synechococcus sp. JA-3-3Ab]
+TTAAGCAACAACCGTGTTGTTTTA
+>CYA_2189(sufR) Score=6 Pos=-119 [Synechococcus sp. JA-3-3Ab]
+TAAAACAACACGGTTGTTGCTTAA
+>SYNW0318(ftrC) Score=4.9 Pos=-39 [Synechococcus sp. WH 8102]
+TAAGGAAACCAGGTCGTTTCGTAA
+>SYNW0317(sufR) Score=4.9 Pos=-68 [Synechococcus sp. WH 8102]
+TTACGAAACGACCTGGTTTCCTTA
+>null(sufB) Score=5.5 Pos=-116 [Thermosynechococcus elongatus BP-1]
+TAAAACAACCGTTTTGTTGCTAAA
+>null(sufB) Score=5.2 Pos=-78 [Thermosynechococcus elongatus BP-1]
+TAAAGCAACCATCTCGTTGCTTAA
+>tlr0491(sufR) Score=5.9 Pos=-40 [Thermosynechococcus elongatus BP-1]
+TTTAGCAACAAAACGGTTGTTTTA
+>tlr0491(sufR) Score=5.7 Pos=-78 [Thermosynechococcus elongatus BP-1]
+TTAAGCAACGAGATGGTTGCTTTA

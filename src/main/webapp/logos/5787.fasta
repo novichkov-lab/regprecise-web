@@ -1,0 +1,88 @@
+>PA1843(metH) Score=5 Pos=-258 [Pseudomonas aeruginosa PAO1]
+AATGAGCCAGACTCATT
+>PA1843(metH) Score=5 Pos=-95 [Pseudomonas aeruginosa PAO1]
+CTTGAATGAAATTCATG
+>PA1927(metE) Score=5.3 Pos=-69 [Pseudomonas aeruginosa PAO1]
+ATTGAGTTTGTCTCATG
+>PA3587(metR) Score=4.9 Pos=-59 [Pseudomonas aeruginosa PAO1]
+TATGAGACAAACTCAAC
+>PSEEN4641(metF2) Score=3.8 Pos=-104 [Pseudomonas entomophila L48]
+AACGAAAATGTCTCAAC
+>PSEEN4641(metF2) Score=4.6 Pos=-236 [Pseudomonas entomophila L48]
+GGTGAGACAAACTCATA
+>PSEEN4641(metF2) Score=4.8 Pos=-216 [Pseudomonas entomophila L48]
+TTTGAGATGAACTCAAG
+>PSEEN2746(PF08908) Score=4.5 Pos=-215 [Pseudomonas entomophila L48]
+CATGAGTAAAACTAAAT
+>PSEEN2746(PF08908) Score=5.4 Pos=-184 [Pseudomonas entomophila L48]
+AATGAGTTTGTCTCATT
+>PSEEN4639(metE) Score=4.6 Pos=-72 [Pseudomonas entomophila L48]
+TATGAGTTTGTCTCACC
+>PSEEN4639(metE) Score=4.8 Pos=-92 [Pseudomonas entomophila L48]
+CTTGAGTTCATCTCAAA
+>PSEEN1184(metR) Score=4.8 Pos=-57 [Pseudomonas entomophila L48]
+CATGAGGGAAACTCAAC
+>PSEEN1184(metR) Score=3.8 Pos=17 [Pseudomonas entomophila L48]
+CCTGAAAACCCTTCATG
+>PSEEN3382(metH) Score=4.8 Pos=-98 [Pseudomonas entomophila L48]
+CATGAAGGAAATTCATG
+>PSEEN4253(dsbC) Score=4.7 Pos=-158 [Pseudomonas entomophila L48]
+GATGAATGATATTCATG
+>PP4638(metF2) Score=5.2 Pos=-172 [Pseudomonas putida KT2440]
+ATTGAGACAAACTCATT
+>PP4637(metE2) Score=5.2 Pos=-72 [Pseudomonas putida KT2440]
+AATGAGTTTGTCTCAAT
+>PP4638(metF2) Score=4 Pos=-152 [Pseudomonas putida KT2440]
+TTTGAGATGAACCCAAG
+>PP4637(metE2) Score=4 Pos=-92 [Pseudomonas putida KT2440]
+CTTGGGTTCATCTCAAA
+>PP1469(dsbC) Score=4.7 Pos=-119 [Pseudomonas putida KT2440]
+GATGAATGTTTTTCATG
+>PP1063(metR) Score=3.8 Pos=17 [Pseudomonas putida KT2440]
+CCTGAAAACCCTTCATG
+>PP2699(PF08908) Score=4.1 Pos=-66 [Pseudomonas putida KT2440]
+CTTCAATATCATTCATG
+>PP2699(PF08908) Score=3.9 Pos=-76 [Pseudomonas putida KT2440]
+TGTGAAATAACTTCAAT
+>PP1063(metR) Score=5.3 Pos=-57 [Pseudomonas putida KT2440]
+CATGAGAGAAACTCAAT
+>PP2375(metH) Score=4.4 Pos=-98 [Pseudomonas putida KT2440]
+CATGAGCAGTTTTCATG
+>PSPTO4179(metE) Score=5.5 Pos=-64 [Pseudomonas syringae pv. tomato str. DC3000]
+AATGAGTTTGTCTCATG
+>PSPTO4180(metR) Score=5.5 Pos=-59 [Pseudomonas syringae pv. tomato str. DC3000]
+CATGAGACAAACTCATT
+>PSPTO2732(metH) Score=4.9 Pos=-99 [Pseudomonas syringae pv. tomato str. DC3000]
+CATGAATGATTTTCATG
+>PFL_3662(metH) Score=4.9 Pos=-96 [Pseudomonas fluorescens Pf-5]
+CATGAGCGATATTCATG
+>PFL_3510(PF08908) Score=4.4 Pos=-190 [Pseudomonas fluorescens Pf-5]
+CATGAATGTGACTAAAG
+>PFL_3510(PF08908) Score=4.1 Pos=-169 [Pseudomonas fluorescens Pf-5]
+GGTGAAATCAATTCATT
+>PFL_2404(metE) Score=4.8 Pos=-69 [Pseudomonas fluorescens Pf-5]
+AATGAGTTTGTCTCACC
+>PFL_4890(metR) Score=3.8 Pos=-26 [Pseudomonas fluorescens Pf-5]
+CACAAAATTTACTCATG
+>PFL_4890(metR) Score=5.2 Pos=-57 [Pseudomonas fluorescens Pf-5]
+CATGAGACAAACTCAAC
+>Pmen_2159(metH) Score=5.2 Pos=-97 [Pseudomonas mendocina ymp]
+CATGAATGAAATTCATG
+>Pmen_1683(metE) Score=4.9 Pos=-71 [Pseudomonas mendocina ymp]
+CTTGAGTTTGTCTCACT
+>Pmen_1683(metE) Score=3.8 Pos=-102 [Pseudomonas mendocina ymp]
+CATGAGTAAATCTTTAG
+>Pmen_1682(metR) Score=4.9 Pos=-115 [Pseudomonas mendocina ymp]
+AGTGAGACAAACTCAAG
+>Pmen_1682(metR) Score=3.8 Pos=-84 [Pseudomonas mendocina ymp]
+CTAAAGATTTACTCATG
+>PST_2223(metH) Score=4.2 Pos=-96 [Pseudomonas stutzeri A1501]
+CCTGAATAATCTTCATG
+>PST_2850(metE) Score=4.8 Pos=-73 [Pseudomonas stutzeri A1501]
+CGTGAGTTTGTTTCATT
+>PST_2852(metR) Score=4.4 Pos=-89 [Pseudomonas stutzeri A1501]
+GATGAGCCTCGCTCATC
+>Avin_13980(metE) Score=4.9 Pos=-66 [Azotobacter vinelandii AvOP]
+TCTGAGTTTGTCTCATG
+>Avin_13970(metR) Score=4.9 Pos=-58 [Azotobacter vinelandii AvOP]
+CATGAGACAAACTCAGA

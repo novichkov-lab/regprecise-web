@@ -1,0 +1,34 @@
+>LVIS_2179(malT2) Score=5.5 Pos=-106 [Lactobacillus brevis ATCC 367]
+TTACACAAACGTTTGCTTTT
+>LVIS_2178(malR3) Score=5.5 Pos=-108 [Lactobacillus brevis ATCC 367]
+AAAAGCAAACGTTTGTGTAA
+>LAF_0739(nplT) Score=6 Pos=-56 [Lactobacillus fermentum IFO 3956]
+TTACTCAAACGTTTGCGTAA
+>LAF_0740(malR3) Score=6 Pos=-121 [Lactobacillus fermentum IFO 3956]
+TTACGCAAACGTTTGAGTAA
+>lp_3627(nplT) Score=6.3 Pos=-52 [Lactobacillus plantarum WCFS1]
+TTAAGCAAACGTTTGCTTAA
+>lp_2757(nplT) Score=5.5 Pos=-34 [Lactobacillus plantarum WCFS1]
+TAATGTAATCGTTTACATAA
+>lp_3533(malT2) Score=5.5 Pos=-106 [Lactobacillus plantarum WCFS1]
+AAGTGTAAACGTTTACTTTA
+>lp_3533(malT2) Score=5.8 Pos=-74 [Lactobacillus plantarum WCFS1]
+TATTGTAAACGTTTACGTTA
+>lp_3531(malR3) Score=5.8 Pos=-115 [Lactobacillus plantarum WCFS1]
+TAACGTAAACGTTTACAATA
+>lp_3531(malR3) Score=5.5 Pos=-83 [Lactobacillus plantarum WCFS1]
+TAAAGTAAACGTTTACACTT
+>LAR_0078(nplT) Score=6.1 Pos=-69 [Lactobacillus reuteri JCM 1112]
+TTAAGTAAACGTTTACATTA
+>LAR_1508(malT2) Score=5 Pos=-115 [Lactobacillus reuteri JCM 1112]
+AAAAGTAAACGGTTGCTAAT
+>LEUM_0896(malR3) Score=6.2 Pos=-78 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTGAGTAAACGTTTACGCAA
+>LEUM_0828(nplT) Score=5.1 Pos=-94 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+CTAAGTAAACGTTTACTGTA
+>LEUM_0829(malR3) Score=5.1 Pos=-135 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TACAGTAAACGTTTACTTAG
+>OEOE_0041(malT2) Score=6.1 Pos=-59 [Oenococcus oeni PSU-1]
+TTTTGTAAACGTTTACTTAA
+>OEOE_0042(malR3) Score=6.1 Pos=-149 [Oenococcus oeni PSU-1]
+TTAAGTAAACGTTTACAAAA

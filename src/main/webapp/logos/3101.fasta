@@ -1,0 +1,32 @@
+>BPSL1882(psrA) Score=5.2 Pos=-74 [Burkholderia pseudomallei K96243]
+ATGAAAACGGCTGTTTCAAT
+>BPSL2442(fabH) Score=5.9 Pos=-177 [Burkholderia pseudomallei K96243]
+GATCAAACGCGGGTATGATG
+>BMA1275(psrA) Score=5.2 Pos=-74 [Burkholderia mallei ATCC 23344]
+ATGAAAACGGCTGTTTCAAT
+>BMA0530(fabH) Score=5.9 Pos=-177 [Burkholderia mallei ATCC 23344]
+GATCAAACGCGGGTATGATG
+>Bcep18194_A4233(fabH) Score=5.9 Pos=-178 [Burkholderia sp. 383]
+GATCAAACGCGGGTATGATG
+>Bcep18194_A4675(psrA) Score=5.4 Pos=-73 [Burkholderia sp. 383]
+ATAAAAACGACTGTTTGAAT
+>Bamb_0997(fabH) Score=5.3 Pos=-178 [Burkholderia cepacia AMMD]
+GATCAAACGGGGTTATGATG
+>Bamb_1417(psrA) Score=5.6 Pos=-74 [Burkholderia cepacia AMMD]
+ATAAAAACGGCTGTTTGAAT
+>Bcep1808_1501(psrA) Score=5.3 Pos=-74 [Burkholderia vietnamiensis G4]
+ATAAAAACAGCCGTTTGAAT
+>Bcep1808_1040(fabH) Score=5.9 Pos=-178 [Burkholderia vietnamiensis G4]
+GATCAAACGCGGGTATGATG
+>bglu_1g09510(fabH) Score=5.7 Pos=-178 [Burkholderia glumae BGR1]
+CATCAAACGCGGGTATGATG
+>bglu_1g19670(psrA) Score=5.3 Pos=-72 [Burkholderia glumae BGR1]
+ATAAAAACGCTTGTTTCAAT
+>Bxe_A1072(fabH) Score=5.8 Pos=-177 [Burkholderia xenovorans LB400]
+TATCAAACGCGGGTATGATG
+>Bxe_A2773(psrA) Score=5.1 Pos=-76 [Burkholderia xenovorans LB400]
+AAAAAAACGGTCGTTTCAAA
+>Bphy_0828(fabH) Score=6 Pos=-201 [Burkholderia phymatum STM815]
+AATCAAACGCGGGTATGATG
+>Bphy_1699(psrA) Score=4.3 Pos=-100 [Burkholderia phymatum STM815]
+AAAAGAACGCACGTTTCAAA

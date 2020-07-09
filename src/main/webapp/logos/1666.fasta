@@ -1,0 +1,78 @@
+>HCH_04895(nrdJa) Score=5 Pos=-160 [Hahella chejuensis KCTC 2396]
+GCACAACATATTGTGG
+>HCH_04895(nrdJa) Score=4.6 Pos=-330 [Hahella chejuensis KCTC 2396]
+TCGCCATATATAGGGT
+>HCH_06929(nrdA) Score=4.6 Pos=-353 [Hahella chejuensis KCTC 2396]
+AAACCATATATTGTGC
+>HCH_06929(nrdA) Score=4.4 Pos=-385 [Hahella chejuensis KCTC 2396]
+ACGCTACATCTAGTAT
+>Maqu_3857(nrdA) Score=3.7 Pos=-280 [Marinobacter aqueolei]
+CGGCCCTATATAGTGA
+>Maqu_1085(nrdJa) Score=5.4 Pos=-118 [Marinobacter aqueolei]
+ACACCATATATAGTGA
+>Maqu_1085(nrdJa) Score=4.6 Pos=-284 [Marinobacter aqueolei]
+ACACTATATCCTGTTA
+>Maqu_1085(nrdJa) Score=4.7 Pos=-252 [Marinobacter aqueolei]
+AGCCCATATATAGGGT
+>Maqu_3857(nrdA) Score=4.9 Pos=-248 [Marinobacter aqueolei]
+CTACCATATATTGTGA
+>MELB17_00905(nrdA) Score=4.2 Pos=-383 [Marinobacter sp. ELB17]
+ATACCAGATGTAGTGA
+>MELB17_00905(nrdA) Score=4 Pos=-415 [Marinobacter sp. ELB17]
+TTCCCGTATATAGTGT
+>MELB17_11133(nrdJa) Score=3.4 Pos=-175 [Marinobacter sp. ELB17]
+GACCTATATGTAGGAC
+>MELB17_11133(nrdJa) Score=4.5 Pos=-207 [Marinobacter sp. ELB17]
+ACACTACATCCTGTTA
+>RED65_10534(nrdA) Score=4.6 Pos=-170 [Oceanobacter sp. RED65]
+ACCCATTATCTTGTGT
+>RED65_10534(nrdA) Score=5.2 Pos=-202 [Oceanobacter sp. RED65]
+ACACTATATATGGGGT
+>MED92_15538(nrdA) Score=4.9 Pos=-190 [Oceanospirillum sp. MED92]
+TCACTATATTTAGTGT
+>MED92_15538(nrdA) Score=4.9 Pos=-159 [Oceanospirillum sp. MED92]
+GTACTACATATAGTGT
+>Mmwyl1_2996(nrdA) Score=5.6 Pos=-87 [Marinomonas sp. MWYL1]
+ACACTACATATAGTGT
+>Mmwyl1_2996(nrdA) Score=4.6 Pos=-55 [Marinomonas sp. MWYL1]
+ACACTACATACAGTAA
+>Sde_2458(nrdA) Score=5.4 Pos=-188 [Saccharophagus degradans 2-40]
+CCACTATATATAGTGG
+>Sde_3460(nrdB) Score=4.8 Pos=-63 [Saccharophagus degradans 2-40]
+CACCTATATATAGTGG
+>Sde_3460(nrdB) Score=4.4 Pos=-32 [Saccharophagus degradans 2-40]
+CAACCACATATAGTTA
+>Sde_2458(nrdA) Score=3.7 Pos=-451 [Saccharophagus degradans 2-40]
+CCGCATTATCTTGTAT
+>Sde_2458(nrdA) Score=5 Pos=-420 [Saccharophagus degradans 2-40]
+CCCCCATATATGGTGT
+>TERTU_0730(nrdA) Score=3.7 Pos=-292 [Teredinibacter turnerae T7901]
+CCGCATTATCTTGTAT
+>TERTU_1637(nrdJa) Score=5.2 Pos=-22 [Teredinibacter turnerae T7901]
+ACACCATATATTGGGG
+>TERTU_0730(nrdA) Score=4.9 Pos=-261 [Teredinibacter turnerae T7901]
+CCCCAATATATGGTGT
+>CJA_1569(nrdA) Score=5.2 Pos=-255 [Cellvibrio japonicus Ueda107]
+CCACTATATCTAGTGG
+>CJA_1569(nrdA) Score=4.2 Pos=-456 [Cellvibrio japonicus Ueda107]
+CCCCTAGATATAGGTT
+>CJA_1569(nrdA) Score=3.6 Pos=-487 [Cellvibrio japonicus Ueda107]
+CCGCATTATCTTGTAG
+>Csal_0668(nrdA) Score=3.3 Pos=-206 [Chromohalobacter salexigens DSM 3043]
+CGGCTCTATCTTGTGC
+>Csal_0668(nrdA) Score=5 Pos=-175 [Chromohalobacter salexigens DSM 3043]
+CCCCCATATATAGGGA
+>MED297_18987(nrdA) Score=4.9 Pos=-366 [Reinekea sp. MED297]
+GCCCTATATGTTGTGT
+>MED297_18987(nrdA) Score=4.8 Pos=-397 [Reinekea sp. MED297]
+ACACAATATATGGTTT
+>MED297_14097(nrdJa) Score=4.8 Pos=-165 [Reinekea sp. MED297]
+CCACTACAGGTTGTGT
+>MED297_14097(nrdJa) Score=4.5 Pos=-133 [Reinekea sp. MED297]
+ACACTACAGGTAGTGC
+>ABO_0711(nrdA) Score=5.5 Pos=-442 [Alcanivorax borkumensis SK2]
+ACACTATATCTAGTGT
+>ABO_0711(nrdA) Score=5.1 Pos=-164 [Alcanivorax borkumensis SK2]
+ACACAACATCTTGTGG
+>ABO_0711(nrdA) Score=4.7 Pos=-297 [Alcanivorax borkumensis SK2]
+CCCCAACATGTTGGGT

@@ -1,0 +1,114 @@
+>VC1705 Score=4.3 Pos=-121 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATTAGTAATTTTCAT
+>VC0941(glyA) Score=5.1 Pos=-154 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATGAAAAAACTGCAT
+>VC2685(metF) Score=4.9 Pos=-122 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATGAGTAATCTTCAT
+>VC1704(metE) Score=4.3 Pos=-147 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATGAAAATTACTAAT
+>VV1_0286(glyA) Score=5 Pos=-153 [Vibrio vulnificus CMCP6]
+ATGAAGAAACTGCAT
+>VV1_1366(metF) Score=4.5 Pos=-130 [Vibrio vulnificus CMCP6]
+TTGAGAAAAATTCAT
+>VV1_2218(metR) Score=4.3 Pos=-128 [Vibrio vulnificus CMCP6]
+ATTAGAAAAATTCAT
+>VV1_2219(metE) Score=4.3 Pos=-208 [Vibrio vulnificus CMCP6]
+ATGAATTTTTCTAAT
+>VV20997(PF08908) Score=5.2 Pos=-97 [Vibrio vulnificus CMCP6]
+ATGAATTTCCTTCAT
+>VIBHAR_02963(pfl) Score=4.8 Pos=-116 [Vibrio harveyi ATCC BAA-1116]
+ATGAAAAGCATTCAT
+>VIBHAR_02963(pfl) Score=4.5 Pos=-138 [Vibrio harveyi ATCC BAA-1116]
+ATGCAATTTAATCAT
+>VIBHAR_01208(glyA) Score=5.1 Pos=-155 [Vibrio harveyi ATCC BAA-1116]
+ATGAAAAAACTGCAT
+>VIBHAR_00047(metF) Score=4.5 Pos=-128 [Vibrio harveyi ATCC BAA-1116]
+TTGAGAAAAATTCAT
+>VIBHAR_02773(metR) Score=4.9 Pos=-133 [Vibrio harveyi ATCC BAA-1116]
+ATTAAAAAATTTCAT
+>VIBHAR_02772(metE) Score=4.9 Pos=-146 [Vibrio harveyi ATCC BAA-1116]
+ATGAAATTTTTTAAT
+>VIBHAR_02801(PF08908) Score=5.2 Pos=-236 [Vibrio harveyi ATCC BAA-1116]
+ATGAAATTCCTTCAT
+>VP1975 Score=4.8 Pos=-118 [Vibrio parahaemolyticus RIMD 2210633]
+ATTAAAAAAATTCAT
+>VP0715(glyA) Score=5.1 Pos=-155 [Vibrio parahaemolyticus RIMD 2210633]
+ATGAAAAAACTGCAT
+>VP2763(metF) Score=4.3 Pos=-126 [Vibrio parahaemolyticus RIMD 2210633]
+GTGAGAAAAATTCAT
+>VP1974(metE) Score=4.8 Pos=-149 [Vibrio parahaemolyticus RIMD 2210633]
+ATGAATTTTTTTAAT
+>VP1992(PF08908) Score=5.3 Pos=-234 [Vibrio parahaemolyticus RIMD 2210633]
+ATGAATTTCTTTCAT
+>VSAK1_10503(glyA) Score=4.6 Pos=-157 [Vibrio shilonii AK1]
+ATGAGAAAACTGCAT
+>VSAK1_09463(metF) Score=5.5 Pos=-162 [Vibrio shilonii AK1]
+ATGAAAAAAATTCAT
+>VSAK1_00947(metR) Score=5.1 Pos=-109 [Vibrio shilonii AK1]
+ATGAAATTAATTCAA
+>VSAK1_00952(metE) Score=4.7 Pos=-199 [Vibrio shilonii AK1]
+ATGAATATCCCTCAT
+>VSAK1_00952(metE) Score=5.1 Pos=-103 [Vibrio shilonii AK1]
+TTGAATTAATTTCAT
+>VS_2373(glyA) Score=5.1 Pos=-156 [Vibrio splendidus LGP32]
+ATGAAAAAACTGCAT
+>VS_2373(glyA) Score=4.1 Pos=-143 [Vibrio splendidus LGP32]
+ATGATAAAATTGCAA
+>VS_1144(metR) Score=4.8 Pos=-141 [Vibrio splendidus LGP32]
+ATTAATAATTTTCAT
+>VS_1145(metE) Score=4.8 Pos=-155 [Vibrio splendidus LGP32]
+ATGAAAATTATTAAT
+>VS_1283(PF08908) Score=4.9 Pos=-193 [Vibrio splendidus LGP32]
+ATGAATATTCCTCAT
+>VF_A0142(pfl) Score=4.8 Pos=-173 [Vibrio fischeri ES114]
+ATGCATATAATGCAT
+>VF_A0142(pfl) Score=4.8 Pos=-151 [Vibrio fischeri ES114]
+ATGAAAAGCATTCAT
+>VF_0695(glyA) Score=4.1 Pos=-222 [Vibrio fischeri ES114]
+ATGCAATTATTTGAA
+>VF_0695(glyA) Score=5.5 Pos=-182 [Vibrio fischeri ES114]
+ATGAATATATTTCAT
+>VF_2309(metF) Score=4.5 Pos=-142 [Vibrio fischeri ES114]
+TTGAGAAAAATTCAT
+>VF_1722(metR) Score=5 Pos=-136 [Vibrio fischeri ES114]
+ATGAATTATATTCAA
+>VF_1722(metR) Score=4.1 Pos=-101 [Vibrio fischeri ES114]
+ATCGATTAACTTCAT
+>VF_1721(metE) Score=4.1 Pos=-134 [Vibrio fischeri ES114]
+ATGAAGTTAATCGAT
+>VF_1721(metE) Score=5 Pos=-99 [Vibrio fischeri ES114]
+TTGAATATAATTCAT
+>VSAL_I0864(glyA) Score=5.3 Pos=-182 [Vibrio salmonicida LFI1238]
+ATGAATATCTTTCAT
+>VSAL_I2762(metF) Score=4.3 Pos=-162 [Vibrio salmonicida LFI1238]
+TTGAAAATCCCTCAT
+>VSAL_I2762(metF) Score=5.1 Pos=-140 [Vibrio salmonicida LFI1238]
+TTGAAAAAAATTCAT
+>VSAL_I0860(metR) Score=5.1 Pos=-136 [Vibrio salmonicida LFI1238]
+ATGAATTTATTTCAA
+>VSAL_I0860(metR) Score=4.2 Pos=-65 [Vibrio salmonicida LFI1238]
+TTGAAGGTTTTTCAC
+>VAS14_11629(pfl) Score=4.8 Pos=-226 [Vibrio angustum S14]
+ATGAAAACCATTCAT
+>VAS14_11629(pfl) Score=4.3 Pos=-248 [Vibrio angustum S14]
+ATGCACAATATGCAT
+>VAS14_16581(glyA) Score=5.1 Pos=-210 [Vibrio angustum S14]
+ATGAAAATGATTCAT
+>VAS14_12469(PF08908) Score=5.1 Pos=-135 [Vibrio angustum S14]
+TTGAATTTTTTTCAT
+>PBPRA0795(glyA) Score=5.5 Pos=-212 [Photobacterium profundum SS9]
+ATGAAAATAATTCAT
+>PBPRA0795(glyA) Score=4.1 Pos=-178 [Photobacterium profundum SS9]
+ATGAATAAATTGTAA
+>PBPRA0263(metF) Score=4.2 Pos=-160 [Photobacterium profundum SS9]
+TTGAAGTTTATGCAA
+>PBPRA0263(metF) Score=4.8 Pos=-138 [Photobacterium profundum SS9]
+GTGAAAAAAATTCAT
+>PBPRA1378(metR) Score=4.3 Pos=-163 [Photobacterium profundum SS9]
+ATGAATAAAACTAAT
+>PBPRA1378(metR) Score=4.8 Pos=-43 [Photobacterium profundum SS9]
+ATTAAATATATTCAT
+>PBPRA1379(metE) Score=4.8 Pos=-226 [Photobacterium profundum SS9]
+ATGAATATATTTAAT
+>PBPRA1379(metE) Score=4.3 Pos=-106 [Photobacterium profundum SS9]
+ATTAGTTTTATTCAT

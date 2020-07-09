@@ -1,0 +1,16 @@
+>ROP_32700(ROP_32700) Score=3.6 Pos=-79 [Rhodococcus opacus B4]
+GATCGTTTAACATGG
+>ROP_32700(ROP_32700) Score=5.5 Pos=-111 [Rhodococcus opacus B4]
+AATCGTTCAACGATC
+>ROP_32690(COG2814) Score=5.5 Pos=-58 [Rhodococcus opacus B4]
+GATCGTTGAACGATT
+>ROP_32690(COG2814) Score=3.6 Pos=-90 [Rhodococcus opacus B4]
+CCATGTTAAACGATC
+>RHA1_ro03476(COG2814) Score=3.6 Pos=-111 [Rhodococcus sp. RHA1]
+CCATGTTAAACGATC
+>RHA1_ro03477(ROP_32700) Score=3.6 Pos=-79 [Rhodococcus sp. RHA1]
+GATCGTTTAACATGG
+>RHA1_ro03477(ROP_32700) Score=5.5 Pos=-111 [Rhodococcus sp. RHA1]
+AATCGTTCAACGATC
+>RHA1_ro03476(COG2814) Score=5.5 Pos=-79 [Rhodococcus sp. RHA1]
+GATCGTTGAACGATT

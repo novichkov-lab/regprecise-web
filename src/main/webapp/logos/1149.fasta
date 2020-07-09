@@ -1,0 +1,28 @@
+>b0314(betT) Score=6.7 Pos=-82 [Escherichia coli str. K-12 substr. MG1655]
+TTGATTGGACGTTCAATATA
+>b0313(betI) Score=6.6 Pos=-66 [Escherichia coli str. K-12 substr. MG1655]
+TATATTGAACGTCCAATCAA
+>CKO_02581(betT) Score=6.7 Pos=-236 [Citrobacter koseri ATCC BAA-895]
+TTGATTGGACGTTCAATATA
+>CKO_02582(betI) Score=6.6 Pos=-48 [Citrobacter koseri ATCC BAA-895]
+TATATTGAACGTCCAATCAA
+>KPN_00587(betT) Score=6.7 Pos=-82 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGATTGGACGTTCAATATA
+>KPN_00586(betI) Score=6.6 Pos=-48 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TATATTGAACGTCCAATCAA
+>EAM_P133(betT) Score=5.9 Pos=-243 [Erwinia amylovora ATCC 49946]
+TTAATTGAATGCGCAATCAA
+>EAM_1685(betI) Score=6.9 Pos=-66 [Erwinia amylovora ATCC 49946]
+TTGATTGAACGTTCAATATA
+>Spro_1512(betT) Score=7 Pos=-308 [Serratia proteamaculans 568]
+TTGATTGAACGTTCAATAAA
+>Spro_1513(betI) Score=7 Pos=-124 [Serratia proteamaculans 568]
+TTTATTGAACGTTCAATCAA
+>ECA1743(betT) Score=7 Pos=-274 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGATTGAACGTTCAATAAA
+>ECA1744(betI) Score=7 Pos=-103 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTTATTGAACGTTCAATCAA
+>PMI1462(betT) Score=6.5 Pos=-161 [Proteus mirabilis HI4320]
+TTAATTGAACATTCAATCAA
+>PMI1461(betI) Score=6.5 Pos=-68 [Proteus mirabilis HI4320]
+TTGATTGAATGTTCAATTAA

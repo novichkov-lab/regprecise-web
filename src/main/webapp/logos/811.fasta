@@ -1,0 +1,58 @@
+>DVU2247(ahpC) Score=5.4 Pos=-117 [Desulfovibrio vulgaris Hildenborough]
+CACAGGAATGATTCCTGTT
+>DVU0772 Score=5.8 Pos=-125 [Desulfovibrio vulgaris Hildenborough]
+ATCAGTAATAGTTATTGTT
+>DVU3095(perR) Score=5.5 Pos=-37 [Desulfovibrio vulgaris Hildenborough]
+ATCAGTAATTGTTACTGGT
+>DVU2318(rbr2) Score=5.9 Pos=-45 [Desulfovibrio vulgaris Hildenborough]
+AATAGGAATCGTTCCTGTT
+>DvMF_2834 Score=4.8 Pos=-252 [Desulfovibrio vulgaris str. Miyazaki F]
+AATGGTAATTGTTACTGTG
+>DvMF_2366(perR) Score=5.2 Pos=-35 [Desulfovibrio vulgaris str. Miyazaki F]
+AACAGTAATCATTACCAAT
+>DvMF_3175(rbr2) Score=5.2 Pos=-57 [Desulfovibrio vulgaris str. Miyazaki F]
+AACAGGAATTGTTCCTGAC
+>Dde_1143 Score=5.9 Pos=-135 [Desulfovibrio desulfuricans G20]
+AATAAGAATTGTTACTATT
+>Dde_3674(perR) Score=5.5 Pos=-40 [Desulfovibrio desulfuricans G20]
+TTTAGGAATGGTTATTATT
+>Dde_1222(rbr) Score=5.2 Pos=-90 [Desulfovibrio desulfuricans G20]
+ATCAGGAATAATTATTGAC
+>Dde_1320(rbr2) Score=6 Pos=-77 [Desulfovibrio desulfuricans G20]
+AATAGGAATCGTTACTGAT
+>Ddes_1704 Score=5.2 Pos=-44 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+GTCAAGAATGATTATTGTT
+>Ddes_2010(rbO) Score=5 Pos=-179 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+ATTGATAATAATTATTGAT
+>Ddes_1388(perR) Score=4.8 Pos=-33 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AACAGTAATTTTTACTATC
+>Ddes_0897(rbr2) Score=6 Pos=-56 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+AATAGGAATTGTTATTGAT
+>DESPIG_01431 Score=5.1 Pos=-31 [Desulfovibrio piger ATCC 29098]
+ATTGAGAATCATTACTATT
+>DESPIG_00983(perR) Score=4.7 Pos=-7 [Desulfovibrio piger ATCC 29098]
+AATAGTAATGTTTATTAAA
+>DESPIG_02487(rbO) Score=5.1 Pos=-143 [Desulfovibrio piger ATCC 29098]
+ATTAAGAAAAATTACTATT
+>DESPIG_02517(rbr2) Score=5.8 Pos=-64 [Desulfovibrio piger ATCC 29098]
+AACAGGAATAGTTCCTGAT
+>Desal_1471 Score=6 Pos=-78 [Desulfovibrio salexigens DSM 2638]
+AATAGTAATTGTTATTATT
+>Desal_0090(perR) Score=4.6 Pos=-38 [Desulfovibrio salexigens DSM 2638]
+AACGAGAACTATTACTAGT
+>Desal_2708(rbr2) Score=6 Pos=-91 [Desulfovibrio salexigens DSM 2638]
+AATAGGAATCGTTACTAAT
+>Dbac_1143(ahpC) Score=6 Pos=-69 [Desulfomicrobium baculatum DSM 4028]
+AATAGGAATAATTACTGAT
+>Dbac_0283 Score=5.7 Pos=-49 [Desulfomicrobium baculatum DSM 4028]
+TATAGTAATTGTTATTAAT
+>Dbac_3459(rbr) Score=5.3 Pos=-79 [Desulfomicrobium baculatum DSM 4028]
+ATCAAGAATAATTCTTAAT
+>Dbac_2474(rbr2) Score=4.7 Pos=-45 [Desulfomicrobium baculatum DSM 4028]
+GATGAGAATTATTCCTGAT
+>Dret_0248 Score=5.7 Pos=-53 [Desulfohalobium retbaense DSM 5692]
+GATAGGAATAATTATTATT
+>Dret_0141(perR) Score=5 Pos=-39 [Desulfohalobium retbaense DSM 5692]
+TATAGTAATAATTATCAAT
+>Dret_1205(rbr) Score=4.9 Pos=-49 [Desulfohalobium retbaense DSM 5692]
+AATCGTAACCATTGTTATT

@@ -1,0 +1,164 @@
+>PAB0025(cbiB) Score=5 Pos=-31 [Pyrococcus abyssi GE5]
+TTGGAGCTTTTATCCAA
+>PAB0349(btuF) Score=4.8 Pos=-30 [Pyrococcus abyssi GE5]
+CTGGACGAATAATCCAG
+>PAB2319(cobZ) Score=5 Pos=-48 [Pyrococcus abyssi GE5]
+TTGGATAAAAGCTCCAA
+>PAB2398(meaB) Score=5.5 Pos=-26 [Pyrococcus abyssi GE5]
+TTGGATAAATTCTCCAG
+>PAB2187(mutB_C) Score=5.1 Pos=-72 [Pyrococcus abyssi GE5]
+TGGGATAATATATCCAT
+>PAB1800(mutB_N) Score=5.3 Pos=-81 [Pyrococcus abyssi GE5]
+TTAGATAATTTATCCAA
+>PAB1230(sucD) Score=5.6 Pos=-62 [Pyrococcus abyssi GE5]
+TTGGATATTTAATCCAA
+>PAB2337(nrdD) Score=5.5 Pos=58 [Pyrococcus abyssi GE5]
+TTGGATTTAATATCCAA
+>PAB2326(cobT) Score=5 Pos=-27 [Pyrococcus abyssi GE5]
+TTGGATAAAACCTCCAA
+>PAB1535(btuC) Score=5 Pos=-19 [Pyrococcus abyssi GE5]
+ATGGAATATTTGTCCAA
+>PF1774(btuF) Score=5.2 Pos=-29 [Pyrococcus furiosus DSM 3638]
+TTGGATGATTAATCCAA
+>PF0836(cobS) Score=5.1 Pos=-25 [Pyrococcus furiosus DSM 3638]
+TTGGATTAATTAGCCAG
+>PF1774(btuF) Score=5.6 Pos=-72 [Pyrococcus furiosus DSM 3638]
+TTGGATTTTTTATCCAA
+>PF1947(meaB) Score=5.5 Pos=-26 [Pyrococcus furiosus DSM 3638]
+TTGGATAATTTCTCCAG
+>PF1946(mutB_C) Score=5.1 Pos=-78 [Pyrococcus furiosus DSM 3638]
+TAGGATAAAATGTCCAA
+>PF1477(mutB_N) Score=4.6 Pos=-83 [Pyrococcus furiosus DSM 3638]
+GTGGATAAAAAAGCCAG
+>PF0233(sucD) Score=5.6 Pos=-71 [Pyrococcus furiosus DSM 3638]
+TTGGATATTTAATCCAA
+>PF0296(cbiB) Score=5.1 Pos=-19 [Pyrococcus furiosus DSM 3638]
+GCGGATAAAATATCCAA
+>PF1971(nrdD) Score=5.2 Pos=-99 [Pyrococcus furiosus DSM 3638]
+ATGGATATTTTAGCCAA
+>PF1971(nrdD) Score=5.6 Pos=-29 [Pyrococcus furiosus DSM 3638]
+TTGGACAAAATATCCAA
+>PF0303(cobT) Score=5.3 Pos=-27 [Pyrococcus furiosus DSM 3638]
+ATGGATAAAAAATCCAT
+>PF0503(btuC) Score=4.7 Pos=-19 [Pyrococcus furiosus DSM 3638]
+TTGGCATATTTGTCCAA
+>PH1659(btuF) Score=5.3 Pos=-74 [Pyrococcus horikoshii OT3]
+TTGGACTTTTTATCCAT
+>PH1659(btuF) Score=5.1 Pos=-29 [Pyrococcus horikoshii OT3]
+TTGGACGAATAATCCAA
+>PH0375 Score=5.1 Pos=-41 [Pyrococcus horikoshii OT3]
+ATGGATAAAAACTCCAT
+>PH0376(cbiB) Score=5.1 Pos=-23 [Pyrococcus horikoshii OT3]
+ATGGAGTTTTTATCCAT
+>PH0274(meaB) Score=5.5 Pos=-26 [Pyrococcus horikoshii OT3]
+TTGGATAATTTCTCCAG
+>PH0275(mutB_C) Score=4.9 Pos=-61 [Pyrococcus horikoshii OT3]
+CGGGATAAAATATCCAT
+>PH1306(mutB_N) Score=4.9 Pos=-77 [Pyrococcus horikoshii OT3]
+TTGAACAAAATGTCCAA
+>PH1928(sucD) Score=5.5 Pos=-63 [Pyrococcus horikoshii OT3]
+TTGGATATTTAGTCCAA
+>PH0021(nrdD) Score=5.6 Pos=-28 [Pyrococcus horikoshii OT3]
+TTGGACAAAATATCCAA
+>PH0021(nrdD) Score=5.8 Pos=-99 [Pyrococcus horikoshii OT3]
+TTGGATATTTTATCCAA
+>PH0034(cobT) Score=5 Pos=-19 [Pyrococcus horikoshii OT3]
+TTGGACAAAATTTCCAT
+>PH0790(btuC) Score=4.4 Pos=-20 [Pyrococcus horikoshii OT3]
+GTGGCATATTTATCCAA
+>TGAM_2026(mmdA) Score=5.1 Pos=-98 [Thermococcus gammatolerans EJ3]
+GTGGACAAATTATCCAC
+>TGAM_1930(meaB) Score=5.5 Pos=-25 [Thermococcus gammatolerans EJ3]
+TTGGATAATTTCTCCAG
+>TGAM_1931(mutB_C) Score=5.1 Pos=-77 [Thermococcus gammatolerans EJ3]
+GTGGACAAAAAATCCAA
+>TGAM_1685(mutB_N) Score=5.3 Pos=-87 [Thermococcus gammatolerans EJ3]
+CTGGACTTTTTATCCAA
+>TGAM_0218(sucD) Score=5.5 Pos=-67 [Thermococcus gammatolerans EJ3]
+ATGGATAAAATATCCAT
+>TGAM_0480(btuF) Score=5.4 Pos=-17 [Thermococcus gammatolerans EJ3]
+CTGGACAATTAATCCAG
+>TGAM_0480(btuF) Score=5 Pos=-65 [Thermococcus gammatolerans EJ3]
+TTGGACGTTATATCCAA
+>TGAM_0542 Score=4.8 Pos=-41 [Thermococcus gammatolerans EJ3]
+ATGGATAAAAGCTCCAA
+>TGAM_0543(TGAM_0543) Score=4.8 Pos=0 [Thermococcus gammatolerans EJ3]
+TTGGAGCTTTTATCCAT
+>TGAM_0534(cobT) Score=4.9 Pos=-27 [Thermococcus gammatolerans EJ3]
+CTGGATAAAAACTCCAC
+>TGAM_0161(nrdD) Score=5.8 Pos=-17 [Thermococcus gammatolerans EJ3]
+TTGGATAATTTATCCAG
+>TGAM_0535(cbiP) Score=4.9 Pos=-44 [Thermococcus gammatolerans EJ3]
+GTGGAGTTTTTATCCAG
+>TGAM_0096(btuR) Score=5 Pos=-27 [Thermococcus gammatolerans EJ3]
+TTGGAGGATTTATCCAT
+>TGAM_0422(nrdJ) Score=5.3 Pos=-187 [Thermococcus gammatolerans EJ3]
+ATGGACAAATTATCCGA
+>TGAM_2054(btuC) Score=5 Pos=-20 [Thermococcus gammatolerans EJ3]
+CTGGACAAAAACTCCAG
+>TK0329(meaB) Score=5 Pos=-27 [Thermococcus kodakaraensis KOD1]
+CTGGATGATTAATCCAG
+>TK0328(mutB_C) Score=5.5 Pos=-87 [Thermococcus kodakaraensis KOD1]
+CTGGACAAAATATCCAA
+>TK1149(mutB_N) Score=5.6 Pos=-89 [Thermococcus kodakaraensis KOD1]
+ATGGACAATTTATCCAA
+>TK1880(sucD) Score=5.2 Pos=-69 [Thermococcus kodakaraensis KOD1]
+ATGGATATAAAATCCAT
+>TK0862 Score=5.1 Pos=-42 [Thermococcus kodakaraensis KOD1]
+ATGGATAAAAACTCCAT
+>TK0865(btuF) Score=5 Pos=-26 [Thermococcus kodakaraensis KOD1]
+CCGGACAAATAATCCAG
+>TK0865(btuF) Score=4.6 Pos=-73 [Thermococcus kodakaraensis KOD1]
+TTGGCCGTTTTATCCAA
+>TK0853(cobT) Score=5 Pos=-27 [Thermococcus kodakaraensis KOD1]
+CTGGATAAAAAGTCCAC
+>TK2298(nrdD) Score=5.8 Pos=-35 [Thermococcus kodakaraensis KOD1]
+TTGGATAAATTATCCAG
+>TK2298(nrdD) Score=5.9 Pos=-127 [Thermococcus kodakaraensis KOD1]
+TTGGATAATTTATCCAA
+>TK2130(btuR) Score=5.1 Pos=-28 [Thermococcus kodakaraensis KOD1]
+CTGGAGATTATGTCCAA
+>TK1736(nrdJ) Score=5 Pos=-198 [Thermococcus kodakaraensis KOD1]
+ATGGATAATTCGTCCAG
+>TK2209(btuC) Score=5.1 Pos=-20 [Thermococcus kodakaraensis KOD1]
+CTGGACAAAAAGTCCAG
+>TON_0546(btuF) Score=5 Pos=-73 [Thermococcus onnurineus NA1]
+ATGGCCAAAATATCCAA
+>TON_1075(meaB) Score=5.4 Pos=-26 [Thermococcus onnurineus NA1]
+TTGGATAATTTGTCCGA
+>TON_1076(mutB_C) Score=5.5 Pos=-87 [Thermococcus onnurineus NA1]
+CTGGACAAAATATCCAA
+>TON_1110(mutB_N) Score=5.5 Pos=-88 [Thermococcus onnurineus NA1]
+CTGGACAATATATCCAA
+>TON_1664 Score=5.1 Pos=-29 [Thermococcus onnurineus NA1]
+GCGGATAAAATATCCAA
+>TON_0681 Score=4.6 Pos=-41 [Thermococcus onnurineus NA1]
+AAGGATAAAACATCCAA
+>TON_0546(btuF) Score=5.3 Pos=-26 [Thermococcus onnurineus NA1]
+ATGGACAAATAATCCAG
+>TON_0680(TGAM_0543) Score=4.6 Pos=-18 [Thermococcus onnurineus NA1]
+TTGGATGTTTTATCCTT
+>TON_1870(nrdD) Score=5.8 Pos=-27 [Thermococcus onnurineus NA1]
+TTGGATAAATTATCCAG
+>TON_0688(cobT) Score=4.8 Pos=-27 [Thermococcus onnurineus NA1]
+TTGGATAAAACCTCCAT
+>TON_0687(cbiP) Score=4.8 Pos=-58 [Thermococcus onnurineus NA1]
+ATGGAGGTTTTATCCAA
+>TON_1529(btuR) Score=4.4 Pos=-31 [Thermococcus onnurineus NA1]
+CTGGCGATTATATCCAC
+>TON_1816(nrdJ) Score=5.4 Pos=-186 [Thermococcus onnurineus NA1]
+TTGGATAATTTGTCCGA
+>TON_1424(btuC) Score=4.9 Pos=-21 [Thermococcus onnurineus NA1]
+GTGGACAAATAATCCAC
+>TSIB_1577(btuF) Score=5.6 Pos=56 [Thermococcus sibiricus MM 739]
+TTGGACAAAATATCCAA
+>TSIB_1401(meaB) Score=5.8 Pos=-17 [Thermococcus sibiricus MM 739]
+TTGGATAATTAATCCAA
+>TSIB_1402(mutB_C) Score=5.7 Pos=-87 [Thermococcus sibiricus MM 739]
+ATGGATAAAATATCCAA
+>TSIB_0812(mutB_N) Score=5.5 Pos=-88 [Thermococcus sibiricus MM 739]
+CTGGATAAAATGTCCAA
+>TSIB_1142(nrdJ) Score=5.4 Pos=-185 [Thermococcus sibiricus MM 739]
+TTGGATAAAATATCCGA
+>TSIB_1460(btuC) Score=5.6 Pos=-24 [Thermococcus sibiricus MM 739]
+TTGGATAAATAATCCAG

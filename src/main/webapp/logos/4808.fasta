@@ -1,0 +1,52 @@
+>BACCELL_03135(susC_Rgu-1) Score=9 Pos=-126 [Bacteroides cellulosilyticus DSM 14838]
+CAAAAAATACCA---------CAGATATTACAC
+>BACCELL_03143(pehX1) Score=8.8 Pos=-273 [Bacteroides cellulosilyticus DSM 14838]
+CAAAAAATCCAC---------CAAATTGTGCAC
+>BACCELL_03119(rhiN) Score=9.3 Pos=-106 [Bacteroides cellulosilyticus DSM 14838]
+TAAATAATGCAC---------CGAAAAGTACAC
+>BACDOR_03278(rhiN) Score=9.4 Pos=-105 [Bacteroides dorei DSM 17855]
+CAAATAATACAC---------TGAAAAGTGCAC
+>BACDOR_03257(plyC4) Score=8.9 Pos=-106 [Bacteroides dorei DSM 17855]
+TAAAATATACGA---------CAAATATTACAA
+>BACDOR_03276(susC_Rgu-1) Score=9 Pos=-124 [Bacteroides dorei DSM 17855]
+TAATAAATCCAC---------TAAAAACTACAC
+>BACDOR_03070(pehX1) Score=9.5 Pos=-237 [Bacteroides dorei DSM 17855]
+CAAAAAATCCAC---------CAAATAGTGCAC
+>BACEGG_00870(susC_Rgu-1) Score=9.3 Pos=-127 [Bacteroides eggerthii DSM 20697]
+CAAAAAGTACCA---------CAAAAATTACAC
+>BACEGG_00876(pehX1) Score=9.2 Pos=-272 [Bacteroides eggerthii DSM 20697]
+CAAAAAATACAC---------CAATTAGTACAC
+>BACEGG_00863(rhiN) Score=9.7 Pos=-107 [Bacteroides eggerthii DSM 20697]
+CAAAAAATGCAC---------CAAAAAATGCAC
+>BACOVA_04911(susC_Rgu-1) Score=9.5 Pos=-128 [Bacteroides ovatus ATCC 8483]
+CAAAAAATACGA---------CAAATATTGCAC
+>BACOVA_04900(rhiN) Score=8.9 Pos=-155 [Bacteroides ovatus ATCC 8483]
+CAAAAAATGCAC---------TAAAAAATCCCA
+>BACOVA_05040(pehX1) Score=9 Pos=-267 [Bacteroides ovatus ATCC 8483]
+CAAAAAATACAC---------CAATTAGTCCAC
+>BACPLE_03451(rhiN) Score=7.7 Pos=-108 [Bacteroides plebeius DSM 17135]
+CAATTTTTATAC---------TGAAAACTACAC
+>BACPLE_03118(GH88) Score=7 Pos=-222 [Bacteroides plebeius DSM 17135]
+CAGTTTTTTCAC---------CAAAAATTGCAA
+>BACSTE_03304(rhiN) Score=9.8 Pos=-107 [Bacteroides stercoris ATCC 43183]
+CAAAAAATGCAC---------CAAAAAGTGCAC
+>BACSTE_03276(pehX1) Score=8.4 Pos=-205 [Bacteroides stercoris ATCC 43183]
+CAAAAAATACAC---------CAATTTGTACAC
+>BT4116(plyC1) Score=9.8 Pos=-119 [Bacteroides thetaiotaomicron VPI-5482]
+CAAAAAATACAA---------CAAATATTGCAC
+>BT4119(plyC2) Score=8.3 Pos=-221 [Bacteroides thetaiotaomicron VPI-5482]
+AAAATAGTGCAC---------CAAAAAGTCCCC
+>BT4114(susC_Rgu-1) Score=9.4 Pos=-127 [Bacteroides thetaiotaomicron VPI-5482]
+CAAAAAATACTA---------CAAATATTACAC
+>BT4108(rhiN) Score=9.1 Pos=-105 [Bacteroides thetaiotaomicron VPI-5482]
+CAAAAAATACAC---------TAAAAAATCCCA
+>BT4187(pehX1) Score=9 Pos=-265 [Bacteroides thetaiotaomicron VPI-5482]
+CAAAAAATACAC---------CAATAACTCCAC
+>BVU_1813(plyC4) Score=8.9 Pos=-106 [Bacteroides vulgatus ATCC 8482]
+TAAAATATACGA---------CAAATATTACAA
+>BVU_1797(rhiN) Score=9.4 Pos=-105 [Bacteroides vulgatus ATCC 8482]
+CAAATAATACAC---------TGAAAAGTGCAC
+>BVU_1799(susC_Rgu-1) Score=9 Pos=-123 [Bacteroides vulgatus ATCC 8482]
+TAATAAATCCAC---------TAAAAACTACAC
+>BVU_1985(pehX1) Score=9.5 Pos=-237 [Bacteroides vulgatus ATCC 8482]
+CAAAAAATCCAC---------CAAATAGTGCAC

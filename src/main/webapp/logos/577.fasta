@@ -1,0 +1,64 @@
+>SO_2741(bioA) Score=7.8 Pos=-66 [Shewanella oneidensis MR-1]
+CTGTCAACG---------------GGTTTACCA
+>SO_2740(bioB) Score=7.8 Pos=-89 [Shewanella oneidensis MR-1]
+TGGTAAACC---------------CGTTGACAG
+>Sputcn32_2346(bioA) Score=7.5 Pos=-66 [Shewanella putrefaciens CN-32]
+CTGTCAACG---------------AGTTTACTA
+>Sputcn32_2345(bioB) Score=7.5 Pos=-90 [Shewanella putrefaciens CN-32]
+TAGTAAACT---------------CGTTGACAG
+>Sputw3181_1662(bioA) Score=7.5 Pos=-66 [Shewanella sp W3-18-1]
+CTGTCAACG---------------AGTTTACTA
+>Sputw3181_1663(bioB) Score=7.5 Pos=-90 [Shewanella sp W3-18-1]
+TAGTAAACT---------------CGTTGACAG
+>Shewana3_2520(bioA) Score=7.8 Pos=-66 [Shewanella sp ANA-3]
+CTGTCAACG---------------GGTTTACCA
+>Shewana3_2519(bioB) Score=7.8 Pos=-89 [Shewanella sp ANA-3]
+TGGTAAACC---------------CGTTGACAG
+>Shewmr4_2360(bioA) Score=7.8 Pos=-66 [Shewanella sp MR-4]
+CTGTCAACG---------------GGTTTACCA
+>Shewmr4_2359(bioB) Score=7.8 Pos=-89 [Shewanella sp MR-4]
+TGGTAAACC---------------CGTTGACAG
+>Shewmr7_2432(bioA) Score=7.8 Pos=-66 [Shewanella sp MR-7]
+CTGTCAACG---------------GGTTTACCA
+>Shewmr7_2431(bioB) Score=7.8 Pos=-89 [Shewanella sp MR-7]
+TGGTAAACC---------------CGTTGACAG
+>Sbal_1757(bioA) Score=7.5 Pos=-66 [Shewanella baltica OS155]
+CTGTCAACG---------------AGTTTACTA
+>Sbal_1758(bioB) Score=7.5 Pos=-89 [Shewanella baltica OS155]
+TAGTAAACT---------------CGTTGACAG
+>Sden_1658(bioB) Score=6.8 Pos=-86 [Shewanella denitrificans OS217]
+TaGTcAAgt---------------cGTTgACAg
+>Sden_1657(bioA) Score=6.8 Pos=-43 [Shewanella denitrificans OS217]
+cTGTcAACg---------------acTTgACtA
+>Sfri_1474(bioA) Score=7.3 Pos=-60 [Shewanella frigidimarina NCIMB 400]
+CTGTCAACG---------------GCTTTACTA
+>Sfri_1475(bioB) Score=7.3 Pos=-87 [Shewanella frigidimarina NCIMB 400]
+TAGTAAAGC---------------CGTTGACAG
+>Sama_1437(bioA) Score=7.8 Pos=-57 [Shewanella amazonensis SB2B]
+CTGTCAACG---------------GGTTTACTG
+>Sama_1438(bioB) Score=7.8 Pos=-86 [Shewanella amazonensis SB2B]
+CAGTAAACC---------------CGTTGACAG
+>Shew_1718(bioA) Score=8 Pos=-60 [Shewanella loihica PV-4]
+CTGTCAACG---------------GGTTTACTA
+>Shew_1719(bioB) Score=8 Pos=-122 [Shewanella loihica PV-4]
+TAGTAAACC---------------CGTTGACAG
+>Spea_1800(bioA) Score=7.3 Pos=-44 [Shewanella pealeana ATCC 700345]
+CTGTCAATG---------------GGTTTACTA
+>Spea_1801(bioB) Score=7.3 Pos=-238 [Shewanella pealeana ATCC 700345]
+TAGTAAACC---------------CATTGACAG
+>Shal_2478(bioA) Score=7.3 Pos=-44 [Shewanella halifaxensis HAW-EB4]
+CTGTCAATG---------------GGTTTACTA
+>Shal_2477(bioB) Score=7.3 Pos=-236 [Shewanella halifaxensis HAW-EB4]
+TAGTAAACC---------------CATTGACAG
+>swp_2929(bioA) Score=7.3 Pos=-44 [Shewanella piezotolerans WP3]
+CTGTCAATG---------------GGTTTACTA
+>swp_2928(bioB) Score=7.3 Pos=-242 [Shewanella piezotolerans WP3]
+TAGTAAACC---------------CATTGACAG
+>Ssed_2777(bioA) Score=8 Pos=-44 [Shewanella sediminis HAW-EB3]
+CTGTCAACG---------------GGTTTACTA
+>Ssed_2776(bioB) Score=8 Pos=-99 [Shewanella sediminis HAW-EB3]
+TAGTAAACC---------------CGTTGACAG
+>Swoo_1865(bioA) Score=8 Pos=-44 [Shewanella woodyi ATCC 51908]
+CTGTCAACG---------------GGTTTACTA
+>Swoo_1866(bioB) Score=8 Pos=-99 [Shewanella woodyi ATCC 51908]
+TAGTAAACC---------------CGTTGACAG

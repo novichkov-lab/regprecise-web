@@ -1,0 +1,100 @@
+>HI1172(metK) Score=6.7 Pos=-50 [Haemophilus influenzae Rd KW20]
+AGCCGTCTATACGTCA
+>HI0294(metJ) Score=6 Pos=-83 [Haemophilus influenzae Rd KW20]
+AGCCGTCTAGATTGTT
+>HI1263(metX) Score=7.8 Pos=-87 [Haemophilus influenzae Rd KW20]
+AGCCGTTTAGACGGCT
+>HI1702(metE) Score=7.9 Pos=-52 [Haemophilus influenzae Rd KW20]
+AGACGTTTAGCCGTCT
+>HI0294(metJ) Score=7 Pos=-91 [Haemophilus influenzae Rd KW20]
+GGAAGTTTAGCCGTCT
+>HI0621(metN) Score=7.3 Pos=-61 [Haemophilus influenzae Rd KW20]
+AGCAATCTAGACATCT
+>NT05HA_1785(metJ) Score=5.7 Pos=-85 [Aggregatibacter aphrophilus NJ8700]
+AGCAGTCTTCACGGCT
+>NT05HA_1785(metJ) Score=6.8 Pos=-93 [Aggregatibacter aphrophilus NJ8700]
+AGAAATCTAGCAGTCT
+>NT05HA_0341(metE) Score=7.9 Pos=-46 [Aggregatibacter aphrophilus NJ8700]
+AGACGTTTAGCCGTCT
+>NT05HA_0899(metX) Score=7.9 Pos=-163 [Aggregatibacter aphrophilus NJ8700]
+AGATGTTTAGACGTCT
+>NT05HA_2130(metN) Score=6.8 Pos=-65 [Aggregatibacter aphrophilus NJ8700]
+GGCATTCTAGACGTCT
+>PM1290(metJ) Score=5.6 Pos=-97 [Pasteurella multocida subsp. multocida str. Pm70]
+GGATATCTAGCAATCT
+>PM1290(metJ) Score=6.5 Pos=-89 [Pasteurella multocida subsp. multocida str. Pm70]
+AGCAATCTTAACGTCT
+>PM0866(metX) Score=7.2 Pos=-70 [Pasteurella multocida subsp. multocida str. Pm70]
+AGATGTTTAGACGTCC
+>PM0420(metE) Score=7.9 Pos=-56 [Pasteurella multocida subsp. multocida str. Pm70]
+AGACGTTTAGCCGTCT
+>PM0235(metF) Score=7.1 Pos=-43 [Pasteurella multocida subsp. multocida str. Pm70]
+AGCCATATAGACATCT
+>PM1728(metN) Score=7.3 Pos=-62 [Pasteurella multocida subsp. multocida str. Pm70]
+GGAAATCTAGACGTCT
+>PM0995(metB) Score=6.7 Pos=-61 [Pasteurella multocida subsp. multocida str. Pm70]
+AGACATCTAGATAGCT
+>MS0669(metK) Score=6.2 Pos=-46 [Mannheimia succiniciproducens MBEL55E]
+AGCCGTCCATACGTCC
+>MS1966(metJ) Score=6.2 Pos=-26 [Mannheimia succiniciproducens MBEL55E]
+AGCAGTCTTCACGTCT
+>MS1966(metJ) Score=5.8 Pos=-34 [Mannheimia succiniciproducens MBEL55E]
+ACCTGTTTAGCAGTCT
+>MS1627(metB) Score=6 Pos=-121 [Mannheimia succiniciproducens MBEL55E]
+AGAAATTAAGATGTTT
+>MS0924(metX) Score=8.2 Pos=-94 [Mannheimia succiniciproducens MBEL55E]
+AGCCGTTTAGACGTCT
+>MS0434(metN) Score=7.3 Pos=-68 [Mannheimia succiniciproducens MBEL55E]
+AAACGTCTAGACATCT
+>Asuc_0835(metK) Score=6.8 Pos=-38 [Actinobacillus succinogenes 130Z]
+GGCCGTCTAAACGGCT
+>Asuc_0407(metJ) Score=5.3 Pos=-80 [Actinobacillus succinogenes 130Z]
+GGCAGTCCATACGTCC
+>Asuc_1733(metX) Score=8.2 Pos=-100 [Actinobacillus succinogenes 130Z]
+AGCCGTTTAGACGTCT
+>Asuc_0032(metN) Score=7.1 Pos=-51 [Actinobacillus succinogenes 130Z]
+AGCCATATAGCCGTCT
+>HSM_0387(metK) Score=6.9 Pos=-66 [Haemophilus somnus 2336]
+AGCCGTCTAGACGTTA
+>HSM_0387(metK) Score=6.5 Pos=-58 [Haemophilus somnus 2336]
+AGACGTTAAAACATCT
+>HSM_0768(metJ) Score=7 Pos=-83 [Haemophilus somnus 2336]
+AGCTATCTAGAAGTCT
+>HSM_0768(metJ) Score=5.8 Pos=-75 [Haemophilus somnus 2336]
+AGAAGTCTAGATTGTT
+>HSM_1561(metX) Score=6.4 Pos=-119 [Haemophilus somnus 2336]
+GGCTGTCTAGATGTTT
+>HSM_1561(metX) Score=6.2 Pos=-111 [Haemophilus somnus 2336]
+AGATGTTTGGATGGCT
+>HSM_1293(metE) Score=8.3 Pos=-52 [Haemophilus somnus 2336]
+AGACGTTTAGACGTCT
+>HSM_0571(metN) Score=7.8 Pos=-61 [Haemophilus somnus 2336]
+AGCAATCTAGACGTCT
+>APP7_0516(metX) Score=7 Pos=-147 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGAACTCTAGACGTTT
+>APP7_0516(metX) Score=7.5 Pos=-74 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGGCGTTTAGACGTCT
+>APP7_0516(metX) Score=7.8 Pos=-139 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGACGTTTAGACGGCT
+>APP7_2006(metJ) Score=7.2 Pos=-82 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGAAATCTAGACGTCC
+>APP7_0972(metN) Score=7.8 Pos=-62 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGCAATCTAGACGTCT
+>HD0569(metK) Score=6.2 Pos=-162 [Haemophilus ducreyi 35000HP]
+AGACGTCTAGATGTAC
+>HD1098(metN) Score=7.4 Pos=-56 [Haemophilus ducreyi 35000HP]
+AGCATTCTAGACGTCT
+>HAPS_0500(metK) Score=5.8 Pos=-161 [Haemophilus parasuis SH0165]
+AGCCATCTAGACGGAA
+>HAPS_2275(metF) Score=7.7 Pos=-86 [Haemophilus parasuis SH0165]
+AGCCATCTAAACGTCT
+>HAPS_0134(metX) Score=7.8 Pos=-107 [Haemophilus parasuis SH0165]
+AGACGTTTAGATGTCT
+>HAPS_0134(metX) Score=6.5 Pos=-123 [Haemophilus parasuis SH0165]
+AGCCATTTAAAAATCT
+>HAPS_1354(metE) Score=7.6 Pos=-64 [Haemophilus parasuis SH0165]
+AGCCATTTAGACGGCT
+>HAPS_1354(metE) Score=7.3 Pos=-56 [Haemophilus parasuis SH0165]
+AGACGGCTAAACGTCT
+>HAPS_0448(metN) Score=7.8 Pos=-61 [Haemophilus parasuis SH0165]
+AGCAATCTAGACGTCT

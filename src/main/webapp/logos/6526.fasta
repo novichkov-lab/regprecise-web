@@ -1,0 +1,48 @@
+>AZC_4653(fixK) Score=4 Pos=-118 [Azorhizobium caulinodans ORS 571]
+CTCCGTAAAATCACCTAC
+>AZC_4653(fixK) Score=4.6 Pos=-104 [Azorhizobium caulinodans ORS 571]
+CTACGCAATACTACTTAA
+>AZC_4653(fixK) Score=3.7 Pos=-90 [Azorhizobium caulinodans ORS 571]
+TTAAGGGCTGGGCCCTAA
+>AZC_1049(nifA) Score=3.1 Pos=-114 [Azorhizobium caulinodans ORS 571]
+CTCCGCGGTTTCCATTAT
+>bll2757(fixK) Score=5.1 Pos=-93 [Bradyrhizobium japonicum USDA 110]
+CTACGGGGTTCTACGTAA
+>bll2757(fixK) Score=4.2 Pos=-79 [Bradyrhizobium japonicum USDA 110]
+GTAAGGCACCCCCCTTAA
+>BBta_2786(fixK) Score=4.5 Pos=-102 [Bradyrhizobium sp. BTAi1]
+CTACGTATATCTACGTAA
+>BBta_2786(fixK) Score=4.5 Pos=-88 [Bradyrhizobium sp. BTAi1]
+GTAAGGGAACGTCCTTAA
+>mll6578(fixK) Score=4.9 Pos=-89 [Mesorhizobium loti MAFF303099]
+CTAGGTAGTTTCCCGTAG
+>mll5857(nifA) Score=3.1 Pos=-193 [Mesorhizobium loti MAFF303099]
+CTTCGGCGTTCTCTTCAA
+>Meso_2220(fixK) Score=5.2 Pos=-86 [Mesorhizobium sp. BNC1]
+CTACGTAGTTTCCCTTAG
+>Nwi_1036(fixK) Score=4.6 Pos=-102 [Nitrobacter winogradskyi Nb-255]
+CTCCGTAAGACCCCTTAG
+>Nwi_1036(fixK) Score=4 Pos=-88 [Nitrobacter winogradskyi Nb-255]
+TTAGGAGGCTGCCCTTAG
+>pRL100196(nifA) Score=3.5 Pos=-70 [Rhizobium leguminosarum bv. viciae 3841]
+CTTAGGAATATGCGTTAG
+>NGR_a01250(fixX) Score=3.4 Pos=-18 [Rhizobium sp. NGR234]
+CTAAAGGGGAGCATTGAG
+>NGR_b00800(fixK) Score=4.5 Pos=-89 [Rhizobium sp. NGR234]
+CTACGGGGAATCCCGCAA
+>RPA4250(fixK) Score=5.1 Pos=-105 [Rhodopseudomonas palustris CGA009]
+CTACGTAGACCTACTTAG
+>RPA4250(fixK) Score=4.7 Pos=-91 [Rhodopseudomonas palustris CGA009]
+TTAGGGGAACCCACTTAA
+>SMa0815(nifA) Score=3.1 Pos=-154 [Sinorhizobium meliloti 1021]
+TTACAAGAACCAACTTAC
+>SMc03253(SMc03253) Score=5 Pos=-355 [Sinorhizobium meliloti 1021]
+CTAGGTAGTTTCCCTTAG
+>SMa1225(fixK) Score=5.2 Pos=-87 [Sinorhizobium meliloti 1021]
+CTAAGTAATTTCCCTTAG
+>SMa0762(fixK) Score=4.8 Pos=-87 [Sinorhizobium meliloti 1021]
+CTAAGTAGTTCCCTTTAG
+>Xaut_1746(fixK) Score=4.6 Pos=-104 [Xanthobacter autotrophicus Py2]
+CTCCGTAAAACTACTTAA
+>Xaut_1746(fixK) Score=4.5 Pos=-90 [Xanthobacter autotrophicus Py2]
+TTAAGGGCACCGACTTAA

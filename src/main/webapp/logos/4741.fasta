@@ -1,0 +1,64 @@
+>LBA0542(copZ) Score=6 Pos=-81 [Lactobacillus acidophilus NCFM]
+AAATTGACGATCATCAAGTT
+>LBA0541(cadA) Score=5.4 Pos=-75 [Lactobacillus acidophilus NCFM]
+ATCTTGATAACAGTCAAGTC
+>LSEI_0070(cadA) Score=4.8 Pos=-68 [Lactobacillus casei ATCC 334]
+AAGTTGATCACCGTCAAGGC
+>LSEI_0071(copZ) Score=5.4 Pos=-76 [Lactobacillus casei ATCC 334]
+AACTTGACGACGATCAAGGA
+>LBUL_0427(cadA) Score=5.3 Pos=-77 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+ATCTTGATAGAAATCAATTG
+>LAF_1702(cadA) Score=5.2 Pos=-69 [Lactobacillus fermentum IFO 3956]
+CTCTTGATTCCGATCAATTT
+>LAF_1700(dps) Score=5.1 Pos=-298 [Lactobacillus fermentum IFO 3956]
+AAGTTGATGAGGATCAATTA
+>LAF_1701(copZ) Score=5.1 Pos=-68 [Lactobacillus fermentum IFO 3956]
+AAGTTGATGAGGATCAATTA
+>LAF_1466(copZ) Score=4.8 Pos=-91 [Lactobacillus fermentum IFO 3956]
+AAGTTGATAGAAAACAATTT
+>LJ1696(cadA) Score=5.2 Pos=-75 [Lactobacillus johnsonii NCC 533]
+ATCTTGATAATAGTCAAGTC
+>LJ1695(copZ) Score=6 Pos=-82 [Lactobacillus johnsonii NCC 533]
+AAATTGACGATCATCAAGTT
+>lp_1442(flpA) Score=5.3 Pos=-31 [Lactobacillus plantarum WCFS1]
+AAATTGACATAAATCAAGAA
+>lp_3435(cadA) Score=6.1 Pos=-78 [Lactobacillus plantarum WCFS1]
+AACTTGACGCCTATCAAGTT
+>lp_3442(copZ) Score=6 Pos=-75 [Lactobacillus plantarum WCFS1]
+TTCTTGACGGCCGTCAAGTT
+>lp_3444(flpA) Score=6 Pos=-142 [Lactobacillus plantarum WCFS1]
+AACTTGACGGCCGTCAAGAA
+>LAR_1340(copZ) Score=5.7 Pos=-69 [Lactobacillus reuteri JCM 1112]
+AAATTGATGATAATCAATTT
+>LAR_1339(dps) Score=5.7 Pos=-298 [Lactobacillus reuteri JCM 1112]
+AAATTGATGATAATCAATTT
+>LGG_00083(copZ) Score=6 Pos=-76 [Lactobacillus rhamnosus GG]
+AACTTGACGGCCATCAAGGT
+>LGG_00082(cadA) Score=5.3 Pos=-68 [Lactobacillus rhamnosus GG]
+AAATTGATCCCGGTCAAGGT
+>LSA1783(copZ) Score=6.1 Pos=-79 [Lactobacillus sakei subsp. sakei 23K]
+AACTTGATGGCGATCAATTT
+>LSA1784(cadA) Score=6.3 Pos=-75 [Lactobacillus sakei subsp. sakei 23K]
+AACTTGATGGCTATCAAGTT
+>LSL_1786(cadA) Score=5.6 Pos=-210 [Lactobacillus salivarius subsp. salivarius UCC118]
+AACTTGATAGCCATAAATTT
+>LSL_1782(flpA) Score=5.6 Pos=-89 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTCTTGATGTGCATCAATTT
+>LSL_1781(dps) Score=5.5 Pos=-118 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTCTTGATGAGCGTCAATTT
+>LSL_1784(copZ) Score=5.9 Pos=-129 [Lactobacillus salivarius subsp. salivarius UCC118]
+AACTTGATATGCGTCAATTT
+>LSL_1786(cadA) Score=5.7 Pos=-88 [Lactobacillus salivarius subsp. salivarius UCC118]
+AACTTGATGTCAGTCAATTA
+>LEUM_A04(copZ) Score=5.2 Pos=-66 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TAATTGATCTATATCAAGTA
+>LEUM_A03(cadA) Score=6.3 Pos=-76 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+AACTTGATGGACGTCAAGTT
+>OEOE_0354(copZ) Score=6 Pos=-126 [Oenococcus oeni PSU-1]
+TTCTTGACGGCCGTCAAGTT
+>OEOE_0355(flpA) Score=6 Pos=-142 [Oenococcus oeni PSU-1]
+AACTTGACGGCCGTCAAGAA
+>PEPE_0409(copZ) Score=5.7 Pos=-75 [Pediococcus pentosaceus ATCC 25745]
+AAATTGACCTACGTCAATTT
+>PEPE_0408(flpA) Score=5.7 Pos=-74 [Pediococcus pentosaceus ATCC 25745]
+AAATTGACGTAGGTCAATTT

@@ -1,0 +1,60 @@
+>RSP_2172(metF) Score=4.9 Pos=-61 [Rhodobacter sphaeroides 2.4.1]
+ATGAATTTGTCTCAC
+>RSP_2171(metR) Score=4.9 Pos=-48 [Rhodobacter sphaeroides 2.4.1]
+GTGAGACAAATTCAT
+>RSP_3347(metH2) Score=4.6 Pos=-44 [Rhodobacter sphaeroides 2.4.1]
+ATGAAACACCTTCAT
+>Pden_2319(metF) Score=4.9 Pos=-58 [Paracoccus denitrificans PD1222]
+ATGAATTTGTCTCAC
+>Pden_2318(metR) Score=4.9 Pos=-47 [Paracoccus denitrificans PD1222]
+GTGAGACAAATTCAT
+>Jann_2547(bhmT) Score=4.2 Pos=-90 [Jannaschia sp. CCS1]
+ATGAAAATGATGCAT
+>RB2654_08000(metR) Score=4.9 Pos=-47 [Rhodobacterales bacterium HTCC2654]
+GTGAGACAAATTCAT
+>RB2654_08005(metF) Score=4.9 Pos=-64 [Rhodobacterales bacterium HTCC2654]
+ATGAATTTGTCTCAC
+>RB2654_20213(metH2) Score=4.8 Pos=-89 [Rhodobacterales bacterium HTCC2654]
+ATGAGCCAGTCTCAT
+>OG2516_06424(metF) Score=4.9 Pos=-60 [Oceanicola granulosus HTCC2516]
+ATGAGTTTGTCTCAC
+>OG2516_06419(metR) Score=4.9 Pos=-49 [Oceanicola granulosus HTCC2516]
+GTGAGACAAACTCAT
+>SKA53_15331(metR) Score=4.4 Pos=-31 [Loktanella vestfoldensis SKA53]
+TTGAGACAAATTCAT
+>SKA53_15326(metF) Score=4.4 Pos=-60 [Loktanella vestfoldensis SKA53]
+ATGAATTTGTCTCAA
+>SKA53_15401(metH) Score=4.7 Pos=-111 [Loktanella vestfoldensis SKA53]
+GTGAATGAGTTTCAT
+>OB2597_00765(metF) Score=4.7 Pos=-57 [Oceanicola batsensis HTCC2597]
+ATGAGCTTGTCTCAC
+>OB2597_00770(metR) Score=4.7 Pos=-49 [Oceanicola batsensis HTCC2597]
+GTGAGACAAGCTCAT
+>ISM_08350(metF) Score=4.1 Pos=-66 [Roseovarius nubinhibens ISM]
+ATGAATTTGCCTAAT
+>ISM_08345(metR) Score=4.1 Pos=-48 [Roseovarius nubinhibens ISM]
+ATTAGGCAAATTCAT
+>ROS217_15585(metR) Score=4.8 Pos=-48 [Roseovarius sp. 217]
+GTGAGACAACTTCAT
+>ROS217_15580(metF) Score=4.8 Pos=-74 [Roseovarius sp. 217]
+ATGAAGTTGTCTCAC
+>ROS217_19582(bhmT) Score=4.2 Pos=-73 [Roseovarius sp. 217]
+ATGAAATTTATGCAT
+>EE36_03128(metF) Score=4.9 Pos=-64 [Sulfitobacter sp. EE-36]
+ATGAGTTTGTTTCAC
+>EE36_03123(metR) Score=4.9 Pos=-47 [Sulfitobacter sp. EE-36]
+GTGAAACAAACTCAT
+>TM1040_1700(metF) Score=4.9 Pos=-124 [Silicibacter TM1040]
+ATGAATTTGATTCAC
+>TM1040_3617(metH2) Score=4.6 Pos=-91 [Silicibacter TM1040]
+GTGAGGCAAGCTCAT
+>TM1040_1699(metR) Score=4.9 Pos=-48 [Silicibacter TM1040]
+GTGAATCAAATTCAT
+>SPO3016(metF) Score=4.8 Pos=-16 [Silicibacter pomeroyi DSS-3]
+ATGAAGTTGTCTCAC
+>SPO3015(metR) Score=4.8 Pos=-48 [Silicibacter pomeroyi DSS-3]
+GTGAGACAACTTCAT
+>MED193_22236(metR) Score=5 Pos=-49 [Roseobacter sp. MED193]
+GTGAAACAATTTCAT
+>MED193_22231(metF) Score=5 Pos=-62 [Roseobacter sp. MED193]
+ATGAAATTGTTTCAC

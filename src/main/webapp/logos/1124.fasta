@@ -1,0 +1,280 @@
+>b3828(metR) Score=4.9 Pos=-13 [Escherichia coli str. K-12 substr. MG1655]
+GTGAAGGACTTTCAT
+>b3828(metR) Score=3.7 Pos=-34 [Escherichia coli str. K-12 substr. MG1655]
+GCGCAAATTATTCAT
+>b3941(metF) Score=3.7 Pos=-295 [Escherichia coli str. K-12 substr. MG1655]
+ATGAAATATATTGAA
+>b3941(metF) Score=4.7 Pos=-156 [Escherichia coli str. K-12 substr. MG1655]
+CTGAAGTTTTTTCAT
+>b3941(metF) Score=4.6 Pos=0 [Escherichia coli str. K-12 substr. MG1655]
+ATGAGCTTTTTTCAC
+>b3829(metE) Score=4.9 Pos=-238 [Escherichia coli str. K-12 substr. MG1655]
+ATGAAAGTCCTTCAC
+>b4013(metA) Score=4.5 Pos=-111 [Escherichia coli str. K-12 substr. MG1655]
+TTGAAACTTTCTCAC
+>b2551(glyA) Score=4.8 Pos=-217 [Escherichia coli str. K-12 substr. MG1655]
+GTGAAAAATTTGCAT
+>b2552(hmp) Score=4.8 Pos=-125 [Escherichia coli str. K-12 substr. MG1655]
+ATGCAAATTTTTCAC
+>b2687(luxS) Score=4.2 Pos=-81 [Escherichia coli str. K-12 substr. MG1655]
+ATGCGCGTCTTTCAT
+>b4019(metH) Score=4.3 Pos=-109 [Escherichia coli str. K-12 substr. MG1655]
+TTGAACAAATCTCAT
+>STM3965(metE) Score=4.9 Pos=-250 [Salmonella typhimurium LT2]
+ATGAAAGTCCTTCAC
+>STM4182(metA) Score=4.8 Pos=-111 [Salmonella typhimurium LT2]
+GTGAAACTTTCTCAC
+>STM4105(metF) Score=4.3 Pos=-156 [Salmonella typhimurium LT2]
+ATGAAGAAAATTCAA
+>STM2555(glyA) Score=4.6 Pos=-215 [Salmonella typhimurium LT2]
+GTGAAAAATCTGCAT
+>STM4105(metF) Score=4.4 Pos=-136 [Salmonella typhimurium LT2]
+CTGAATATTCCTCAT
+>STM2556(hmp) Score=4.6 Pos=-124 [Salmonella typhimurium LT2]
+ATGCAGATTTTTCAC
+>STM4105(metF) Score=4.6 Pos=0 [Salmonella typhimurium LT2]
+ATGAGCTTTTTTCAC
+>STM3964(metR) Score=4.9 Pos=-13 [Salmonella typhimurium LT2]
+GTGAAGGACTTTCAT
+>STM2817(luxS) Score=4.2 Pos=-80 [Salmonella typhimurium LT2]
+ATGCGCGTCTTTCAT
+>STM4188.S(metH) Score=4.3 Pos=-93 [Salmonella typhimurium LT2]
+CTGAACATGTCTCAT
+>CKO_01563(metE2) Score=4.2 Pos=-149 [Citrobacter koseri ATCC BAA-895]
+GTGAATTTATTTCAA
+>CKO_01563(metE2) Score=3.6 Pos=-129 [Citrobacter koseri ATCC BAA-895]
+ATGAATTTTTCTCGG
+>CKO_00171(metE) Score=4.9 Pos=-250 [Citrobacter koseri ATCC BAA-895]
+ATGAAAGTCCTTCAC
+>CKO_03051(metF) Score=4.2 Pos=-136 [Citrobacter koseri ATCC BAA-895]
+CTGAGTATTCCTCAC
+>CKO_03051(metF) Score=4.4 Pos=-156 [Citrobacter koseri ATCC BAA-895]
+TTGAATTTTTTTCAC
+>CKO_03907(metA) Score=4.8 Pos=-111 [Citrobacter koseri ATCC BAA-895]
+GTGAAACTTTCTCAC
+>CKO_02940(PF08908) Score=4.2 Pos=-182 [Citrobacter koseri ATCC BAA-895]
+ATGAATATGACTCAT
+>CKO_00237(glyA) Score=4.6 Pos=-209 [Citrobacter koseri ATCC BAA-895]
+GTGAAAAATCTGCAT
+>CKO_01563(metE2) Score=4.1 Pos=-180 [Citrobacter koseri ATCC BAA-895]
+ATGAAAAAGCGTCAC
+>CKO_00235(hmp) Score=4.6 Pos=-125 [Citrobacter koseri ATCC BAA-895]
+ATGCAGATTTTTCAC
+>CKO_03051(metF) Score=4.6 Pos=0 [Citrobacter koseri ATCC BAA-895]
+ATGAGCTTTTTTCAC
+>CKO_00170(metR) Score=4.9 Pos=-13 [Citrobacter koseri ATCC BAA-895]
+GTGAAGGACTTTCAT
+>CKO_04036(luxS) Score=4.1 Pos=-81 [Citrobacter koseri ATCC BAA-895]
+ATGCGCGTCTTTCAC
+>CKO_03902(metH) Score=4.3 Pos=-50 [Citrobacter koseri ATCC BAA-895]
+CTGAACATGTCTCAT
+>KPN_01615(metE2) Score=5 Pos=-152 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGAAAATTTTTCAT
+>KPN_04325(metE) Score=4.9 Pos=-249 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAAGTCCTTCAC
+>KPN_04394(metA) Score=4.8 Pos=-111 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTGAAATTTTCTCAC
+>KPN_04239(metF) Score=4.6 Pos=0 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAGCTTTTTTCAC
+>KPN_04239(metF) Score=4.8 Pos=-155 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAACTTTTTTCAT
+>KPN_02168(metQ2) Score=3.9 Pos=-98 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAATCCTCTCAA
+>KPN_01615(metE2) Score=4.2 Pos=-132 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAATATTCTCGT
+>KPN_02876(glyA) Score=4.7 Pos=-216 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAAGAATTTGCAT
+>KPN_02153(PF08908) Score=4.2 Pos=-192 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGAGGATGGCTCAT
+>KPN_02877(hmp) Score=4.7 Pos=-124 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGCAAATTCTTCAT
+>KPN_04324(metR) Score=4 Pos=-217 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAGAAAAAATCTCAA
+>KPN_04324(metR) Score=4.9 Pos=-13 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTGAAGGACTTTCAT
+>KPN_03018(luxS) Score=4.2 Pos=-83 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATGCGCGTCTTTCAT
+>KPN_04399(metH) Score=4.3 Pos=-106 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTGAACATGTCTCAT
+>Ent638_4033(metF) Score=4.6 Pos=0 [Enterobacter sp. 638]
+ATGAGCTTTTTTCAC
+>Ent638_1987(metE2) Score=4.4 Pos=-152 [Enterobacter sp. 638]
+ATGAATAAAATTCAT
+>Ent638_1987(metE2) Score=3.8 Pos=-191 [Enterobacter sp. 638]
+ATGAACATTTTGCGT
+>Ent638_3967(metE) Score=4.9 Pos=-249 [Enterobacter sp. 638]
+ATGAAAGTCCTTCAC
+>Ent638_0217(metA) Score=4.8 Pos=-111 [Enterobacter sp. 638]
+GTGAAACTTTCTCAC
+>Ent638_4033(metF) Score=4.3 Pos=-136 [Enterobacter sp. 638]
+CTGAACATTCCTCAC
+>Ent638_4033(metF) Score=4.7 Pos=-156 [Enterobacter sp. 638]
+ATGAACTTCTTTCAT
+>Ent638_2112(PF08908) Score=4.6 Pos=-186 [Enterobacter sp. 638]
+ATGAAGAAACCTCAT
+>Ent638_3036(glyA) Score=4.6 Pos=-214 [Enterobacter sp. 638]
+ATGAAAAATGTGCAT
+>Ent638_1987(metE2) Score=3.6 Pos=-132 [Enterobacter sp. 638]
+ATGAATTTTTCTCGG
+>Ent638_3037(hmp) Score=4.6 Pos=-103 [Enterobacter sp. 638]
+ATGCACATTTTTCAT
+>Ent638_3968(metR) Score=4.9 Pos=-13 [Enterobacter sp. 638]
+GTGAAGGACTTTCAT
+>Ent638_3167(luxS) Score=4.2 Pos=-83 [Enterobacter sp. 638]
+ATGCGCGTCTTTCAT
+>Ent638_0222(metH) Score=4.5 Pos=-105 [Enterobacter sp. 638]
+GTGAACATGTCTCAT
+>EAM_0135(metF) Score=4.6 Pos=-146 [Erwinia amylovora ATCC 49946]
+CTGAAATTTCCTCAT
+>EAM_0198(metE) Score=4.7 Pos=-152 [Erwinia amylovora ATCC 49946]
+ATGAGAGTCCTTCAC
+>EAM_0250(metA) Score=4.7 Pos=-110 [Erwinia amylovora ATCC 49946]
+ATGAAACATTTTCAA
+>EAM_0135(metF) Score=3.9 Pos=0 [Erwinia amylovora ATCC 49946]
+ATGAGTTTTTTCCAT
+>EAM_2497(glyA) Score=3.8 Pos=-213 [Erwinia amylovora ATCC 49946]
+ATGAGGATCATGCAA
+>EAM_0952(metE2) Score=4.4 Pos=-163 [Erwinia amylovora ATCC 49946]
+ATGAATTTTTCTCAG
+>EAM_0952(metE2) Score=3.7 Pos=-143 [Erwinia amylovora ATCC 49946]
+ATGAAATTTTGTCGT
+>EAM_0197(metR) Score=3.6 Pos=-35 [Erwinia amylovora ATCC 49946]
+GCGCAAAATATTCAC
+>EAM_0197(metR) Score=4.7 Pos=-13 [Erwinia amylovora ATCC 49946]
+GTGAAGGACTCTCAT
+>EAM_2633(luxS) Score=3.8 Pos=-51 [Erwinia amylovora ATCC 49946]
+TCGAGAAAGTTTCAT
+>y0304(metF) Score=4.6 Pos=0 [Yersinia pestis KIM]
+ATGAGTTTTTTTCAC
+>y0304(metF) Score=3.8 Pos=-148 [Yersinia pestis KIM]
+GTGAATATTAATCAT
+>y0304(metF) Score=3.6 Pos=-172 [Yersinia pestis KIM]
+ATATGAATTTTTCAC
+>y0442(metE) Score=4.7 Pos=-92 [Yersinia pestis KIM]
+ATGAGAGTCCTTCAC
+>y0013(metA) Score=4.8 Pos=-109 [Yersinia pestis KIM]
+ATGAAACATTTTCAG
+>y1321(hmp) Score=4.5 Pos=-149 [Yersinia pestis KIM]
+ATGTGAATTTTTCAT
+>y0441(metR) Score=4.7 Pos=-13 [Yersinia pestis KIM]
+GTGAAGGACTCTCAT
+>y0888(luxS) Score=4.1 Pos=-103 [Yersinia pestis KIM]
+ATGCGCGTCTTTCAC
+>y0020(metH) Score=4.3 Pos=-116 [Yersinia pestis KIM]
+CTGAAAAAGTCTCAA
+>Spro_4784(metF) Score=4.6 Pos=0 [Serratia proteamaculans 568]
+ATGAGTTTTTTTCAC
+>Spro_4784(metF) Score=3.8 Pos=-139 [Serratia proteamaculans 568]
+GTGAGGATTAATCAT
+>Spro_4784(metF) Score=4.2 Pos=-161 [Serratia proteamaculans 568]
+GTGAAATTCTTTCTC
+>Spro_0242(metE) Score=4.7 Pos=-107 [Serratia proteamaculans 568]
+ATGAGAGTCCTTCAC
+>Spro_4504(metA) Score=5 Pos=-108 [Serratia proteamaculans 568]
+ATGAAACATTTTCAC
+>Spro_3175(PF08908) Score=4.4 Pos=-183 [Serratia proteamaculans 568]
+ATGAATATGCCTCAT
+>Spro_3638(glyA) Score=4.4 Pos=-218 [Serratia proteamaculans 568]
+ATGAAAAAACCGCAT
+>Spro_1044(metE2) Score=4.5 Pos=-177 [Serratia proteamaculans 568]
+ATGAATTTCTCTCAC
+>Spro_1044(metE2) Score=4.1 Pos=-157 [Serratia proteamaculans 568]
+ATGAAAATTCTTCTA
+>Spro_3639(hmp) Score=4.4 Pos=-169 [Serratia proteamaculans 568]
+ATGCGGTTTTTTCAT
+>Spro_0241(metR) Score=4.2 Pos=-174 [Serratia proteamaculans 568]
+CTGAGCTTTTTTCAG
+>Spro_0241(metR) Score=4.7 Pos=-13 [Serratia proteamaculans 568]
+GTGAAGGACTCTCAT
+>Spro_0848(luxS) Score=4.1 Pos=-101 [Serratia proteamaculans 568]
+ATGCGCGTCTTTCAC
+>Spro_4490(metH) Score=4.5 Pos=-166 [Serratia proteamaculans 568]
+CTGAAAAACTCTCAA
+>ECA4244(metF) Score=3.8 Pos=-136 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGAGTAATCATCAC
+>ECA4244(metF) Score=4.8 Pos=-156 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAACTTTTTTCAT
+>ECA4244(metF) Score=4.6 Pos=0 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAGCTTTTTTCAC
+>ECA0181(metE) Score=4.7 Pos=-106 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAGAGTCCTTCAC
+>ECA3992(metA) Score=4.9 Pos=-112 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGAAACATTTTCAC
+>ECA3125(PF08908) Score=4.4 Pos=-181 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAATATAATTCAT
+>ECA3125(PF08908) Score=3.7 Pos=-161 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAAATTAACTCTC
+>ECA1113(metE2) Score=4.4 Pos=-202 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGAATTTTATTCAC
+>ECA1113(metE2) Score=3.9 Pos=-182 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGAAAATTCTTCCA
+>ECA1113(metE2) Score=3.9 Pos=-82 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GGGCAAATATTTCAT
+>ECA0180(metR) Score=3.8 Pos=-173 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTGCGCTTTTTTCAG
+>ECA0180(metR) Score=4.7 Pos=-13 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGAAGGACTCTCAT
+>ECA3362(luxS) Score=4 Pos=-92 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATGCGCGTCTTTCAG
+>ECA3987(metH) Score=4.7 Pos=-98 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTGAAAAAGTCTCAT
+>ETAE_3485(metF) Score=3.8 Pos=-161 [Edwardsiella tarda EIB202]
+CTGACGCTTTCTCAT
+>ETAE_3485(metF) Score=3.8 Pos=-140 [Edwardsiella tarda EIB202]
+CTGACGTTTCTTCAT
+>ETAE_3485(metF) Score=4.6 Pos=0 [Edwardsiella tarda EIB202]
+ATGAGTTTTTTTCAC
+>ETAE_0142(metE) Score=4.5 Pos=-125 [Edwardsiella tarda EIB202]
+ATGAGAAACCCTCAG
+>ETAE_3190(metA) Score=4.8 Pos=-113 [Edwardsiella tarda EIB202]
+ATGAAAATTTCTCAA
+>ETAE_0200(metH) Score=4.4 Pos=-138 [Edwardsiella tarda EIB202]
+ATGAAAAAGCCTCAA
+>ETAE_2854(luxS) Score=4.2 Pos=-89 [Edwardsiella tarda EIB202]
+ATGCGCGTCTTTCAT
+>PMI2932(metF) Score=3.9 Pos=0 [Proteus mirabilis HI4320]
+ATGAGCTTTTATCAC
+>PMI2932(metF) Score=4.1 Pos=-163 [Proteus mirabilis HI4320]
+TTGAATTATCCTCAT
+>PMI2932(metF) Score=4.3 Pos=-185 [Proteus mirabilis HI4320]
+ATGAAATTTTCTCTT
+>PMI3529(metE) Score=4.6 Pos=-109 [Proteus mirabilis HI4320]
+ATGAGAAACCTTCAG
+>PMI3529(metE) Score=4 Pos=-87 [Proteus mirabilis HI4320]
+ATGAAAAATTTGCGC
+>PMI2765(metA) Score=4.8 Pos=-102 [Proteus mirabilis HI4320]
+ATGAATATTCTTCAT
+>PMI1247(metQ2) Score=3.7 Pos=-184 [Proteus mirabilis HI4320]
+TTGAATTATTTTTAT
+>PMI3020(metQ2) Score=5.1 Pos=-208 [Proteus mirabilis HI4320]
+ATGAAAATATTTCAT
+>PMI1868(hmp) Score=4.5 Pos=-23 [Proteus mirabilis HI4320]
+CTGAATATTTTTCAG
+>PMI2758(metH) Score=3.7 Pos=-191 [Proteus mirabilis HI4320]
+CTGTATATTTTTCAA
+>PMI2758(metH) Score=5 Pos=-129 [Proteus mirabilis HI4320]
+GTGAAAATCTCTCAT
+>PMI3528(metR) Score=4 Pos=-35 [Proteus mirabilis HI4320]
+GCGCAAATTTTTCAT
+>PMI3528(metR) Score=4.6 Pos=-13 [Proteus mirabilis HI4320]
+CTGAAGGTTTCTCAT
+>PMI0379(luxS) Score=4.9 Pos=-281 [Proteus mirabilis HI4320]
+ATGAGAGAATTTCAT
+>plu4754(metF) Score=4.6 Pos=0 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGAGTTTTTTTCAC
+>plu4754(metF) Score=4.5 Pos=-167 [Photorhabdus luminescens subsp. laumondii TTO1]
+GTGAATATTCCTCAC
+>plu4754(metF) Score=3.8 Pos=-189 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGAATTTTTTTCCG
+>plu4420(metE) Score=4.6 Pos=-110 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGAGAAACCTTCAG
+>plu4397(metA) Score=4.7 Pos=-112 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGAAATAATTTCAG
+>plu3292(hmp) Score=4.1 Pos=-25 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTGAAAGAAATTCAG
+>plu4421(metR) Score=4.1 Pos=-207 [Photorhabdus luminescens subsp. laumondii TTO1]
+CTGAGAAATTTTCCC
+>plu4421(metR) Score=4.6 Pos=-13 [Photorhabdus luminescens subsp. laumondii TTO1]
+CTGAAGGTTTCTCAT
+>plu1253(luxS) Score=5.1 Pos=-56 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGAAAAAGTTTCAT

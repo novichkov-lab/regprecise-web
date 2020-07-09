@@ -1,0 +1,100 @@
+>TM0370(TM0370) Score=5.9 Pos=-16 [Thermotoga maritima MSB8]
+TTATCAAAAGAAAAAAATGATTGCTAA
+>TM0373(dnaK) Score=5.7 Pos=-179 [Thermotoga maritima MSB8]
+TTATCATTCAAACATTTCATTTGCTAT
+>TM0851(hrcA) Score=6.5 Pos=-30 [Thermotoga maritima MSB8]
+TTAGCACTCAAAAGAAGGGAGTGCTAA
+>TM0505(groS) Score=6.6 Pos=-48 [Thermotoga maritima MSB8]
+TTAGCAGTCGAATGATGAGAGTGCTAA
+>TRQ2_0431(groS) Score=6.4 Pos=-48 [Thermotoga sp. RQ2]
+TTAGCAGTCGAACGATGAGAGTGCTAA
+>TRQ2_0054(clpA) Score=6.3 Pos=-51 [Thermotoga sp. RQ2]
+TTATCAAACGTAAGATTTAAGTGCTAA
+>TRQ2_0558(dnaK) Score=5.9 Pos=-179 [Thermotoga sp. RQ2]
+TTATCATTCAAAAGTTTCATTTGCTAT
+>TRQ2_0076(hrcA) Score=6.5 Pos=-30 [Thermotoga sp. RQ2]
+TTAGCACTCAAAAGAAGGGAGTGCTAA
+>CTN_0166(groS) Score=6.2 Pos=-52 [Thermotoga neapolitana DSM 4359]
+TTAGCAGTCATGAGTCGAGAGTGCTAA
+>CTN_1702(clpA) Score=6.3 Pos=-42 [Thermotoga neapolitana DSM 4359]
+TTATCATTCTTAATAATTAAGTGCTAA
+>CTN_0304(dnaK) Score=6.2 Pos=-174 [Thermotoga neapolitana DSM 4359]
+TTATCATTCATAAGTTTCGTTTGCTAT
+>CTN_0301(TM0370) Score=6.4 Pos=-20 [Thermotoga neapolitana DSM 4359]
+TTATCAATCGATATTGATGAGTGCTAA
+>CTN_1724(hrcA) Score=6.6 Pos=-28 [Thermotoga neapolitana DSM 4359]
+TTAGCACTCAAAAGAAAGGAGTGCTAA
+>Tpet_0416(groS) Score=6.4 Pos=-48 [Thermotoga petrophila RKU-1]
+TTAGCAGTCGAACGATGAGAGTGCTAA
+>Tpet_0054(clpA) Score=6.6 Pos=-51 [Thermotoga petrophila RKU-1]
+TTATCAAACGTAATATTTGAGTGCTAA
+>Tpet_0544(dnaK) Score=5.9 Pos=-179 [Thermotoga petrophila RKU-1]
+TTATCATTCAAAAGTTTCATTTGCTAT
+>Tpet_0547(TM0370) Score=6.4 Pos=-49 [Thermotoga petrophila RKU-1]
+TTATCAAACGAAAAAAATGATTGCTAA
+>Tpet_0076(hrcA) Score=6.5 Pos=-30 [Thermotoga petrophila RKU-1]
+TTAGCACTCAAAAGAAGGGAGTGCTAA
+>Tnap_0168(dnaK) Score=5.9 Pos=-179 [Thermotoga naphthophila RKU-10]
+TTATCATTCAAAAGTTTCATTTGCTAT
+>Tnap_0286(groS) Score=6.1 Pos=-48 [Thermotoga naphthophila RKU-10]
+TTAGCAGTCAGACGATGAGAGTGCTAA
+>Tnap_0165(TM0370) Score=6.4 Pos=-49 [Thermotoga naphthophila RKU-10]
+TTATCAAACGAAAAAAATGATTGCTAA
+>Tnap_0054(clpA) Score=6.6 Pos=-51 [Thermotoga naphthophila RKU-10]
+TTATCAAACGTAATATTTGAGTGCTAA
+>Tnap_0076(hrcA) Score=6.5 Pos=-30 [Thermotoga naphthophila RKU-10]
+TTAGCACTCAAAAGAAGGGAGTGCTAA
+>Tlet_0014(dnaK) Score=5.9 Pos=-169 [Thermotoga lettingae TMO]
+GTATCAGTCTATAATTACGAGTGCTAT
+>Tlet_0318(groS) Score=6.5 Pos=-57 [Thermotoga lettingae TMO]
+TTAGCACTCAAACAGTTCGAGTGATAA
+>Tlet_1782(hrcA) Score=6.8 Pos=-29 [Thermotoga lettingae TMO]
+TTAGCACTCAAATGATGAGAGTGATAA
+>THA_270(groS) Score=5.9 Pos=-53 [Thermosipho africanus TCF52B]
+TTAGCAGTCAATGAATTAGAGTGACAA
+>THA_711(clpA) Score=6.6 Pos=-54 [Thermosipho africanus TCF52B]
+TTATCAGTCTAAATATATGACTGATAA
+>THA_1433(dnaK) Score=6.3 Pos=-59 [Thermosipho africanus TCF52B]
+TTATCACTCTTGACAAAAGACTGCTAA
+>THA_1433(dnaK) Score=5.2 Pos=-159 [Thermosipho africanus TCF52B]
+ATAACAAACTTATGTAACAATTGCTAT
+>THA_306(hrcA) Score=5.8 Pos=-28 [Thermosipho africanus TCF52B]
+TTATCAGACAAGGATAAAGAGTGATAA
+>Tmel_0053(groS) Score=5.8 Pos=-54 [Thermosipho melanesiensis BI429]
+TTAGCAGTCGATGATTAAGAGTGACAA
+>Tmel_0413(clpA) Score=6.3 Pos=-55 [Thermosipho melanesiensis BI429]
+TTATCAGTCTATATATGTGACTGATAA
+>Tmel_1128(dnaK) Score=5.6 Pos=-157 [Thermosipho melanesiensis BI429]
+ATAACAAACGAATGTTACGATTGCTAT
+>Tmel_1128(dnaK) Score=6.5 Pos=-57 [Thermosipho melanesiensis BI429]
+TTATCACTCTTGACAATAGAGTGATAA
+>Tmel_0089(hrcA) Score=6.1 Pos=-51 [Thermosipho melanesiensis BI429]
+TTATCAGACATAGCATAAGAGTGATAA
+>Fnod_1242(hrcA) Score=5.1 Pos=-103 [Fervidobacterium nodosum Rt17-B1]
+TTGGCAGATGGATAATAAGTTTGCTAA
+>Fnod_1544(groS) Score=5.8 Pos=-61 [Fervidobacterium nodosum Rt17-B1]
+TTAACAAACGGAATATTAGAGTGATAA
+>Fnod_0102(hsp20) Score=5.7 Pos=-244 [Fervidobacterium nodosum Rt17-B1]
+TTATCATTATTAAGTTACAACTGATAA
+>Fnod_1362(recF) Score=5.8 Pos=-93 [Fervidobacterium nodosum Rt17-B1]
+TTATCACTCCATCTTGTCAAGTGATAA
+>Fnod_1209(dnaK) Score=6.4 Pos=-82 [Fervidobacterium nodosum Rt17-B1]
+TTATCACTCTTGACAAATGATTGCTAA
+>Fnod_0310(clpB) Score=6 Pos=-85 [Fervidobacterium nodosum Rt17-B1]
+ATATCACTCTTGACATATAAGTGATAA
+>Fnod_0102(hsp20) Score=6.5 Pos=-141 [Fervidobacterium nodosum Rt17-B1]
+TTATCACTCTTGACAATTGAGTGATAA
+>Pmob_1649(dnaK) Score=5.7 Pos=-205 [Petrotoga mobilis SJ95]
+TTTTCACTCTTAGATTAAGAGTGATAT
+>Pmob_1157(groS) Score=6.9 Pos=-85 [Petrotoga mobilis SJ95]
+TTAGCACTCTTAATATTTGATTGCTAA
+>Pmob_1629(clpA) Score=6.3 Pos=-68 [Petrotoga mobilis SJ95]
+TTAGCAAATAAAAGTAACGAGTGATAA
+>Pmob_1823(hrcA) Score=5.8 Pos=-28 [Petrotoga mobilis SJ95]
+TTAGCACTTAATATGCGGGAGTGATAA
+>Kole_0886(dnaK) Score=5.6 Pos=-82 [Thermotogales bacterium TBF 19.5.1]
+ATGGCAAACTTGACATTCGATTGCTAA
+>Kole_1626(groS) Score=6.3 Pos=-71 [Thermotogales bacterium TBF 19.5.1]
+TTAGCAGACTCATATAAAGAGTGCTAA
+>Kole_1384(hrcA) Score=5.6 Pos=-28 [Thermotogales bacterium TBF 19.5.1]
+TTAGCAGTCTCCAGGGAGGAGTGCTAA

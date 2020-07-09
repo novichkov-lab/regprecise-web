@@ -1,0 +1,90 @@
+>Patl_2009(fabA) Score=6.1 Pos=-54 [Pseudoalteromonas atlantica T6c]
+AGCGTACAACTGTTCGCT
+>Patl_4031(fabR) Score=6.3 Pos=-137 [Pseudoalteromonas atlantica T6c]
+AGCTTACACTTGTACGCT
+>Patl_4032(OLE1) Score=6.3 Pos=-40 [Pseudoalteromonas atlantica T6c]
+AGCGTACAAGTGTAAGCT
+>Patl_3595(hyIII) Score=5.6 Pos=-62 [Pseudoalteromonas atlantica T6c]
+AGTGTACAAGTGTTCGCT
+>MADE_01586(plsC) Score=5.3 Pos=-121 [Alteromonas macleodii 'Deep ecotype']
+ATCGGACAAGTGTACGCT
+>MADE_02772(desC) Score=5.8 Pos=-179 [Alteromonas macleodii 'Deep ecotype']
+AGCTTACACTTGTGCGCT
+>MADE_02772(desC) Score=6.3 Pos=-156 [Alteromonas macleodii 'Deep ecotype']
+AGCGTACAACTGTACGCT
+>MADE_03581(OLE1) Score=5.7 Pos=-30 [Alteromonas macleodii 'Deep ecotype']
+AGCGAACAGATGTAAGCC
+>MADE_03143(hyIII) Score=5.7 Pos=-126 [Alteromonas macleodii 'Deep ecotype']
+AGCGAACAAGTGTGCGCT
+>GHTCC_010100001125(plsC) Score=6.3 Pos=-141 [Glaciecola sp. HTCC2999]
+AGCGTACACGTGTTAGCT
+>GHTCC_010100006274(fabA) Score=6.2 Pos=-53 [Glaciecola sp. HTCC2999]
+AGCGTACAAGTGTTCGCT
+>GHTCC_010100010803(fabR) Score=6.3 Pos=-62 [Glaciecola sp. HTCC2999]
+AGCGTACAAGTGTAAGCT
+>GHTCC_010100010798(OLE1) Score=6.3 Pos=-57 [Glaciecola sp. HTCC2999]
+AGCTTACACTTGTACGCT
+>CPS_3807(fabB) Score=5.8 Pos=-111 [Colwellia psychrerythraea 34H]
+AGTGTACAAGTGTACGCT
+>CPS_3274(fabA) Score=5.2 Pos=-65 [Colwellia psychrerythraea 34H]
+AGTGTACAAGCGTACGCT
+>ATW7_11946(plsC) Score=6.1 Pos=-109 [Alteromonadales bacterium TW-7]
+AGCGTACAGTTGTTCGCT
+>ATW7_05551(fabB) Score=5.8 Pos=-93 [Alteromonadales bacterium TW-7]
+AGAGTACAAGTGTACGCT
+>ATW7_02937(fadE) Score=6.1 Pos=-155 [Alteromonadales bacterium TW-7]
+AGCGTACAGGTGTAAGCC
+>ATW7_16882(fabR) Score=6.2 Pos=-113 [Alteromonadales bacterium TW-7]
+AGCGTACAACTGTAAGCT
+>ATW7_16877(OLE1) Score=6.2 Pos=-31 [Alteromonadales bacterium TW-7]
+AGCTTACAGTTGTACGCT
+>ATW7_12758(fabA) Score=6.4 Pos=-54 [Alteromonadales bacterium TW-7]
+AGCGTACAAGTGTACGCT
+>ATW7_00075(hyIII) Score=5.8 Pos=-48 [Alteromonadales bacterium TW-7]
+AGCGTACACTTGTACACT
+>ATW7_07904(desC) Score=5.9 Pos=-101 [Alteromonadales bacterium TW-7]
+AGCGTACACTTGTAGGCT
+>ATW7_07904(desC) Score=5.9 Pos=-127 [Alteromonadales bacterium TW-7]
+AGCGTACACTTGTGCGCT
+>PSHAa1268(desC) Score=5.3 Pos=-133 [Pseudoalteromonas haloplanktis TAC125]
+GGCGCACACGTGTAAGCC
+>PSHAa2584(plsC) Score=5.9 Pos=-92 [Pseudoalteromonas haloplanktis TAC125]
+AGCGTACACTTGTGCGCT
+>PSHAa1491(fabA) Score=6.4 Pos=-54 [Pseudoalteromonas haloplanktis TAC125]
+AGCGTACAAGTGTACGCT
+>PSHAa2896(fabR) Score=6.2 Pos=-113 [Pseudoalteromonas haloplanktis TAC125]
+AGCGTACAACTGTAAGCT
+>PSHAa2897(OLE1) Score=6.2 Pos=-31 [Pseudoalteromonas haloplanktis TAC125]
+AGCTTACAGTTGTACGCT
+>PSHAa1268(desC) Score=5.9 Pos=-160 [Pseudoalteromonas haloplanktis TAC125]
+AGCGTACACTTGTGCGCT
+>PSHAb0446(hyIII) Score=5.2 Pos=-47 [Pseudoalteromonas haloplanktis TAC125]
+AGCGTACACACGTACACT
+>PSHAa2080(fabB) Score=5.8 Pos=-93 [Pseudoalteromonas haloplanktis TAC125]
+AGAGTACAAGTGTACGCT
+>PTD2_08769(plsC) Score=5.5 Pos=-79 [Pseudoalteromonas tunicata D2]
+GGCGTACAGTTGTGCGCT
+>PTD2_10629(desC) Score=5 Pos=-48 [Pseudoalteromonas tunicata D2]
+GACGTACACTTGTGCGCT
+>PTD2_10629(desC) Score=6.1 Pos=-22 [Pseudoalteromonas tunicata D2]
+AGCTAACACTTGTACGCT
+>PTD2_19707(fabA) Score=6.1 Pos=-53 [Pseudoalteromonas tunicata D2]
+AGCGTACATCTGTTCGCT
+>PTD2_09617(fabR) Score=6.3 Pos=-129 [Pseudoalteromonas tunicata D2]
+AGCGTACAACTGTACGCT
+>PTD2_09622(OLE1) Score=6.3 Pos=-30 [Pseudoalteromonas tunicata D2]
+AGCGTACAGTTGTACGCT
+>OS145_12684(psrA) Score=5.4 Pos=-69 [Idiomarina baltica OS145]
+AGCGAACACTTGATCGCT
+>OS145_02095(fabR) Score=6.1 Pos=-104 [Idiomarina baltica OS145]
+AGCTAACACTTGTACGCT
+>OS145_02090(OLE1) Score=6.1 Pos=-80 [Idiomarina baltica OS145]
+AGCGTACAAGTGTTAGCT
+>IL1287(fabA) Score=6 Pos=-59 [Idiomarina loihiensis L2TR]
+GGCGTACAGTTGTACGCT
+>IL0918(psrA) Score=5.6 Pos=-72 [Idiomarina loihiensis L2TR]
+AGCGAACACTTGCACGCT
+>IL0277(fabR) Score=6.5 Pos=-112 [Idiomarina loihiensis L2TR]
+AGCGTACACCTGTACGCT
+>IL0278(OLE1) Score=6.5 Pos=-59 [Idiomarina loihiensis L2TR]
+AGCGTACAGGTGTACGCT

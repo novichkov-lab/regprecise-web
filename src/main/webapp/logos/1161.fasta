@@ -1,0 +1,38 @@
+>b1621(malX) Score=6.7 Pos=-146 [Escherichia coli str. K-12 substr. MG1655]
+CAGATAAAACGTTTTACCTT
+>b1621(malX) Score=6.5 Pos=-68 [Escherichia coli str. K-12 substr. MG1655]
+TTGATAAAACGTTTTATCTT
+>b1620(malI) Score=7 Pos=-126 [Escherichia coli str. K-12 substr. MG1655]
+AAGATAAAACGTTTTATCAA
+>b1620(malI) Score=6.5 Pos=-48 [Escherichia coli str. K-12 substr. MG1655]
+AAGGTAAAACGTTTTATCTG
+>CKO_01628(malX) Score=7 Pos=-148 [Citrobacter koseri ATCC BAA-895]
+CAGATAAAACGTTTTATCAA
+>CKO_01628(malX) Score=6.9 Pos=-69 [Citrobacter koseri ATCC BAA-895]
+TAGGTAAAACGTTTTATCTT
+>CKO_01626(malI) Score=4.8 Pos=-248 [Citrobacter koseri ATCC BAA-895]
+CAGCATAAACGTTTTACCCA
+>CKO_01626(malI) Score=6.7 Pos=-127 [Citrobacter koseri ATCC BAA-895]
+AAGATAAAACGTTTTACCTA
+>CKO_01626(malI) Score=6.1 Pos=-48 [Citrobacter koseri ATCC BAA-895]
+TTGATAAAACGTTTTATCTG
+>KPN_01512(malX) Score=6.9 Pos=-68 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TCGATAAAACGTTTTATCTT
+>KPN_01513(malI) Score=6.6 Pos=-46 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAGATAAAACGTTTTATCGA
+>Ent638_1827(malX) Score=6.8 Pos=-149 [Enterobacter sp. 638]
+ACGGTAAAACGTTTTATCAA
+>Ent638_1827(malX) Score=6.4 Pos=-70 [Enterobacter sp. 638]
+TTGGTAAAACGTTTTATCTT
+>Ent638_1828(malI) Score=6.7 Pos=-127 [Enterobacter sp. 638]
+AAGATAAAACGTTTTACCAA
+>Ent638_1828(malI) Score=5.9 Pos=-48 [Enterobacter sp. 638]
+TTGATAAAACGTTTTACCGT
+>Spro_2270(malX) Score=4.6 Pos=-159 [Serratia proteamaculans 568]
+TCAGTAAAACGTTTTACTGG
+>Spro_2270(malX) Score=6.9 Pos=-81 [Serratia proteamaculans 568]
+TAGGTAAAACGTTTTATCTT
+>Spro_2271(malI) Score=6.7 Pos=-137 [Serratia proteamaculans 568]
+AAGATAAAACGTTTTACCTA
+>Spro_2271(malI) Score=5 Pos=-59 [Serratia proteamaculans 568]
+CCAGTAAAACGTTTTACTGA

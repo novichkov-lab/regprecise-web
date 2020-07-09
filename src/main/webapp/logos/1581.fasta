@@ -1,0 +1,380 @@
+>VC2000(gapA) Score=5.1 Pos=-55 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATTTTACTACC
+>VC2646(ppc) Score=4.7 Pos=-28 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATTTTTTTTCA
+>VC2646(ppc) Score=4.1 Pos=-172 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAAGAAATTTTCA
+>VC0336(gpmM) Score=5.2 Pos=-60 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAGTAAAATTACG
+>VC1828(ygaW) Score=5.3 Pos=-246 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATAAAATTACC
+>VC0734(aceB) Score=5.5 Pos=-256 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATTAAATTACG
+>VC2279(pepD) Score=4.6 Pos=-211 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGAAATTAAATTACA
+>VC2279(pepD) Score=5.1 Pos=-136 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGTAATTTAATTACA
+>VCA1045(mtlA) Score=5 Pos=-422 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAGCTTAATTACA
+>VCA0563(pntA) Score=5.1 Pos=-85 [Vibrio cholerae O1 biovar eltor str. N16961]
+CGTAATTGAATTACA
+>VC0374(pgi) Score=4.9 Pos=-138 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGAAAATTAATTACA
+>VC1869(pflA) Score=4.7 Pos=-42 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATAAAATAACG
+>VCA1029(glgX) Score=5.1 Pos=-99 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGAAATAAAATTACA
+>VC2361(grcA) Score=5.4 Pos=-247 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAGTAAAATTACA
+>VC2013(ptsG) Score=4.5 Pos=-249 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATTTTGTTACT
+>VC2013(ptsG) Score=4.1 Pos=-98 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGAAACTTAATTTCG
+>VC1148(hexR) Score=4.1 Pos=-282 [Vibrio cholerae O1 biovar eltor str. N16961]
+AGAAATAAAATTTCA
+>VC2373(gltB) Score=5.7 Pos=-487 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGTAATTTAATTACA
+>VV20370(nirB) Score=4.7 Pos=-82 [Vibrio vulnificus CMCP6]
+CGTAATTGATTTACA
+>VV1_1369(ppc) Score=5 Pos=-28 [Vibrio vulnificus CMCP6]
+TGTAATTTTTTTACG
+>VV1_1369(ppc) Score=4.7 Pos=-175 [Vibrio vulnificus CMCP6]
+TGTAATAAATTTTCA
+>VV20370(nirB) Score=4.6 Pos=-231 [Vibrio vulnificus CMCP6]
+TGAAAAAATATTACA
+>VV1_1281(gpmM) Score=5.2 Pos=-90 [Vibrio vulnificus CMCP6]
+TGTAGTAAAATTACG
+>VV1_2181(ygaW) Score=4.3 Pos=-154 [Vibrio vulnificus CMCP6]
+GGTTATTAATTTACA
+>VV1_2181(ygaW) Score=5.4 Pos=-237 [Vibrio vulnificus CMCP6]
+TGTAGTTTAATTACG
+>VV1_0450(aceB) Score=5.5 Pos=-310 [Vibrio vulnificus CMCP6]
+TGTAATTAAATTACG
+>VV1_0450(aceB) Score=4.4 Pos=-187 [Vibrio vulnificus CMCP6]
+TGTAAGTTAATTAAA
+>VV1_3140(gapA) Score=5.1 Pos=-55 [Vibrio vulnificus CMCP6]
+TGTAATTTTACTACC
+>VV1_0638(mtlA) Score=4.4 Pos=-260 [Vibrio vulnificus CMCP6]
+TGTTATTAACTTACA
+>VV20317(pntA) Score=5.1 Pos=-86 [Vibrio vulnificus CMCP6]
+TGTATTTTAACTACA
+>VV1_1396(pgi) Score=4.7 Pos=-141 [Vibrio vulnificus CMCP6]
+TGAAAAAAAATTACA
+>VV1_2095(pflA) Score=4.9 Pos=-46 [Vibrio vulnificus CMCP6]
+TGTAATAAAATAACA
+>VV1_0542(grcA) Score=5 Pos=-247 [Vibrio vulnificus CMCP6]
+TGTAGTAAATTTACA
+>VV1_1343(tpiA) Score=4.4 Pos=-78 [Vibrio vulnificus CMCP6]
+CGTAGATTTTTTACA
+>VV1_2999(ptsG) Score=4.5 Pos=-321 [Vibrio vulnificus CMCP6]
+TGTAATTTTGTTACT
+>VV1_0881(pckA) Score=4.5 Pos=-239 [Vibrio vulnificus CMCP6]
+CGTAATTAAATAACC
+>VV1_0333(pepD) Score=5.4 Pos=-257 [Vibrio vulnificus CMCP6]
+GGTAATTAAATTACA
+>VV1_0333(pepD) Score=4.5 Pos=-331 [Vibrio vulnificus CMCP6]
+AGAAATTTTATTACA
+>VV1_0553(gltB) Score=5.3 Pos=-504 [Vibrio vulnificus CMCP6]
+TGTAAATTAATTACA
+>VIBHAR_03049(gapA) Score=5.1 Pos=-55 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTTTACTACC
+>VIBHAR_00045(ppc) Score=4.9 Pos=-142 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTAATTTTCA
+>VIBHAR_00045(ppc) Score=4.8 Pos=5 [Vibrio harveyi ATCC BAA-1116]
+TGTAGTTTTTTTACG
+>VIBHAR_00121(gpmM) Score=5.2 Pos=-91 [Vibrio harveyi ATCC BAA-1116]
+TGTAGTAAAATTACG
+>VIBHAR_01621(ygaW) Score=4.3 Pos=-150 [Vibrio harveyi ATCC BAA-1116]
+GGTTATTAATTTACA
+>VIBHAR_01621(ygaW) Score=4.5 Pos=-244 [Vibrio harveyi ATCC BAA-1116]
+AGTAAATAAATTACG
+>VIBHAR_01157(pepD) Score=5.7 Pos=-256 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTAAATTACA
+>VIBHAR_01157(pepD) Score=4.6 Pos=-330 [Vibrio harveyi ATCC BAA-1116]
+AGAAATTTAATTACA
+>VIBHAR_01041(aceB) Score=5.5 Pos=-305 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTTAATTACG
+>VIBHAR_00834(mtlA) Score=4.5 Pos=-212 [Vibrio harveyi ATCC BAA-1116]
+TGTTATTAAGTTACA
+>VIBHAR_05733(pntA) Score=4.4 Pos=-290 [Vibrio harveyi ATCC BAA-1116]
+CGTAGTTATTTTTCA
+>VIBHAR_05733(pntA) Score=4.5 Pos=-225 [Vibrio harveyi ATCC BAA-1116]
+AGTATTTTTATTACA
+>VIBHAR_00012(pgi) Score=4.7 Pos=-138 [Vibrio harveyi ATCC BAA-1116]
+TGAAAAAAAATTACA
+>VIBHAR_01544(pflA) Score=4.9 Pos=-138 [Vibrio harveyi ATCC BAA-1116]
+TGTAATAAAATAACA
+>VIBHAR_04820(glgX) Score=5.1 Pos=-35 [Vibrio harveyi ATCC BAA-1116]
+AGTAATTTAATTACA
+>VIBHAR_01575(glgC) Score=4.5 Pos=-251 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTTAGTTCCA
+>VIBHAR_00943(grcA) Score=5 Pos=-249 [Vibrio harveyi ATCC BAA-1116]
+TGTAGTAAATTTACA
+>VIBHAR_00709(tpiA) Score=4.4 Pos=-73 [Vibrio harveyi ATCC BAA-1116]
+CGTAGATTTTTTACA
+>VIBHAR_02900(ptsG) Score=4.5 Pos=-322 [Vibrio harveyi ATCC BAA-1116]
+TGTAATTTTGTTACT
+>VIBHAR_02900(ptsG) Score=4.1 Pos=-171 [Vibrio harveyi ATCC BAA-1116]
+TGAAACTAAATTTCG
+>VIBHAR_00928(gltB) Score=5.3 Pos=-509 [Vibrio harveyi ATCC BAA-1116]
+TGTAAATAAATTACA
+>VP2157(gapA) Score=5.1 Pos=-55 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTTTACTACC
+>VP2829(gpmM) Score=5.2 Pos=-91 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAGTAAAATTACG
+>VP2761(ppc) Score=4.9 Pos=-174 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTAATTTTCA
+>VP2761(ppc) Score=4.8 Pos=-28 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAGTTTTTTTACG
+>VP1070(ygaW) Score=4.3 Pos=-150 [Vibrio parahaemolyticus RIMD 2210633]
+GGTTATTAATTTACA
+>VPA0987(nirB) Score=4.9 Pos=-84 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTGATTTACA
+>VP0671(pepD) Score=4.6 Pos=-329 [Vibrio parahaemolyticus RIMD 2210633]
+AGAAATTTAATTACA
+>VP0671(pepD) Score=5.7 Pos=-255 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTAAATTACA
+>VP0583(aceB) Score=5.5 Pos=-305 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTAAATTACG
+>VP0370(mtlA) Score=4.5 Pos=-211 [Vibrio parahaemolyticus RIMD 2210633]
+TGTTATTAAGTTACA
+>VPA0922(pntA) Score=4.6 Pos=-227 [Vibrio parahaemolyticus RIMD 2210633]
+AGTATTTAAATTACA
+>VP2731(pgi) Score=4.7 Pos=-138 [Vibrio parahaemolyticus RIMD 2210633]
+TGAAAAAAAATTACA
+>VP0992(pflA) Score=4.9 Pos=-45 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATAAAATAACA
+>VPA1645(glgX) Score=5.1 Pos=-114 [Vibrio parahaemolyticus RIMD 2210633]
+AGTAATTAAATTACA
+>VP0239(tpiA) Score=4.4 Pos=-55 [Vibrio parahaemolyticus RIMD 2210633]
+CGTAGATTTTTTACA
+>VP0497(grcA) Score=5 Pos=-249 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAGTAAATTTACA
+>VP2046(ptsG) Score=4.5 Pos=-322 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAATTTTGTTACT
+>VP2046(ptsG) Score=4.6 Pos=-291 [Vibrio parahaemolyticus RIMD 2210633]
+TGTATTTTATTTACG
+>VP0484(gltB) Score=5.2 Pos=-308 [Vibrio parahaemolyticus RIMD 2210633]
+TGTAACTAAATTACA
+>VSAK1_09453(ppc) Score=5.1 Pos=-140 [Vibrio shilonii AK1]
+TGTAATAAAATTTCA
+>VSAK1_09453(ppc) Score=5.6 Pos=5 [Vibrio shilonii AK1]
+TGTAGTTAAATTACA
+>VSAK1_12617(gpmM) Score=5.2 Pos=-63 [Vibrio shilonii AK1]
+TGTAGTAAAATTACG
+>VSAK1_05765(nirB) Score=4.9 Pos=-84 [Vibrio shilonii AK1]
+TGTAATTGATTTACA
+>VSAK1_05765(nirB) Score=4.9 Pos=-265 [Vibrio shilonii AK1]
+TGTAGGTAAATTACA
+>VSAK1_00485(ygaW) Score=5.1 Pos=-157 [Vibrio shilonii AK1]
+TGTAATCAAATTACA
+>VSAK1_20779(mtlA) Score=5.6 Pos=-390 [Vibrio shilonii AK1]
+TGTAATAAAATTACA
+>VSAK1_20779(mtlA) Score=4.3 Pos=-193 [Vibrio shilonii AK1]
+TGTAATTTATCAACG
+>VSAK1_14807(pntA) Score=4.4 Pos=-85 [Vibrio shilonii AK1]
+TGTTTTTTTATTACA
+>VSAK1_09208(pgi) Score=4.4 Pos=-183 [Vibrio shilonii AK1]
+TGAAAAATTATTACG
+>VSAK1_00270(pflA) Score=4.7 Pos=-44 [Vibrio shilonii AK1]
+TGTAATAAAATGACG
+>VSAK1_18594(glgX) Score=5.3 Pos=-112 [Vibrio shilonii AK1]
+TGAAATTAAATTACA
+>VSAK1_04037(glgC) Score=4.5 Pos=-237 [Vibrio shilonii AK1]
+TGTAATCTTATTTCA
+>VSAK1_04037(glgC) Score=5.3 Pos=-57 [Vibrio shilonii AK1]
+TGTAATTTAACTACC
+>VSAK1_26880(ptsG) Score=4.9 Pos=-321 [Vibrio shilonii AK1]
+TGTAATTATGTTACG
+>VSAK1_26880(ptsG) Score=4.1 Pos=-170 [Vibrio shilonii AK1]
+TGAAACTAAATTTCG
+>VSAK1_13982(gltB) Score=4.7 Pos=-483 [Vibrio shilonii AK1]
+TGAAACTAAATTACA
+>VS_2890(ppc) Score=5 Pos=-28 [Vibrio splendidus LGP32]
+TGTAATTTTTTTACG
+>VS_2890(ppc) Score=5.3 Pos=-173 [Vibrio splendidus LGP32]
+TGTAATTAAATTTCA
+>VS_II0668(nirB) Score=4.7 Pos=-85 [Vibrio splendidus LGP32]
+CGTAATTGATTTACA
+>VS_0235(gpmM) Score=5.2 Pos=-64 [Vibrio splendidus LGP32]
+TGTAGTAAAATTACG
+>VS_1130(ygaW) Score=4.7 Pos=-247 [Vibrio splendidus LGP32]
+TGTTGTTTAATTACG
+>VS_2422(pepD) Score=4.5 Pos=-605 [Vibrio splendidus LGP32]
+TGTAAAATAATTCCA
+>VS_2422(pepD) Score=5.5 Pos=-256 [Vibrio splendidus LGP32]
+CGTAATTAAATTACA
+>VS_0288(pgi) Score=4.7 Pos=-143 [Vibrio splendidus LGP32]
+TGAAAAAAAATTACA
+>VS_1082(glgC) Score=4.5 Pos=-366 [Vibrio splendidus LGP32]
+TGTAACTTAATTAAA
+>VS_0498(grcA) Score=5 Pos=-250 [Vibrio splendidus LGP32]
+TGTAGTAAATTTACA
+>VS_2912(tpiA) Score=4.1 Pos=-70 [Vibrio splendidus LGP32]
+TGTTATATTATTTCG
+>VS_1032(ptsG) Score=4.5 Pos=-322 [Vibrio splendidus LGP32]
+TGTAATTTTGTTACT
+>VS_1032(ptsG) Score=4.1 Pos=-172 [Vibrio splendidus LGP32]
+TGAAACTAAATTTCG
+>VS_0131(pckA) Score=4.4 Pos=-242 [Vibrio splendidus LGP32]
+CGTAATAAAATCACC
+>VS_0474(gltB) Score=4.7 Pos=-484 [Vibrio splendidus LGP32]
+TGAAAAAAAATTACA
+>VF_0913(gapA) Score=5.1 Pos=-62 [Vibrio fischeri ES114]
+TGTAATTTTACTACC
+>VF_2308(ppc) Score=4.7 Pos=-177 [Vibrio fischeri ES114]
+TGAAATAAATTTACA
+>VF_2308(ppc) Score=5.1 Pos=-31 [Vibrio fischeri ES114]
+TGTAACAAAATTACA
+>VF_0776(nirB) Score=5 Pos=-184 [Vibrio fischeri ES114]
+TGTAAAAAAACTACA
+>VF_0202(gpmM) Score=5.4 Pos=-63 [Vibrio fischeri ES114]
+TGTAGTAAAATTACA
+>VF_0967(ygaW) Score=5 Pos=-164 [Vibrio fischeri ES114]
+TGTAAATTTACTACA
+>VF_0967(ygaW) Score=5.3 Pos=-226 [Vibrio fischeri ES114]
+TGTAATTTTATTACC
+>VF_0736(pepD) Score=5.4 Pos=-200 [Vibrio fischeri ES114]
+TGTAATTTTATTACG
+>VF_0736(pepD) Score=4.6 Pos=-275 [Vibrio fischeri ES114]
+AGAAATTAAATTACA
+>VF_1973(aceB) Score=5.5 Pos=-295 [Vibrio fischeri ES114]
+TGTAATTTAATTACG
+>VF_A0586(pntA) Score=4.9 Pos=-87 [Vibrio fischeri ES114]
+TGTCATTTTATTACA
+>VF_A0806(glgC) Score=4.1 Pos=-84 [Vibrio fischeri ES114]
+TGTAAATAATTTATG
+>VF_2115(grcA) Score=4.7 Pos=-238 [Vibrio fischeri ES114]
+TGTAGTAAATTTACC
+>VF_2115(grcA) Score=4.4 Pos=-107 [Vibrio fischeri ES114]
+TGTAGTTTTTTGACA
+>VF_0206(tpiA) Score=4.2 Pos=-52 [Vibrio fischeri ES114]
+TGTTATATTTTTACG
+>VF_1894(ptsH) Score=5.2 Pos=-206 [Vibrio fischeri ES114]
+TGTAAAATAATTACA
+>VF_0891(hexR) Score=4.6 Pos=-148 [Vibrio fischeri ES114]
+TGTTATTAAAATACA
+>VF_2124(gltB) Score=4.3 Pos=-299 [Vibrio fischeri ES114]
+TGTAGGATAGTTACA
+>VSAL_I0798(nirB) Score=4.6 Pos=-77 [Vibrio salmonicida LFI1238]
+CGTAATTGATCTACA
+>VSAL_I0798(nirB) Score=5.2 Pos=-184 [Vibrio salmonicida LFI1238]
+TGTAATAAAACTACG
+>VSAL_I2754(ppc) Score=5.6 Pos=-30 [Vibrio salmonicida LFI1238]
+TGTAATAAAATTACA
+>VSAL_I2754(ppc) Score=4.7 Pos=-175 [Vibrio salmonicida LFI1238]
+TGAAATAAATTTACA
+>VSAL_I3050(gpmM) Score=5.4 Pos=-45 [Vibrio salmonicida LFI1238]
+TGTAGTAAAATTACA
+>VSAL_I1909(ygaW) Score=5.1 Pos=-275 [Vibrio salmonicida LFI1238]
+TGAAATTAAATTACG
+>VSAL_I1909(ygaW) Score=5 Pos=-213 [Vibrio salmonicida LFI1238]
+TGTAAATTTACTACA
+>VSAL_I2439(aceB) Score=5.4 Pos=-295 [Vibrio salmonicida LFI1238]
+TGTAATTTTATTACG
+>VSAL_I1849(gapA) Score=5.1 Pos=-63 [Vibrio salmonicida LFI1238]
+TGTAATTTTACTACC
+>VSAL_I2813(mtlA) Score=4.9 Pos=-422 [Vibrio salmonicida LFI1238]
+CGTAATAAAATTTCA
+>VSAL_I2813(mtlA) Score=4.6 Pos=-207 [Vibrio salmonicida LFI1238]
+TGTAGTAAATTTTCA
+>VSAL_II0623(pntA) Score=4.9 Pos=-87 [Vibrio salmonicida LFI1238]
+TGTCATTTTATTACA
+>VSAL_II0232(glgX) Score=4 Pos=-147 [Vibrio salmonicida LFI1238]
+GGTGATAAATTTACG
+>VSAL_I2553(grcA) Score=4.2 Pos=-235 [Vibrio salmonicida LFI1238]
+AGTAAGTTTACTACA
+>VSAL_I0283(tpiA) Score=4.2 Pos=-52 [Vibrio salmonicida LFI1238]
+TGTTATATTTTTACG
+>VSAL_I2357(ptsH) Score=5.2 Pos=-205 [Vibrio salmonicida LFI1238]
+TGTAAAATAATTACA
+>VSAL_I1956(focA) Score=5.3 Pos=-357 [Vibrio salmonicida LFI1238]
+TGAAATTAAATTACA
+>VSAL_I2031(hexR) Score=4 Pos=-274 [Vibrio salmonicida LFI1238]
+TGAAAATAAACCACA
+>VSAL_I1956(focA) Score=4.5 Pos=-306 [Vibrio salmonicida LFI1238]
+TGTCATTTTATTTCA
+>VSAL_I0973(pepD) Score=4.1 Pos=-198 [Vibrio salmonicida LFI1238]
+CGTAACTAAATAACG
+>VSAL_I0973(pepD) Score=4.6 Pos=-272 [Vibrio salmonicida LFI1238]
+TGAAACTTTATTACA
+>VAS14_06013(gapA) Score=5.1 Pos=-55 [Vibrio angustum S14]
+TGTAATTTTACTACC
+>VAS14_21427(ppc) Score=4.6 Pos=-163 [Vibrio angustum S14]
+TGAAACAAAATTACA
+>VAS14_21427(ppc) Score=5 Pos=-28 [Vibrio angustum S14]
+TGTAACTAAATTACG
+>VAS14_21577(gpmM) Score=5.4 Pos=-108 [Vibrio angustum S14]
+TGTAGTAAAATTACA
+>VAS14_16781(pepD) Score=4.4 Pos=-364 [Vibrio angustum S14]
+CGTAATTAACTTTCA
+>VAS14_06773(aceB) Score=5.4 Pos=-297 [Vibrio angustum S14]
+TGTAATAAAATTACG
+>VAS14_11949(pntA) Score=5 Pos=-85 [Vibrio angustum S14]
+TGTATTTTTACTACA
+>VAS14_06518(pflA) Score=4.9 Pos=-46 [Vibrio angustum S14]
+TGTAATAAAATAACA
+>VAS14_07684(grcA) Score=4.4 Pos=-230 [Vibrio angustum S14]
+TGTAAAATAACAACA
+>VAS14_21527(tpiA) Score=4.3 Pos=-57 [Vibrio angustum S14]
+TATATTTTTACTACA
+>VAS14_23029(pckA) Score=5.1 Pos=-295 [Vibrio angustum S14]
+TGAAATATAATTACA
+>VAS14_01376(lctP) Score=5 Pos=-406 [Vibrio angustum S14]
+TGTAGTTTAATTACT
+>VAS14_06508(focA) Score=4.5 Pos=-115 [Vibrio angustum S14]
+TGTTATAAAATTTCA
+>VAS14_06508(focA) Score=5.1 Pos=-219 [Vibrio angustum S14]
+TGTAACAAAATTACA
+>VAS14_07734(gltB) Score=4.6 Pos=-495 [Vibrio angustum S14]
+CGTAAATAAAATACA
+>PBPRA2602(gapA) Score=4.5 Pos=-55 [Photobacterium profundum SS9]
+TGTAATTTTACCACC
+>PBPRA0265(ppc) Score=4.9 Pos=-28 [Photobacterium profundum SS9]
+TGTAACAAAATTACG
+>PBPRA0265(ppc) Score=4 Pos=-163 [Photobacterium profundum SS9]
+CGAAATAAAGTTTCA
+>PBPRA1428(nirB) Score=5.2 Pos=-174 [Photobacterium profundum SS9]
+TGTAATTTAGTTACA
+>PBPRA2224(dld) Score=4.8 Pos=-389 [Photobacterium profundum SS9]
+CGTTATTTAATTACA
+>PBPRA0224(gpmM) Score=5.4 Pos=-93 [Photobacterium profundum SS9]
+TGTAGTAAAATTACA
+>PBPRA0737(aceB) Score=5.2 Pos=-303 [Photobacterium profundum SS9]
+GGTAATTAAATTACG
+>PBPRA0833(pepD) Score=5 Pos=-713 [Photobacterium profundum SS9]
+CGTAACTTAATTACA
+>PBPRA0833(pepD) Score=4.5 Pos=-639 [Photobacterium profundum SS9]
+TGAAAGTTTATTACA
+>PBPRB0363(mtlA) Score=4.6 Pos=-210 [Photobacterium profundum SS9]
+TGTAATTCACTTACA
+>PBPRA3328(pgi) Score=4.2 Pos=-135 [Photobacterium profundum SS9]
+AGTTGTAAAATTACA
+>PBPRB0412(glgX) Score=4.7 Pos=-336 [Photobacterium profundum SS9]
+CGTAATAAAAATACG
+>PBPRB0405(glgC) Score=4.6 Pos=-146 [Photobacterium profundum SS9]
+TGAAATGAAATTACA
+>PBPRB0405(glgC) Score=4.3 Pos=-99 [Photobacterium profundum SS9]
+TGTAATTATACATCA
+>PBPRA0235(tpiA) Score=4.5 Pos=-18 [Photobacterium profundum SS9]
+TTTAGTTAATTTACA
+>PBPRA0556(grcA) Score=5.4 Pos=-234 [Photobacterium profundum SS9]
+TGTAATTTTACTACA
+>PBPRA1203(ptsG) Score=5.1 Pos=-298 [Photobacterium profundum SS9]
+TGAAATTTTATTACA
+>PBPRA1203(ptsG) Score=4.8 Pos=-176 [Photobacterium profundum SS9]
+TGAAATTAAATTTCA
+>PBPRA2430(hexR) Score=5.1 Pos=-225 [Photobacterium profundum SS9]
+TGAAATTAAACTACA
+>PBPRA2430(hexR) Score=4.4 Pos=-80 [Photobacterium profundum SS9]
+AGTAGTATAATTTCA
+>PBPRA2357(lctP) Score=4.6 Pos=-428 [Photobacterium profundum SS9]
+CGTAATTTTACGACA
+>PBPRA2223(lctP) Score=4.1 Pos=-437 [Photobacterium profundum SS9]
+TGTAATATAACACCA
+>PBPRA2431(pykA) Score=4.8 Pos=-75 [Photobacterium profundum SS9]
+TGTAGTAATATTTCA
+>PBPRB1262(eda) Score=5.1 Pos=-137 [Photobacterium profundum SS9]
+TGTAATTTTATTTCA
+>PBPRA0542(gltB) Score=4.3 Pos=-295 [Photobacterium profundum SS9]
+TGTAGGATAGTTACA

@@ -1,0 +1,158 @@
+>LBA0516(nagR) Score=4.4 Pos=-66 [Lactobacillus acidophilus NCFM]
+AATGAAATCTAGACCAATTT
+>LBA0462(glmS) Score=4.4 Pos=-52 [Lactobacillus acidophilus NCFM]
+AAAATAAACTAGTCCATTAA
+>LBA0462(glmS) Score=4.6 Pos=-28 [Lactobacillus acidophilus NCFM]
+ATATTGAACTAGACCAAAGG
+>LBA1948(nagB) Score=5.6 Pos=-57 [Lactobacillus acidophilus NCFM]
+AAAATGGTCTATTCCATTTT
+>LBA1948(nagB) Score=5.4 Pos=-37 [Lactobacillus acidophilus NCFM]
+ATAATGGACTAGACCATTAA
+>LBA0491(celB) Score=4.9 Pos=-60 [Lactobacillus acidophilus NCFM]
+ATAGAGGTATATACCGAATT
+>LBA1947(PF00248) Score=5.4 Pos=-102 [Lactobacillus acidophilus NCFM]
+TTAATGGTCTAGTCCATTAT
+>LBA1947(PF00248) Score=5.6 Pos=-82 [Lactobacillus acidophilus NCFM]
+AAAATGGAATAGACCATTTT
+>LBA0143(LBA0143) Score=5.2 Pos=-95 [Lactobacillus acidophilus NCFM]
+AAATTGGTCAATACCAGTTT
+>LBA0144(nagA2) Score=5.2 Pos=-80 [Lactobacillus acidophilus NCFM]
+AAACTGGTATTGACCAATTT
+>LVIS_0539(nagA) Score=5.3 Pos=-66 [Lactobacillus brevis ATCC 367]
+TTTCTGGTCTATACCGATTA
+>LVIS_1312(pgi) Score=5.1 Pos=-82 [Lactobacillus brevis ATCC 367]
+AATGTGGACTAGACCATTTA
+>LVIS_1312(pgi) Score=4.5 Pos=-43 [Lactobacillus brevis ATCC 367]
+ATAATGGACTAGTCAATAAT
+>LVIS_0687(glmS) Score=5.3 Pos=-106 [Lactobacillus brevis ATCC 367]
+ATTTCAGTCTATACCAATTT
+>LVIS_0689(nagB) Score=5.4 Pos=-58 [Lactobacillus brevis ATCC 367]
+AAATCGGTCTAGATCATTTA
+>LVIS_0689(nagB) Score=5 Pos=-38 [Lactobacillus brevis ATCC 367]
+CAATTGGACTATACCATTAG
+>LSEI_1808(nagA) Score=5.3 Pos=-73 [Lactobacillus casei ATCC 334]
+ATCTTGGTCTATACCAGTTA
+>LSEI_1019(glmS) Score=5.3 Pos=-159 [Lactobacillus casei ATCC 334]
+AAATTAATATAGACCAATAT
+>LSEI_1019(glmS) Score=5.2 Pos=-48 [Lactobacillus casei ATCC 334]
+AAATCTGTCTAAACCAATTT
+>LSEI_2889(nagB) Score=5 Pos=-77 [Lactobacillus casei ATCC 334]
+ATTACGGTATAGACCACTAT
+>LSEI_2889(nagB) Score=5.1 Pos=-34 [Lactobacillus casei ATCC 334]
+ACATTGGACTAGACCAGATA
+>LBUL_2010(nagB) Score=4.5 Pos=-92 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+TTATCGGTCTAGACCTTGAC
+>LBUL_2010(nagB) Score=5.7 Pos=-53 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+AAAATGGACTATACCAATAT
+>LBUL_0440(glmS) Score=4.7 Pos=-29 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+AAATTGAACTAGACCAAAGG
+>LBUL_2009(PF00248) Score=5.7 Pos=-166 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+ATATTGGTATAGTCCATTTT
+>LBUL_2009(PF00248) Score=4.5 Pos=-127 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+GTCAAGGTCTAGACCGATAA
+>LBUL_0170(LBA0143) Score=4.6 Pos=-85 [Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+AAACTGGTATAGGCTATTTT
+>LAF_0382(glmS) Score=4.9 Pos=-47 [Lactobacillus fermentum IFO 3956]
+GAATTTATCTATACCAATTT
+>lhv_0534(nagR) Score=4.5 Pos=-35 [Lactobacillus helveticus DPC 4571]
+AATGCAATCTAGACCAATTT
+>lhv_2077(nagB) Score=5.6 Pos=-54 [Lactobacillus helveticus DPC 4571]
+AAAATGGTCTATTCCATTTT
+>lhv_2077(nagB) Score=5.3 Pos=-34 [Lactobacillus helveticus DPC 4571]
+ATAATGGACTAGACCAGTAA
+>lhv_0491(glmS) Score=4.9 Pos=-131 [Lactobacillus helveticus DPC 4571]
+AAAATTGATTATACCAATTT
+>lhv_2076(PF00248) Score=5.3 Pos=-103 [Lactobacillus helveticus DPC 4571]
+TTACTGGTCTAGTCCATTAT
+>lhv_2076(PF00248) Score=5.6 Pos=-83 [Lactobacillus helveticus DPC 4571]
+AAAATGGAATAGACCATTTT
+>LJ1581(glmS) Score=5.1 Pos=-130 [Lactobacillus johnsonii NCC 533]
+CTTTTGATATAGACCAATTA
+>LJ1581(glmS) Score=4.4 Pos=-29 [Lactobacillus johnsonii NCC 533]
+TAAATGAACTATACCAAAGG
+>LJ0531 Score=5.8 Pos=-64 [Lactobacillus johnsonii NCC 533]
+AAATAGGTATATACCAATTA
+>LJ1822(PF00248) Score=5.4 Pos=-109 [Lactobacillus johnsonii NCC 533]
+TCATTGGTCTAGTCCATTAT
+>LJ1822(PF00248) Score=5.4 Pos=-81 [Lactobacillus johnsonii NCC 533]
+AAATTGGTCTAGTCAAATTA
+>LJ1823(nagB) Score=5.4 Pos=-65 [Lactobacillus johnsonii NCC 533]
+TAATTTGACTAGACCAATTT
+>LJ1823(nagB) Score=5.4 Pos=-37 [Lactobacillus johnsonii NCC 533]
+ATAATGGACTAGACCAATGA
+>lp_0562(nagA) Score=5.2 Pos=-55 [Lactobacillus plantarum WCFS1]
+AGTTTGGTCTATACCGATTA
+>lp_0822(glmS) Score=4.1 Pos=-213 [Lactobacillus plantarum WCFS1]
+AGGTTAGACTAGACCAATTG
+>lp_2531(nagE) Score=4.2 Pos=-100 [Lactobacillus plantarum WCFS1]
+ACATTGGTCTATACACTTAG
+>lp_2969(nagE) Score=5 Pos=-97 [Lactobacillus plantarum WCFS1]
+CCAATGGACTATACCAATAA
+>lp_0226(nagB) Score=5.4 Pos=-60 [Lactobacillus plantarum WCFS1]
+ATTTTAGTCTAGACCAATAT
+>lp_0226(nagB) Score=4.8 Pos=-39 [Lactobacillus plantarum WCFS1]
+CAATTGGACTATACCAAACA
+>LAR_0271(nagR) Score=4.2 Pos=-82 [Lactobacillus reuteri JCM 1112]
+AAATTGGTCTAGATTTTTGG
+>LAR_0405(glmS) Score=4.4 Pos=-134 [Lactobacillus reuteri JCM 1112]
+TAAATCATATAGACCAATCT
+>LAR_0405(glmS) Score=4.4 Pos=-43 [Lactobacillus reuteri JCM 1112]
+CTAGTTATCTATACCAATTT
+>LGG_01862(nagA) Score=4.5 Pos=-66 [Lactobacillus rhamnosus GG]
+AGTCTGGTCTATACCGGTTA
+>LGG_02913(nagB) Score=5.1 Pos=-78 [Lactobacillus rhamnosus GG]
+AATTAGGTATAGACCATTGT
+>LGG_02913(nagB) Score=5.3 Pos=-35 [Lactobacillus rhamnosus GG]
+ATATTGGACTAGACCAGATA
+>LGG_00983(glmS) Score=4.8 Pos=-47 [Lactobacillus rhamnosus GG]
+AAACCTGTCTAAACCAATTT
+>LSA1588(nagA) Score=5.7 Pos=-56 [Lactobacillus sakei subsp. sakei 23K]
+TTTTTGGTCTATACCATTTA
+>LSA1355(glmS) Score=4 Pos=-137 [Lactobacillus sakei subsp. sakei 23K]
+ACTCAGGGCTATACCAATGT
+>LSA1355(glmS) Score=5.4 Pos=-114 [Lactobacillus sakei subsp. sakei 23K]
+TAATTGAAATATACCAATAA
+>LSA0060(nagE) Score=5.3 Pos=-150 [Lactobacillus sakei subsp. sakei 23K]
+TATACGGTATAGACCAAAAT
+>LSA0060(nagE) Score=5.1 Pos=-95 [Lactobacillus sakei subsp. sakei 23K]
+TTAAAGGTCTATACCAACTA
+>LSA0417(nagB) Score=5.2 Pos=-55 [Lactobacillus sakei subsp. sakei 23K]
+TAATTGGACTATACCAATGG
+>LSL_1466(nagA) Score=5.5 Pos=-146 [Lactobacillus salivarius subsp. salivarius UCC118]
+GTTTTGGTCTATACCAATTA
+>LSL_1466(nagA) Score=5.2 Pos=-93 [Lactobacillus salivarius subsp. salivarius UCC118]
+TTCATGGTCTATACCATTTA
+>LSL_1627(glmS) Score=5.1 Pos=-58 [Lactobacillus salivarius subsp. salivarius UCC118]
+ATCAAGGTCTATACCAATTT
+>LSL_1465(nagB) Score=5.2 Pos=-92 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAAATGGTATAGACCATGAA
+>LSL_1465(nagB) Score=5.5 Pos=-39 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAATTGGTATAGACCAAAAC
+>LEUM_0425(nagA) Score=5.8 Pos=-82 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TAATAGGTCTAGACCAATTA
+>LEUM_0354(nagB) Score=5.4 Pos=-50 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+ATATTGGTATAGACCAAAAC
+>LEUM_0354(nagB) Score=5.8 Pos=-35 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+AAAACGGTATAGACCAATTT
+>OEOE_1728(nagA) Score=4.4 Pos=-32 [Oenococcus oeni PSU-1]
+TAATTGGGCTATACCAAACC
+>OEOE_0644(nagB) Score=4.2 Pos=-84 [Oenococcus oeni PSU-1]
+CAAAAAAACTATACCAATTT
+>OEOE_0635(glmS) Score=5 Pos=-113 [Oenococcus oeni PSU-1]
+TTAATGGCCTATACCAATGT
+>PEPE_1528(nagA) Score=5.6 Pos=-57 [Pediococcus pentosaceus ATCC 25745]
+TTTTTGGTCTATACCGATAT
+>PEPE_0478(glmS) Score=5 Pos=-124 [Pediococcus pentosaceus ATCC 25745]
+CATTTGATATATACCGATTT
+>PEPE_0478(glmS) Score=4 Pos=-58 [Pediococcus pentosaceus ATCC 25745]
+ATCGTTCTATATACCAATTT
+>PEPE_0335(nagB) Score=5.4 Pos=-60 [Pediococcus pentosaceus ATCC 25745]
+ATTTTGGTTTAGACCATTTT
+>PEPE_0335(nagB) Score=5.6 Pos=-39 [Pediococcus pentosaceus ATCC 25745]
+TAATTGGACTATACCAAAAA
+>PEPE_1816(nagE) Score=5.8 Pos=-144 [Pediococcus pentosaceus ATCC 25745]
+TAATAGGTATATACCAATTT
+>PEPE_1816(nagE) Score=4.8 Pos=-100 [Pediococcus pentosaceus ATCC 25745]
+AAAGCGGATTATACCAATAA
+>PEPE_0023(celB2) Score=5.6 Pos=-165 [Pediococcus pentosaceus ATCC 25745]
+TAATTGGTATATTCCATTAT

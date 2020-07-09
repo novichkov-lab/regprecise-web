@@ -1,0 +1,184 @@
+>RSP_0889(glnK) Score=4.5 Pos=-159 [Rhodobacter sphaeroides 2.4.1]
+TGCATTAAAATTGGGCG
+>RSP_2836(nifR3) Score=4.8 Pos=-108 [Rhodobacter sphaeroides 2.4.1]
+CGCCCAATAAATGTGCA
+>RSP_2836(nifR3) Score=4.4 Pos=-18 [Rhodobacter sphaeroides 2.4.1]
+CGCACAAGGAATAGGCA
+>RSP_0146(glnB) Score=4.7 Pos=-126 [Rhodobacter sphaeroides 2.4.1]
+TGCACAAAAATCGGGCG
+>RSP_0310(ureD) Score=4.2 Pos=-124 [Rhodobacter sphaeroides 2.4.1]
+TGCCCGATCCTTGAGCG
+>Pden_2032(amtB2) Score=4 Pos=-130 [Paracoccus denitrificans PD1222]
+TGCCCTTATTTCGGGCA
+>Pden_4131(nifR3) Score=4.3 Pos=-121 [Paracoccus denitrificans PD1222]
+TGCCGACTATTTAGGCA
+>Pden_4461(glnB) Score=4.4 Pos=-148 [Paracoccus denitrificans PD1222]
+CGCACATAATTCAGGCA
+>Pden_4461(glnB) Score=4.9 Pos=-128 [Paracoccus denitrificans PD1222]
+TGCATAATATTCGGGCA
+>Pden_4455(nasT) Score=4 Pos=-140 [Paracoccus denitrificans PD1222]
+CGCCCGAACCATGGGCA
+>Jann_2236(nifR3) Score=5.1 Pos=-54 [Jannaschia sp. CCS1]
+TGCTTAATTATTGTGCA
+>Jann_2232(amtB2) Score=4.3 Pos=-122 [Jannaschia sp. CCS1]
+CGCCCGAATAATAGGCG
+>Jann_4056(glnK) Score=4.4 Pos=-183 [Jannaschia sp. CCS1]
+CGCACAAAAAACAGGCA
+>Jann_1744(ureD) Score=4.2 Pos=-139 [Jannaschia sp. CCS1]
+TGCCTGCGAATTAGGCA
+>Jann_1516(glnB) Score=4.4 Pos=-150 [Jannaschia sp. CCS1]
+TGATCATTTTTTAGGCG
+>Jann_3038(nasT) Score=4.6 Pos=-56 [Jannaschia sp. CCS1]
+TGCACAATACTTAATCA
+>Jann_3440(gdhA) Score=4.4 Pos=-141 [Jannaschia sp. CCS1]
+TGCCTGATATTTGCGCA
+>Jann_3040(nrtA) Score=4.7 Pos=-269 [Jannaschia sp. CCS1]
+TGCCCAAAATTCGGGCG
+>Jann_3041(nrtB) Score=4.7 Pos=-138 [Jannaschia sp. CCS1]
+CGCCCAAAAAATAGGCG
+>RB2654_10683(glnK) Score=4.9 Pos=-136 [Rhodobacterales bacterium HTCC2654]
+TGACTAAAATTTGTGCA
+>RB2654_10683(glnK) Score=3.9 Pos=-117 [Rhodobacterales bacterium HTCC2654]
+TGCCCACAATGCGGGCA
+>RB2654_03209(nifR3) Score=4.6 Pos=-107 [Rhodobacterales bacterium HTCC2654]
+TGCACAAATAACAGGCA
+>RB2654_03209(nifR3) Score=4.5 Pos=-17 [Rhodobacterales bacterium HTCC2654]
+CGCACAAGGATTAAGCA
+>RB2654_02324(glnB) Score=5 Pos=-127 [Rhodobacterales bacterium HTCC2654]
+TGCATAAATATTGTGCG
+>RB2654_12499(nasT) Score=4.7 Pos=-91 [Rhodobacterales bacterium HTCC2654]
+TGCCTAGAAATTAGGCA
+>RB2654_15836(urtA) Score=4.5 Pos=-248 [Rhodobacterales bacterium HTCC2654]
+CGCACAATTATTAGGCT
+>RB2654_15836(urtA) Score=4 Pos=-178 [Rhodobacterales bacterium HTCC2654]
+TGCTCAAAAGGTATGCA
+>RB2654_12489(nrtA) Score=4.7 Pos=-260 [Rhodobacterales bacterium HTCC2654]
+CGCACAAGAATTAAGCA
+>OG2516_04471(nifR3) Score=4.4 Pos=-110 [Oceanicola granulosus HTCC2516]
+CGCACAAAAAACAGGCA
+>OG2516_04471(nifR3) Score=4.7 Pos=-18 [Oceanicola granulosus HTCC2516]
+CGCACAATGTTTGAGCA
+>OG2516_02329(glnB) Score=4.4 Pos=-148 [Oceanicola granulosus HTCC2516]
+TGCCCAATCTTTGTGCC
+>OG2516_01039(urtA) Score=3.9 Pos=-319 [Oceanicola granulosus HTCC2516]
+CGCCCGATAATGGGGCG
+>OG2516_01044(ureD) Score=3.9 Pos=-66 [Oceanicola granulosus HTCC2516]
+CGCCCCATTATCGGGCG
+>SKA53_13946(glnK) Score=4.7 Pos=-144 [Loktanella vestfoldensis SKA53]
+TGTACAATAATTGTGCA
+>SKA53_13946(glnK) Score=4.7 Pos=-173 [Loktanella vestfoldensis SKA53]
+TGCCTATTAATCAGGCA
+>SKA53_04878(nifR3) Score=5 Pos=-109 [Loktanella vestfoldensis SKA53]
+TGACTAATTTTTAGGCA
+>SKA53_14866(ureD) Score=4.9 Pos=-115 [Loktanella vestfoldensis SKA53]
+TGCCTGAATTTTAGGCA
+>SKA53_05805(glnB) Score=4 Pos=-146 [Loktanella vestfoldensis SKA53]
+AGCATGTTATTTGTGCA
+>SKA53_09869(urtA) Score=4.6 Pos=-280 [Loktanella vestfoldensis SKA53]
+AGCATAAAAATTGTGCA
+>OB2597_07075(ureD) Score=4.4 Pos=-204 [Oceanicola batsensis HTCC2597]
+CGCCCGTATTTTGGGCA
+>OB2597_03097(nifR3) Score=4.8 Pos=-16 [Oceanicola batsensis HTCC2597]
+TGCACAAGGTTTAGGCA
+>OB2597_03097(nifR3) Score=4.6 Pos=-108 [Oceanicola batsensis HTCC2597]
+TGTTCAAAATTTAGGCA
+>OB2597_10701(glnK) Score=4.4 Pos=-165 [Oceanicola batsensis HTCC2597]
+CGCACAAAAATTAATCG
+>OB2597_10701(glnK) Score=5.2 Pos=-136 [Oceanicola batsensis HTCC2597]
+TGCCCAATAATTGTGCA
+>OB2597_15036(urtA) Score=3.9 Pos=-321 [Oceanicola batsensis HTCC2597]
+TGCCTGTTTCTTGGGCT
+>OB2597_15036(urtA) Score=4.2 Pos=-280 [Oceanicola batsensis HTCC2597]
+TGCCCAAAAACTGATCA
+>ISM_08965(glnK) Score=4.1 Pos=-175 [Roseovarius nubinhibens ISM]
+CGCCCAATTTCTAGTCA
+>ISM_16645(nifR3) Score=4.7 Pos=-18 [Roseovarius nubinhibens ISM]
+TGCACAAGGATTAAGCA
+>ISM_16645(nifR3) Score=5.1 Pos=-108 [Roseovarius nubinhibens ISM]
+TGCTTAAATTTTGTGCA
+>ISM_08965(glnK) Score=4.4 Pos=-146 [Roseovarius nubinhibens ISM]
+TGCACAAAAAATAGTCG
+>ISM_05410(glnB) Score=4.7 Pos=-161 [Roseovarius nubinhibens ISM]
+TGCCCAAATTTCGGGCG
+>ISM_05410(glnB) Score=5 Pos=-141 [Roseovarius nubinhibens ISM]
+TGCCTAAATAATGTGCA
+>ROS217_04115(glnK) Score=4.8 Pos=-133 [Roseovarius sp. 217]
+TGCACATATTTTGAGCA
+>ROS217_20467(nifR3) Score=5 Pos=-113 [Roseovarius sp. 217]
+CGCCTAAAAATTAGGCG
+>ROS217_05379(ureD) Score=3.9 Pos=-120 [Roseovarius sp. 217]
+TGCGCTAAAAATAGGCA
+>ROS217_20467(nifR3) Score=4.8 Pos=-21 [Roseovarius sp. 217]
+TGCACAAGGATTAGGCA
+>ROS217_04115(glnK) Score=4.7 Pos=-162 [Roseovarius sp. 217]
+TGCATAAATTTTAGGCT
+>ROS217_18110(glnB) Score=4.8 Pos=-128 [Roseovarius sp. 217]
+CGCCCATTATTTAGGCA
+>ROS217_14776(nasT) Score=4.5 Pos=-111 [Roseovarius sp. 217]
+CGCCCATTTTATGGGCA
+>EE36_08503(ureD) Score=5.2 Pos=-93 [Sulfitobacter sp. EE-36]
+TGCTCAAATATTAGGCA
+>EE36_14997(nifR3) Score=5.3 Pos=-111 [Sulfitobacter sp. EE-36]
+TGCCTAAATTTTAGGCA
+>EE36_14997(nifR3) Score=4.5 Pos=-18 [Sulfitobacter sp. EE-36]
+TGCACAAGGATTAAGCG
+>EE36_08228(glnK) Score=5.1 Pos=-164 [Sulfitobacter sp. EE-36]
+CGCCCAATAATTGGGCA
+>EE36_08228(glnK) Score=4.8 Pos=-135 [Sulfitobacter sp. EE-36]
+CGCCCAATAATCAGGCA
+>EE36_12708(glnB) Score=3.9 Pos=-158 [Sulfitobacter sp. EE-36]
+TGCACAGATTTTAATCG
+>EE36_07968(nasT) Score=3.9 Pos=-90 [Sulfitobacter sp. EE-36]
+TGCTCACTGTTTGGGCT
+>EE36_02983(gdhA) Score=4.6 Pos=-130 [Sulfitobacter sp. EE-36]
+TGATTAAAATTTGTGCG
+>EE36_10385(urtA) Score=3.9 Pos=-252 [Sulfitobacter sp. EE-36]
+TGCCAAAAAATGAGGCG
+>TM1040_0388(ureD) Score=4.3 Pos=-142 [Silicibacter TM1040]
+CGCTTATTTTTTAATCA
+>TM1040_1363(nifR3) Score=4.6 Pos=-111 [Silicibacter TM1040]
+TGATTAAAAAATAGGCA
+>TM1040_1363(nifR3) Score=4.7 Pos=-18 [Silicibacter TM1040]
+TGCATAAGGATTAAGCA
+>TM1040_2629(glnK) Score=4.3 Pos=-159 [Silicibacter TM1040]
+CGCCTAAATAACAAGCA
+>TM1040_1023(glnB) Score=4.3 Pos=-146 [Silicibacter TM1040]
+TGCCTATTTTTTAACCA
+>TM1040_2150(gdhA) Score=4.7 Pos=-112 [Silicibacter TM1040]
+TGCCAAAAAATTGTGCA
+>SPO2089(nifR3) Score=4.7 Pos=-112 [Silicibacter pomeroyi DSS-3]
+CGATTAAAAATTAGGCA
+>SPO2089(nifR3) Score=4.8 Pos=-20 [Silicibacter pomeroyi DSS-3]
+TGCACAAGGATTAGGCA
+>SPO3724(glnK) Score=3.9 Pos=-133 [Silicibacter pomeroyi DSS-3]
+TGTGCAAAAAATGTGCA
+>SPO2294(glnB) Score=4.8 Pos=-144 [Silicibacter pomeroyi DSS-3]
+TGCACAATCCTTGTGCA
+>SPO2294(glnB) Score=3.9 Pos=-105 [Silicibacter pomeroyi DSS-3]
+CGCCCAAAATTGCTGCA
+>MED193_04621(nifR3) Score=4.7 Pos=-72 [Roseobacter sp. MED193]
+CGCACAAGGATTAGGCA
+>MED193_04621(nifR3) Score=5.2 Pos=-165 [Roseobacter sp. MED193]
+TGCTTAAAATTTAGGCA
+>MED193_04641(amtB2) Score=4.2 Pos=-130 [Roseobacter sp. MED193]
+CGCCTATTCTTTAATCA
+>MED193_15832(glnK) Score=4.3 Pos=-188 [Roseobacter sp. MED193]
+CGCCTAATTTCTGGGCG
+>MED193_07968(ureD) Score=4.2 Pos=-83 [Roseobacter sp. MED193]
+TGCCCAAAAGTTACGCA
+>MED193_05036(glnB) Score=4.2 Pos=-145 [Roseobacter sp. MED193]
+CGCCTATTTTTAATGCA
+>MED193_05036(glnB) Score=4.4 Pos=-125 [Roseobacter sp. MED193]
+TGCCTACTTATTAATCA
+>MED193_14852(nasT) Score=4.6 Pos=-91 [Roseobacter sp. MED193]
+AGCCTAAAAATTGAGCA
+>MED193_07963(urtA) Score=4.2 Pos=-201 [Roseobacter sp. MED193]
+TGCGTAACTTTTGGGCA
+>MED193_14842(nrtA) Score=4.5 Pos=-232 [Roseobacter sp. MED193]
+TGCCCAAAAACTAGGCG
+>HNE_2013(nifR3) Score=4.5 Pos=-10 [Hyphomonas neptunium ATCC 15444]
+TGCCCATGATTTGTGCG
+>HNE_2083(glnB) Score=4.5 Pos=-145 [Hyphomonas neptunium ATCC 15444]
+CGCCCAATCTTTAATCA
+>HNE_2083(glnB) Score=4.1 Pos=-124 [Hyphomonas neptunium ATCC 15444]
+TGCACAATCTTTAATCT

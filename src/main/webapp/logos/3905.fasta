@@ -1,0 +1,48 @@
+>CORAM0001_1650(dnaK) Score=6 Pos=-108 [Corynebacterium amycolatum SK46]
+TTGAGTCAGACACACTCAA
+>CORAM0001_1383(clpB) Score=6.7 Pos=-74 [Corynebacterium amycolatum SK46]
+TTGAGTGGAACAGGCTCAA
+>CORAM0001_1383(clpB) Score=5.1 Pos=-22 [Corynebacterium amycolatum SK46]
+TTGAGTCAAAGGGGCGCAA
+>cauri_2321(dnaK) Score=4.8 Pos=-56 [Corynebacterium aurimucosum ATCC 700975]
+TTGAGTCGCGCATTATCAA
+>cauri_2310(clpB) Score=6.9 Pos=-108 [Corynebacterium aurimucosum ATCC 700975]
+TTGAGTGGAACAGACTCAA
+>DIP2120(dnaK) Score=6 Pos=-123 [Corynebacterium diphtheriae NCTC 13129]
+TTGAGTGACACCGGCTCAA
+>DIP2118(dnaJ) Score=4.9 Pos=-131 [Corynebacterium diphtheriae NCTC 13129]
+TCCAGCAGAAGATGCTCAA
+>DIP2104(clpB) Score=6.5 Pos=-76 [Corynebacterium diphtheriae NCTC 13129]
+TTGAGTGGAACAAACTCAA
+>CE2613(clpB) Score=6.7 Pos=-151 [Corynebacterium efficiens YS-314]
+TTGAGTGGAATAGACTCAA
+>CE2629(dnaK) Score=5.3 Pos=-102 [Corynebacterium efficiens YS-314]
+TTGAGTGTGATCCACTCAA
+>cg3100(dnaK) Score=4.8 Pos=-283 [Corynebacterium glutamicum ATCC 13032]
+TTGAGTGGGACCTGTTGAA
+>cg3100(dnaK) Score=5.8 Pos=-114 [Corynebacterium glutamicum ATCC 13032]
+TTGAGTCAGGCAGGCTCAA
+>cg3079(clpB) Score=6.6 Pos=-132 [Corynebacterium glutamicum ATCC 13032]
+TTGAGTGGAACATACTCAA
+>jk0179(dnaK) Score=5.1 Pos=-138 [Corynebacterium jeikeium K411]
+TTGAGCGGGTTAAGCTCAA
+>jk0183(dnaJ) Score=4.8 Pos=-70 [Corynebacterium jeikeium K411]
+TTCAGCGCGGTAGACTCAA
+>jk0201(clpB) Score=5 Pos=-77 [Corynebacterium jeikeium K411]
+TTGAGTCAGGTGTACTCAA
+>jk0201(clpB) Score=6.4 Pos=-107 [Corynebacterium jeikeium K411]
+TTGAGCGGAATAGACTCAA
+>ckrop_0278(dnaK) Score=5 Pos=-205 [Corynebacterium kroppenstedtii DSM 44385]
+TTGAGCGAGTAAGACTCAA
+>ckrop_0278(dnaK) Score=4.5 Pos=-139 [Corynebacterium kroppenstedtii DSM 44385]
+TTGAGTCTGATTCACTCAG
+>ckrop_0294(clpB) Score=5 Pos=-177 [Corynebacterium kroppenstedtii DSM 44385]
+TTGCGTGACGTACACTCAA
+>ckrop_0294(clpB) Score=6.7 Pos=-229 [Corynebacterium kroppenstedtii DSM 44385]
+TTGAGTGGAATAGACTCAA
+>cur_1811(dnaJ) Score=4.8 Pos=-116 [Corynebacterium urealyticum DSM 7109]
+TTCAGCGCGGTAGACTCAA
+>cur_1804(clpB) Score=4.8 Pos=-65 [Corynebacterium urealyticum DSM 7109]
+TTGAGTCTAGTGAACTCAA
+>cur_1804(clpB) Score=6.7 Pos=-95 [Corynebacterium urealyticum DSM 7109]
+TTGAGTGGAATAGACTCAA

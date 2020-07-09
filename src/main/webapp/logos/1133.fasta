@@ -1,0 +1,90 @@
+>b3414(nfuA) Score=6.9 Pos=-37 [Escherichia coli str. K-12 substr. MG1655]
+ATAACCAACTAAAATAGTCAACTAT
+>b0156(erpA) Score=4.9 Pos=-89 [Escherichia coli str. K-12 substr. MG1655]
+ATACTTGAACGAAATACCAGGGTAT
+>b2531(iscR) Score=6.7 Pos=-133 [Escherichia coli str. K-12 substr. MG1655]
+ATACCCGACTAAATCAGTCAAGTAA
+>b2531(iscR) Score=5.8 Pos=-108 [Escherichia coli str. K-12 substr. MG1655]
+ATAGTTGACCAATTTACTCGGGAAT
+>STM3511(nfuA) Score=6.9 Pos=-37 [Salmonella typhimurium LT2]
+ATAACCAACTAAAATAGTCAACTAT
+>STM0204.S(erpA) Score=4.9 Pos=-89 [Salmonella typhimurium LT2]
+ATACTTGAACGAATTACCAGGGTAT
+>STM2544(iscR) Score=6.1 Pos=-107 [Salmonella typhimurium LT2]
+ATAGTTGACCAAATTACTCGGGAAT
+>STM2544(iscR) Score=6.5 Pos=-132 [Salmonella typhimurium LT2]
+ATACCTGACTAATTTACTCAAGTAA
+>CKO_04835(nfuA) Score=6.7 Pos=-37 [Citrobacter koseri ATCC BAA-895]
+ATAACCAAGTAAAATAGTCAACTAT
+>CKO_03211(erpA) Score=5.2 Pos=-88 [Citrobacter koseri ATCC BAA-895]
+ATACTTGAATGAAATACCAGGGTAT
+>CKO_00250(iscR) Score=6.8 Pos=-132 [Citrobacter koseri ATCC BAA-895]
+ATACCTGACTAAATTAGTCAAGTAA
+>CKO_00250(iscR) Score=6 Pos=-107 [Citrobacter koseri ATCC BAA-895]
+ATAGTTGACTGATTTAGTCGGGAAT
+>KPN_03784(nfuA) Score=6.5 Pos=-37 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAACCCAGTAAAATAGTCAACTAT
+>KPN_00171(erpA) Score=4.7 Pos=-89 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATACTTGAACGATTTACCAGGGTAT
+>KPN_02863(iscR) Score=6.8 Pos=-127 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATACCTGACTAAAACAGTCAAGTAA
+>KPN_02863(iscR) Score=6.1 Pos=-102 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAGTTGACCAAATTACTCGGGAAT
+>Ent638_3827(nfuA) Score=6.1 Pos=-37 [Enterobacter sp. 638]
+ATACCCAAGTATTTTAGTCAACTAT
+>Ent638_0696(erpA) Score=5.1 Pos=-87 [Enterobacter sp. 638]
+ATACTTGAATGAATTACCAGGGTAT
+>Ent638_3028(iscR) Score=6.8 Pos=-131 [Enterobacter sp. 638]
+ATACCTGACTAAAACAGTCAAGTAA
+>Ent638_3028(iscR) Score=5.9 Pos=-106 [Enterobacter sp. 638]
+ATAGTTGACCAATTTAGTCGGGAAT
+>EAM_3259(nfuA) Score=6.7 Pos=-37 [Erwinia amylovora ATCC 49946]
+ATAACCAACTGAATTAGTCAACTAT
+>EAM_2493(iscR) Score=5.9 Pos=-88 [Erwinia amylovora ATCC 49946]
+ATACTTGACCAATTTACTCGGGAAT
+>EAM_2493(iscR) Score=4.9 Pos=-138 [Erwinia amylovora ATCC 49946]
+ATAGTTGAGTAAATTACCAGGTTAA
+>y3903(nfuA) Score=6.3 Pos=-37 [Yersinia pestis KIM]
+ATAACCGACAAGAGTAGTCAACTAT
+>y0801(erpA) Score=6 Pos=-103 [Yersinia pestis KIM]
+GTACTTGAATGAAATACTCAGGTAT
+>y1333(iscR) Score=5.3 Pos=-29 [Yersinia pestis KIM]
+ATAGTTGAGTGAATTACTAGGTTAA
+>y1333(iscR) Score=6.6 Pos=-4 [Yersinia pestis KIM]
+ATAGTTGACTAAAACACTCAAGAAT
+>Spro_4634(nfuA) Score=5.7 Pos=-46 [Serratia proteamaculans 568]
+ATAACCTAGTATAGAAGTCAACTAT
+>Spro_0783(erpA) Score=5.5 Pos=-97 [Serratia proteamaculans 568]
+ATACTTGAACGCAACACTCAGGTAT
+>Spro_3628(iscR) Score=5.4 Pos=-94 [Serratia proteamaculans 568]
+ATACTTGAGTAAATTACTAGGTTAA
+>Spro_3628(iscR) Score=6.2 Pos=-69 [Serratia proteamaculans 568]
+ATAGTTGACTGATTTACTCAGGAAT
+>ECA4134(nfuA) Score=5.6 Pos=-38 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATAACCGATAAGTGCAGTCAACTAT
+>ECA3238(iscR) Score=6.2 Pos=-80 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATAGTTGACTAAAACACTCGGGAAT
+>ECA3238(iscR) Score=5.2 Pos=-105 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATACTTGAGTGTTTTACTCGGTTAA
+>ETAE_3288(nfuA) Score=5.9 Pos=-37 [Edwardsiella tarda EIB202]
+ATAACCGACCGGAGAAGTCAACTAT
+>ETAE_2776(erpA) Score=5.8 Pos=-99 [Edwardsiella tarda EIB202]
+ATACTTGAATGGATTACTCGGGTAT
+>ETAE_2816(iscR) Score=5.7 Pos=-114 [Edwardsiella tarda EIB202]
+ATACCTGACTAAAATAGTAGGATAA
+>ETAE_2816(iscR) Score=6.6 Pos=-89 [Edwardsiella tarda EIB202]
+ATAGTTGACTGAAATAGTCAGGAAT
+>PMI2926(nfuA) Score=6.3 Pos=-38 [Proteus mirabilis HI4320]
+ATAACCAACCAGAACAGTCAACTAT
+>PMI1861(iscR) Score=6.2 Pos=-88 [Proteus mirabilis HI4320]
+ATACCTGACTAAAACACTCAGATAA
+>PMI1861(iscR) Score=6.6 Pos=-63 [Proteus mirabilis HI4320]
+ATAGTTGACTAAATTACTCAGGAAT
+>plu0198(nfuA) Score=6.3 Pos=-37 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAACCAACTATAGCAGTCAACTAT
+>plu0904(erpA) Score=5.2 Pos=-105 [Photorhabdus luminescens subsp. laumondii TTO1]
+AAACTTGAACGAACTAATCAGGTAT
+>plu3284(iscR) Score=5.4 Pos=-90 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAGTTGAGTAAATTACTAGGTTAA
+>plu3284(iscR) Score=6.6 Pos=-65 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATAGTTGACTAAAATACTCAGGAAT

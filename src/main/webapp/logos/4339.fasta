@@ -1,0 +1,138 @@
+>Acel_2086(znuA) Score=4.7 Pos=-8 [Acidothermus cellulolyticus 11B]
+TACTTGCAATGATTTCCAACA
+>Amir_4413(zur) Score=5.3 Pos=-56 [Actinosynnema mirum DSM 43827]
+AATTGAAAACGATTGTCTTTT
+>Amir_0352(znuA) Score=4.3 Pos=-50 [Actinosynnema mirum DSM 43827]
+ACTCGACAACGGTTACCATTC
+>Amir_4776(sapD) Score=5.6 Pos=-61 [Actinosynnema mirum DSM 43827]
+TATTGAAAATGATTGTCCTTT
+>Amir_4768(troA) Score=5.1 Pos=-79 [Actinosynnema mirum DSM 43827]
+GATTGAAAACGGTTGTCGTTT
+>Amir_3101 Score=5.5 Pos=-66 [Actinosynnema mirum DSM 43827]
+AGTTGAAAACCGTTGTCATTT
+>Amir_4416(yciC) Score=5.5 Pos=-53 [Actinosynnema mirum DSM 43827]
+AAATGACAATCGTTTCCGTTA
+>Amir_0607(rpmB2) Score=5 Pos=-40 [Actinosynnema mirum DSM 43827]
+AGGTGAAAATGATTGTCATTC
+>Arth_4108(SCO0472) Score=5.2 Pos=-26 [Arthrobacter sp. FB24]
+TAATGAGAATGACTATCATTT
+>Arth_3252 Score=5.2 Pos=-2 [Arthrobacter sp. FB24]
+AAATGAGAATGATTCTCATAT
+>Blon_1963(znuA4) Score=5.6 Pos=-113 [Bifidobacterium longum subsp. infantis ATCC 15697]
+AAATGATAATAATTCTCAATA
+>Blon_1974(zur) Score=5.1 Pos=-45 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TAACGATAATGAATATCATTT
+>Blon_1965(rpmB2) Score=5.5 Pos=-37 [Bifidobacterium longum subsp. infantis ATCC 15697]
+ATTTGATAATGGTTATCATTA
+>Blon_1757(znuC) Score=5.4 Pos=-43 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TATTGAGAACGATTGTCAGCA
+>Bfae_30770(SCO0472) Score=4.7 Pos=-62 [Brachybacterium faecium DSM 4810]
+AGATGCGAACGATTATCAGTA
+>Bfae_30770(SCO0472) Score=5.4 Pos=-17 [Brachybacterium faecium DSM 4810]
+TGATGAGAACGGTTTTCATGA
+>Bfae_17080(znuA) Score=4.8 Pos=-8 [Brachybacterium faecium DSM 4810]
+TGGTGAGAATGATTGTCATGT
+>BlinB01002695(yciC4) Score=5.7 Pos=-60 [Brevibacterium linens BL2]
+TAATGAAAAACGTTACCATTA
+>BlinB01002692(znuB2) Score=4.7 Pos=-25 [Brevibacterium linens BL2]
+TAACAATAATGGTTATCATCA
+>BlinB01002696(zur) Score=5.7 Pos=-94 [Brevibacterium linens BL2]
+TAATGGTAACGTTTTTCATTA
+>BlinB01002691(SCO00474) Score=5.4 Pos=-31 [Brevibacterium linens BL2]
+CAATGAGAACCATTATCAATA
+>BlinB01002697(yciC2) Score=4.8 Pos=-56 [Brevibacterium linens BL2]
+TATTGAGAACGAGTATTATTA
+>CMM_0174(znuC4) Score=4.4 Pos=-37 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+GAATGAGAATGCTTATCAACT
+>CMM_0025(rpmJ2) Score=5 Pos=-34 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TATTGAGAACCGTTCTCGTGA
+>CMM_0175(znuB2) Score=4.4 Pos=-40 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+AGTTGATAAGCATTCTCATTC
+>CMM_0314(yciC2) Score=4.2 Pos=-32 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+AGATGAGAACGGTTCTCTTCT
+>CMM_2941(znuA) Score=5.1 Pos=-37 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TAGTGAGACTGGTTATCAATA
+>CMM_0026(yciC2) Score=5 Pos=-31 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TCACGAGAACGGTTCTCAATA
+>Franean1_7253(znuA2) Score=5.1 Pos=-26 [Frankia sp. EAN1pec]
+CATCGACAACCGTTTTCATTT
+>Franean1_7263(zur) Score=5.3 Pos=-135 [Frankia sp. EAN1pec]
+AAATGAAAACCGATGTCAACA
+>JNB_04825(znuA) Score=5.1 Pos=-39 [Janibacter sp. HTCC2649]
+AGTTGACAATCATTCTCAACT
+>JNB_04825(znuA) Score=5.1 Pos=-17 [Janibacter sp. HTCC2649]
+AGTTGAGAATGATTGTCATGA
+>KRH_00820(SCO0472) Score=4.5 Pos=-83 [Kocuria rhizophila DC2201]
+AGATAAAAACGATTCTCATCT
+>KRH_09480(znuA) Score=4.4 Pos=-63 [Kocuria rhizophila DC2201]
+TGATGACACTGATTCTCATCG
+>KRH_17300 Score=5.3 Pos=-120 [Kocuria rhizophila DC2201]
+TAACGAGAACCGTTATCATTT
+>Ksed_11830(znuA) Score=4.2 Pos=-17 [Kytococcus sedentarius DSM 20547]
+ACCTGAGAATCATTGTCATGC
+>Lxx20595(rpmJ2) Score=5.4 Pos=-34 [Leifsonia xyli subsp. xyli str. CTCB07]
+TAATGATAATCTTTCTCAGTA
+>Lxx25040(znuA) Score=5.6 Pos=-86 [Leifsonia xyli subsp. xyli str. CTCB07]
+TTTTGACAATCATTATCAACA
+>Namu_1072 Score=5.1 Pos=-28 [Nakamurella multipartita DSM 44233]
+TAACGAGAACCGTTCTCAGTA
+>Namu_3855(rpmG2) Score=4.7 Pos=-44 [Nakamurella multipartita DSM 44233]
+TACTGAGAATCGGTCTCGTTA
+>Namu_3856(rpmB2) Score=4.7 Pos=-127 [Nakamurella multipartita DSM 44233]
+TAACGAGACCGATTCTCAGTA
+>Noca_1937(znuA) Score=4.6 Pos=-30 [Nocardioides sp. JS614]
+GTTTGACAATCATTCTCAATC
+>Noca_1937(znuA) Score=4.3 Pos=-8 [Nocardioides sp. JS614]
+GGCTGAGAATGATTCTCATGA
+>PPA0617(znuA) Score=4.7 Pos=-46 [Propionibacterium acnes KPA171202]
+ATACGACAATGGTTATCACTT
+>PPA2158(rpmB2) Score=5 Pos=-44 [Propionibacterium acnes KPA171202]
+ATATGATAATGATTCTCATAT
+>PPA2157(rpmE2) Score=5 Pos=-73 [Propionibacterium acnes KPA171202]
+ATATGAGAATCATTATCATAT
+>PPA1500(sapD) Score=5.3 Pos=-49 [Propionibacterium acnes KPA171202]
+AATCGATAACCGTTCTCATTA
+>RHA1_ro02545(znuC4) Score=5.1 Pos=-8 [Rhodococcus sp. RHA1]
+TAACGATAATGATTGTCGTAA
+>RHA1_ro05617(rpmB2) Score=5.4 Pos=-63 [Rhodococcus sp. RHA1]
+TGTCGAAAATGATTGTCATCA
+>RHA1_ro05617(rpmB2) Score=5.4 Pos=-117 [Rhodococcus sp. RHA1]
+TTTCGATAACGATTGTCATTA
+>RHA1_ro05618 Score=5.4 Pos=-29 [Rhodococcus sp. RHA1]
+TAATGACAATCGTTATCGAAA
+>RHA1_ro05618 Score=5.4 Pos=-83 [Rhodococcus sp. RHA1]
+TGATGACAATCATTTTCGACA
+>RHA1_ro02546(znuB2) Score=5.1 Pos=-31 [Rhodococcus sp. RHA1]
+TTACGACAATCATTATCGTTA
+>RHA1_ro02549(SCO0472) Score=4.9 Pos=-47 [Rhodococcus sp. RHA1]
+CTTTGACAACCGTTTGCAATA
+>RHA1_ro05533(yciC3) Score=5.8 Pos=-25 [Rhodococcus sp. RHA1]
+TAATGAAAACAGTTATCATTT
+>RHA1_ro04479(znuA) Score=4.8 Pos=-55 [Rhodococcus sp. RHA1]
+CAACGGTAACGGTTTCCAATA
+>Svir_35300(znuA) Score=5.9 Pos=-90 [Saccharomonospora viridis DSM 43017]
+TATCGAAAATCATTTCCAATA
+>SACE_4627(rpmJ2) Score=4.9 Pos=-64 [Saccharopolyspora erythraea NRRL 2338]
+TAACGATAATCATTATCGTCT
+>SACE_4627(rpmJ2) Score=4.8 Pos=-70 [Saccharopolyspora erythraea NRRL 2338]
+AGTTGGTAACGATAATCATTA
+>SACE_0755(yciC) Score=5 Pos=-12 [Saccharopolyspora erythraea NRRL 2338]
+AAATGAAAACCGTTGCCGACT
+>SACE_0754(rpmB2) Score=5.5 Pos=-35 [Saccharopolyspora erythraea NRRL 2338]
+TAATGAAAACGGATGTCGTTA
+>SACE_0453(znuA) Score=5 Pos=-69 [Saccharopolyspora erythraea NRRL 2338]
+ACATGACAACGGTTTCCGTTA
+>SACE_0755(yciC) Score=5.5 Pos=-66 [Saccharopolyspora erythraea NRRL 2338]
+TAACGACATCCGTTTTCATTA
+>SCO0475(znuB2) Score=5.1 Pos=-34 [Streptomyces coelicolor A3(2)]
+TGTTGAACATGATTTTCATTG
+>SCO3429(rpmB2) Score=5.6 Pos=-62 [Streptomyces coelicolor A3(2)]
+TACTGAAAATGAATTCCATTA
+>SCO0436(rpmF2) Score=4.6 Pos=-56 [Streptomyces coelicolor A3(2)]
+ACATGAACATCGTTTTCATGT
+>SCO3428(rpmG2) Score=5.6 Pos=-31 [Streptomyces coelicolor A3(2)]
+TAATGGAATTCATTTTCAGTA
+>SCO2505(znuA) Score=5.2 Pos=-39 [Streptomyces coelicolor A3(2)]
+TGTTGACAACGGTTTCCATAT
+>SCO2505(znuA) Score=5.2 Pos=-17 [Streptomyces coelicolor A3(2)]
+TGTTGAAAATGAGTGTCATGA

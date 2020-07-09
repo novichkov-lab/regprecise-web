@@ -1,0 +1,60 @@
+>PA2802(phnR3) Score=4.8 Pos=-114 [Pseudomonas aeruginosa PAO1]
+TGGTCTAGGCCA
+>PA3250(phnS) Score=5.3 Pos=-348 [Pseudomonas aeruginosa PAO1]
+TGGTCTAGTCCA
+>PA3249(phnR) Score=5.4 Pos=-27 [Pseudomonas aeruginosa PAO1]
+TGGACTAGACCA
+>PA3250(phnS) Score=5.4 Pos=-93 [Pseudomonas aeruginosa PAO1]
+TGATCTAGACCA
+>PA3249(phnR) Score=4.7 Pos=-282 [Pseudomonas aeruginosa PAO1]
+TGGTCTAGATCA
+>PA1144 Score=5.4 Pos=-263 [Pseudomonas aeruginosa PAO1]
+TGGTCTAGACCA
+>PA1144 Score=5.3 Pos=-84 [Pseudomonas aeruginosa PAO1]
+TGGCCTAGACCA
+>PA3255(COG0560) Score=4.7 Pos=-50 [Pseudomonas aeruginosa PAO1]
+TGGACGAGACCA
+>PA2803(phnX) Score=5.3 Pos=-31 [Pseudomonas aeruginosa PAO1]
+TGGCCTAGACCA
+>PSEEN1439(phnR) Score=4.1 Pos=-261 [Pseudomonas entomophila L48]
+TGGTCTAGGTCA
+>PSEEN1439(phnR) Score=5.3 Pos=-27 [Pseudomonas entomophila L48]
+TGGACTAGTCCA
+>PSEEN1438(phnS) Score=5.3 Pos=-310 [Pseudomonas entomophila L48]
+TGGACTAGTCCA
+>PSEEN1438(phnS) Score=5.3 Pos=-76 [Pseudomonas entomophila L48]
+TGACCTAGACCA
+>PP1727(phnR) Score=5.3 Pos=-28 [Pseudomonas putida KT2440]
+TGGACTAGTCCA
+>PP1727(phnR) Score=4.1 Pos=-251 [Pseudomonas putida KT2440]
+TGGTCTAGGTCA
+>PP1726(phnS) Score=5.3 Pos=-311 [Pseudomonas putida KT2440]
+TGGACTAGTCCA
+>PP1726(phnS) Score=5.3 Pos=-88 [Pseudomonas putida KT2440]
+TGACCTAGACCA
+>PSPTO3877(phnR) Score=4.7 Pos=-304 [Pseudomonas syringae pv. tomato str. DC3000]
+TGGTCTAGATCA
+>PSPTO3877(phnR) Score=5.3 Pos=-24 [Pseudomonas syringae pv. tomato str. DC3000]
+TGGTCTAGTCCA
+>PSPTO3878(phnS) Score=5.4 Pos=-345 [Pseudomonas syringae pv. tomato str. DC3000]
+TGGACTAGACCA
+>PSPTO3878(phnS) Score=5.4 Pos=-65 [Pseudomonas syringae pv. tomato str. DC3000]
+TGATCTAGACCA
+>PFL_4386(phnR) Score=4.1 Pos=-305 [Pseudomonas fluorescens Pf-5]
+TGGTCTAGGTCA
+>PFL_4386(phnR) Score=5.3 Pos=-26 [Pseudomonas fluorescens Pf-5]
+TGGTCTAGTCCA
+>PFL_4387(phnS) Score=5.4 Pos=-348 [Pseudomonas fluorescens Pf-5]
+TGGACTAGACCA
+>PFL_4387(phnS) Score=5.3 Pos=-69 [Pseudomonas fluorescens Pf-5]
+TGACCTAGACCA
+>Pmen_1333(phnR) Score=4.7 Pos=-289 [Pseudomonas mendocina ymp]
+TGGTCTAGATCA
+>Pmen_1333(phnR) Score=5.3 Pos=-27 [Pseudomonas mendocina ymp]
+TGGACTAGTCCA
+>Pmen_1332(phnS) Score=5.3 Pos=-300 [Pseudomonas mendocina ymp]
+TGGACTAGTCCA
+>Pmen_1332(phnS) Score=5.4 Pos=-38 [Pseudomonas mendocina ymp]
+TGATCTAGACCA
+>Pmen_1925(phnX) Score=4.8 Pos=-29 [Pseudomonas mendocina ymp]
+TGGACTAGGCCA

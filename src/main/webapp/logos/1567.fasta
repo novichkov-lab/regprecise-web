@@ -1,0 +1,46 @@
+>BPSL2355(nnrS) Score=4.6 Pos=-39 [Burkholderia pseudomallei K96243]
+CATGCATCAAGAAAGCAAC
+>BPSS1139(PF10006) Score=4.5 Pos=-144 [Burkholderia pseudomallei K96243]
+GTTGCTCACAATATGCATC
+>BPSL2351(norB) Score=4.6 Pos=-93 [Burkholderia pseudomallei K96243]
+CATACATTCTTTGTACATG
+>BPSL2840(hmp) Score=4.4 Pos=-39 [Burkholderia pseudomallei K96243]
+GATGTATCGTTTGCGAATG
+>BPSL2368(nnrS) Score=5 Pos=-36 [Burkholderia pseudomallei K96243]
+GATACATAATAAATGCATC
+>BMA0630(nnrS) Score=4.6 Pos=-39 [Burkholderia mallei ATCC 23344]
+CATGCATCAAGAAAGCAAC
+>BMA0633(norB) Score=4.6 Pos=-93 [Burkholderia mallei ATCC 23344]
+CATACATTCTTTGTACATG
+>BMA2417(hmp) Score=4.4 Pos=-39 [Burkholderia mallei ATCC 23344]
+GATGTATCGTTTGCGAATG
+>BMA0614(nnrS) Score=5 Pos=-12 [Burkholderia mallei ATCC 23344]
+GATACATAATAAATGCATC
+>Bcep18194_A3823(hmp) Score=4.9 Pos=-36 [Burkholderia sp. 383]
+GATGTATCGTATGTGCATG
+>Bcep18194_B1121(hcp) Score=4.8 Pos=-111 [Burkholderia sp. 383]
+GATGCATACGCAACGCATC
+>Bamb_0627(hmp) Score=4.9 Pos=-36 [Burkholderia cepacia AMMD]
+GATGTATCGTATGTGCATG
+>Bamb_4090(hcp) Score=4.9 Pos=-111 [Burkholderia cepacia AMMD]
+GATGCATCAGAGAAGCATC
+>Bcep1808_6181(nsrR2) Score=4.2 Pos=-87 [Burkholderia vietnamiensis G4]
+GAAGTATTTTTAATGCATG
+>Bcep1808_0698(hmp) Score=4.7 Pos=-35 [Burkholderia vietnamiensis G4]
+CATGTATCGTTTGAGCATG
+>Bcep1808_5223(hcp) Score=5.2 Pos=-109 [Burkholderia vietnamiensis G4]
+GATGCATAAAGAACGCATC
+>bglu_1g06210(hmp) Score=4.4 Pos=-48 [Burkholderia glumae BGR1]
+AATGTATCGTGTATGAATC
+>bglu_2g04830(hcp) Score=4.9 Pos=-110 [Burkholderia glumae BGR1]
+GATGCATGAATGACGCATC
+>Bxe_A2375(nsrR) Score=3.8 Pos=-107 [Burkholderia xenovorans LB400]
+CATGCGTAGCGCCTGCATC
+>Bxe_A2376(PF01152) Score=3.8 Pos=-218 [Burkholderia xenovorans LB400]
+GATGCAGGCGCTACGCATG
+>Bphy_6194(hcp) Score=3.8 Pos=-67 [Burkholderia phymatum STM815]
+CATGCGCAGACGATCCATA
+>Bphy_0937(nsrR) Score=4.3 Pos=-70 [Burkholderia phymatum STM815]
+GATGTGTTTTAAAAGCATG
+>Bphy_0936(PF01152) Score=4.3 Pos=-156 [Burkholderia phymatum STM815]
+CATGCTTTTAAAACACATC

@@ -1,0 +1,34 @@
+>Pden_1689(hmp) Score=4.7 Pos=-71 [Paracoccus denitrificans PD1222]
+GATGTATCCAGAATACATG
+>Pden_1690(nsrR2) Score=4.7 Pos=-73 [Paracoccus denitrificans PD1222]
+CATGTATTCTGGATACATC
+>Pden_3025(dnrN) Score=6.1 Pos=-131 [Paracoccus denitrificans PD1222]
+TTGGTATTGACAATACCGA
+>Pden_3025(dnrN) Score=5.4 Pos=-96 [Paracoccus denitrificans PD1222]
+TCGGTATTGCAAGTACCGA
+>Pden_3024(nsrR) Score=5.4 Pos=-66 [Paracoccus denitrificans PD1222]
+TCGGTACTTGCAATACCGA
+>Pden_3024(nsrR) Score=6.1 Pos=-31 [Paracoccus denitrificans PD1222]
+TCGGTATTGTCAATACCAA
+>OB2597_05190(PF01152) Score=5.9 Pos=-131 [Oceanicola batsensis HTCC2597]
+TAAGTATTTCCAATACCTA
+>OB2597_05195(nsrR) Score=5.9 Pos=-38 [Oceanicola batsensis HTCC2597]
+TAGGTATTGGAAATACTTA
+>ROS217_02150(PF01152) Score=6.4 Pos=-33 [Roseovarius sp. 217]
+TAGGTATTTACAATACCGA
+>ROS217_14296(PF01812) Score=6.4 Pos=-94 [Roseovarius sp. 217]
+TCGGTATTTACAATACCTA
+>ROS217_14291(nsrR) Score=6.4 Pos=-41 [Roseovarius sp. 217]
+TAGGTATTGTAAATACCGA
+>ROS217_02155(nsrR) Score=6.4 Pos=-41 [Roseovarius sp. 217]
+TCGGTATTGTAAATACCTA
+>SPOA0186 Score=6.4 Pos=-90 [Silicibacter pomeroyi DSS-3]
+TAGGTATTTTAAATACCTA
+>SPOA0185(cyoA) Score=6.4 Pos=-34 [Silicibacter pomeroyi DSS-3]
+TAGGTATTTAAAATACCTA
+>SPOA0192(PF01152) Score=5.2 Pos=-65 [Silicibacter pomeroyi DSS-3]
+TAGGACTTGAAAATACCTA
+>HNE_1540(PF01152) Score=6.4 Pos=-113 [Hyphomonas neptunium ATCC 15444]
+TCGGTATTTACAATACCTA
+>HNE_1541(nsrR) Score=6.4 Pos=-40 [Hyphomonas neptunium ATCC 15444]
+TAGGTATTGTAAATACCGA

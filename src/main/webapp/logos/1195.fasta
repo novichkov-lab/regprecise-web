@@ -1,0 +1,70 @@
+>b0817(mntR) Score=6.9 Pos=-129 [Escherichia coli str. K-12 substr. MG1655]
+AGATATAGCACAGGCTATATTA
+>b2392(mntH) Score=6.9 Pos=-34 [Escherichia coli str. K-12 substr. MG1655]
+AAACATAGCAAAGGCTATGTTT
+>b1821(mntP) Score=6.2 Pos=-383 [Escherichia coli str. K-12 substr. MG1655]
+AGACATAGCTTAGGCTATATTA
+>b1821(mntP) Score=5.3 Pos=-423 [Escherichia coli str. K-12 substr. MG1655]
+GAATTTAGCCAAAGCTATGTTT
+>b0812(dps) Score=5.3 Pos=-67 [Escherichia coli str. K-12 substr. MG1655]
+ACACATAGCCGGTGCTATACTT
+>STM0835(mntR) Score=6.8 Pos=-128 [Salmonella typhimurium LT2]
+AGATATAGCACAGGCTATGTTT
+>STM2408(mntH) Score=6.9 Pos=-34 [Salmonella typhimurium LT2]
+AAACATAGCAAAGGCTATGTTT
+>STM2861(sitA) Score=6.7 Pos=-57 [Salmonella typhimurium LT2]
+TAACATAGCAAAGGCTATATTC
+>STM1834(mntP) Score=6.4 Pos=-308 [Salmonella typhimurium LT2]
+TAATATAGCTAAGGCTATATTT
+>STM1834(mntP) Score=5.1 Pos=-351 [Salmonella typhimurium LT2]
+AGATATAGCCTCAACTATGTTT
+>CKO_00404(mntH) Score=6.9 Pos=-16 [Citrobacter koseri ATCC BAA-895]
+AAACATAGCAAAGGCTATGTTT
+>CKO_04090(sitA) Score=6.7 Pos=-42 [Citrobacter koseri ATCC BAA-895]
+TAACATAGCAAAGGCTATATTC
+>CKO_00940(sitA) Score=6.1 Pos=-88 [Citrobacter koseri ATCC BAA-895]
+AAATATAGCCTGTGCTATGTTG
+>CKO_02301(mntR) Score=6.9 Pos=-129 [Citrobacter koseri ATCC BAA-895]
+AGATATAGCACAGGCTATATTA
+>CKO_01156(mntP) Score=6.4 Pos=-373 [Citrobacter koseri ATCC BAA-895]
+AAACATAGCTAAGGCTATATTC
+>CKO_01156(mntP) Score=5.2 Pos=-416 [Citrobacter koseri ATCC BAA-895]
+AGATATAGCCTGAACTATGTTT
+>KPN_02743(mntH) Score=7.1 Pos=-35 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAACATAGCAAAGGCTATATTT
+>KPN_03078(sitA) Score=4.7 Pos=-76 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATAAATAGCTTGTGCTATATAA
+>KPN_03078(sitA) Score=5.7 Pos=-57 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TAACATAGCAATGGCTATAAAC
+>KPN_00845(mntR) Score=7 Pos=-163 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AGATATAGCACAGGCTATATTT
+>KPN_02337(mntP) Score=6 Pos=-449 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AAATATAGCCAGCGCTATATTA
+>KPN_02337(mntP) Score=5.8 Pos=-406 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TATTATAGCCACGGCTATATTT
+>Ent638_2926(mntH) Score=6.8 Pos=-34 [Enterobacter sp. 638]
+AAACATAGCAAAGGCTATATCT
+>Ent638_1111(sitA) Score=6.2 Pos=-75 [Enterobacter sp. 638]
+AAATATAGCCTATGCTATATAA
+>Ent638_1111(sitA) Score=5.3 Pos=-56 [Enterobacter sp. 638]
+TAAGATAGCACAGGCTAATTTT
+>Ent638_1304(mntR) Score=6.9 Pos=-128 [Enterobacter sp. 638]
+AGATATAGCACAGGCTATATTG
+>Ent638_2390(mntP) Score=5.5 Pos=-313 [Enterobacter sp. 638]
+ATATATAGCCATCGCTATATTC
+>Ent638_2390(mntP) Score=6.3 Pos=-356 [Enterobacter sp. 638]
+AATTATAGCAGAGGCTATATTT
+>EAM_1275(mntR) Score=6.6 Pos=-137 [Erwinia amylovora ATCC 49946]
+AGATATAGCACAGGCTATATCG
+>EAM_2087(sitA) Score=4.9 Pos=-54 [Erwinia amylovora ATCC 49946]
+TGTTATAGCAATTGCTATTTAG
+>EAM_2087(sitA) Score=5.6 Pos=-73 [Erwinia amylovora ATCC 49946]
+GGATATAGCCTGTGCTATATGT
+>EAM_2378(mntH) Score=6.4 Pos=-133 [Erwinia amylovora ATCC 49946]
+AAGTATAGCAATTGCTATATTT
+>EAM_3371(mntP) Score=5.7 Pos=-168 [Erwinia amylovora ATCC 49946]
+AAGTATAGCCGATGCTATAATC
+>Spro_1916(mntH) Score=5.5 Pos=-70 [Serratia proteamaculans 568]
+AAGTGTAGCCGATGCTACATTG
+>Spro_1915(mntR) Score=5.3 Pos=-181 [Serratia proteamaculans 568]
+CAATGTAGCATCGGCTACACTT

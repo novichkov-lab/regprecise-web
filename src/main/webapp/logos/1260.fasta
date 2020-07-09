@@ -1,0 +1,96 @@
+>BSU10270(lcfB) Score=6.5 Pos=-35 [Bacillus subtilis subsp. subtilis str. 168]
+ATGAATGACTATTCATTCAC
+>BSU32840(fadN) Score=6.7 Pos=39 [Bacillus subtilis subsp. subtilis str. 168]
+ATGAATGACTATTCATTCAA
+>BSU37180(fadF) Score=6.3 Pos=-98 [Bacillus subtilis subsp. subtilis str. 168]
+TTGACTGAACACTCATTCAT
+>BSU28550(fadR) Score=6.9 Pos=-44 [Bacillus subtilis subsp. subtilis str. 168]
+ATGAATGAATAGTCATTCAT
+>BSU14060(ykuF) Score=6.4 Pos=-36 [Bacillus subtilis subsp. subtilis str. 168]
+TTGAATGAATAATCATTCAC
+>RBAM_013850(ykuF) Score=6.8 Pos=-40 [Bacillus amyloliquefaciens FZB42]
+ATGAATGATTATTCATTCAA
+>RBAM_010470(lcfB) Score=6.9 Pos=-44 [Bacillus amyloliquefaciens FZB42]
+ATGAATGACTATTCATTCAT
+>RBAM_029920(fadN) Score=6.7 Pos=-39 [Bacillus amyloliquefaciens FZB42]
+ATGAATGACTATTCATTCAA
+>RBAM_025610(fadR) Score=6.9 Pos=-38 [Bacillus amyloliquefaciens FZB42]
+ATGAATGAATAGTCATTCAT
+>RBAM_034330(fadF) Score=6.3 Pos=-82 [Bacillus amyloliquefaciens FZB42]
+TTGACTGAACACTCATTCAT
+>BPUM_1303(ykuF) Score=6.7 Pos=-40 [Bacillus pumilus SAFR-032]
+ATGAATGAATAGTCATTCAA
+>BPUM_0969(lcfB) Score=6.5 Pos=-44 [Bacillus pumilus SAFR-032]
+ATGAATGGTTATTCATTCAT
+>BPUM_3374(fadF) Score=6.6 Pos=-88 [Bacillus pumilus SAFR-032]
+TTGACTGAATACTCATTCAT
+>BPUM_2942(fadN) Score=6.5 Pos=-39 [Bacillus pumilus SAFR-032]
+ATGAATGACTGTTCATTCAA
+>BPUM_2512(fadR) Score=6.8 Pos=-41 [Bacillus pumilus SAFR-032]
+ATGAATGAATACTCATTCAA
+>BLi01620(ykuF) Score=6.8 Pos=-36 [Bacillus licheniformis DSM 13]
+TTGAATGAATACTCATTCAT
+>BLi01103(lcfB) Score=6.3 Pos=-39 [Bacillus licheniformis DSM 13]
+ATGAATGGTCATTCATTCAT
+>BLi03466(fadN) Score=6.8 Pos=-39 [Bacillus licheniformis DSM 13]
+ATGAATGAGTATTCATTCAA
+>BLi03002(fadR) Score=6.9 Pos=-43 [Bacillus licheniformis DSM 13]
+ATGAATGAGTATTCATTCAT
+>BLi03969(fadF) Score=6.3 Pos=-82 [Bacillus licheniformis DSM 13]
+TTGACTGAACACTCATTCAT
+>Aflv_0565(fadR) Score=6.9 Pos=-44 [Anoxybacillus flavithermus WK1]
+ATGAATGATTATTCATTCAT
+>Aflv_2740(fadF) Score=6.3 Pos=-85 [Anoxybacillus flavithermus WK1]
+TTGACTGAATGCTCATTCAT
+>Aflv_2253(lcfB) Score=6.3 Pos=-41 [Anoxybacillus flavithermus WK1]
+ATGAATGATGATTCATTCAT
+>Aflv_1909 Score=6.5 Pos=-37 [Anoxybacillus flavithermus WK1]
+ATGAATGAATAACCATTCAT
+>Aflv_1606(Aflv_1606) Score=6.5 Pos=-53 [Anoxybacillus flavithermus WK1]
+ATGAATGAATATTCATTCTT
+>GK3008(fadN) Score=6.5 Pos=-40 [Geobacillus kaustophilus HTA426]
+ATGAATGACCATTCATTCAA
+>GK2689(fadR) Score=6.1 Pos=-60 [Geobacillus kaustophilus HTA426]
+ATGAATGATGGTTCATTCAT
+>GK3398(fadF) Score=6.3 Pos=-106 [Geobacillus kaustophilus HTA426]
+TTGACTGAATGCTCATTCAT
+>GK0668(lcfB) Score=6.3 Pos=-38 [Geobacillus kaustophilus HTA426]
+ATGAATGGTCATTCATTCAT
+>GK1044 Score=6.5 Pos=-34 [Geobacillus kaustophilus HTA426]
+ATGAATGAGTAATCAGTCAT
+>GK1401(Aflv_1606) Score=5.5 Pos=-76 [Geobacillus kaustophilus HTA426]
+AAAAATGAATGATCATTCAT
+>BC5345(fadF) Score=5.9 Pos=-115 [Bacillus cereus ATCC 14579]
+TTGACTGAATGCTCACTCAT
+>BC5004(fadN) Score=6.5 Pos=-38 [Bacillus cereus ATCC 14579]
+TTGAATGAGCATTCATTCAA
+>BC4525(fadR) Score=6.6 Pos=-45 [Bacillus cereus ATCC 14579]
+ATGAATGACTATTCATTCAG
+>BC3990 Score=5.2 Pos=-29 [Bacillus cereus ATCC 14579]
+ATGAATGTGTATTCATTTTT
+>BH3488(fadN) Score=6.5 Pos=-36 [Bacillus halodurans C-125]
+ATGAATGAGTATTCATTCGT
+>BH3102(fadR) Score=6.9 Pos=-38 [Bacillus halodurans C-125]
+ATGAATGAATACTCATTCAT
+>BH3802(fadF) Score=6.5 Pos=-123 [Bacillus halodurans C-125]
+ATGAGTGAATACTCATTCAT
+>BH2144(BH2144) Score=6.8 Pos=-38 [Bacillus halodurans C-125]
+TTGAATGAATATTCATTCAA
+>ABC2990(fadN) Score=5.9 Pos=-46 [Bacillus clausii KSM-K16]
+ATGAATGAGTGTTCATTCGG
+>ABC2672(fadR) Score=6.8 Pos=-45 [Bacillus clausii KSM-K16]
+ATGAATGAACATTCATTCAT
+>ABC3892(fadF) Score=6.2 Pos=-109 [Bacillus clausii KSM-K16]
+CTGACTGAATGCTCATTCAT
+>ABC0525(Aflv_1606) Score=6.4 Pos=-38 [Bacillus clausii KSM-K16]
+GTGAATGATTACTCATTCAT
+>OB2395(fadN) Score=6.6 Pos=-41 [Oceanobacillus iheyensis HTE831]
+ATGAATGAGCATTCATTCAA
+>OB2121(fadR) Score=5.9 Pos=-50 [Oceanobacillus iheyensis HTE831]
+ATGAATGATCATTCACTCAG
+>OB3014(fadF) Score=6.3 Pos=-106 [Oceanobacillus iheyensis HTE831]
+TTGACTGAATGATCATTCAT
+>OB1176(lcfB) Score=6.9 Pos=-41 [Oceanobacillus iheyensis HTE831]
+ATGAATGAGTATTCATTCAT
+>OB0204(Aflv_1606) Score=6.6 Pos=-73 [Oceanobacillus iheyensis HTE831]
+ATGACTGATTATTCATTCAT

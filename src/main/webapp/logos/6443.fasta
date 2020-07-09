@@ -1,0 +1,50 @@
+>BlinB01001106(pckA) Score=4.7 Pos=-126 [Brevibacterium linens BL2]
+TTGTGATCCAATGCACAT
+>BlinB01002401(ndh) Score=5.8 Pos=-122 [Brevibacterium linens BL2]
+TAGTGAAAGTTTTCACAA
+>BlinB01003060(whiB) Score=4.3 Pos=-129 [Brevibacterium linens BL2]
+TTGTCAGAAATTTCACAC
+>Arth_0667(pckA) Score=5.1 Pos=-167 [Arthrobacter sp. FB24]
+ATGTGACCTTACTCACAA
+>Arth_1381(pdhA) Score=5.6 Pos=-113 [Arthrobacter sp. FB24]
+TTGTGAGTATGGTCACAA
+>Arth_1152(ndh) Score=6 Pos=-37 [Arthrobacter sp. FB24]
+TAGTGAAGATTTTCACAA
+>Arth_2697(whiB) Score=6 Pos=-60 [Arthrobacter sp. FB24]
+TAGTGAATATTTTCACAA
+>Arth_1546(pycA) Score=5 Pos=-93 [Arthrobacter sp. FB24]
+TTGTGATGGTCGACACAA
+>Achl_1399(pdhA) Score=4.9 Pos=-109 [Arthrobacter chlorophenolicus A6]
+TTGTGAGTAGGGTCACAG
+>Achl_2428(whiB) Score=5.8 Pos=-52 [Arthrobacter chlorophenolicus A6]
+TAGTGAATAATTTCACAA
+>Achl_1225(ndh) Score=6 Pos=-74 [Arthrobacter chlorophenolicus A6]
+TAGTGAAGATTTTCACAA
+>Achl_1547(pycA) Score=4.7 Pos=-93 [Arthrobacter chlorophenolicus A6]
+CTGTGATGACTGACACAA
+>Achl_0814(pckA) Score=4 Pos=-121 [Arthrobacter chlorophenolicus A6]
+TCGTAGAATTTTCCACAA
+>AAur_0832(pckA) Score=4.1 Pos=-166 [Arthrobacter aurescens TC1]
+ACGTGACCTTCGTCACTT
+>AAur_1521(pdhA) Score=5.4 Pos=-184 [Arthrobacter aurescens TC1]
+TTGTGAGTAGGGTCACAA
+>AAur_1686(pycA) Score=5.1 Pos=-93 [Arthrobacter aurescens TC1]
+TTGTGATGGTTGCCACAA
+>AAur_1268(ndh) Score=6 Pos=-37 [Arthrobacter aurescens TC1]
+TAGTGAAGATTTTCACAA
+>AAur_2682(whiB) Score=5.9 Pos=-58 [Arthrobacter aurescens TC1]
+TCGTGAATGTTTTCACAA
+>JNB_09294(rex) Score=5 Pos=-72 [Janibacter sp. HTCC2649]
+TTGTGCATCGCTTCACAA
+>JNB_07044(atpI) Score=5.9 Pos=-49 [Janibacter sp. HTCC2649]
+TTGTGATAGTTTTCACAA
+>JNB_09029(nuoA) Score=5.9 Pos=-216 [Janibacter sp. HTCC2649]
+TCGTGAAGACTTTCACAA
+>RSal33209_0029(pckA) Score=4.8 Pos=-174 [Renibacterium salmoninarum ATCC 33209]
+ATGTGACCTTAGTCACAG
+>RSal33209_0546(pdhA) Score=4.7 Pos=-33 [Renibacterium salmoninarum ATCC 33209]
+ATGTGAGTATCGTCACAG
+>RSal33209_0337(ndh) Score=6.1 Pos=-37 [Renibacterium salmoninarum ATCC 33209]
+TCGTGAATATTTTCACAA
+>RSal33209_1621(whiB) Score=5.9 Pos=-45 [Renibacterium salmoninarum ATCC 33209]
+TCGTGAATCTTTTCACAA

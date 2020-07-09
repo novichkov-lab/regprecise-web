@@ -1,0 +1,52 @@
+>TM0064(uxaC) Score=5.9 Pos=-32 [Thermotoga maritima MSB8]
+TGAGAAAACCATTTTCAAA
+>TM0065(kdgR) Score=5.9 Pos=-88 [Thermotoga maritima MSB8]
+TTTGAAAATGGTTTTCTCA
+>TM0071(xloE) Score=5.2 Pos=-135 [Thermotoga maritima MSB8]
+TTTGAAATAATCTTTTACA
+>TM0070(xynB) Score=5.2 Pos=-103 [Thermotoga maritima MSB8]
+TGTAAAAGATTATTTCAAA
+>TM0060(xtpF) Score=6 Pos=-199 [Thermotoga maritima MSB8]
+TGTGAAAGGAACTTTCAAA
+>TM0061(xynA1) Score=6 Pos=-138 [Thermotoga maritima MSB8]
+TTTGAAAGTTCCTTTCACA
+>TRQ2_0882(kdgR) Score=5.9 Pos=-88 [Thermotoga sp. RQ2]
+TTTGAAAATGGTTTTCTCA
+>TRQ2_0883(uxaC) Score=5.9 Pos=-32 [Thermotoga sp. RQ2]
+TGAGAAAACCATTTTCAAA
+>TRQ2_0886(xtpF) Score=6 Pos=-199 [Thermotoga sp. RQ2]
+TGTGAAAGGAACTTTCAAA
+>TRQ2_0885(xynA1) Score=6 Pos=-138 [Thermotoga sp. RQ2]
+TTTGAAAGTTCCTTTCACA
+>CTN_0629(kdgR) Score=6.1 Pos=-48 [Thermotoga neapolitana DSM 4359]
+TGTGAAAATGATTTTCTCA
+>CTN_0630(uxaC) Score=6.1 Pos=-33 [Thermotoga neapolitana DSM 4359]
+TGAGAAAATCATTTTCACA
+>CTN_0633 Score=5.9 Pos=-191 [Thermotoga neapolitana DSM 4359]
+TGTGAAAAAGGCTTTCAAA
+>CTN_0632(xynA1) Score=5.9 Pos=-91 [Thermotoga neapolitana DSM 4359]
+TTTGAAAGCCTTTTTCACA
+>Tpet_0860(uxaC) Score=5.9 Pos=-32 [Thermotoga petrophila RKU-1]
+TGAGAAAACCATTTTCAAA
+>Tpet_0859(kdgR) Score=5.9 Pos=-88 [Thermotoga petrophila RKU-1]
+TTTGAAAATGGTTTTCTCA
+>Tpet_0853(xloE) Score=5.2 Pos=-136 [Thermotoga petrophila RKU-1]
+TTTGAAATAATCTTTTACA
+>Tpet_0854(xynB) Score=5.2 Pos=-103 [Thermotoga petrophila RKU-1]
+TGTAAAAGATTATTTCAAA
+>Tpet_0863(xynA1) Score=6 Pos=-139 [Thermotoga petrophila RKU-1]
+TTTGAAAGTTCCTTTCACA
+>Tpet_0864(xtpF) Score=6 Pos=-199 [Thermotoga petrophila RKU-1]
+TGTGAAAGGAACTTTCAAA
+>Tnap_0695(kdgR) Score=5.9 Pos=-88 [Thermotoga naphthophila RKU-10]
+TTTGAAAATGGTTTTCTCA
+>Tnap_0694(uxaC) Score=5.9 Pos=-32 [Thermotoga naphthophila RKU-10]
+TGAGAAAACCATTTTCAAA
+>Tnap_0701(xloE) Score=5.2 Pos=-135 [Thermotoga naphthophila RKU-10]
+TTTGAAATAATCTTTTACA
+>Tnap_0700(xynB) Score=5.2 Pos=-103 [Thermotoga naphthophila RKU-10]
+TGTAAAAGATTATTTCAAA
+>Tnap_0691(xynA1) Score=6 Pos=-138 [Thermotoga naphthophila RKU-10]
+TTTGAAAGTTCCTTTCACA
+>Tnap_0690(xtpF) Score=6 Pos=-198 [Thermotoga naphthophila RKU-10]
+TGTGAAAGGAACTTTCAAA

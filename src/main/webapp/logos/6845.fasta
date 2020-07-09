@@ -1,0 +1,78 @@
+>BAD_0828(hrcA) Score=7.1 Pos=-115 [Bifidobacterium adolescentis ATCC 15703]
+TTAGCACTCCGGGCGCCGGAGTGCTAA
+>BAD_0565(groL) Score=7 Pos=-137 [Bifidobacterium adolescentis ATCC 15703]
+TTGGCACTCTCGACGTGAGAGTGCTAA
+>BAD_0292(groS) Score=7.4 Pos=-146 [Bifidobacterium adolescentis ATCC 15703]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>BAD_0565(groL) Score=7.1 Pos=-102 [Bifidobacterium adolescentis ATCC 15703]
+TTAGCACTCGACGAGTGAGAGTGATAA
+>BIFANG_00586(groL) Score=7.2 Pos=-95 [Bifidobacterium angulatum DSM 20098]
+TTGGCACTCTCGCACCTTGAGTGCTAA
+>BIFANG_00586(groL) Score=7.1 Pos=-60 [Bifidobacterium angulatum DSM 20098]
+TTAGCACTCAAGGTGCGAGAGTGATAA
+>BIFANG_00124(groS) Score=7.4 Pos=-142 [Bifidobacterium angulatum DSM 20098]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>BLA_1356(hrcA) Score=6.9 Pos=-62 [Bifidobacterium animalis subsp. lactis AD011]
+TTAGCACTCCTGTATGCAGAGTGCTAA
+>BLA_1183(groL) Score=7.1 Pos=-116 [Bifidobacterium animalis subsp. lactis AD011]
+TTGGCACTCGACCACTGAGAGTGCTAA
+>BLA_0343(groS) Score=7.4 Pos=-137 [Bifidobacterium animalis subsp. lactis AD011]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>BbifN4_010100004769(hrcA) Score=6.9 Pos=-152 [Bifidobacterium bifidum NCIMB 41171]
+TTAGCACTCAAGGGCAAAGAGTGCTAA
+>BbifN4_010100002804(groL) Score=7.3 Pos=-142 [Bifidobacterium bifidum NCIMB 41171]
+TTGGCACTCGGGCACCGAGAGTGCTAA
+>BbifN4_010100002804(groL) Score=6.5 Pos=-107 [Bifidobacterium bifidum NCIMB 41171]
+TTAGCACTCGGGGAGTGAGAGTGACAG
+>BbifN4_010100007652(groS) Score=6.9 Pos=-150 [Bifidobacterium bifidum NCIMB 41171]
+TTAGCAGTCGAGTTGGCAGAGTGCTAA
+>BIFBRE_01333(hrcA) Score=6.7 Pos=-95 [Bifidobacterium breve DSM 20213]
+TTAGCACTCGAAACCAATGAGTGCTAA
+>BIFBRE_00229(groS) Score=7.4 Pos=-138 [Bifidobacterium breve DSM 20213]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>BIFBRE_00532(groL) Score=7 Pos=-111 [Bifidobacterium breve DSM 20213]
+TTAGCACTCGGAGATCGAGAGTGATAA
+>BIFBRE_00532(groL) Score=7 Pos=-146 [Bifidobacterium breve DSM 20213]
+TTGGCACTCGGCAAGGGCGAGTGCTAA
+>BDP_1146(hrcA) Score=6.9 Pos=-138 [Bifidobacterium dentium Bd1]
+TTAGCACTCCTCGGCCGGGAGTGCTAA
+>BDP_0772(groL) Score=7.2 Pos=-140 [Bifidobacterium dentium Bd1]
+TTGGCACTCGAGGCCCGAGAGTGCTAA
+>BDP_0772(groL) Score=7.2 Pos=-104 [Bifidobacterium dentium Bd1]
+TTAGCACTCGAGGAGTGAGAGTGATAA
+>BDP_0405(groS) Score=7.4 Pos=-147 [Bifidobacterium dentium Bd1]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>BIFGAL_01682(hrcA) Score=7.4 Pos=-274 [Bifidobacterium gallicum DSM 20093]
+TTAGCACTCTGGCGCCAAGAGTGCTAA
+>BIFGAL_01875(groL) Score=7 Pos=-134 [Bifidobacterium gallicum DSM 20093]
+TTGGCACTCGACCAAGGAGAGTGCTAA
+>BIFGAL_01875(groL) Score=7.1 Pos=-98 [Bifidobacterium gallicum DSM 20093]
+TTAGCACTCGAGGCGTGAGAGTGATAA
+>BIFGAL_00768(groS) Score=7.2 Pos=-167 [Bifidobacterium gallicum DSM 20093]
+TTAGCACTCGAATTGGCAGAGTGCTAA
+>BL0718(hrcA) Score=6.6 Pos=-191 [Bifidobacterium longum NCC2705]
+TTAGCACTCAAGCCTAAGGAGTGCTAA
+>BL0002(groL) Score=5.2 Pos=-62 [Bifidobacterium longum NCC2705]
+TCACGACTCGACGCTTGCGAGTGATAA
+>BL0002(groL) Score=7 Pos=-110 [Bifidobacterium longum NCC2705]
+TTAGCACTCGGAGGTCGAGAGTGATAA
+>BL0002(groL) Score=7.1 Pos=-145 [Bifidobacterium longum NCC2705]
+TTGGCACTCGGCGGGCGCGAGTGCTAA
+>BL1558(groS) Score=7.4 Pos=-140 [Bifidobacterium longum NCC2705]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>Blon_0694(groL) Score=7 Pos=-145 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTGGCACTCGGCGGTCGCGAGTGCTAA
+>Blon_1097(hrcA) Score=6.6 Pos=-191 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTAGCACTCAAGCCTAAGGAGTGCTAA
+>Blon_0694(groL) Score=5.2 Pos=-62 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TCACGACTCGACGCTTGCGAGTGATAA
+>Blon_0694(groL) Score=7 Pos=-110 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTAGCACTCGGAGGTCGAGAGTGATAA
+>Blon_2257(groS) Score=7.4 Pos=-140 [Bifidobacterium longum subsp. infantis ATCC 15697]
+TTAGCACTCGAGTTGGCAGAGTGCTAA
+>HMPREF0424_0717(groL) Score=6.8 Pos=-95 [Gardnerella vaginalis 409-05]
+TTAGCACTCAAGCCTTGAGAGTGATAA
+>HMPREF0424_0717(groL) Score=7 Pos=-130 [Gardnerella vaginalis 409-05]
+TTGGCACTCGGGTACATAGAGTGCTAA
+>HMPREF0424_0234(groS) Score=7.4 Pos=-140 [Gardnerella vaginalis 409-05]
+TTAGCACTCGAGTTGTTAGAGTGCTAA

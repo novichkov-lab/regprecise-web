@@ -1,0 +1,18 @@
+>RBAM_025950(lrgA) Score=8.2 Pos=-103 [Bacillus amyloliquefaciens FZB42]
+TTTTTGCATTTC---------ATTCAGCCGTTT
+>RBAM_025950(lrgA) Score=9.5 Pos=-124 [Bacillus amyloliquefaciens FZB42]
+CTTTTGCATTTC---------TTTTTGCATTTC
+>BC5439(lrgA) Score=7.2 Pos=-116 [Bacillus cereus ATCC 14579]
+CTTTTGTATTTC---------TATTTGTAACTG
+>BLi03037(lrgA) Score=8.7 Pos=-125 [Bacillus licheniformis DSM 13]
+GATTTGCATTTC---------TTTCTGCAATTG
+>BLi03037(lrgA) Score=7.7 Pos=-104 [Bacillus licheniformis DSM 13]
+TTTCTGCAATTG---------ATCCGGCAAGTT
+>BPUM_2534(lrgA) Score=7.5 Pos=-104 [Bacillus pumilus SAFR-032]
+TTTCTGCATTTC---------ATCCGGCGAGTT
+>BPUM_2534(lrgA) Score=9 Pos=-125 [Bacillus pumilus SAFR-032]
+TATTTGTATTTC---------TTTCTGCATTTC
+>BSU28910(lrgA) Score=9.2 Pos=-125 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTGCATTTC---------ATTCTGCAACTC
+>BSU28910(lrgA) Score=7.9 Pos=-104 [Bacillus subtilis subsp. subtilis str. 168]
+ATTCTGCAACTC---------ATACGGCATGTT

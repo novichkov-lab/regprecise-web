@@ -1,0 +1,48 @@
+>Atu2144(eutA) Score=5.1 Pos=-56 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TGTGAAGAATTCTTTTCGTC
+>Atu2144(eutA) Score=5.1 Pos=-98 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AATGAAGAGAAAATTTCAAA
+>Atu2145(eutR) Score=5.1 Pos=-94 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTGAAATTTTCTCTTCATT
+>Atu2145(eutR) Score=5.1 Pos=-136 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GACGAAAAGAATTCTTCACA
+>Meso_1871(eutA) Score=5.4 Pos=-89 [Mesorhizobium sp. BNC1]
+GGTGAAGAGAATTTTTCAAA
+>Meso_1872(eutR) Score=4.5 Pos=-123 [Mesorhizobium sp. BNC1]
+TTTGAAATTAATCATTCAGA
+>Meso_1871(eutA) Score=4.5 Pos=-47 [Mesorhizobium sp. BNC1]
+TCTGAATGATTAATTTCAAA
+>Meso_1872(eutR) Score=5.4 Pos=-81 [Mesorhizobium sp. BNC1]
+TTTGAAAAATTCTCTTCACC
+>RHE_CH02888(eutA) Score=5.9 Pos=-169 [Rhizobium etli CFN 42]
+CATGAAAAGAAATTTTCAGA
+>RHE_CH02888(eutA) Score=5.3 Pos=-127 [Rhizobium etli CFN 42]
+CCTGAAGAATTCTTTTCTTA
+>RHE_CH02889(eutR) Score=5.9 Pos=-32 [Rhizobium etli CFN 42]
+TCTGAAAATTTCTTTTCATG
+>RHE_CH02889(eutR) Score=5.3 Pos=-74 [Rhizobium etli CFN 42]
+TAAGAAAAGAATTCTTCAGG
+>RL3348(eutA) Score=5 Pos=-57 [Rhizobium leguminosarum bv. viciae 3841]
+CCTGAAGAATTCTTTTCTTC
+>RL3348(eutA) Score=5.7 Pos=-99 [Rhizobium leguminosarum bv. viciae 3841]
+CATGAAAAGAAATTTTCAGT
+>RL3349(eutR) Score=5 Pos=-144 [Rhizobium leguminosarum bv. viciae 3841]
+GAAGAAAAGAATTCTTCAGG
+>RL3349(eutR) Score=5.7 Pos=-102 [Rhizobium leguminosarum bv. viciae 3841]
+ACTGAAAATTTCTTTTCATG
+>NGR_c21470(eutA) Score=5.7 Pos=-93 [Rhizobium sp. NGR234]
+ACTGAAAAGATCGTTTCAGA
+>NGR_c21470(eutA) Score=5.7 Pos=-51 [Rhizobium sp. NGR234]
+CGTGAAGAATTCTTTTCACG
+>NGR_c21480(eutR) Score=5.7 Pos=-136 [Rhizobium sp. NGR234]
+CGTGAAAAGAATTCTTCACG
+>NGR_c21480(eutR) Score=5.7 Pos=-94 [Rhizobium sp. NGR234]
+TCTGAAACGATCTTTTCAGT
+>SMc01600(eutA) Score=5.6 Pos=-95 [Sinorhizobium meliloti 1021]
+TTTGAAAAGATCGTTTCAGT
+>SMc01600(eutA) Score=5.6 Pos=-53 [Sinorhizobium meliloti 1021]
+CGTGAAGAATTCTCTTCACA
+>SMc01602(eutR) Score=5.6 Pos=-137 [Sinorhizobium meliloti 1021]
+TGTGAAGAGAATTCTTCACG
+>SMc01602(eutR) Score=5.6 Pos=-95 [Sinorhizobium meliloti 1021]
+ACTGAAACGATCTTTTCAAA

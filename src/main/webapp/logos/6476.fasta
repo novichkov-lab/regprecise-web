@@ -1,0 +1,58 @@
+>Teth514_0668(ftn) Score=5.4 Pos=78 [Thermoanaerobacter ethanolicus X514]
+ATGGAAAATTATTTTCAAG
+>Teth514_1493(fur) Score=6.1 Pos=-56 [Thermoanaerobacter ethanolicus X514]
+ATTGAAAATGAATATCATA
+>Teth514_2332(sufC) Score=6.4 Pos=-120 [Thermoanaerobacter ethanolicus X514]
+AATGAAAATAATTATCAAT
+>Teth514_0187(feoA1) Score=6.5 Pos=-35 [Thermoanaerobacter ethanolicus X514]
+ATTGATAATTATTTTCAAT
+>Teth514_1138(feoA3) Score=6.1 Pos=-128 [Thermoanaerobacter ethanolicus X514]
+AATGAGAAATATTATCAAT
+>Teth514_1138(feoA3) Score=5.1 Pos=-105 [Thermoanaerobacter ethanolicus X514]
+TTTGTAATTTATTTTCAAT
+>Thit_1045(fur) Score=6.1 Pos=-55 [Thermoanaerobacter italicus Ab9]
+ATTGAAAATGAATATCATA
+>Thit_2296(sufC) Score=6.4 Pos=-119 [Thermoanaerobacter italicus Ab9]
+AATGAAAATAATTATCAAT
+>Thit_0206(feoA1) Score=6.5 Pos=-35 [Thermoanaerobacter italicus Ab9]
+ATTGATAATTATTTTCAAT
+>Thit_0093(mmt1) Score=5.6 Pos=-110 [Thermoanaerobacter italicus Ab9]
+ATTGAATTTGATTTTCAAT
+>Thit_1667(feoA3) Score=6.1 Pos=-128 [Thermoanaerobacter italicus Ab9]
+AATGAGAAATATTATCAAT
+>Thit_1667(feoA3) Score=5.1 Pos=-105 [Thermoanaerobacter italicus Ab9]
+TTTGTAATTTATTTTCAAT
+>TTE0959(ftn) Score=5.3 Pos=78 [Thermoanaerobacter tengcongensis MB4]
+ATGGAGAATTATTTTCAAG
+>TTE2673(sufC) Score=5.3 Pos=-120 [Thermoanaerobacter tengcongensis MB4]
+AAAGAAAATAATTATCAAC
+>TTE0242(feoA1) Score=6.1 Pos=-33 [Thermoanaerobacter tengcongensis MB4]
+ATTGATAATGATTTTCACT
+>TTE1252(fur) Score=6.1 Pos=-56 [Thermoanaerobacter tengcongensis MB4]
+ATTGAAAATGAATATCATA
+>TTE0105(mmt1) Score=5.6 Pos=-109 [Thermoanaerobacter tengcongensis MB4]
+ATTGAAGTTGATTTTCAAT
+>TTE1861(feoA3) Score=6.2 Pos=-71 [Thermoanaerobacter tengcongensis MB4]
+AATGAGAATTATTCTCAAT
+>Csac_1739(feoA) Score=6.2 Pos=-98 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATTGAGAATAATTCTCAAT
+>Csac_0536(ftr) Score=5.8 Pos=-37 [Caldicellulosiruptor saccharolyticus DSM 8903]
+AGTGAAAATCAATTTCAAA
+>Csac_0536(ftr) Score=5.3 Pos=-43 [Caldicellulosiruptor saccharolyticus DSM 8903]
+ATTGAAAGTGAAAATCAAT
+>CHY_2414(ftr) Score=6.6 Pos=-36 [Carboxydothermus hydrogenoformans Z-2901]
+ATTGAAAATGATTTTCAAT
+>CHY_0502(mmt1) Score=5.5 Pos=-145 [Carboxydothermus hydrogenoformans Z-2901]
+ATTGAAAATGATTTTTAGT
+>Athe_1564(feoA) Score=6.6 Pos=-96 [Anaerocellum thermophilum DSM 6725]
+ATTGAAAATGATTTTCAAT
+>Athe_2602(ftr) Score=6 Pos=-40 [Anaerocellum thermophilum DSM 6725]
+AATGAAAATCAATTTCAAA
+>Athe_2602(ftr) Score=5.9 Pos=-46 [Anaerocellum thermophilum DSM 6725]
+ATTGAAAATGAAAATCAAT
+>Moth_1183(feoA) Score=6.1 Pos=-233 [Moorella thermoacetica ATCC 39073]
+ATTGATAATGTTTATCAAT
+>Moth_1183(feoA) Score=5.5 Pos=-277 [Moorella thermoacetica ATCC 39073]
+ATTGACATTGATTATCATT
+>Moth_1435(feoA3) Score=5.8 Pos=-79 [Moorella thermoacetica ATCC 39073]
+AATGAGAATGAATGTCATT

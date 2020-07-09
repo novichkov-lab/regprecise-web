@@ -1,0 +1,36 @@
+>cauri_0611(nanR) Score=5.6 Pos=-159 [Corynebacterium aurimucosum ATCC 700975]
+AGAATACATCAGACGTCTGAT
+>cauri_0611(nanR) Score=6 Pos=-152 [Corynebacterium aurimucosum ATCC 700975]
+ATCAGACGTCTGATGTGTGAA
+>cauri_0609(nanA) Score=5.7 Pos=-58 [Corynebacterium aurimucosum ATCC 700975]
+AAGAGACGTATGATGTCTTAT
+>DIP0330(DIP0330) Score=6.1 Pos=-29 [Corynebacterium diphtheriae NCTC 13129]
+TCCAGACGTCAGACGTCTGAT
+>DIP0543(DIP0543) Score=5.7 Pos=-54 [Corynebacterium diphtheriae NCTC 13129]
+GTCAGACGTCTGATGTCAGAT
+>DIP0331(cheA) Score=6.2 Pos=-71 [Corynebacterium diphtheriae NCTC 13129]
+ATCAGACGTCTGACGTCTGGA
+>DIP0516 Score=6 Pos=-36 [Corynebacterium diphtheriae NCTC 13129]
+ATCCTACATCAGACGTCTGAT
+>DIP0516 Score=5.4 Pos=-29 [Corynebacterium diphtheriae NCTC 13129]
+ATCAGACGTCTGATGTCGGGG
+>DIP0543(DIP0543) Score=6.6 Pos=-61 [Corynebacterium diphtheriae NCTC 13129]
+ATAGGACGTCAGACGTCTGAT
+>cg2931(nanA) Score=6.1 Pos=-180 [Corynebacterium glutamicum ATCC 13032]
+ATAGGACGTATGATGTCTTAT
+>cg2936(nanR) Score=5.4 Pos=-196 [Corynebacterium glutamicum ATCC 13032]
+ATCAGACATCAGACGTTTAGG
+>cg2929(nagA) Score=5.7 Pos=-54 [Corynebacterium glutamicum ATCC 13032]
+ATAAGACATCATACGTCCTAT
+>ckrop_1872(nanI) Score=5.6 Pos=-149 [Corynebacterium kroppenstedtii DSM 44385]
+ATCAGACATCTGACATGTGGT
+>ckrop_1872(nanI) Score=6.1 Pos=-156 [Corynebacterium kroppenstedtii DSM 44385]
+ATCAGACATCAGACATCTGAC
+>ckrop_1873(nanT) Score=5.5 Pos=-99 [Corynebacterium kroppenstedtii DSM 44385]
+ACCACATGTCAGATGTCTGAT
+>ckrop_1865(nanK) Score=5.6 Pos=-72 [Corynebacterium kroppenstedtii DSM 44385]
+ATAGGTTGTAAGACGTCTGAC
+>ckrop_1866(nagA) Score=5.5 Pos=-127 [Corynebacterium kroppenstedtii DSM 44385]
+CATGGACGTCAGACGTCTTAC
+>ckrop_1873(nanT) Score=6 Pos=-92 [Corynebacterium kroppenstedtii DSM 44385]
+GTCAGATGTCTGATGTCTGAT

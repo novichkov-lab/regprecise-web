@@ -1,0 +1,38 @@
+>TM1199(ltpE) Score=5.4 Pos=-53 [Thermotoga maritima MSB8]
+ACGTGAACGTTCACGG
+>TM1204(ganE) Score=5.6 Pos=-51 [Thermotoga maritima MSB8]
+ACGGTAACGTTTACGT
+>TRQ2_1614(ganE) Score=5.6 Pos=-51 [Thermotoga sp. RQ2]
+ACGGTAACGTTTACGT
+>TRQ2_1619(ltpE) Score=5.4 Pos=-52 [Thermotoga sp. RQ2]
+ACGTGAACGTTCACGG
+>CTN_1367(ganE) Score=5.6 Pos=-62 [Thermotoga neapolitana DSM 4359]
+ACGGTAACGTTTACGT
+>CTN_1372(galX) Score=5 Pos=-63 [Thermotoga neapolitana DSM 4359]
+CTGTGAACGTTCACGG
+>CTN_1375(ltpE) Score=4.9 Pos=8 [Thermotoga neapolitana DSM 4359]
+ACATAAACGTTCACGG
+>Tpet_1552(ganE) Score=5.6 Pos=-75 [Thermotoga petrophila RKU-1]
+ACGGTAACGTTTACGT
+>Tpet_1557(lacA) Score=5.3 Pos=-28 [Thermotoga petrophila RKU-1]
+CCGTGAACGTTCACGA
+>Tnap_1576(galR) Score=5.6 Pos=-65 [Thermotoga naphthophila RKU-10]
+ACGGTAACGTTTACGT
+>Tnap_1577(lacA) Score=5.3 Pos=-28 [Thermotoga naphthophila RKU-10]
+CCGTGAACGTTCACGA
+>Tlet_0910(ganE) Score=5.1 Pos=-32 [Thermotoga lettingae TMO]
+ATGGTAACGTTTACGA
+>Tlet_1102 Score=5.3 Pos=-2 [Thermotoga lettingae TMO]
+TCGTGAACGTTTACGA
+>Tlet_1127(galX) Score=5.4 Pos=-41 [Thermotoga lettingae TMO]
+TCGGTAACGTTACCGT
+>THA_1574(lacE) Score=4.8 Pos=-60 [Thermosipho africanus TCF52B]
+TCGGTAACATTACCGG
+>Fnod_0419(lacA) Score=5 Pos=-43 [Fervidobacterium nodosum Rt17-B1]
+CCGGTAACGTTACCAA
+>Fnod_0626(galX) Score=4.7 Pos=-69 [Fervidobacterium nodosum Rt17-B1]
+TCGGTTACGTTACCGG
+>Pmob_0832(galR) Score=4.7 Pos=-20 [Petrotoga mobilis SJ95]
+TTGTTACCGTTAACGT
+>Pmob_0832(galR) Score=5.3 Pos=-14 [Petrotoga mobilis SJ95]
+CCGTTAACGTTAACAT

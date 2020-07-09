@@ -1,0 +1,40 @@
+>VC1112(bioB) Score=8.2 Pos=-93 [Vibrio cholerae O1 biovar eltor str. N16961]
+ATGTAAACC---------------TGTTGACAG
+>VC1111(bioA) Score=8.2 Pos=-66 [Vibrio cholerae O1 biovar eltor str. N16961]
+CTGTCAACA---------------GGTTTACAT
+>VV1_2943(bioB) Score=7.8 Pos=-102 [Vibrio vulnificus CMCP6]
+ATGTAAACT---------------TGTTGACAG
+>VV1_2944(bioA) Score=7.8 Pos=-72 [Vibrio vulnificus CMCP6]
+CTGTCAACA---------------AGTTTACAT
+>VIBHAR_01807(bioB) Score=7.8 Pos=-73 [Vibrio harveyi ATCC BAA-1116]
+ATGTAAACT---------------TGTTGACAG
+>VIBHAR_01806(bioA) Score=7.8 Pos=-73 [Vibrio harveyi ATCC BAA-1116]
+CTGTCAACA---------------AGTTTACAT
+>VP1113(bioB) Score=7.8 Pos=-90 [Vibrio parahaemolyticus RIMD 2210633]
+ATGTAAACT---------------TGTTGACAG
+>VP1112(bioA) Score=7.8 Pos=-73 [Vibrio parahaemolyticus RIMD 2210633]
+CTGTCAACA---------------AGTTTACAT
+>VSAK1_00085(bioB) Score=7.2 Pos=-91 [Vibrio shilonii AK1]
+GTGTAAACT---------------TGTTGACAG
+>VSAK1_00080(bioA) Score=7.2 Pos=-62 [Vibrio shilonii AK1]
+CTGTCAACA---------------AGTTTACAC
+>VS_2040(bioB) Score=7.8 Pos=-121 [Vibrio splendidus LGP32]
+ATGTAAACT---------------TGTTGACAG
+>VS_2041(bioA) Score=7.8 Pos=-72 [Vibrio splendidus LGP32]
+CTGTCAACA---------------AGTTTACAT
+>VF_A1189(bioB) Score=8.6 Pos=-117 [Vibrio fischeri ES114]
+TTGTAAACT---------------GGTTGACAG
+>VF_A0748(bioA) Score=8.6 Pos=-44 [Vibrio fischeri ES114]
+CTGTCAACC---------------AGTTTACAA
+>VSAL_II0861(bioA) Score=8.6 Pos=-44 [Vibrio salmonicida LFI1238]
+CTGTCAACC---------------AGTTTACAA
+>VSAL_II0860(bioB) Score=8.6 Pos=-95 [Vibrio salmonicida LFI1238]
+TTGTAAACT---------------GGTTGACAG
+>VAS14_01401(bioB) Score=8.4 Pos=-213 [Vibrio angustum S14]
+ATGTAAACC---------------AGTTGACAG
+>VAS14_01396(bioA) Score=8.4 Pos=-35 [Vibrio angustum S14]
+CTGTCAACT---------------GGTTTACAT
+>PBPRA2330(bioA) Score=5.8 Pos=-36 [Photobacterium profundum SS9]
+cgaTAAAtC---------------GGTTgAaAg
+>PBPRA2329(bioB) Score=7.5 Pos=-149 [Photobacterium profundum SS9]
+aTGTAAACC---------------taTTgACAg

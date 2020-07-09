@@ -1,0 +1,30 @@
+>PA0500(bioB) Score=7.5 Pos=-129 [Pseudomonas aeruginosa PAO1]
+ATGTAGTCC--------------GGTTGACAG
+>PSEEN5121(bioB) Score=8.1 Pos=-127 [Pseudomonas entomophila L48]
+TTGTAAGCC--------------GGTTGACAG
+>PSEEN5122(COG1040) Score=8.1 Pos=5 [Pseudomonas entomophila L48]
+CTGTCAACC--------------GGCTTACAA
+>PP0362(bioB) Score=8.6 Pos=-127 [Pseudomonas putida KT2440]
+TTGTAAACC--------------AGTTGACAG
+>PP0361(COG1040) Score=8.6 Pos=5 [Pseudomonas putida KT2440]
+CTGTCAACT--------------GGTTTACAA
+>PSPTO0494(bioB) Score=8.8 Pos=-128 [Pseudomonas syringae pv. tomato str. DC3000]
+ATGTAAACC--------------GGTTGACAG
+>PSPTO0493(COG1040) Score=8.8 Pos=5 [Pseudomonas syringae pv. tomato str. DC3000]
+CTGTCAACC--------------GGTTTACAT
+>PFL_5693(bioB) Score=8.8 Pos=-128 [Pseudomonas fluorescens Pf-5]
+ATGTAAACC--------------GGTTGACAG
+>PFL_5694(COG1040) Score=8.8 Pos=5 [Pseudomonas fluorescens Pf-5]
+CTGTCAACC--------------GGTTTACAT
+>Pmen_4089 Score=8.2 Pos=-107 [Pseudomonas mendocina ymp]
+CTGTCAACC--------------GGTTGACGA
+>Pmen_4088(bioB) Score=8.2 Pos=-119 [Pseudomonas mendocina ymp]
+TCGTCAACC--------------GGTTGACAG
+>PST_3867(COG1040) Score=9 Pos=-21 [Pseudomonas stutzeri A1501]
+CTGTCAACC--------------GGTTTACAA
+>PST_3866(bioB) Score=9 Pos=-104 [Pseudomonas stutzeri A1501]
+TTGTAAACC--------------GGTTGACAG
+>Avin_05970(COG1040) Score=9 Pos=-16 [Azotobacter vinelandii AvOP]
+CTGTCAACC--------------GGTTTACAA
+>Avin_05980(bioB) Score=9 Pos=-139 [Azotobacter vinelandii AvOP]
+TTGTAAACC--------------GGTTGACAG

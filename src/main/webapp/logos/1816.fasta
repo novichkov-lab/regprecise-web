@@ -1,0 +1,220 @@
+>SMa1261(PF00034) Score=4.7 Pos=-84 [Sinorhizobium meliloti 1021]
+GTTTGCTCCCCGTCAAAG
+>SMa1250(nirK) Score=4.7 Pos=-191 [Sinorhizobium meliloti 1021]
+CTTTGACAATTGGCAAAG
+>SMa1250(nirK) Score=4.8 Pos=-90 [Sinorhizobium meliloti 1021]
+GTTTGTTCCACCTCAAAG
+>SMa1243(azu1) Score=4.2 Pos=-91 [Sinorhizobium meliloti 1021]
+ATTTGACAAGCATCAAAG
+>SMa1252(nnrS) Score=4.8 Pos=-173 [Sinorhizobium meliloti 1021]
+CTTTGAGGTGGAACAAAC
+>SMa1252(nnrS) Score=4.7 Pos=-72 [Sinorhizobium meliloti 1021]
+CTTTGCCAATTGTCAAAG
+>SMa1279(norE) Score=4.9 Pos=-57 [Sinorhizobium meliloti 1021]
+CTTTGATCGAGAGCAAAG
+>SMa1289(nnrX) Score=5.1 Pos=-88 [Sinorhizobium meliloti 1021]
+CTTTGCTCCAGCGCAAAT
+>SMa1288(ubiD) Score=5.1 Pos=-107 [Sinorhizobium meliloti 1021]
+ATTTGCGCTGGAGCAAAG
+>SMa1178(PF02915) Score=4.7 Pos=-107 [Sinorhizobium meliloti 1021]
+CTTTGCGCCAGATCAACT
+>SMa1179(nosR) Score=4.7 Pos=-82 [Sinorhizobium meliloti 1021]
+AGTTGATCTGGCGCAAAG
+>SMa1195(dnrN) Score=5.4 Pos=-141 [Sinorhizobium meliloti 1021]
+GTTTGCGCAAGCGCAAAG
+>SMa1266(hemN) Score=5.1 Pos=-85 [Sinorhizobium meliloti 1021]
+CTTTGACATTGCGCAAAG
+>SMa1276(norC) Score=4.9 Pos=-145 [Sinorhizobium meliloti 1021]
+GTTTGCCGAAACGCAAAG
+>NGR_c09900(PF00034) Score=4.2 Pos=-169 [Rhizobium sp. NGR234]
+CTTTGACCAATATCAAGG
+>NGR_c09900(PF00034) Score=4.7 Pos=-123 [Rhizobium sp. NGR234]
+GTTTGCTCGGCGTCAAAG
+>NGR_c09950(nirK) Score=4.7 Pos=-195 [Rhizobium sp. NGR234]
+CTTTGACAATTGGCAAAG
+>NGR_c09950(nirK) Score=4.7 Pos=-91 [Rhizobium sp. NGR234]
+ATTTGTTCCACCTCAAAG
+>NGR_c09980(azu1) Score=4.4 Pos=-91 [Rhizobium sp. NGR234]
+GTTTGACAGACATCAAAG
+>NGR_c09830 Score=5.1 Pos=-63 [Rhizobium sp. NGR234]
+CTTTGCGCTTGATCAAAG
+>NGR_c09940(nnrS) Score=4.7 Pos=-177 [Rhizobium sp. NGR234]
+CTTTGAGGTGGAACAAAT
+>NGR_c09940(nnrS) Score=4.7 Pos=-73 [Rhizobium sp. NGR234]
+CTTTGCCAATTGTCAAAG
+>NGR_c09840(norE) Score=5.1 Pos=-69 [Rhizobium sp. NGR234]
+CTTTGATCAAGCGCAAAG
+>NGR_c09800(nnrX) Score=5.1 Pos=-80 [Rhizobium sp. NGR234]
+CTTTGCGCTGGCTCAAAT
+>NGR_c09810(ubiD) Score=5.1 Pos=-50 [Rhizobium sp. NGR234]
+ATTTGAGCCAGCGCAAAG
+>NGR_c09890(hemN) Score=4.7 Pos=-129 [Rhizobium sp. NGR234]
+CTTTGACGCCGAGCAAAC
+>NGR_c09890(hemN) Score=4.2 Pos=-83 [Rhizobium sp. NGR234]
+CCTTGATATTGGTCAAAG
+>NGR_c09850(norC) Score=4.5 Pos=-142 [Rhizobium sp. NGR234]
+GTTTGCAGAAACGCAAAG
+>RHE_PF00520(PF00034) Score=4.3 Pos=-114 [Rhizobium etli CFN 42]
+ATTTGTCCGCTGTCAAAG
+>RHE_PF00525(nirK) Score=4.7 Pos=-148 [Rhizobium etli CFN 42]
+CGTTGAGATTACGCAAAG
+>RHE_PF00525(nirK) Score=5.2 Pos=-117 [Rhizobium etli CFN 42]
+CTTTGTGCCGGCACAAAC
+>RHE_PF00525(nirK) Score=5.1 Pos=-94 [Rhizobium etli CFN 42]
+GTTTGCGCCACGTCAAAG
+>RHE_PF00524(nnrS) Score=5.1 Pos=-125 [Rhizobium etli CFN 42]
+CTTTGACGTGGCGCAAAC
+>RHE_PF00524(nnrS) Score=5.2 Pos=-102 [Rhizobium etli CFN 42]
+GTTTGTGCCGGCACAAAG
+>RHE_PF00524(nnrS) Score=4.7 Pos=-71 [Rhizobium etli CFN 42]
+CTTTGCGTAATCTCAACG
+>RHE_PF00514(norE) Score=5 Pos=-60 [Rhizobium etli CFN 42]
+CTTTGCGATCGGTCAAAG
+>RHE_PF00515(norC) Score=4.7 Pos=-112 [Rhizobium etli CFN 42]
+CTTTGCGAATTAACAAAG
+>Atu4382(nirK) Score=4.8 Pos=-181 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGCGAACAGGCAAAG
+>Atu4382(nirK) Score=4.5 Pos=-95 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTTTGTTCCATCTCAAAT
+>Atu8040 Score=5 Pos=-67 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGCGGTCGGTCAAAG
+>Atu4392(nnrU) Score=5 Pos=-247 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGCGGTCGGTCAAAG
+>Atu4383(nnrS) Score=4.5 Pos=-159 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTTGAGATGGAACAAAC
+>Atu4383(nnrS) Score=4.8 Pos=-73 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGCCTGTTCGCAAAG
+>Atu4391(norE) Score=5 Pos=-76 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGACCGACCGCAAAG
+>Atu4396(nnrX) Score=4.9 Pos=-75 [Agrobacterium tumefaciens str. C58 (Cereon)]
+CTTTGCGTTCGCTCAAAC
+>Atu4394(ubiD) Score=4.7 Pos=-20 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTTGCGGCAGCGCAAGG
+>Atu4389(norC) Score=4.9 Pos=-138 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTTTGCCAAATGGCAAAG
+>Meso_4284 Score=5.6 Pos=-142 [Mesorhizobium sp. BNC1]
+CTTTGCGCTAGCGCAAAC
+>Meso_4273(nirK) Score=4.2 Pos=-234 [Mesorhizobium sp. BNC1]
+CTTTGCGCGACGGGAACT
+>Meso_4273(nirK) Score=5.5 Pos=-86 [Mesorhizobium sp. BNC1]
+GTTTGCGCCAGCGCAAAG
+>Meso_2243(nirK) Score=4.9 Pos=-175 [Mesorhizobium sp. BNC1]
+CTTTGATCCAGCGCAACG
+>Meso_2243(nirK) Score=5.1 Pos=-82 [Mesorhizobium sp. BNC1]
+ATTTGCGCCAGAGCAAAG
+>Meso_2245(azu1) Score=5.2 Pos=-81 [Mesorhizobium sp. BNC1]
+CTTTGCGCGAGCGCAAAT
+>Meso_4276(azu1) Score=4.9 Pos=-86 [Mesorhizobium sp. BNC1]
+GTTTGCGTTGCAGCAAAG
+>Meso_4290 Score=5.4 Pos=-229 [Mesorhizobium sp. BNC1]
+GTTTGCGCTGGCGCAAAC
+>Meso_4294 Score=4.8 Pos=-70 [Mesorhizobium sp. BNC1]
+CTTTGCGGAAGTGCAAAG
+>Meso_4293(ubiD) Score=4.8 Pos=-65 [Mesorhizobium sp. BNC1]
+CTTTGCACTTCCGCAAAG
+>Meso_4277(nnrR) Score=4.9 Pos=-143 [Mesorhizobium sp. BNC1]
+CTTTGCTGCAACGCAAAC
+>Meso_2246(nnrR) Score=5.2 Pos=-55 [Mesorhizobium sp. BNC1]
+ATTTGCGCTCGCGCAAAG
+>Meso_4289(nnrS2) Score=5.4 Pos=-83 [Mesorhizobium sp. BNC1]
+GTTTGCGCCAGCGCAAAC
+>Meso_2247(PF08984) Score=5.1 Pos=-74 [Mesorhizobium sp. BNC1]
+CTTTGCGCAAGCACAACG
+>BMEII0988(nirK) Score=4.8 Pos=-187 [Brucella melitensis 16M]
+CTTTGTCTTAACGCAAAC
+>BMEII0988(nirK) Score=4.7 Pos=-28 [Brucella melitensis 16M]
+CTTGGTCCTATCGCAAAG
+>BMEII0965 Score=4.1 Pos=-120 [Brucella melitensis 16M]
+GTTTGATTTTAATCAAAG
+>BMEII1001(norE) Score=5 Pos=-51 [Brucella melitensis 16M]
+CTTTGCCAAAACGCAAAG
+>BMEII0975(nosR) Score=3.9 Pos=-233 [Brucella melitensis 16M]
+CTTTGCGTCATATCAATA
+>BMEII0999(norC) Score=4.9 Pos=-144 [Brucella melitensis 16M]
+CTTTGCCTATTCGCAAAG
+>RPA1455(norC) Score=5 Pos=-101 [Rhodopseudomonas palustris CGA009]
+CGTTGAGCCAGCACAAAG
+>RPA1452 Score=4.7 Pos=-106 [Rhodopseudomonas palustris CGA009]
+CGTTGTGCCGCGACAAAC
+>RPA1452 Score=4.4 Pos=-69 [Rhodopseudomonas palustris CGA009]
+GCTTGCGCCCCGACAAAC
+>RPA1485(nnrU) Score=4.1 Pos=-108 [Rhodopseudomonas palustris CGA009]
+GGTTGACGCACGACAACG
+>RPA4145(nirK) Score=4.5 Pos=-190 [Rhodopseudomonas palustris CGA009]
+CTTTGTCGCGCAACAACG
+>RPA4145(nirK) Score=4.6 Pos=-84 [Rhodopseudomonas palustris CGA009]
+GCTTGTGCTGGGACAAAC
+>RPA1486(nnrS) Score=5 Pos=-89 [Rhodopseudomonas palustris CGA009]
+GTTTGCGCTGGCACAACC
+>RPA1453(norE) Score=4.4 Pos=-86 [Rhodopseudomonas palustris CGA009]
+GTTTGTCGGGGCGCAAGC
+>RPA1453(norE) Score=4.7 Pos=-49 [Rhodopseudomonas palustris CGA009]
+GTTTGTCGCGGCACAACG
+>RPA0932(nnrX) Score=5.1 Pos=-67 [Rhodopseudomonas palustris CGA009]
+CTTTGATCAGGCGCAAAG
+>RPA0931(ubiD) Score=5.1 Pos=-66 [Rhodopseudomonas palustris CGA009]
+CTTTGCGCCTGATCAAAG
+>RPA4143(nnrR) Score=4.3 Pos=-229 [Rhodopseudomonas palustris CGA009]
+ATTTGCGGTTCGGGAAAG
+>RPA2059(PF02915) Score=5 Pos=-57 [Rhodopseudomonas palustris CGA009]
+ATTTGCGCCAGCGCAAAT
+>RPA2060(nosR) Score=5 Pos=-128 [Rhodopseudomonas palustris CGA009]
+ATTTGCGCTGGCGCAAAT
+>bll6222(PF01152) Score=5 Pos=-91 [Bradyrhizobium japonicum USDA 110]
+ATTTGCGCTGCGACAAAG
+>bsr7087 Score=5 Pos=-117 [Bradyrhizobium japonicum USDA 110]
+CCTTGCGCTCGCGCAAAG
+>bsr7087 Score=5.1 Pos=-79 [Bradyrhizobium japonicum USDA 110]
+CATTGCGCTCGCGCAAAG
+>blr7089(nirK) Score=4.4 Pos=-76 [Bradyrhizobium japonicum USDA 110]
+GCTTGTTGCAGCGCAAAC
+>bsl3211 Score=4.5 Pos=-20 [Bradyrhizobium japonicum USDA 110]
+GTTTGTCGGCGGACAAAC
+>bsl3211 Score=5 Pos=17 [Bradyrhizobium japonicum USDA 110]
+GTTTGCGCCGACGCAACG
+>bll7083(nnrS) Score=5 Pos=-79 [Bradyrhizobium japonicum USDA 110]
+GTTTGCGATAGCGCAAAA
+>blr3212(norE) Score=5 Pos=-108 [Bradyrhizobium japonicum USDA 110]
+CGTTGCGTCGGCGCAAAC
+>blr3212(norE) Score=4.5 Pos=-71 [Bradyrhizobium japonicum USDA 110]
+GTTTGTCCGCCGACAAAC
+>bll7628(nnrX) Score=4.2 Pos=-50 [Bradyrhizobium japonicum USDA 110]
+CATTGTTCCCGCTCAAAT
+>blr7629(ubiD) Score=4.2 Pos=-15 [Bradyrhizobium japonicum USDA 110]
+ATTTGAGCGGGAACAATG
+>blr7084(nnrR) Score=5 Pos=-68 [Bradyrhizobium japonicum USDA 110]
+TTTTGCGCTATCGCAAAC
+>blr0314(nosR) Score=4.5 Pos=-133 [Bradyrhizobium japonicum USDA 110]
+GCTTGATCCAGCGCAAAC
+>bll7086(hemN) Score=5.1 Pos=-142 [Bradyrhizobium japonicum USDA 110]
+CTTTGCGCGAGCGCAATG
+>bll7086(hemN) Score=5 Pos=-104 [Bradyrhizobium japonicum USDA 110]
+CTTTGCGCGAGCGCAAGG
+>bsl7085(PF08984) Score=4.4 Pos=-64 [Bradyrhizobium japonicum USDA 110]
+GCTTGCGCTCCAACAAAG
+>bll2007(hemN1) Score=4.8 Pos=-74 [Bradyrhizobium japonicum USDA 110]
+GTTTGACATAACGCAAAG
+>blr3214(norC) Score=4.6 Pos=-89 [Bradyrhizobium japonicum USDA 110]
+CATTGCGCCCTGACAAAG
+>BBta_2085 Score=4.8 Pos=-67 [Bradyrhizobium sp. BTAi1]
+CTTTGTCGCCGCACAAAC
+>BBta_6826(nirK) Score=4.3 Pos=-83 [Bradyrhizobium sp. BTAi1]
+GCTTGTTGCAGCACAAAC
+>BBta_6821(nnrS) Score=4.9 Pos=-100 [Bradyrhizobium sp. BTAi1]
+GTTTGTGCTGGCACAACC
+>BBta_2086(norE) Score=4.8 Pos=-68 [Bradyrhizobium sp. BTAi1]
+GTTTGTGCGGCGACAAAG
+>BBta_6822(nnrR) Score=4.9 Pos=-86 [Bradyrhizobium sp. BTAi1]
+GGTTGTGCCAGCACAAAC
+>BBta_6006(PF02915) Score=4.8 Pos=-103 [Bradyrhizobium sp. BTAi1]
+CGTTGCGCTGGATCAAAC
+>BBta_6007(nosR) Score=4.8 Pos=-181 [Bradyrhizobium sp. BTAi1]
+GTTTGATCCAGCGCAACG
+>BBta_6824(hemN) Score=5.2 Pos=-160 [Bradyrhizobium sp. BTAi1]
+CTTTGAGGAAGCGCAAAG
+>BBta_6824(hemN) Score=4.6 Pos=-87 [Bradyrhizobium sp. BTAi1]
+CTTTGAGCAGGCTCAAGG
+>BBta_6823(PF08984) Score=4.7 Pos=-101 [Bradyrhizobium sp. BTAi1]
+GGTTGTGCCGCGACAAAG
+>BBta_2088(norC) Score=4.8 Pos=-85 [Bradyrhizobium sp. BTAi1]
+CGTTGCGCCCCGACAAAG

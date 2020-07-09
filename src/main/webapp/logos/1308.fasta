@@ -1,0 +1,24 @@
+>b1338(abgA) Score=5.1 Pos=-62 [Escherichia coli str. K-12 substr. MG1655]
+GATAAGTAAAAACTATC
+>b1338(abgA) Score=5.6 Pos=-166 [Escherichia coli str. K-12 substr. MG1655]
+GATAACCGTTATTTATC
+>b1339(abgR) Score=5.1 Pos=-130 [Escherichia coli str. K-12 substr. MG1655]
+GATAGTTTTTACTTATC
+>b1339(abgR) Score=5.6 Pos=-26 [Escherichia coli str. K-12 substr. MG1655]
+GATAAATAACGGTTATC
+>KPN_01534(abgA) Score=5.3 Pos=-62 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GATAAACAAAAGCTATC
+>KPN_01534(abgA) Score=5.5 Pos=-157 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GATAACCGTTGCTTATC
+>KPN_01535(abgR) Score=5.3 Pos=-121 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GATAGCTTTTGTTTATC
+>KPN_01535(abgR) Score=5.5 Pos=-26 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GATAAGCAACGGTTATC
+>Spro_4200(abgA) Score=5.6 Pos=-260 [Serratia proteamaculans 568]
+GATAACCGTTGTTTATC
+>Spro_4199(abgR) Score=5.6 Pos=-28 [Serratia proteamaculans 568]
+GATAAACAACGGTTATC
+>plu3726(abgA) Score=5.1 Pos=-261 [Photorhabdus luminescens subsp. laumondii TTO1]
+GATAACTTTTAATTATA
+>plu3727(abgR) Score=5.1 Pos=-30 [Photorhabdus luminescens subsp. laumondii TTO1]
+TATAATTAAAAGTTATC

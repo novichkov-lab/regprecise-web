@@ -1,0 +1,124 @@
+>BACCELL_03118(hexT) Score=4.6 Pos=-170 [Bacteroides cellulosilyticus DSM 14838]
+TTCGTGTGCGAGAACGAG
+>BACCELL_03118(hexT) Score=4.7 Pos=-154 [Bacteroides cellulosilyticus DSM 14838]
+AGTGTTTTCGTGCACGAT
+>BACCELL_02166(kduI1) Score=4.8 Pos=-64 [Bacteroides cellulosilyticus DSM 14838]
+ATCGTGTACGTAAACGAA
+>BACCELL_04099(kdgR) Score=5.6 Pos=-154 [Bacteroides cellulosilyticus DSM 14838]
+ATTGTGTGCGGACACAAC
+>BACDOR_03279(sgcC) Score=4.5 Pos=-25 [Bacteroides dorei DSM 17855]
+TTCGTGTGCGAAAACGGT
+>BACDOR_03279(sgcC) Score=4.5 Pos=-3 [Bacteroides dorei DSM 17855]
+TTTGTGCACGATAACGAT
+>BACDOR_02921(kdgK) Score=5.5 Pos=-228 [Bacteroides dorei DSM 17855]
+ATTGTGCTCGTACACACT
+>BACDOR_02921(kdgK) Score=5.4 Pos=-145 [Bacteroides dorei DSM 17855]
+TTTGTGCACGCACACGGA
+>BACDOR_02922(kdgR) Score=5.4 Pos=-115 [Bacteroides dorei DSM 17855]
+TCCGTGTGCGTGCACAAA
+>BACDOR_02922(kdgR) Score=5.5 Pos=-32 [Bacteroides dorei DSM 17855]
+AGTGTGTACGAGCACAAT
+>BACEGG_03270(kduI1) Score=4.4 Pos=-64 [Bacteroides eggerthii DSM 20697]
+ATCGTGTACGTAAACGAC
+>BACEGG_00862(sgcC) Score=4.9 Pos=-182 [Bacteroides eggerthii DSM 20697]
+TTCGTGTACGAAAACGAA
+>BACEGG_00862(sgcC) Score=4.1 Pos=-160 [Bacteroides eggerthii DSM 20697]
+TTTGTGCACGATAACGAC
+>BACEGG_01788(kdgK) Score=6 Pos=-227 [Bacteroides eggerthii DSM 20697]
+TTTGTGTTCGTACACAAT
+>BACEGG_01788(kdgK) Score=5.9 Pos=-145 [Bacteroides eggerthii DSM 20697]
+TTTGTGCCCGCACACGAA
+>BACEGG_01787(kdgR) Score=5.9 Pos=39 [Bacteroides eggerthii DSM 20697]
+TTCGTGTGCGGGCACAAA
+>BACEGG_01787(kdgR) Score=6 Pos=121 [Bacteroides eggerthii DSM 20697]
+ATTGTGTACGAACACAAA
+>BF0082(kduI1) Score=4.1 Pos=-61 [Bacteroides fragilis NCTC 9343]
+GTCGTGTGCGTAAACGGA
+>BF0809(hexT) Score=4.5 Pos=-198 [Bacteroides fragilis NCTC 9343]
+GTCGTGTGCGAAAACGAT
+>BF0809(hexT) Score=4.6 Pos=-176 [Bacteroides fragilis NCTC 9343]
+ATTGTGTTCGATAACGAA
+>BF2719(kdgK) Score=5.7 Pos=-228 [Bacteroides fragilis NCTC 9343]
+TTTGTGCCCGGACACACT
+>BF2719(kdgK) Score=5.5 Pos=-146 [Bacteroides fragilis NCTC 9343]
+TTTGTGTCCGCACACGGA
+>BF2720(kdgR) Score=5.5 Pos=-125 [Bacteroides fragilis NCTC 9343]
+TCCGTGTGCGGACACAAA
+>BF2720(kdgR) Score=5.7 Pos=-43 [Bacteroides fragilis NCTC 9343]
+AGTGTGTCCGGGCACAAA
+>BACOVA_00140(kduI1) Score=4.8 Pos=-66 [Bacteroides ovatus ATCC 8483]
+ATCGTGTACGTAAACGAA
+>BACOVA_04898(sgcC) Score=4.5 Pos=-193 [Bacteroides ovatus ATCC 8483]
+TTCGTGCACGGAAACGAC
+>BACOVA_04898(sgcC) Score=4.3 Pos=-171 [Bacteroides ovatus ATCC 8483]
+TTTGTGCACGCAAACGTC
+>BACOVA_03830(kdgK) Score=6 Pos=-228 [Bacteroides ovatus ATCC 8483]
+TTTGTGCTCGCACACAAT
+>BACOVA_03830(kdgK) Score=5.9 Pos=-146 [Bacteroides ovatus ATCC 8483]
+TTTGTGCCCGCACACGAA
+>BACOVA_03831(kdgR) Score=5.9 Pos=-125 [Bacteroides ovatus ATCC 8483]
+TTCGTGTGCGGGCACAAA
+>BACOVA_03831(kdgR) Score=6 Pos=-43 [Bacteroides ovatus ATCC 8483]
+ATTGTGTGCGAGCACAAA
+>BACPLE_00506(sgcC) Score=4.6 Pos=-154 [Bacteroides plebeius DSM 17135]
+TCCGTGTGCGTAAACGAA
+>BACPLE_00831(kdgK) Score=6.1 Pos=-112 [Bacteroides plebeius DSM 17135]
+TTTGTGTGCGTACACAAA
+>BACPLE_00833(kdgR) Score=6.1 Pos=-123 [Bacteroides plebeius DSM 17135]
+TTTGTGTACGCACACAAA
+>BACSTE_02324(kduI1) Score=4.4 Pos=-65 [Bacteroides stercoris ATCC 43183]
+ATCGTGTACGTAAACGAC
+>BACSTE_03306(sgcC) Score=4.9 Pos=-182 [Bacteroides stercoris ATCC 43183]
+TTCGTGTACGAAAACGAA
+>BACSTE_03306(sgcC) Score=4.1 Pos=-160 [Bacteroides stercoris ATCC 43183]
+TTTGTGCACGATAACGAC
+>BACSTE_00505(kdgK) Score=5.9 Pos=-228 [Bacteroides stercoris ATCC 43183]
+TTTGTGCCCGTGCACAAT
+>BACSTE_00505(kdgK) Score=5.9 Pos=-146 [Bacteroides stercoris ATCC 43183]
+TTTGTGCCCGCACACGAA
+>BACSTE_00506(kdgR) Score=5.9 Pos=39 [Bacteroides stercoris ATCC 43183]
+TTCGTGTGCGGGCACAAA
+>BACSTE_00506(kdgR) Score=5.9 Pos=121 [Bacteroides stercoris ATCC 43183]
+ATTGTGCACGGGCACAAA
+>BT3231(kduI1) Score=4.8 Pos=-66 [Bacteroides thetaiotaomicron VPI-5482]
+ATCGTGTACGTAAACGAT
+>BT4107(sgcC) Score=4.5 Pos=-194 [Bacteroides thetaiotaomicron VPI-5482]
+TTCGTGCACGGAAACGAC
+>BT4107(sgcC) Score=4.2 Pos=-172 [Bacteroides thetaiotaomicron VPI-5482]
+TTTGTGCACGTAAACGTC
+>BT0488(kdgK) Score=5.6 Pos=-228 [Bacteroides thetaiotaomicron VPI-5482]
+TATGTGCTCGCACACAAT
+>BT0488(kdgK) Score=5.9 Pos=-146 [Bacteroides thetaiotaomicron VPI-5482]
+TTTGTGCCCGCACACGAA
+>BT0487(kdgR) Score=5.9 Pos=-124 [Bacteroides thetaiotaomicron VPI-5482]
+TTCGTGTGCGGGCACAAA
+>BT0487(kdgR) Score=5.6 Pos=-42 [Bacteroides thetaiotaomicron VPI-5482]
+ATTGTGTGCGAGCACATA
+>BACUNI_04204(kduI1) Score=4.8 Pos=-64 [Bacteroides uniformis ATCC 8492]
+ATCGTGTACGCAAACGAT
+>BACUNI_03601(sgcC) Score=4.6 Pos=-183 [Bacteroides uniformis ATCC 8492]
+TTCGTGTACGAAAACGAG
+>BACUNI_03601(sgcC) Score=4.1 Pos=-161 [Bacteroides uniformis ATCC 8492]
+TTTGTGCACGATAACGAC
+>BACUNI_01828(kdgK) Score=5.6 Pos=-231 [Bacteroides uniformis ATCC 8492]
+CTTGTGCTCGCACACAAT
+>BACUNI_01828(kdgK) Score=5.8 Pos=-149 [Bacteroides uniformis ATCC 8492]
+TTTGTGCCCGTACACGAA
+>BACUNI_01826(kdgR) Score=5.8 Pos=-210 [Bacteroides uniformis ATCC 8492]
+TTCGTGTACGGGCACAAA
+>BACUNI_01826(kdgR) Score=5.6 Pos=-128 [Bacteroides uniformis ATCC 8492]
+ATTGTGTGCGAGCACAAG
+>BVU_1796(sgcC) Score=4.5 Pos=-181 [Bacteroides vulgatus ATCC 8482]
+TTCGTGTGCGAAAACGGT
+>BVU_1796(sgcC) Score=4.5 Pos=-159 [Bacteroides vulgatus ATCC 8482]
+TTTGTGCACGATAACGAT
+>BVU_3055(kdgK) Score=5.5 Pos=-228 [Bacteroides vulgatus ATCC 8482]
+ATTGTGCTCGTGCACACT
+>BVU_3055(kdgK) Score=5.4 Pos=-145 [Bacteroides vulgatus ATCC 8482]
+TTTGTGCACGCACACGGA
+>BVU_1120(susC_Kdg) Score=5.4 Pos=-181 [Bacteroides vulgatus ATCC 8482]
+TTTGTGTGCGTACACGGA
+>BVU_3054(kdgR) Score=5.4 Pos=-116 [Bacteroides vulgatus ATCC 8482]
+TCCGTGTGCGTGCACAAA
+>BVU_3054(kdgR) Score=5.5 Pos=-33 [Bacteroides vulgatus ATCC 8482]
+AGTGTGCACGAGCACAAT

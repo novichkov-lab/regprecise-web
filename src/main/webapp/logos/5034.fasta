@@ -1,0 +1,44 @@
+>Aave_3894(rpoH) Score=6.5 Pos=-57 [Acidovorax avenae subsp. citrulli AAC00-1]
+TTAGCACTCCCTCCAAGAGACTGCTAA
+>Aave_0946(groS) Score=6.9 Pos=-123 [Acidovorax avenae subsp. citrulli AAC00-1]
+TTAGCACTCGAAGCGGACGAGTGCTAA
+>Ajs_0700(groS) Score=7.2 Pos=-112 [Acidovorax sp. JS42]
+TTAGCACTCGAAACAGATGAGTGCTAA
+>Ajs_3522(rpoH) Score=7 Pos=-28 [Acidovorax sp. JS42]
+TTAGCACTCTCTCCAATGGAGTGCTAA
+>CtesDRAFT_4575(groS) Score=7 Pos=-111 [Comamonas testosteroni KF-1]
+TTAGCACTCAATGGGGTTGAGTGCTAA
+>CtesDRAFT_2864(rpoH) Score=6.8 Pos=-28 [Comamonas testosteroni KF-1]
+TTAGCACTCTCTCTAACGGAGTGCTAA
+>Daci_5660(groS) Score=7 Pos=-114 [Delftia acidovorans SPH-1]
+TTAGCACTCGTTGGGCATGAGTGCTAA
+>Daci_1694(rpoH) Score=7 Pos=-57 [Delftia acidovorans SPH-1]
+TTAGCACTCGGTCATAACGAGTGCTAA
+>Pnap_0658(groS) Score=6.8 Pos=-134 [Polaromonas naphthalenivorans CJ2]
+TTAGCACTCGATGAGGTGGAGTGCTAA
+>Pnap_0889(rpoH) Score=6 Pos=-57 [Polaromonas naphthalenivorans CJ2]
+CTGGCACTCTCTCTGATGGAGTGCTAA
+>Bpro_0760(groS) Score=7.2 Pos=-121 [Polaromonas sp. JS666]
+TTAGCACTCGATGGTATTGAGTGCTAA
+>Bpro_1256(rpoH) Score=7 Pos=-57 [Polaromonas sp. JS666]
+TTAGCACTCTCTCCAATGGAGTGCTAA
+>Rfer_1132(groS) Score=7.2 Pos=-130 [Rhodoferax ferrireducens DSM 15236]
+TTAGCACTCGTAAGAGTTGAGTGCTAA
+>Rfer_1692(rpoH) Score=7.1 Pos=-58 [Rhodoferax ferrireducens DSM 15236]
+TTAGCACTCTCTCTCATAGAGTGCTAA
+>Vapar_1119(groS) Score=7 Pos=-110 [Variovorax paradoxus S110]
+TTAGCACTCGCTGCTGACGAGTGCTAA
+>Vapar_4379(rpoH) Score=6.9 Pos=-55 [Variovorax paradoxus S110]
+TTAGCACTCCCTCCAATCGAGTGCTAA
+>Veis_4476(rpoH) Score=6.6 Pos=-72 [Verminephrobacter eiseniae EF01-2]
+TTGGCACTCGATCGCAGAGAGTGCTAA
+>Veis_2566(groS) Score=6.8 Pos=-110 [Verminephrobacter eiseniae EF01-2]
+TTAGCACTCTCCGCTGGGGAGTGCTAA
+>Mpe_A3171(rpoH) Score=7.2 Pos=-54 [Methylibium petroleiphilum PM1]
+TTAGCACTCGTTTTACGTGAGTGCTAA
+>Mpe_A0427(groS) Score=6.3 Pos=-129 [Methylibium petroleiphilum PM1]
+CTAGCACTCGCGCAGACTGAGTGCTAA
+>Lcho_3542(rpoH) Score=6.9 Pos=-59 [Leptothrix cholodnii SP-6]
+TTAGCACTCTCGAGGGTCGAGTGCTAA
+>Lcho_0482(groS) Score=6.5 Pos=-96 [Leptothrix cholodnii SP-6]
+TTAGCACTCGCCGGTGGTGAGTGCTAG

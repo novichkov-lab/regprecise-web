@@ -1,0 +1,32 @@
+>MAB_2684c(bioB) Score=5.7 Pos=-54 [Mycobacterium abscessus ATCC 19977]
+CCTGAACACCGTTCAGG
+>MAB_2685(bioQ) Score=6.2 Pos=-24 [Mycobacterium abscessus ATCC 19977]
+CCTGAACGGTGTTCAGG
+>MAB_2687c(bioF) Score=6.2 Pos=-24 [Mycobacterium abscessus ATCC 19977]
+CCTGAACACCGTTCAGG
+>Mflv_3624(bioB) Score=5.9 Pos=-61 [Mycobacterium flavescens PYR-GCK]
+CCTGAACGGTGTTCAAG
+>Mflv_3625(bioQ) Score=6.1 Pos=-30 [Mycobacterium flavescens PYR-GCK]
+CTTGAACACCGTTCAGG
+>Mflv_3628(bioF) Score=6.1 Pos=-43 [Mycobacterium flavescens PYR-GCK]
+CCTGAACGGTGTTCAAG
+>MSMEG_3194(bioB) Score=5.9 Pos=-52 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACACCGTTCAAG
+>MSMEG_3194(bioB) Score=5.4 Pos=-32 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACACCGTTCAGC
+>MSMEG_3193(bioQ) Score=6.1 Pos=-30 [Mycobacterium smegmatis str. MC2 155]
+CTTGAACGGTGTTCAGG
+>MSMEG_3189(bioF) Score=5.9 Pos=-133 [Mycobacterium smegmatis str. MC2 155]
+CCTGAACGGTGTTCAAT
+>Mjls_3090(bioB) Score=5.9 Pos=-110 [Mycobacterium sp. JLS]
+CCTGAACGGTGTTCAAT
+>Mjls_3094(bioF) Score=5.9 Pos=-43 [Mycobacterium sp. JLS]
+CCTGAACGGTGTTCAAT
+>Mjls_3091(bioQ) Score=5.9 Pos=-30 [Mycobacterium sp. JLS]
+ATTGAACACCGTTCAGG
+>Mvan_2793(bioB) Score=5.9 Pos=-62 [Mycobacterium vanbaalenii PYR-1]
+CCTGAACGGTGTTCAAT
+>Mvan_2792(bioQ) Score=5.9 Pos=-30 [Mycobacterium vanbaalenii PYR-1]
+ATTGAACACCGTTCAGG
+>Mvan_2789(bioF) Score=5.4 Pos=-109 [Mycobacterium vanbaalenii PYR-1]
+CCTGAACGGTGTTTAAT

@@ -1,0 +1,44 @@
+>nfa45800(whiB) Score=6.3 Pos=-106 [Nocardia farcinica IFM 10152]
+TCGTGAAAGCATTCACAA
+>nfa51710(rex) Score=5.6 Pos=-179 [Nocardia farcinica IFM 10152]
+TTGTGCATGGCTTCACAA
+>RER_19350(choD) Score=5.7 Pos=-69 [Rhodococcus erythropolis PR4]
+TTGTGGTGGTAGTCACAA
+>RER_21900(whiB) Score=6.3 Pos=-106 [Rhodococcus erythropolis PR4]
+TCGTGAAAGCATTCACAA
+>RER_16190(fadD) Score=4.5 Pos=-89 [Rhodococcus erythropolis PR4]
+TTGTGACTGTCGTCACGG
+>RER_16400(rex) Score=5.8 Pos=-127 [Rhodococcus erythropolis PR4]
+TTGTGCATGGGTTCACAA
+>ROP_62610(choD) Score=5.9 Pos=-71 [Rhodococcus opacus B4]
+TTGTGGCAGTTGTCACAA
+>ROP_25550(dhaS) Score=5.4 Pos=-40 [Rhodococcus opacus B4]
+TTGTGACAGCCATCACAA
+>ROP_64060(whiB) Score=6.3 Pos=-103 [Rhodococcus opacus B4]
+TCGTGAAAGCATTCACAA
+>ROP_12860(pntAa) Score=4.7 Pos=-215 [Rhodococcus opacus B4]
+CTGTGATCGGGTTCACAA
+>ROP_59710(nuoA) Score=3.9 Pos=-88 [Rhodococcus opacus B4]
+CTGTGGCATAACTCACAA
+>ROP_17430(fadD) Score=5.2 Pos=-9 [Rhodococcus opacus B4]
+CTGTGACTGGTGTCACAA
+>ROP_17260(rex) Score=5.8 Pos=-164 [Rhodococcus opacus B4]
+TTGTGCATGGGTTCACAA
+>ROP_52770(coxM) Score=4.4 Pos=-17 [Rhodococcus opacus B4]
+TTGTGAGGTAGGTCACAA
+>RHA1_ro06201(choD) Score=5.9 Pos=-71 [Rhodococcus sp. RHA1]
+TTGTGGCAGCTGTCACAA
+>RHA1_ro02071(fadD) Score=5.2 Pos=-95 [Rhodococcus sp. RHA1]
+TTGTGACTGTTGTCACAG
+>RHA1_ro02831(dhaS) Score=5.4 Pos=-40 [Rhodococcus sp. RHA1]
+TTGTGACAGCCATCACAA
+>RHA1_ro06345(whiB) Score=6.3 Pos=-103 [Rhodococcus sp. RHA1]
+TCGTGAAAGCATTCACAA
+>RHA1_ro01583(pntAa) Score=4.9 Pos=-215 [Rhodococcus sp. RHA1]
+CTGTGACCGGGTTCACAA
+>RHA1_ro05230(coxM) Score=4.4 Pos=-17 [Rhodococcus sp. RHA1]
+TTGTGAGGTAGGTCACAA
+>RHA1_ro05909(nuoA) Score=3.9 Pos=-88 [Rhodococcus sp. RHA1]
+CTGTGGCATAACTCACAA
+>RHA1_ro02054(rex) Score=5.8 Pos=22 [Rhodococcus sp. RHA1]
+TTGTGCATGGGTTCACAA

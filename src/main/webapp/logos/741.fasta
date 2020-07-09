@@ -1,0 +1,70 @@
+>TM0280(glsA) Score=5.9 Pos=-44 [Thermotoga maritima MSB8]
+AATAATGTACGTACCTAAAT
+>TM0278(araF) Score=4.7 Pos=-1396 [Thermotoga maritima MSB8]
+ccAtcGGTACGTACCgTTAT
+>TM0276(araA) Score=4.7 Pos=-164 [Thermotoga maritima MSB8]
+ATAACGGTACGTACCGATGG
+>TM0276(araA) Score=6.3 Pos=-62 [Thermotoga maritima MSB8]
+ATAATGGTACGTACTTTTAT
+>TM0278(araF) Score=6.3 Pos=-1498 [Thermotoga maritima MSB8]
+ATAAAaGTACGTACCaTTAT
+>TRQ2_0672(araA) Score=6.5 Pos=-62 [Thermotoga sp. RQ2]
+ATAAAGGTACGTACTTTTAT
+>TRQ2_0672(araA) Score=4.7 Pos=-164 [Thermotoga sp. RQ2]
+ATAACGGTACGTACCGATGG
+>TRQ2_0661(araN-II) Score=5.7 Pos=-50 [Thermotoga sp. RQ2]
+AAATTGGTACGTACCTATCT
+>TRQ2_0668(glsA) Score=5.9 Pos=-58 [Thermotoga sp. RQ2]
+AATAATGTACGTACCTAAAT
+>TRQ2_0671(araE) Score=6.5 Pos=-150 [Thermotoga sp. RQ2]
+ATAAAAGTACGTACCTTTAT
+>TRQ2_0671(araE) Score=4.7 Pos=-48 [Thermotoga sp. RQ2]
+CCATCGGTACGTACCGTTAT
+>TRQ2_0662(abf6) Score=5.7 Pos=-221 [Thermotoga sp. RQ2]
+AGATAGGTACGTACCAATTT
+>TRQ2_0662(abf6) Score=5.4 Pos=-38 [Thermotoga sp. RQ2]
+ATATATGTACGTACAAAATG
+>TRQ2_0661(araN-II) Score=5.4 Pos=-233 [Thermotoga sp. RQ2]
+CATTTTGTACGTACATATAT
+>CTN_0409(araA) Score=6.2 Pos=-62 [Thermotoga neapolitana DSM 4359]
+ATAAAGGTACGTACTTTTGT
+>CTN_0409(araA) Score=4.7 Pos=-165 [Thermotoga neapolitana DSM 4359]
+ATATCGGTACGTACCAGTTG
+>CTN_0408(araE) Score=6.2 Pos=-136 [Thermotoga neapolitana DSM 4359]
+ACAAAAGTACGTACCTTTAT
+>CTN_0408(araE) Score=4.7 Pos=-33 [Thermotoga neapolitana DSM 4359]
+CAACTGGTACGTACCGATAT
+>Tpet_0648(araA) Score=6.5 Pos=-62 [Thermotoga petrophila RKU-1]
+ATAAAGGTACGTACTTTTAT
+>Tpet_0648(araA) Score=4.7 Pos=-164 [Thermotoga petrophila RKU-1]
+ATAACGGTACGTACCGATGG
+>Tpet_0647(araE) Score=6.5 Pos=-150 [Thermotoga petrophila RKU-1]
+ATAAAAGTACGTACCTTTAT
+>Tpet_0647(araE) Score=4.7 Pos=-48 [Thermotoga petrophila RKU-1]
+CCATCGGTACGTACCGTTAT
+>Tpet_0637(abf6) Score=5.7 Pos=-221 [Thermotoga petrophila RKU-1]
+AGATAGGTACGTACCAATTT
+>Tpet_0637(abf6) Score=5.4 Pos=-38 [Thermotoga petrophila RKU-1]
+ATATATGTACGTACAAAATG
+>Tpet_0643(glsA) Score=5 Pos=-55 [Thermotoga petrophila RKU-1]
+GATAATATACGTACCTAAAT
+>Tpet_0636(araN-II) Score=5.4 Pos=-233 [Thermotoga petrophila RKU-1]
+CATTTTGTACGTACATATAT
+>Tpet_0636(araN-II) Score=5.7 Pos=-50 [Thermotoga petrophila RKU-1]
+AAATTGGTACGTACCTATCT
+>Tnap_0906(araA) Score=6.5 Pos=-62 [Thermotoga naphthophila RKU-10]
+ATAAAGGTACGTACTTTTAT
+>Tnap_0906(araA) Score=4.7 Pos=-164 [Thermotoga naphthophila RKU-10]
+ATAACGGTACGTACCGATGG
+>Tnap_0907(araE) Score=6.5 Pos=-150 [Thermotoga naphthophila RKU-10]
+ATAAAAGTACGTACCTTTAT
+>Tnap_0907(araE) Score=4.7 Pos=-48 [Thermotoga naphthophila RKU-10]
+CCATCGGTACGTACCGTTAT
+>Tnap_0910(glsA) Score=5 Pos=-55 [Thermotoga naphthophila RKU-10]
+GATAATATACGTACCTAAAT
+>Tnap_0913(Tnap_0913) Score=4.9 Pos=-56 [Thermotoga naphthophila RKU-10]
+TATAATGTACGTACCTATCA
+>Tlet_1143(araN-II) Score=5 Pos=-169 [Thermotoga lettingae TMO]
+TAATTTGTATGTACATATAT
+>Tlet_1138(araR) Score=5.3 Pos=27 [Thermotoga lettingae TMO]
+ATTTATGTACGTACGTTTAC

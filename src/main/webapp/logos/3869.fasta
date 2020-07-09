@@ -1,0 +1,44 @@
+>cauri_1870(arsR) Score=6.1 Pos=-56 [Corynebacterium aurimucosum ATCC 700975]
+GTATTGATGCGCGTCAATAT
+>cauri_1869(arsB) Score=6.1 Pos=-77 [Corynebacterium aurimucosum ATCC 700975]
+ATATTGACGCGCATCAATAC
+>CE0874(arsR) Score=5.9 Pos=30 [Corynebacterium efficiens YS-314]
+GTATTGATTGTTATCAATAT
+>CE0875(arsB) Score=5.9 Pos=-36 [Corynebacterium efficiens YS-314]
+ATATTGATAACAATCAATAC
+>CE0874(arsR) Score=6.4 Pos=64 [Corynebacterium efficiens YS-314]
+ATATTGATGACTGTCAATAT
+>CE0875(arsB) Score=6.4 Pos=-70 [Corynebacterium efficiens YS-314]
+ATATTGACAGTCATCAATAT
+>cg0318(arsB) Score=5.8 Pos=-69 [Corynebacterium glutamicum ATCC 13032]
+ATATAGACGCACATCGATAT
+>cg0318(arsB) Score=5.6 Pos=-36 [Corynebacterium glutamicum ATCC 13032]
+ATATCGGCAAACATCAATAT
+>cg1705(arsB) Score=6.1 Pos=-69 [Corynebacterium glutamicum ATCC 13032]
+ATATTGACGAATGTCGATAT
+>cg1705(arsB) Score=6.2 Pos=-35 [Corynebacterium glutamicum ATCC 13032]
+ATATCGACAGGTATCAATAT
+>cg0317(arsR) Score=5.6 Pos=-65 [Corynebacterium glutamicum ATCC 13032]
+ATATTGATGTTTGCCGATAT
+>cg0317(arsR) Score=5.8 Pos=-32 [Corynebacterium glutamicum ATCC 13032]
+ATATCGATGTGCGTCTATAT
+>cg1704(arsR) Score=6.2 Pos=-65 [Corynebacterium glutamicum ATCC 13032]
+ATATTGATACCTGTCGATAT
+>cg1704(arsR) Score=6.1 Pos=-31 [Corynebacterium glutamicum ATCC 13032]
+ATATCGACATTCGTCAATAT
+>jk2006(arsR) Score=6.4 Pos=-59 [Corynebacterium jeikeium K411]
+ATATTGATGCCTGTCAATAT
+>jk2006(arsR) Score=6.3 Pos=-32 [Corynebacterium jeikeium K411]
+ATATTGATATCTGTCAATAT
+>jk2005(arsB) Score=6.3 Pos=-94 [Corynebacterium jeikeium K411]
+ATATTGACAGATATCAATAT
+>jk2005(arsB) Score=6.4 Pos=-67 [Corynebacterium jeikeium K411]
+ATATTGACAGGCATCAATAT
+>cur_0030(arsR) Score=6 Pos=-66 [Corynebacterium urealyticum DSM 7109]
+ATATTGATGGTCATCGATAC
+>cur_0030(arsR) Score=6.1 Pos=-32 [Corynebacterium urealyticum DSM 7109]
+ATATAGATGACCGTCAATAT
+>cur_0031(arsB) Score=6.1 Pos=-68 [Corynebacterium urealyticum DSM 7109]
+ATATTGACGGTCATCTATAT
+>cur_0031(arsB) Score=6 Pos=-34 [Corynebacterium urealyticum DSM 7109]
+GTATCGATGACCATCAATAT

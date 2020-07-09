@@ -1,0 +1,20 @@
+>BSU30135(yteP) Score=7.7 Pos=-154 [Bacillus subtilis subsp. subtilis str. 168]
+TCATTT------------TCTTTT
+>BSU30170(ytcP) Score=7.7 Pos=-206 [Bacillus subtilis subsp. subtilis str. 168]
+TCATTT------------TCTTTT
+>BPUM_2660(yteP) Score=6.7 Pos=-223 [Bacillus pumilus SAFR-032]
+CCATTT------------TCTTTT
+>BPUM_2660(yteP) Score=8.2 Pos=-155 [Bacillus pumilus SAFR-032]
+TCATTT------------TCATTT
+>BLi03166(yteP) Score=8.2 Pos=-139 [Bacillus licheniformis DSM 13]
+TCATTT------------TCATTT
+>BLi03169(ytcP) Score=6.7 Pos=-208 [Bacillus licheniformis DSM 13]
+TCATCT------------TCTTTT
+>BH0484(yteP) Score=7.7 Pos=-155 [Bacillus halodurans C-125]
+TCATTA------------TCATTT
+>ABC1144(ytcQ) Score=5.3 Pos=-174 [Bacillus clausii KSM-K16]
+TCATTT------------gCAaaT
+>OB2090(yteP) Score=6.7 Pos=-169 [Oceanobacillus iheyensis HTE831]
+TCAATT------------TCATTA
+>Pjdr2_1802(ytcQ) Score=6.7 Pos=-141 [Paenibacillus sp. JDR-2]
+TCAATT------------TCATTA

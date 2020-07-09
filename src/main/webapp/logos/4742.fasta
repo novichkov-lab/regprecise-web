@@ -1,0 +1,20 @@
+>LVIS_1849(PF09861) Score=4.7 Pos=-134 [Lactobacillus brevis ATCC 367]
+CTTAACATTTGGTAAT
+>LVIS_1848(nihR) Score=4.7 Pos=-87 [Lactobacillus brevis ATCC 367]
+ATTACCAAATGTTAAG
+>LAF_1734(nihR) Score=4.4 Pos=-129 [Lactobacillus fermentum IFO 3956]
+TGTTACATAAGGAAAA
+>LAF_1733(PF09861) Score=4.4 Pos=-127 [Lactobacillus fermentum IFO 3956]
+TTTTCCTTATGTAACA
+>lp_0103(nihR) Score=4.8 Pos=-148 [Lactobacillus plantarum WCFS1]
+GTTAACAAATGTATAC
+>lp_0104(PF09861) Score=4.8 Pos=-120 [Lactobacillus plantarum WCFS1]
+GTATACATTTGTTAAC
+>LSA0784(PF09861) Score=5 Pos=-148 [Lactobacillus sakei subsp. sakei 23K]
+TTGAACATTTGTTAAC
+>LSA0783(nihR) Score=5 Pos=-101 [Lactobacillus sakei subsp. sakei 23K]
+GTTAACAAATGTTCAA
+>PEPE_1695(nihR) Score=4.9 Pos=-91 [Pediococcus pentosaceus ATCC 25745]
+TATAACATTTGTTACA
+>PEPE_1694(PF09861) Score=4.9 Pos=-95 [Pediococcus pentosaceus ATCC 25745]
+TGTAACAAATGTTATA

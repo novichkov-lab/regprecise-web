@@ -1,0 +1,40 @@
+>Sez_1740(galR) Score=6.1 Pos=-81 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ATATTTTTACTAAAATTTT
+>Sez_1741(galK) Score=6.2 Pos=-78 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AAAATTTTAGTAAAAATAT
+>GALLO_0198(galK) Score=5.6 Pos=-87 [Streptococcus gallolyticus UCN34]
+AAAACTTTAGTAAACTTTA
+>GALLO_0197(galR) Score=5.6 Pos=-82 [Streptococcus gallolyticus UCN34]
+TAAAGTTTACTAAAGTTTT
+>GALLO_0137(galM) Score=4.9 Pos=-65 [Streptococcus gallolyticus UCN34]
+AAACGTTTACAAAAAATTA
+>SGO_0932(galK) Score=5.4 Pos=-109 [Streptococcus gordonii str. Challis substr. CH1]
+GATTGTTTAGTAAAACTTT
+>SGO_0904(galR) Score=5.1 Pos=-82 [Streptococcus gordonii str. Challis substr. CH1]
+GATGTTTTACTAAATTCTA
+>smi_0520(galK) Score=5.5 Pos=-115 [Streptococcus mitis B6]
+GATAGTTTAGTAAAAGTTT
+>smi_0519(galR) Score=5.4 Pos=-67 [Streptococcus mitis B6]
+AAACTTTTACTAAACTATC
+>SMU.885(galR) Score=6.1 Pos=-63 [Streptococcus mutans UA159]
+AAAATTTTACTAAATTTAT
+>SMU.886(galK) Score=6.2 Pos=-81 [Streptococcus mutans UA159]
+AAAATTTTAGTAAAAATAT
+>SP_1853(galK) Score=6.2 Pos=-116 [Streptococcus pneumoniae TIGR4]
+GATATTTTACTAAAATTTT
+>SP_1854(galR) Score=6 Pos=-67 [Streptococcus pneumoniae TIGR4]
+AAAATTTTAGTAAAATATC
+>SSA_1000(galR) Score=5.5 Pos=-85 [Streptococcus sanguinis SK36]
+TAAGTTTTACTAAACATAT
+>SSA_1008(galK) Score=6.1 Pos=-101 [Streptococcus sanguinis SK36]
+AAAATTTTACTAAATTTAT
+>SSU05_0360(galK) Score=5.7 Pos=-81 [Streptococcus suis 05ZYH33]
+AATAATTTAGTAAAAATAT
+>SSU05_0359(galR) Score=5.7 Pos=-190 [Streptococcus suis 05ZYH33]
+ATATTTTTACTAAATTATT
+>str1398(lacS) Score=5.6 Pos=-90 [Streptococcus thermophilus CNRZ1066]
+AAAATTTTAGTAAAAAACA
+>str1402(galK) Score=5.8 Pos=-95 [Streptococcus thermophilus CNRZ1066]
+TATATTTTACTAAAAAAAT
+>str1403(galR) Score=5.7 Pos=-66 [Streptococcus thermophilus CNRZ1066]
+ATTTTTTTAGTAAAATATA

@@ -1,0 +1,134 @@
+>HCH_05361(acdH1) Score=5.3 Pos=-135 [Hahella chejuensis KCTC 2396]
+AAGCAAACGTATGTTTCAAA
+>HCH_05361(acdH1) Score=5.9 Pos=-122 [Hahella chejuensis KCTC 2396]
+TTTCAAACACTTGTTTGATA
+>HCH_04756(fadB) Score=5.9 Pos=-141 [Hahella chejuensis KCTC 2396]
+ATTCAAACGAGCGTATGAAT
+>HCH_02532(scp) Score=5.5 Pos=-200 [Hahella chejuensis KCTC 2396]
+ATTCAAACAAGCGTTCGATT
+>HCH_03950(etfB) Score=5.7 Pos=-402 [Hahella chejuensis KCTC 2396]
+AaaCAAACgttTGTTTGAAT
+>HCH_02677(psrA) Score=5.4 Pos=-41 [Hahella chejuensis KCTC 2396]
+TTTCAAACACTTGTTTGGAG
+>HCH_03954(etfD) Score=5.2 Pos=-242 [Hahella chejuensis KCTC 2396]
+AAACAAACGTTTGTTTGAGT
+>HCH_03954(etfD) Score=5.6 Pos=-246 [Hahella chejuensis KCTC 2396]
+ATTCAAACAAACGTTTGTTT
+>HCH_02677(psrA) Score=5.7 Pos=-54 [Hahella chejuensis KCTC 2396]
+TATCAAACGTATGTTTCAAA
+>HCH_05787 Score=5.9 Pos=-71 [Hahella chejuensis KCTC 2396]
+TTTCAAACGAATGTTTTAAA
+>HCH_05787 Score=5 Pos=-84 [Hahella chejuensis KCTC 2396]
+CATAAAACGACTGTTTCAAA
+>Maqu_2750(acdH1) Score=5.8 Pos=-115 [Marinobacter aqueolei]
+TTTCAAACGAGTGTTTAATT
+>Maqu_1144(fadB) Score=5.9 Pos=-132 [Marinobacter aqueolei]
+ATTCAAACGACTGTATGAAT
+>Maqu_1531(scp) Score=5 Pos=-158 [Marinobacter aqueolei]
+ATTAAAACAAGCGTTCGATC
+>Maqu_1471(etfB) Score=5.4 Pos=-172 [Marinobacter aqueolei]
+AATCAAACAAACGTTTGTTT
+>Maqu_1471(etfB) Score=5.7 Pos=-168 [Marinobacter aqueolei]
+AAACAAACGTTTGTTTGAAA
+>Maqu_1467 Score=5.5 Pos=-31 [Marinobacter aqueolei]
+ATTCATACATTCGTTTGAAC
+>Maqu_1938(psrA) Score=5.4 Pos=-50 [Marinobacter aqueolei]
+CTTCAAACGTATGTTTCAAA
+>Maqu_1938(psrA) Score=5.3 Pos=-37 [Marinobacter aqueolei]
+TTTCAAACAGACGTTTGCTA
+>Maqu_1472(etfD) Score=5.6 Pos=-170 [Marinobacter aqueolei]
+TTTCAAACAAACGTTTGTTT
+>Maqu_1472(etfD) Score=5.6 Pos=-166 [Marinobacter aqueolei]
+AAACAAACGTTTGTTTGATT
+>Maqu_0515 Score=5.4 Pos=-91 [Marinobacter aqueolei]
+ATTCAAACGCCCGTATGAAG
+>MELB17_07014(acdH1) Score=6.1 Pos=-114 [Marinobacter sp. ELB17]
+TTTCAAACAATCGTTTAAAA
+>MELB17_11445(fadB) Score=5.7 Pos=-149 [Marinobacter sp. ELB17]
+ATTCAAACGGCTGTATGAAT
+>MELB17_13866(scp) Score=5.8 Pos=-108 [Marinobacter sp. ELB17]
+ATTAAAACAATCGTTTGAAC
+>MELB17_13682(etfB) Score=5.4 Pos=-202 [Marinobacter sp. ELB17]
+AAACAAACGTTTGTTTTAAT
+>MELB17_17849(psrA) Score=6 Pos=-63 [Marinobacter sp. ELB17]
+TTTCAAACGTATGTTTAAAA
+>MELB17_17849(psrA) Score=5.8 Pos=-50 [Marinobacter sp. ELB17]
+TTTAAAACGTATGTTTAAAA
+>MELB17_13687(etfD) Score=5.4 Pos=-191 [Marinobacter sp. ELB17]
+ATTAAAACAAACGTTTGTTT
+>MELB17_18674 Score=5.6 Pos=-66 [Marinobacter sp. ELB17]
+ATTAAAACAGTCGTATGAAT
+>RED65_07784(acdH1) Score=5.5 Pos=-122 [Oceanobacter sp. RED65]
+TTGCAAACGTATGTTTCAAA
+>RED65_07784(acdH1) Score=5.8 Pos=-109 [Oceanobacter sp. RED65]
+TTTCAAACACTTGTTTGAAG
+>RED65_01305(fadB) Score=5.7 Pos=-138 [Oceanobacter sp. RED65]
+ATTCAAACGGGCGTATGAAT
+>RED65_07029(etfD) Score=6 Pos=-236 [Oceanobacter sp. RED65]
+ATTCAAACGCGCGTTTGAAT
+>RED65_00695(psrA) Score=4.8 Pos=-46 [Oceanobacter sp. RED65]
+TTCAGAACGTATGTTTAAAA
+>RED65_00695(psrA) Score=6.1 Pos=-33 [Oceanobacter sp. RED65]
+TTTAAAACAATCGTTTGAAT
+>Sde_3132(acdH2) Score=5.7 Pos=-162 [Saccharophagus degradans 2-40]
+ATTTAAACGTTTGTTTTAAT
+>Sde_1605(fadB) Score=6.2 Pos=-90 [Saccharophagus degradans 2-40]
+ATTCAAACAAGCGTTTGAAT
+>Csal_1612(etfD) Score=5.7 Pos=-127 [Chromohalobacter salexigens DSM 3043]
+AATCAAACAACCGTTTAAAA
+>Csal_2393(fadB) Score=6 Pos=-108 [Chromohalobacter salexigens DSM 3043]
+ATTCAAACGATTGTATGAAA
+>Csal_1939(scp) Score=5.7 Pos=-59 [Chromohalobacter salexigens DSM 3043]
+TATGAAACATTTGTTTGAAA
+>Csal_1613(etfB) Score=5.7 Pos=-246 [Chromohalobacter salexigens DSM 3043]
+TTTTAAACGGTTGTTTGATT
+>Csal_1613(etfB) Score=5 Pos=-65 [Chromohalobacter salexigens DSM 3043]
+TATCAAACGCTTGAATGAAT
+>Csal_2644 Score=5 Pos=-36 [Chromohalobacter salexigens DSM 3043]
+ATTCACACATACGTTTGCAT
+>Csal_2431(acdH3) Score=5 Pos=-101 [Chromohalobacter salexigens DSM 3043]
+AATCAAACGAACGCTTGACT
+>Csal_2431(acdH3) Score=5.6 Pos=-61 [Chromohalobacter salexigens DSM 3043]
+TTTCAAACGCATGTTTGATG
+>Csal_1510(fadE) Score=5.6 Pos=-39 [Chromohalobacter salexigens DSM 3043]
+ATTCAAACGCTCGTTAGAAT
+>Csal_3004(fadL) Score=5 Pos=-132 [Chromohalobacter salexigens DSM 3043]
+ATTAAAACAAACGTTTGCTC
+>Csal_2069(psrA) Score=4.9 Pos=-36 [Chromohalobacter salexigens DSM 3043]
+TTTTAAACATTCGTTTATTC
+>Csal_1468(fadD) Score=5.1 Pos=-249 [Chromohalobacter salexigens DSM 3043]
+TTTTAATCGTCTGTTTTAAT
+>Csal_0879(fadH) Score=5.3 Pos=-61 [Chromohalobacter salexigens DSM 3043]
+GTTCATACAGTTGTTTGAAA
+>MED297_16324(etfD) Score=5.8 Pos=-157 [Reinekea sp. MED297]
+TTTCAAACAGTTGTTTTAAT
+>MED297_12452(acdH1) Score=6.3 Pos=-122 [Reinekea sp. MED297]
+TTTCAAACGATCGTTTGAAT
+>MED297_16784(scp) Score=5.1 Pos=-112 [Reinekea sp. MED297]
+TTTTATACGTCTGTTTCAAA
+>MED297_16784(scp) Score=6.1 Pos=-99 [Reinekea sp. MED297]
+TTTCAAACAATTGTTTGATT
+>MED297_16319(etfB) Score=5.9 Pos=-205 [Reinekea sp. MED297]
+ATTAAAACAACTGTTTGAAA
+>MED297_00330 Score=5.8 Pos=-67 [Reinekea sp. MED297]
+ATTCAAACGCGCGTTTAAAT
+>MED297_15989(psrA) Score=6.1 Pos=-32 [Reinekea sp. MED297]
+TTTAAAACGATCGTTTGAAA
+>MED297_17502(fadD) Score=5.7 Pos=-95 [Reinekea sp. MED297]
+TATCAAACGACCGTTTTAAT
+>MED297_20722 Score=6.2 Pos=-55 [Reinekea sp. MED297]
+ATTCAAACGACCGTTTGAAT
+>MED297_15730(fadB) Score=6 Pos=-152 [Reinekea sp. MED297]
+AATCAAACAATCGTTTGAAA
+>MED297_15730(fadB) Score=5.1 Pos=-139 [Reinekea sp. MED297]
+TTTGAAACTGGTGTTTGATT
+>ABO_1101(etfB) Score=5.5 Pos=-251 [Alcanivorax borkumensis SK2]
+TTTCAAACAAGTGTTTAGAT
+>ABO_1016(psrA) Score=4.9 Pos=-48 [Alcanivorax borkumensis SK2]
+GGGCAAACGTATGTTTGAAA
+>ABO_1016(psrA) Score=5.1 Pos=-35 [Alcanivorax borkumensis SK2]
+TTTGAAACGTATGTTTCGAA
+>ABO_2102(acdH4) Score=5.7 Pos=-138 [Alcanivorax borkumensis SK2]
+TTTCAAACGCTTGTTTGACT
+>ABO_1100(etfD) Score=5.4 Pos=-233 [Alcanivorax borkumensis SK2]
+ATCTAAACACTTGTTTGAAA

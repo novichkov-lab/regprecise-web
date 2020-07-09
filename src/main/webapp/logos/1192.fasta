@@ -1,0 +1,40 @@
+>BSU34930(hisZ) Score=5.3 Pos=-65 [Bacillus subtilis subsp. subtilis str. 168]
+CATATTAGCGAACTAAAGGA
+>BSU32040(yuiF) Score=5.7 Pos=-39 [Bacillus subtilis subsp. subtilis str. 168]
+TACATTAGCAAACTAAAGGA
+>RBAM_032140(hisZ) Score=5.3 Pos=-61 [Bacillus amyloliquefaciens FZB42]
+CATATTAGCGAACTAAAGGA
+>RBAM_029090(yuiF) Score=5.7 Pos=-39 [Bacillus amyloliquefaciens FZB42]
+TACATTAGCAAACTAAAGGA
+>BPUM_3128(hisZ) Score=5.3 Pos=-62 [Bacillus pumilus SAFR-032]
+CATATTAGCGAACTAAAGGA
+>BPUM_2865(yuiF) Score=5.8 Pos=-36 [Bacillus pumilus SAFR-032]
+TACATTAGTAAACTAAAGGA
+>BLi03738(hisZ) Score=5.5 Pos=-62 [Bacillus licheniformis DSM 13]
+CATATTAGCGAACTAAAGTA
+>BLi03386(yuiF) Score=5.8 Pos=-40 [Bacillus licheniformis DSM 13]
+TACATTAGCAAACTAAAGTG
+>Aflv_2537(hisZ) Score=4.9 Pos=-55 [Anoxybacillus flavithermus WK1]
+AACTTTACTTTGCTAATATA
+>Aflv_2537(hisZ) Score=5.6 Pos=-39 [Anoxybacillus flavithermus WK1]
+TATATTAGCGAACTAAAGTA
+>Aflv_1385(yuiF) Score=5.2 Pos=-34 [Anoxybacillus flavithermus WK1]
+CAATTTATCAAACTAAAGTG
+>GK3077(hisZ) Score=5.4 Pos=-42 [Geobacillus kaustophilus HTA426]
+CATATTAGCAAACTAAAGCA
+>BH3584(hisZ) Score=4.3 Pos=-71 [Bacillus halodurans C-125]
+TCCTTTATCTTGTTAGTATA
+>BH3584(hisZ) Score=5.6 Pos=-55 [Bacillus halodurans C-125]
+TATATTAGCGAACTAAAGTA
+>BH3359(yuiF) Score=5.1 Pos=-47 [Bacillus halodurans C-125]
+TGATTTAATAAACTAAAGCA
+>ABC3050(hisZ) Score=5.6 Pos=-43 [Bacillus clausii KSM-K16]
+TGATTTAGCAAACTAAAGTA
+>ABC2918(yuiF) Score=4.8 Pos=-30 [Bacillus clausii KSM-K16]
+TGATTTAATAAGATAAAGGA
+>OB0553(hisZ) Score=4.8 Pos=-66 [Oceanobacillus iheyensis HTE831]
+AACTTTACTTAGATAAAGTG
+>OB0879(yuiF) Score=4.8 Pos=-50 [Oceanobacillus iheyensis HTE831]
+TGCTTTATCATGATGAAGTA
+>Pjdr2_0159(hisZ) Score=5.6 Pos=-37 [Paenibacillus sp. JDR-2]
+CACTTTAATATACTAAAGTA

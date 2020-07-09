@@ -1,0 +1,56 @@
+>BACCELL_00858(abn3) Score=5.4 Pos=-39 [Bacteroides cellulosilyticus DSM 14838]
+TATGTGTATTTTTGACACCCA
+>BACCELL_05604(araM) Score=5.8 Pos=-60 [Bacteroides cellulosilyticus DSM 14838]
+AAAGTGTTACTTTTACACCCA
+>BACCELL_05604(araM) Score=5.6 Pos=-84 [Bacteroides cellulosilyticus DSM 14838]
+CAAGTGTTACTAATACACTCA
+>BACDOR_03634(araM) Score=5.2 Pos=-122 [Bacteroides dorei DSM 17855]
+AAAGTGTAGGAAATACACTTT
+>BACDOR_03634(araM) Score=5.6 Pos=-59 [Bacteroides dorei DSM 17855]
+ATAGTGTTACTTTTACACCCA
+>BACEGG_00165(agaL) Score=5.7 Pos=-46 [Bacteroides eggerthii DSM 20697]
+AAGGTGTTATTTTTACACTCT
+>BACEGG_01536(araM) Score=5.7 Pos=-84 [Bacteroides eggerthii DSM 20697]
+AAAGTGTATATATTACACCAA
+>BACEGG_00165(agaL) Score=5 Pos=-97 [Bacteroides eggerthii DSM 20697]
+CAAGTGTATATGTTACACAAC
+>BACEGG_01536(araM) Score=5.5 Pos=-60 [Bacteroides eggerthii DSM 20697]
+AAAGTGTTACTTTTACACCCG
+>BACOVA_03483(abf3) Score=5.1 Pos=-138 [Bacteroides ovatus ATCC 8483]
+AAAGTGTATATTTTACCCTTG
+>BACOVA_03483(abf3) Score=4.8 Pos=-94 [Bacteroides ovatus ATCC 8483]
+TAAGTGTATAATTACCAATTA
+>BACOVA_01715(araM) Score=5.6 Pos=-84 [Bacteroides ovatus ATCC 8483]
+AGAGTGTATTTGATACACCAA
+>BACOVA_01715(araM) Score=5.8 Pos=-60 [Bacteroides ovatus ATCC 8483]
+AAAGTGTTACTTTTACACCCA
+>BACPLE_02644(abf1) Score=4.4 Pos=-33 [Bacteroides plebeius DSM 17135]
+AAAGTGTGAAATAAACAAGTA
+>BACPLE_02644(abf1) Score=4.5 Pos=-81 [Bacteroides plebeius DSM 17135]
+AAAATGTCAAATGTACACCCA
+>BACPLE_02214(araM) Score=5.6 Pos=-45 [Bacteroides plebeius DSM 17135]
+TAAGTGTTACTTTTACACCAT
+>BACPLE_02216(araP) Score=5.6 Pos=-94 [Bacteroides plebeius DSM 17135]
+TTAGTGTTACTAATACACTTT
+>BT0365(PF13385) Score=5.7 Pos=-167 [Bacteroides thetaiotaomicron VPI-5482]
+AAAGTGTAAAAAAGACACTTA
+>BT4163(BT4163) Score=5.1 Pos=-329 [Bacteroides thetaiotaomicron VPI-5482]
+AAATTGTATTATCTACACTCT
+>BT3047(sbp_Ara-4) Score=4.9 Pos=-229 [Bacteroides thetaiotaomicron VPI-5482]
+ATAATGTAAAATCTACACTCA
+>BT0356(araM) Score=5.6 Pos=-84 [Bacteroides thetaiotaomicron VPI-5482]
+AGAGTGTATTTGATACACCAA
+>BT0356(araM) Score=5.8 Pos=-60 [Bacteroides thetaiotaomicron VPI-5482]
+AAAGTGTTACTTTTACACCCA
+>BACUNI_01357(araM) Score=4.2 Pos=-27 [Bacteroides uniformis ATCC 8492]
+AAAGTGTACAGCCTACACTAA
+>BACUNI_01357(araM) Score=5.8 Pos=-3 [Bacteroides uniformis ATCC 8492]
+AAAGTGTTACTTTTACACCCA
+>BACUNI_03327(abn3) Score=5.2 Pos=-96 [Bacteroides uniformis ATCC 8492]
+TAAGTGTATATGTTACACAAC
+>BACUNI_03327(abn3) Score=5.4 Pos=-46 [Bacteroides uniformis ATCC 8492]
+ATAGTGTTAATTTTACACCCG
+>BVU_2324(araM) Score=5.2 Pos=-122 [Bacteroides vulgatus ATCC 8482]
+AAAGTGTAGGAAATACACTTT
+>BVU_2324(araM) Score=5.4 Pos=-59 [Bacteroides vulgatus ATCC 8482]
+ATAGTGTTACTTTTACACCAA

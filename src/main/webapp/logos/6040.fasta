@@ -1,0 +1,124 @@
+>AAur_2080(uvrA) Score=5.1 Pos=-29 [Arthrobacter aurescens TC1]
+TCGAAGAAGTTTTCGA
+>AAur_2311(Achl_2045) Score=5.5 Pos=-40 [Arthrobacter aurescens TC1]
+TCGAACATACTTTCGA
+>AAur_1619(splB) Score=5.6 Pos=11 [Arthrobacter aurescens TC1]
+TCGAACATACATTCGA
+>AAur_1602(lexA) Score=5 Pos=-149 [Arthrobacter aurescens TC1]
+TAGAACAAATGTTTGA
+>AAur_1602(lexA) Score=5.5 Pos=-216 [Arthrobacter aurescens TC1]
+TAGAACACATATTCGA
+>AAur_1594(recA) Score=5.4 Pos=-204 [Arthrobacter aurescens TC1]
+TCGAATATCTGTTCGG
+>Achl_1820(uvrA) Score=5.2 Pos=-29 [Arthrobacter chlorophenolicus A6]
+TCGAAGAAATTTTCGA
+>Achl_2045(Achl_2045) Score=5.9 Pos=-59 [Arthrobacter chlorophenolicus A6]
+TCGAACACATATTCGA
+>Achl_1488(splB) Score=5.7 Pos=-24 [Arthrobacter chlorophenolicus A6]
+TCGAACATGTTTTCGA
+>Achl_1470(lexA) Score=5.7 Pos=-221 [Arthrobacter chlorophenolicus A6]
+TAGAACACATGTTCGA
+>Achl_1470(lexA) Score=5 Pos=-153 [Arthrobacter chlorophenolicus A6]
+TAGAACAAATGTTTGA
+>Achl_1462(recA) Score=5.3 Pos=-156 [Arthrobacter chlorophenolicus A6]
+TCGAATACCTGTTCGG
+>Arth_2079(uvrA) Score=5.1 Pos=-29 [Arthrobacter sp. FB24]
+TCGAAGAAGTTTTCGA
+>Arth_2319(Achl_2045) Score=5.6 Pos=-108 [Arthrobacter sp. FB24]
+TCGAAGATATATTCGA
+>Arth_1485(splB) Score=5.5 Pos=-25 [Arthrobacter sp. FB24]
+TCGAACATACCTTCGA
+>Arth_1468(lexA) Score=5 Pos=-40 [Arthrobacter sp. FB24]
+TAGAACAAATGTTTGA
+>Arth_1468(lexA) Score=5.5 Pos=-107 [Arthrobacter sp. FB24]
+TAGAACACATATTCGA
+>Arth_1460(recA) Score=5.4 Pos=-158 [Arthrobacter sp. FB24]
+TCGAATATCTGTTCGG
+>Bcav_2178(uvrA) Score=5.2 Pos=-8 [Beutenbergia cavernae DSM 12333]
+TCGAACAGGTGTGCGA
+>Bcav_2289(imuA) Score=5.7 Pos=-53 [Beutenbergia cavernae DSM 12333]
+TCGAACAACTGTTCGA
+>Bcav_2004(splB) Score=5 Pos=-24 [Beutenbergia cavernae DSM 12333]
+TCGGACGCGTGTTCGA
+>Bcav_2448(recA) Score=5.1 Pos=-185 [Beutenbergia cavernae DSM 12333]
+TCGAACACGCGTTCGC
+>Bfae_15150(uvrA) Score=5.4 Pos=-44 [Brachybacterium faecium DSM 4810]
+CCGAACAGCTGTTCGA
+>Bfae_15760(imuA) Score=5.4 Pos=-60 [Brachybacterium faecium DSM 4810]
+TCGAACCCCTGTTCGA
+>Bfae_15760(imuA) Score=4.9 Pos=-123 [Brachybacterium faecium DSM 4810]
+TCGCATGCATGTTCGA
+>Bfae_28900(splB) Score=5.7 Pos=-24 [Brachybacterium faecium DSM 4810]
+TCGAACACGCGTTCGA
+>Bfae_10530(recA) Score=5.2 Pos=-186 [Brachybacterium faecium DSM 4810]
+TCGAACGTCTGTTCGG
+>Bfae_10620(lexA) Score=4.9 Pos=-167 [Brachybacterium faecium DSM 4810]
+CCGAACTCCTGTTCGA
+>Bfae_10620(lexA) Score=5.1 Pos=-98 [Brachybacterium faecium DSM 4810]
+TCGAACACCTGTTTGG
+>BlinB01000045(imuA) Score=4.8 Pos=-18 [Brevibacterium linens BL2]
+TAGAACACTAGTTCGA
+>BlinB01001502(splB) Score=6 Pos=-24 [Brevibacterium linens BL2]
+TCGAACACGTGTTCGA
+>BlinB01003436(lexA) Score=5 Pos=-142 [Brevibacterium linens BL2]
+TCGAACATTTATGCGA
+>BlinB01003436(lexA) Score=4.9 Pos=-193 [Brevibacterium linens BL2]
+TAGAACGTCTGTTCTA
+>BlinB01003614(Achl_2045) Score=5.8 Pos=-33 [Brevibacterium linens BL2]
+TCGAACATTTGTTCGA
+>CMM_0905(splB) Score=5 Pos=-24 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+GCGAATGTGTGTTCGA
+>CMM_1518(dnaE) Score=5.6 Pos=-62 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TCGAACATCCGTTCGA
+>CMM_2025(recA) Score=5.1 Pos=-213 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TCGAATATCCCTTCGA
+>CMM_2018(lexA) Score=5.2 Pos=-229 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+CCGAACATACATTCGA
+>CMM_2018(lexA) Score=4.9 Pos=-156 [Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+TCGAACAGGTGTTTGC
+>JNB_01670(Achl_2045) Score=6 Pos=-80 [Janibacter sp. HTCC2649]
+TCGAACAGATGTTCGA
+>JNB_05200(recA) Score=5.4 Pos=-194 [Janibacter sp. HTCC2649]
+TCGAACACGTGTTCGT
+>JNB_00180(lexA) Score=5.5 Pos=-103 [Janibacter sp. HTCC2649]
+TCGAACAGATGTTTGA
+>JNB_00180(lexA) Score=5 Pos=-172 [Janibacter sp. HTCC2649]
+TCGAAACGGTGTTCGA
+>Jden_1251(uvrA) Score=5.3 Pos=-45 [Jonesia denitrificans DSM 20603]
+TCGAACATCTGTGCGA
+>Jden_1185(imuA) Score=5.7 Pos=-76 [Jonesia denitrificans DSM 20603]
+TCGAACACACGTTCGA
+>Jden_1041(recA) Score=5.7 Pos=-208 [Jonesia denitrificans DSM 20603]
+TCGAACATGTGTTCGG
+>Jden_1054(lexA) Score=5.2 Pos=-251 [Jonesia denitrificans DSM 20603]
+TCGAACATACGTTCGT
+>Jden_1054(lexA) Score=5.4 Pos=-182 [Jonesia denitrificans DSM 20603]
+TCGAACAGGTGTTTGA
+>KRH_11560(dnaE) Score=5.2 Pos=-24 [Kocuria rhizophila DC2201]
+TCGAACACAGTTTCGA
+>KRH_15760(lexA) Score=5.4 Pos=-155 [Kocuria rhizophila DC2201]
+TCGAACACATATTTGA
+>KRH_15760(lexA) Score=5.4 Pos=-222 [Kocuria rhizophila DC2201]
+TAGAACACATCTTCGA
+>KRH_15840(recA) Score=5.3 Pos=-180 [Kocuria rhizophila DC2201]
+TCGAAGGTATATTCGA
+>Lxx03480(splB) Score=5.8 Pos=-24 [Leifsonia xyli subsp. xyli str. CTCB07]
+TAGAACATATGTTCGA
+>Lxx11470(uvrA) Score=5 Pos=-21 [Leifsonia xyli subsp. xyli str. CTCB07]
+TCGAACAAAACTTCGA
+>Lxx16030(recA) Score=5.5 Pos=-93 [Leifsonia xyli subsp. xyli str. CTCB07]
+TCGAAGATATGTTCGG
+>Lxx15880(lexA) Score=4.7 Pos=-198 [Leifsonia xyli subsp. xyli str. CTCB07]
+CCGAATTTATCTTCGA
+>Lxx15880(lexA) Score=5 Pos=-123 [Leifsonia xyli subsp. xyli str. CTCB07]
+TCGAACACATGTTTGT
+>RSal33209_2279(uvrA) Score=5.4 Pos=-30 [Renibacterium salmoninarum ATCC 33209]
+TCGAAGACATTTTCGA
+>RSal33209_3492(Achl_2045) Score=5.7 Pos=-101 [Renibacterium salmoninarum ATCC 33209]
+TCGAATATATATTCGA
+>RSal33209_0733(lexA) Score=5.1 Pos=-52 [Renibacterium salmoninarum ATCC 33209]
+TAGAACATATATTTGA
+>RSal33209_0733(lexA) Score=5.4 Pos=-118 [Renibacterium salmoninarum ATCC 33209]
+TAGAACATGTTTTCGA
+>RSal33209_0722(recA) Score=5.4 Pos=-116 [Renibacterium salmoninarum ATCC 33209]
+TCGAATATCTGTTCGG

@@ -1,0 +1,30 @@
+>Athe_1249(argG) Score=5.4 Pos=-70 [Anaerocellum thermophilum DSM 6725]
+TTGCATAATTATTCAT
+>Athe_1079(argC) Score=5.2 Pos=-82 [Anaerocellum thermophilum DSM 6725]
+TTGTATTTTTATACAC
+>Athe_1540(carA) Score=5.2 Pos=-112 [Anaerocellum thermophilum DSM 6725]
+TTGTATTTTTATTCAT
+>Csac_1814(argG) Score=5.4 Pos=-63 [Caldicellulosiruptor saccharolyticus DSM 8903]
+TTGAATAATTATTCAT
+>Csac_1531(argC) Score=5.2 Pos=-71 [Caldicellulosiruptor saccharolyticus DSM 8903]
+TTGTATTTTTATACAC
+>Csac_2227(carA) Score=5.2 Pos=-111 [Caldicellulosiruptor saccharolyticus DSM 8903]
+TTGTATTTTTATTCAT
+>CHY_2265(argC) Score=5.5 Pos=-59 [Carboxydothermus hydrogenoformans Z-2901]
+TTGCATAAATATACAA
+>Moth_2290(argC) Score=5.4 Pos=-60 [Moorella thermoacetica ATCC 39073]
+TTGCATTATTATACAT
+>Moth_2290(argC) Score=5.3 Pos=-39 [Moorella thermoacetica ATCC 39073]
+ATGTATAATTATAAAC
+>Teth514_0657(argC) Score=5.6 Pos=-131 [Thermoanaerobacter ethanolicus X514]
+TTGTATAATTATAAAT
+>Teth514_0657(argC) Score=5.1 Pos=-72 [Thermoanaerobacter ethanolicus X514]
+ATGCATAAATATAAAT
+>Thit_2172(argC) Score=5.6 Pos=-130 [Thermoanaerobacter italicus Ab9]
+TTGTATAATTATAAAT
+>Thit_2172(argC) Score=5.2 Pos=-72 [Thermoanaerobacter italicus Ab9]
+TTGCATAAATATAAAT
+>TTE2498(argC) Score=5.2 Pos=-52 [Thermoanaerobacter tengcongensis MB4]
+TTGCATAAATATAAAT
+>TTE0815(carA) Score=5.6 Pos=-156 [Thermoanaerobacter tengcongensis MB4]
+ATGTATAATTATAAAA

@@ -1,0 +1,32 @@
+>PA3563(fruR) Score=5.3 Pos=-92 [Pseudomonas aeruginosa PAO1]
+GCTGAATCGATTCACT
+>PA3562(fruB) Score=4.9 Pos=-251 [Pseudomonas aeruginosa PAO1]
+AGTGAATCGATTCAGC
+>PSEEN0931(fruR) Score=5 Pos=-170 [Pseudomonas entomophila L48]
+GCTGAATCGTTTAATC
+>PSEEN0932(fruB) Score=4.5 Pos=-142 [Pseudomonas entomophila L48]
+GATTAAACGATTCAGC
+>PP0792(fruR) Score=4.8 Pos=-171 [Pseudomonas putida KT2440]
+GCTGAAACGTTTAATC
+>PP0793(fruB) Score=4.5 Pos=-129 [Pseudomonas putida KT2440]
+GATTAAACGTTTCAGC
+>PSPTO0953(fruR) Score=5 Pos=-204 [Pseudomonas syringae pv. tomato str. DC3000]
+GCTGAATCGTTTAATC
+>PSPTO0954(fruB) Score=4.5 Pos=-166 [Pseudomonas syringae pv. tomato str. DC3000]
+GATTAAACGATTCAGC
+>PFL_0858(fruR) Score=4.8 Pos=-160 [Pseudomonas fluorescens Pf-5]
+GCTGAAACGTTTAATC
+>PFL_0859(fruB) Score=4.5 Pos=-157 [Pseudomonas fluorescens Pf-5]
+GATTAAACGTTTCAGC
+>Pmen_0785(fruR) Score=5.1 Pos=-119 [Pseudomonas mendocina ymp]
+GCTGAAACGATTCATC
+>Pmen_0786(fruB) Score=5 Pos=-121 [Pseudomonas mendocina ymp]
+GATGAATCGTTTCAGC
+>PST_0987(fruR) Score=5.5 Pos=-89 [Pseudomonas stutzeri A1501]
+GCTGAAACGTTTCAGC
+>PST_0988(fruB) Score=5.5 Pos=-105 [Pseudomonas stutzeri A1501]
+GCTGAAACGTTTCAGC
+>Avin_12180(fruR) Score=5.3 Pos=-81 [Azotobacter vinelandii AvOP]
+GCTGAATCGTTTCACT
+>Avin_12190(fruB) Score=4.8 Pos=-109 [Azotobacter vinelandii AvOP]
+AGTGAAACGATTCAGC

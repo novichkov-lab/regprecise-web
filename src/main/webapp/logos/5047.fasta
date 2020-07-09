@@ -1,0 +1,44 @@
+>Ping_2932(gntK) Score=5.6 Pos=-64 [Psychromonas ingrahamii 37]
+ATATGTTACCCGTAACTTAG
+>Ping_2929(gntR) Score=6.1 Pos=-21 [Psychromonas ingrahamii 37]
+TTATGTTACAGGTAACATTT
+>Ping_2933(gntX) Score=6 Pos=-98 [Psychromonas ingrahamii 37]
+GTAAGTTACCGGTAACATTC
+>Ping_2933(gntX) Score=5.2 Pos=-76 [Psychromonas ingrahamii 37]
+ATCAGTTACCGGTAACCTAT
+>Ping_2932(gntK) Score=5 Pos=-78 [Psychromonas ingrahamii 37]
+TCAAGTTACGGCTAATATGT
+>PE36_03034(gnd) Score=4.7 Pos=-109 [Moritella sp. PE36]
+TAACGATAGCGTTAACATTG
+>PE36_03014(gntX) Score=5.9 Pos=-67 [Moritella sp. PE36]
+AATAGTTACCGGTAACATAA
+>PE36_03024(gntK) Score=5.2 Pos=-83 [Moritella sp. PE36]
+CTGTGTTAACGGTAACATTG
+>AHA_0287(gntK) Score=6.2 Pos=-89 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TGTTGTTACCGGTAACATGT
+>AHA_0287(gntK) Score=6.4 Pos=-75 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+ACATGTTACCGGTAACGTGC
+>AHA_0290(gntR) Score=5.8 Pos=-35 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TAATGTTACGTGTAACATTT
+>AHA_0286(gntT) Score=6.4 Pos=-190 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+GCACGTTACCGGTAACATGT
+>AHA_0286(gntT) Score=6.2 Pos=-176 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+ACATGTTACCGGTAACAACA
+>ASA_4110(gntK) Score=6.2 Pos=-89 [Aeromonas salmonicida subsp. salmonicida A449]
+TGTTGTTACCGGTAACATGT
+>ASA_4110(gntK) Score=5.9 Pos=-75 [Aeromonas salmonicida subsp. salmonicida A449]
+ACATGTTGCCGGTAACGTGC
+>ASA_4111(gntT) Score=5.9 Pos=-190 [Aeromonas salmonicida subsp. salmonicida A449]
+GCACGTTACCGGCAACATGT
+>ASA_4111(gntT) Score=6.2 Pos=-176 [Aeromonas salmonicida subsp. salmonicida A449]
+ACATGTTACCGGTAACAACA
+>ASA_4107(gntR) Score=5.7 Pos=-35 [Aeromonas salmonicida subsp. salmonicida A449]
+TAATGTTACGTGTAACATTC
+>Tola_0778(gntK) Score=6.2 Pos=-76 [Tolumonas auensis DSM 9187]
+ACATGATACCGGTAACATGC
+>Tola_0778(gntK) Score=6.4 Pos=-90 [Tolumonas auensis DSM 9187]
+ACTTGTTACCGGTAACATGA
+>Tola_0779(gntT) Score=6.4 Pos=-176 [Tolumonas auensis DSM 9187]
+TCATGTTACCGGTAACAAGT
+>Tola_0779(gntT) Score=6.2 Pos=-190 [Tolumonas auensis DSM 9187]
+GCATGTTACCGGTATCATGT

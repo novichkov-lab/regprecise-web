@@ -1,0 +1,32 @@
+>CC3430(proA) Score=5 Pos=-73 [Caulobacter crescentus CB15]
+TAAGCCTCAACCTGAGCATAA
+>CC2912(nadA) Score=6.3 Pos=-85 [Caulobacter crescentus CB15]
+TTATGCTCACTTTCAGCATAA
+>CC2912(nadA) Score=6.1 Pos=-2 [Caulobacter crescentus CB15]
+AAATGCTCACTTTGAGCATAA
+>CC3619(nadE) Score=6.3 Pos=-39 [Caulobacter crescentus CB15]
+TTATGCTCAGTTTCAGCATAA
+>Cseg_0251(proA) Score=5 Pos=-41 [Caulobacter segnis ATCC 21756]
+TAAGCCTCAACCTGAGCATAA
+>Cseg_3422(nadA) Score=6.1 Pos=-32 [Caulobacter segnis ATCC 21756]
+AAATGCTCACTTTGAGCATAA
+>Cseg_4105(nadE) Score=6.3 Pos=-33 [Caulobacter segnis ATCC 21756]
+TTATGCTCACTTTCAGCATAA
+>Cseg_3422(nadA) Score=6.3 Pos=-103 [Caulobacter segnis ATCC 21756]
+TTATGCTCAGTTTCAGCATAA
+>Caul_4914(nadE) Score=6.2 Pos=-40 [Caulobacter sp. K31]
+TTATGCTCATTTTTAGCATAA
+>Caul_4717(proA) Score=5.4 Pos=-39 [Caulobacter sp. K31]
+TAAGGCTCACTCTGAGCATAT
+>Caul_4308(nadA) Score=6 Pos=-117 [Caulobacter sp. K31]
+TTTTGCTCAATTTCAGCATAA
+>Caul_4308(nadA) Score=6.1 Pos=-32 [Caulobacter sp. K31]
+AAATGCTCAGTTTGAGCATAA
+>PHZ_c1931(nadE) Score=6 Pos=-46 [Phenylobacterium zucineum HLK1]
+ATATGCTCAAAGTGAGCATTT
+>PHZ_c0252(proA) Score=4.7 Pos=-28 [Phenylobacterium zucineum HLK1]
+AAGTGCTCACCTTGAGCAAAT
+>PHZ_c2607(nadA) Score=5.4 Pos=-98 [Phenylobacterium zucineum HLK1]
+TTTTGCTCCGATTGAGCAAAA
+>PHZ_c2607(nadA) Score=6.3 Pos=-33 [Phenylobacterium zucineum HLK1]
+TAATGCTCACTATGAGCATAA

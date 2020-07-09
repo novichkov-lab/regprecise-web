@@ -1,0 +1,60 @@
+>MSMEG_2387(leuC) Score=4.1 Pos=-119 [Mycobacterium smegmatis str. MC2 155]
+TTTCTCACAGAGAGATACT
+>MSMEG_2387(leuC) Score=5.4 Pos=-98 [Mycobacterium smegmatis str. MC2 155]
+CGTCTCGTATTTTGAGATA
+>MSMEG_2386(ltbR) Score=5.4 Pos=-32 [Mycobacterium smegmatis str. MC2 155]
+TATCTCAAAATACGAGACG
+>MSMEG_2386(ltbR) Score=4.1 Pos=-11 [Mycobacterium smegmatis str. MC2 155]
+AGTATCTCTCTGTGAGAAA
+>Rv2988c(leuC) Score=5.5 Pos=-58 [Mycobacterium tuberculosis H37Rv]
+CGTCTCGTATTTTGAGATG
+>Rv2989(ltbR) Score=5.5 Pos=-32 [Mycobacterium tuberculosis H37Rv]
+CATCTCAAAATACGAGACG
+>MAB_3294c(leuC) Score=4.6 Pos=-39 [Mycobacterium abscessus ATCC 19977]
+CGTTCCAAATATTGAGACG
+>MAB_3295(ltbR) Score=4.3 Pos=-11 [Mycobacterium abscessus ATCC 19977]
+AGTATCGTTACGTGAGACA
+>MAB_3294c(leuC) Score=4.3 Pos=-60 [Mycobacterium abscessus ATCC 19977]
+TGTCTCACGTAACGATACT
+>MAB_3295(ltbR) Score=4.6 Pos=-32 [Mycobacterium abscessus ATCC 19977]
+CGTCTCAATATTTGGAACG
+>MAV_3838(leuC) Score=4.9 Pos=-94 [Mycobacterium avium 104]
+TGTCTCACAAGGAGATACT
+>MAV_3838(leuC) Score=5.3 Pos=-73 [Mycobacterium avium 104]
+CGTCTCGCATTATGAGATC
+>MAV_3839(ltbR) Score=5.3 Pos=-71 [Mycobacterium avium 104]
+GATCTCATAATGCGAGACG
+>MAV_3839(ltbR) Score=4.9 Pos=-50 [Mycobacterium avium 104]
+AGTATCTCCTTGTGAGACA
+>MMAR_1726(leuC) Score=4.9 Pos=-90 [Mycobacterium marinum M]
+TGTCTCACAAGGAGATACT
+>MMAR_1726(leuC) Score=5.5 Pos=-69 [Mycobacterium marinum M]
+CGTCTCGTATTATGAGATG
+>MMAR_1725(ltbR) Score=5.5 Pos=-32 [Mycobacterium marinum M]
+CATCTCATAATACGAGACG
+>MMAR_1725(ltbR) Score=4.9 Pos=-11 [Mycobacterium marinum M]
+AGTATCTCCTTGTGAGACA
+>Mvan_2135(leuC) Score=5.2 Pos=-25 [Mycobacterium vanbaalenii PYR-1]
+CTTCCCAGATTGTGAGACA
+>Mvan_2135(leuC) Score=4.7 Pos=-46 [Mycobacterium vanbaalenii PYR-1]
+TGTCTCACAAGGAGATATT
+>Mvan_2134(ltbR) Score=5.2 Pos=-32 [Mycobacterium vanbaalenii PYR-1]
+TGTCTCACAATCTGGGAAG
+>Mvan_2134(ltbR) Score=4.7 Pos=-11 [Mycobacterium vanbaalenii PYR-1]
+AATATCTCCTTGTGAGACA
+>Mflv_4227(leuC) Score=4.9 Pos=-46 [Mycobacterium flavescens PYR-GCK]
+TGTCTCACAAGGAGATACT
+>Mflv_4227(leuC) Score=4.9 Pos=-25 [Mycobacterium flavescens PYR-GCK]
+CTTCCCAGAATGTGAGAAA
+>Mflv_4228(ltbR) Score=4.9 Pos=-11 [Mycobacterium flavescens PYR-GCK]
+AGTATCTCCTTGTGAGACA
+>Mflv_4228(ltbR) Score=4.9 Pos=-32 [Mycobacterium flavescens PYR-GCK]
+TTTCTCACATTCTGGGAAG
+>Mjls_1901(leuC) Score=4.4 Pos=-84 [Mycobacterium sp. JLS]
+TGTCTCACAGGGAGATACT
+>Mjls_1901(leuC) Score=4.9 Pos=-63 [Mycobacterium sp. JLS]
+CCTCCCGCAATGTGAGATT
+>Mjls_1900(ltbR) Score=4.4 Pos=-11 [Mycobacterium sp. JLS]
+AGTATCTCCCTGTGAGACA
+>Mjls_1900(ltbR) Score=4.9 Pos=-32 [Mycobacterium sp. JLS]
+AATCTCACATTGCGGGAGG

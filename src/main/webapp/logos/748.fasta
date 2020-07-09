@@ -1,0 +1,40 @@
+>TM1171(hcpR) Score=6.5 Pos=-28 [Thermotoga maritima MSB8]
+TCTGTAACAATTGTTACGGG
+>TM1172(hcp) Score=6.5 Pos=-87 [Thermotoga maritima MSB8]
+CCCGTAACAATTGTTACAGA
+>TRQ2_1644(hcpR) Score=6.7 Pos=-31 [Thermotoga sp. RQ2]
+TCCGTAACAATTGTTACGGG
+>TRQ2_1643(hcp) Score=6.7 Pos=-80 [Thermotoga sp. RQ2]
+CCCGTAACAATTGTTACGGA
+>CTN_1403(hcp) Score=6.7 Pos=-50 [Thermotoga neapolitana DSM 4359]
+CCCGTAACAATTGTTACGGA
+>Tpet_1578(hcpR) Score=6.3 Pos=-28 [Thermotoga petrophila RKU-1]
+TCTGTAACAATTGTTACGAG
+>Tpet_1577(hcp) Score=6.3 Pos=-81 [Thermotoga petrophila RKU-1]
+CTCGTAACAATTGTTACAGA
+>Tnap_1598(hcpR) Score=6.3 Pos=-28 [Thermotoga naphthophila RKU-10]
+TCTGTAACAATTGTTACGAG
+>Tnap_1597(hcp) Score=6.3 Pos=-81 [Thermotoga naphthophila RKU-10]
+CTCGTAACAATTGTTACAGA
+>Tlet_1357(hcpR) Score=5.6 Pos=-20 [Thermotoga lettingae TMO]
+GCGGTAACATATGATACAGA
+>Tlet_0222(hcp) Score=5.7 Pos=-79 [Thermotoga lettingae TMO]
+TTCGTAACAAAAGTTACTGT
+>THA_824(hcp) Score=6.1 Pos=-79 [Thermosipho africanus TCF52B]
+TTCGTAACCTATGTTACAGA
+>THA_1919(hcp) Score=6.4 Pos=-84 [Thermosipho africanus TCF52B]
+TCCGTAACTAATGTTACAGA
+>Tmel_0755(ytfE) Score=5.9 Pos=-59 [Thermosipho melanesiensis BI429]
+AGCGTAACATAAGTTACGGA
+>Fnod_1303(hcpR) Score=6.5 Pos=-229 [Fervidobacterium nodosum Rt17-B1]
+TCCGTAACCTATGTTACGGA
+>Fnod_1302(hcp) Score=6.5 Pos=-92 [Fervidobacterium nodosum Rt17-B1]
+TCCGTAACATAGGTTACGGA
+>Pmob_1162(hcpR) Score=6.2 Pos=-52 [Petrotoga mobilis SJ95]
+TCAGTAACAAATGTTACGCA
+>Pmob_1163(hcp) Score=6.2 Pos=-132 [Petrotoga mobilis SJ95]
+TGCGTAACATTTGTTACTGA
+>Kole_1156(hcpR) Score=6.6 Pos=-28 [Thermotogales bacterium TBF 19.5.1]
+TCGGTAACATATGTTACGGA
+>Kole_1155(ytfE) Score=6.6 Pos=-86 [Thermotogales bacterium TBF 19.5.1]
+TCCGTAACATATGTTACCGA

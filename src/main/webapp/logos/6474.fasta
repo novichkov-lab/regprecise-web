@@ -1,0 +1,50 @@
+>nfa18190(bioF) Score=5.9 Pos=-31 [Nocardia farcinica IFM 10152]
+CCTGAACGGTGTTCAAG
+>nfa18180(bioA) Score=6.3 Pos=-60 [Nocardia farcinica IFM 10152]
+CTTGAACACTGTTCAAG
+>nfa18320(bioB) Score=6 Pos=-85 [Nocardia farcinica IFM 10152]
+CCTGAACACCGTTCAAG
+>nfa18310(bioQ) Score=5.8 Pos=-65 [Nocardia farcinica IFM 10152]
+CTTGAACGGTGTTCAGG
+>RER_35040(bioF) Score=6.1 Pos=-18 [Rhodococcus erythropolis PR4]
+GTTGAACGGTGTTCAAG
+>RER_35050(bioA) Score=6.1 Pos=-37 [Rhodococcus erythropolis PR4]
+CTTGAACACCGTTCAAC
+>RER_34880(bioB) Score=5.9 Pos=-58 [Rhodococcus erythropolis PR4]
+CGTGAACACCGTTCAAC
+>RER_34880(bioB) Score=5.1 Pos=-42 [Rhodococcus erythropolis PR4]
+CTTGTACGGTGTTCAAT
+>RER_34890(bioQ) Score=5.5 Pos=-124 [Rhodococcus erythropolis PR4]
+ATTGAACACCGTACAAG
+>RER_34890(bioQ) Score=5.8 Pos=-108 [Rhodococcus erythropolis PR4]
+GTTGAACGGTGTTCACG
+>ROP_07820(bioF) Score=6.1 Pos=-24 [Rhodococcus opacus B4]
+GTTGAACACCGTTCAAG
+>ROP_07830(bioA) Score=6.1 Pos=-41 [Rhodococcus opacus B4]
+CTTGAACGGTGTTCAAC
+>ROP_07700(bioB) Score=5.9 Pos=-88 [Rhodococcus opacus B4]
+CGTGAACACCGTTCAAC
+>ROP_07700(bioB) Score=5.1 Pos=-72 [Rhodococcus opacus B4]
+CTTGTACGGTGTTCAAT
+>ROP_07710(bioQ) Score=5.5 Pos=-99 [Rhodococcus opacus B4]
+ATTGAACACCGTACAAG
+>ROP_07710(bioQ) Score=5.8 Pos=-83 [Rhodococcus opacus B4]
+GTTGAACGGTGTTCACG
+>ROP_53000(bioY) Score=5.7 Pos=-38 [Rhodococcus opacus B4]
+CTTGAACGTCGTTCAAG
+>ROP_52960(bioY) Score=5.7 Pos=-38 [Rhodococcus opacus B4]
+CTTGAACGTCGTTCAAG
+>RHA1_ro01054(bioF) Score=6.1 Pos=-26 [Rhodococcus sp. RHA1]
+GTTGAACACCGTTCAAG
+>RHA1_ro01055(bioA) Score=6.1 Pos=-59 [Rhodococcus sp. RHA1]
+CTTGAACGGTGTTCAAC
+>RHA1_ro01043(bioB) Score=5.9 Pos=-1 [Rhodococcus sp. RHA1]
+CGTGAACACCGTTCAAC
+>RHA1_ro01043(bioB) Score=5.1 Pos=15 [Rhodococcus sp. RHA1]
+CTTGTACGGTGTTCAAT
+>RHA1_ro01044(bioQ) Score=5.5 Pos=-24 [Rhodococcus sp. RHA1]
+ATTGAACACCGTACAAG
+>RHA1_ro01044(bioQ) Score=5.8 Pos=-8 [Rhodococcus sp. RHA1]
+GTTGAACGGTGTTCACG
+>RHA1_ro05255(bioY) Score=5.7 Pos=-38 [Rhodococcus sp. RHA1]
+CTTGAACGTCGTTCAAG

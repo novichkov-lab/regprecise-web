@@ -1,0 +1,86 @@
+>LVIS_0470(znuA) Score=6.6 Pos=-46 [Lactobacillus brevis ATCC 367]
+TAAACGGTAATCATTACTGTTTA
+>LVIS_0566(znuA) Score=6.8 Pos=-41 [Lactobacillus brevis ATCC 367]
+TAAATAGTAATAATTACCATTTA
+>LVIS_0360(rpsN2) Score=5.9 Pos=-37 [Lactobacillus brevis ATCC 367]
+TAAAGCGTAATAATTACTATCAA
+>LSEI_2427(znuA) Score=7 Pos=-183 [Lactobacillus casei ATCC 334]
+TAATTCGTAATCATTACTATTTA
+>LSEI_2426(lp_0947) Score=6.4 Pos=-183 [Lactobacillus casei ATCC 334]
+CAAAACGTAATAATTACGATTTA
+>LSEI_2426(lp_0947) Score=6.9 Pos=-40 [Lactobacillus casei ATCC 334]
+TAAATAGTAATGATTACGAATTA
+>LSEI_2425(rpsN2) Score=6.9 Pos=-248 [Lactobacillus casei ATCC 334]
+TAAATAGTAATGATTACGAATTA
+>LSEI_2427(znuA) Score=6.7 Pos=-40 [Lactobacillus casei ATCC 334]
+TAAATCGTAATTATTACGTTTTG
+>LSEI_2025(zur) Score=6.5 Pos=-69 [Lactobacillus casei ATCC 334]
+TTAATCGTAATCAATACGATTTA
+>LSEI_0242(znuC) Score=6.4 Pos=-39 [Lactobacillus casei ATCC 334]
+TAAACCGTAATCGTTACCGTTTA
+>LAF_0191(znuA) Score=6.7 Pos=-48 [Lactobacillus fermentum IFO 3956]
+TTAATCGTAAGGATTACGATTTA
+>LAF_1127(rpsN2) Score=6.5 Pos=-82 [Lactobacillus fermentum IFO 3956]
+TAAATGGTAATAATTACTATTTG
+>LAF_1665(zur) Score=5.8 Pos=-37 [Lactobacillus fermentum IFO 3956]
+AAAAACGTAATCATTACTAAAAA
+>lp_3302(znuA) Score=6.6 Pos=-44 [Lactobacillus plantarum WCFS1]
+TTAACAGTAATGGTTACGATTTA
+>lp_0463(znuC) Score=6.9 Pos=-51 [Lactobacillus plantarum WCFS1]
+AAAATAGTAATCATTACGATTTA
+>lp_3018(znuA) Score=6.8 Pos=-88 [Lactobacillus plantarum WCFS1]
+TAAAACGTAAATATTACTATTTA
+>lp_3018(znuA) Score=7.3 Pos=-39 [Lactobacillus plantarum WCFS1]
+TAAAACGTAATGATTACTATTTA
+>lp_2216(rpsN2) Score=5.6 Pos=-125 [Lactobacillus plantarum WCFS1]
+AAAATAGTAGCTGTTACGATTTA
+>lp_0947(lp_0947) Score=6.7 Pos=-36 [Lactobacillus plantarum WCFS1]
+TAAATGGTAATAATTACTATTTA
+>lp_0868(zur) Score=6.9 Pos=-56 [Lactobacillus plantarum WCFS1]
+TAAATAGTAATGATTATGATTTA
+>LAR_0207(znuA) Score=6.8 Pos=-36 [Lactobacillus reuteri JCM 1112]
+TAAATAGTAACGATTACGATTAA
+>LAR_0209(znuB) Score=5.3 Pos=-9 [Lactobacillus reuteri JCM 1112]
+TAAAAAGTAATGTTAACTTTAAG
+>LGG_02422(rpsN2) Score=6.8 Pos=-243 [Lactobacillus rhamnosus GG]
+TTAAGCGTAATGATTACGATTTA
+>LGG_02423(znuA) Score=6.7 Pos=-181 [Lactobacillus rhamnosus GG]
+TAAATCGTAATCATTACGCTTAA
+>LGG_02423(znuA) Score=6.9 Pos=-40 [Lactobacillus rhamnosus GG]
+TAAATCGTAATGATTACGTTTTG
+>LGG_00285(znuC) Score=6.4 Pos=-39 [Lactobacillus rhamnosus GG]
+TAAATCGTAATCGTTACCGTTTG
+>LGG_02012(zur) Score=5.4 Pos=-70 [Lactobacillus rhamnosus GG]
+CTAATCGTAACCAGTACGATTTG
+>LSA0282(znuA) Score=6.5 Pos=-37 [Lactobacillus sakei subsp. sakei 23K]
+TAAAGCGTAACTATTACGATTTA
+>LSL_1944(rpsN2) Score=7.3 Pos=-42 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAAAAAGTAATGATTACTATTTA
+>LSL_1587(znuA) Score=7 Pos=-40 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAAAAAGTAATGATTACTATATA
+>LSL_1944(rpsN2) Score=5.7 Pos=-63 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAAATCGTAATTGATATCATTTA
+>LSL_1450(zur) Score=6.6 Pos=-35 [Lactobacillus salivarius subsp. salivarius UCC118]
+TAGAAAGTAAAGATTACTATTTA
+>LEUM_0803(znuA) Score=6.2 Pos=-171 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTTAAAGTAATCATTACTTTTTG
+>LEUM_0803(znuA) Score=6.2 Pos=-142 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTAATAGTAATGATTACTATAAT
+>LEUM_0082(lp_0947) Score=6.1 Pos=-65 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TAAATAGTAATAATTACTATAAT
+>LEUM_0082(lp_0947) Score=6.7 Pos=-43 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TTAAAAGTAATTGTTACTATTTA
+>OEOE_1188(znuA) Score=5.5 Pos=-76 [Oenococcus oeni PSU-1]
+GTAAAAGTAATATTTACCATTAA
+>OEOE_1188(znuA) Score=6 Pos=-118 [Oenococcus oeni PSU-1]
+TAACAAGTAATCATTACTAAGTA
+>OEOE_0084(lp_0947) Score=6.6 Pos=-42 [Oenococcus oeni PSU-1]
+TAAATAGTAATAATTACTTTTAA
+>OEOE_1189(zur) Score=5.4 Pos=-95 [Oenococcus oeni PSU-1]
+TTAATGGTAAATATTACTTTTAC
+>OEOE_1189(zur) Score=6 Pos=-53 [Oenococcus oeni PSU-1]
+TACTTAGTAATGATTACTTGTTA
+>PEPE_0289(znuA) Score=6.9 Pos=-33 [Pediococcus pentosaceus ATCC 25745]
+TAAATAGTAATTATTACTCTTTA
+>PEPE_0386(zur) Score=7.3 Pos=-36 [Pediococcus pentosaceus ATCC 25745]
+TAAAACGTAATGATTACTATTTA

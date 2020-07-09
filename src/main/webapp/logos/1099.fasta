@@ -1,0 +1,124 @@
+>RS01909(imuA) Score=6.2 Pos=-159 [Ralstonia solanacearum GMI1000]
+TACTGTATATCCATACAGTA
+>RSc0551(recA) Score=5.5 Pos=-180 [Ralstonia solanacearum GMI1000]
+CACTGGTTTTTTATACAGTA
+>RSc1304(lexA) Score=5.4 Pos=-25 [Ralstonia solanacearum GMI1000]
+ACCTGTTCAAATATACAGTG
+>RSc1304(lexA) Score=5.3 Pos=-44 [Ralstonia solanacearum GMI1000]
+CACTGTATAAAATCACAGCA
+>RS05321(uvrD) Score=6 Pos=-39 [Ralstonia solanacearum GMI1000]
+TGCTGTATATTTATACAGTT
+>RS00884(BPSS1334) Score=5.2 Pos=-29 [Ralstonia solanacearum GMI1000]
+CAGTGTACGTATATACAGTC
+>RS00884(BPSS1334) Score=5.9 Pos=-44 [Ralstonia solanacearum GMI1000]
+GCCTGTATATATTTACAGTG
+>Rpic_4490(imuA) Score=6.4 Pos=-44 [Ralstonia pickettii 12J]
+TACTGTATATTCATACAGTA
+>Rpic_0471(recA) Score=5.5 Pos=-172 [Ralstonia pickettii 12J]
+CACTGGTTTTTTATACAGTA
+>Rpic_1179(lexA) Score=5.4 Pos=-25 [Ralstonia pickettii 12J]
+ACCTGTTCAAATATACAGTG
+>Rpic_1179(lexA) Score=5.3 Pos=-44 [Ralstonia pickettii 12J]
+CACTGTATAAAATCACAGCA
+>Rpic_4129(uvrD) Score=5.9 Pos=-40 [Ralstonia pickettii 12J]
+TGCTGTATATTCATACAGTT
+>Rpic_4716(BPSS1334) Score=5.3 Pos=-26 [Ralstonia pickettii 12J]
+AACTGTGAATTTATACAGTG
+>Rpic_4716(BPSS1334) Score=6 Pos=-45 [Ralstonia pickettii 12J]
+AACTGTATATATTCACAGTA
+>Rmet_4128(imuA) Score=6.4 Pos=-72 [Ralstonia metallidurans CH34]
+TACTGTATAAACATACAGTA
+>Rmet_0466(recA) Score=6.1 Pos=-171 [Ralstonia metallidurans CH34]
+TACTGTTTTTTTATACAGTA
+>Rmet_1981(lexA) Score=6 Pos=-43 [Ralstonia metallidurans CH34]
+TACTGTTTAAACATACAGTG
+>Rmet_1981(lexA) Score=5.4 Pos=-63 [Ralstonia metallidurans CH34]
+TACTGTATAAAATCACAGCA
+>Rmet_0232(uvrD) Score=5.6 Pos=-66 [Ralstonia metallidurans CH34]
+GGCTGTATGGATATACAGTG
+>Rmet_1177(H16_A1352) Score=6.2 Pos=-70 [Ralstonia metallidurans CH34]
+TACTGTACATTCATACAGTA
+>Rmet_3545(dinB) Score=6.1 Pos=-40 [Ralstonia metallidurans CH34]
+TACTGTACGTTTATACAGTA
+>Rmet_4549(uvrA) Score=6.1 Pos=-150 [Ralstonia metallidurans CH34]
+CACTGTATGTTCATACAGTA
+>Rmet_0742(PF04055) Score=6.5 Pos=-48 [Ralstonia metallidurans CH34]
+TACTGTATATTTATACAGTA
+>Rmet_1637(BPSS1334) Score=5.2 Pos=-43 [Ralstonia metallidurans CH34]
+AACTGTATGGATGAACAGTC
+>Rmet_1637(BPSS1334) Score=6.3 Pos=-62 [Ralstonia metallidurans CH34]
+CACTGTATATATTTACAGTA
+>Rmet_5910(H16_B2553) Score=6.3 Pos=-42 [Ralstonia metallidurans CH34]
+CACTGTATATTTATACAGTG
+>Reut_B4525(imuA) Score=6.3 Pos=91 [Ralstonia eutropha JMP134]
+TACTGTATAAATATACAGTT
+>Reut_A0527(recA) Score=6.1 Pos=-194 [Ralstonia eutropha JMP134]
+TACTGTTTTTTTATACAGTA
+>Reut_A2008(lexA) Score=6 Pos=-74 [Ralstonia eutropha JMP134]
+TACTGTTTAAACATACAGTG
+>Reut_A2008(lexA) Score=5 Pos=-95 [Ralstonia eutropha JMP134]
+TACTGTATAAAATCACAGGC
+>Reut_A0283(uvrD) Score=5.7 Pos=-6 [Ralstonia eutropha JMP134]
+GCCTGTATGGATATACAGTT
+>Reut_A1285(H16_A1352) Score=5.9 Pos=125 [Ralstonia eutropha JMP134]
+TACTGTACATCCATACAGTA
+>Reut_B5827(PF06733) Score=6.1 Pos=-44 [Ralstonia eutropha JMP134]
+GACTGTATATTCATACAGTT
+>Reut_B3817(BPSS1334) Score=5.3 Pos=-31 [Ralstonia eutropha JMP134]
+ACCTGTATGGATAAACAGTG
+>Reut_B3817(BPSS1334) Score=6.4 Pos=-50 [Ralstonia eutropha JMP134]
+TACTGTATATATTTACAGTA
+>Reut_B4240(uvrA) Score=5.6 Pos=-160 [Ralstonia eutropha JMP134]
+CACTGTACGGATATACAGTC
+>Reut_B5317(H16_B2553) Score=6 Pos=-51 [Ralstonia eutropha JMP134]
+GACTGTATATTCGTACAGTA
+>H16_B1060(imuA) Score=6.3 Pos=-72 [Ralstonia eutropha H16]
+TACTGTATAAATATACAGTT
+>H16_A0544(recA) Score=6.1 Pos=-159 [Ralstonia eutropha H16]
+TACTGTTTTTTTATACAGTA
+>H16_A2281(lexA) Score=6 Pos=-101 [Ralstonia eutropha H16]
+TACTGTTTAAACATACAGTG
+>H16_A2281(lexA) Score=5.4 Pos=-121 [Ralstonia eutropha H16]
+TACTGTATAAAATCACAGCA
+>H16_A0305(uvrD) Score=5.7 Pos=-68 [Ralstonia eutropha H16]
+CCCTGTATGGATATACAGTT
+>H16_A1352(H16_A1352) Score=5.9 Pos=41 [Ralstonia eutropha H16]
+TACTGTACATCCATACAGTA
+>H16_B1265(PF06733) Score=6.3 Pos=-103 [Ralstonia eutropha H16]
+TACTGTATATTCATACAGTT
+>H16_B0943(BPSS1334) Score=5.3 Pos=-32 [Ralstonia eutropha H16]
+ACCTGTATGGATGAACAGTA
+>H16_B0943(BPSS1334) Score=6.4 Pos=-51 [Ralstonia eutropha H16]
+TACTGTATATATTTACAGTA
+>H16_B1571(uvrA) Score=5.7 Pos=-72 [Ralstonia eutropha H16]
+GACTGTATGGATGTACAGTG
+>H16_B2553(H16_B2553) Score=6 Pos=-51 [Ralstonia eutropha H16]
+GACTGTATATTCGTACAGTA
+>H16_A0887(PF04055) Score=6.5 Pos=-44 [Ralstonia eutropha H16]
+TACTGTATATATATACAGTG
+>RALTA_B0872(imuA) Score=6.3 Pos=-72 [Cupriavidus taiwanensis]
+TACTGTATAAATATACAGTT
+>RALTA_A0499(recA) Score=6.1 Pos=-159 [Cupriavidus taiwanensis]
+TACTGTTTTTTTATACAGTA
+>RALTA_A1825(lexA) Score=6 Pos=-98 [Cupriavidus taiwanensis]
+TACTGTTTAAACATACAGTG
+>RALTA_A1825(lexA) Score=5.4 Pos=-118 [Cupriavidus taiwanensis]
+TACTGTATAAAATCACAGCA
+>RALTA_A0247(uvrD) Score=5.6 Pos=-62 [Cupriavidus taiwanensis]
+GGCTGTATGGATATACAGTT
+>RALTA_A1272(H16_A1352) Score=5.9 Pos=-33 [Cupriavidus taiwanensis]
+TACTGTACATCCATACAGTA
+>RALTA_B1170(PF06733) Score=6.2 Pos=-88 [Cupriavidus taiwanensis]
+TACTGTATATTTGTACAGTT
+>RALTA_A3210(dinD) Score=6.3 Pos=-68 [Cupriavidus taiwanensis]
+CACTGTATATTCATACAGTA
+>RALTA_B0767(BPSS1334) Score=5.1 Pos=-48 [Cupriavidus taiwanensis]
+ACCTGTATGGATGAACAGTG
+>RALTA_B0767(BPSS1334) Score=6.4 Pos=-67 [Cupriavidus taiwanensis]
+TACTGTATATATTTACAGTA
+>pRALTA_0101(imuA) Score=6.3 Pos=-41 [Cupriavidus taiwanensis]
+AACTGTATAAATATACAGTA
+>RALTA_B1379(uvrA) Score=5.7 Pos=-71 [Cupriavidus taiwanensis]
+GACTGTATGGATGTACAGTG
+>RALTA_B2284(H16_B2553) Score=6 Pos=-42 [Cupriavidus taiwanensis]
+GACTGTATATTCGTACAGTA

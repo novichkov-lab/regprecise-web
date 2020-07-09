@@ -1,0 +1,32 @@
+>CC0319(rplU) Score=5.8 Pos=-191 [Caulobacter crescentus CB15]
+AGCGTGTTATAAAGTAACATTCC
+>CC1517(znuK) Score=5.9 Pos=-97 [Caulobacter crescentus CB15]
+GTGATGTTATATCATAACAATTG
+>CC0214(znuL) Score=6.3 Pos=-66 [Caulobacter crescentus CB15]
+GATACGTTATTTCATAACAGTCT
+>CC0320(zrpW) Score=6.3 Pos=-35 [Caulobacter crescentus CB15]
+GGAATGTTACTTTATAACACGCT
+>CC1518(znuG) Score=4.3 Pos=-73 [Caulobacter crescentus CB15]
+CAATTGTTATGATATAACATCAC
+>CC0663(znuM) Score=4.1 Pos=-35 [Caulobacter crescentus CB15]
+CCCCTGTTACAGAATAACAGGGG
+>Cseg_3837(rplU) Score=5.6 Pos=-191 [Caulobacter segnis ATCC 21756]
+AGCGTGTTATAAAGTAACACACC
+>Cseg_3085(znuK) Score=6.1 Pos=-96 [Caulobacter segnis ATCC 21756]
+GTAATGTTATATCGTAACAATTA
+>Cseg_3836(zrpW) Score=6.4 Pos=-36 [Caulobacter segnis ATCC 21756]
+GGTGTGTTACTTTATAACACGCT
+>Cseg_3938(znuL) Score=6.3 Pos=-70 [Caulobacter segnis ATCC 21756]
+GATATGTTATTTCATAACAGCTA
+>Cseg_3084(znuG) Score=4.2 Pos=-65 [Caulobacter segnis ATCC 21756]
+TAATTGTTACGATATAACATTAC
+>Caul_0194(rplU) Score=5.9 Pos=-174 [Caulobacter sp. K31]
+AGACTGTTATATTGTAACACGCC
+>Caul_0195(zrpW) Score=6.2 Pos=-35 [Caulobacter sp. K31]
+GGCGTGTTACAATATAACAGTCT
+>Caul_4694(znuL) Score=6.6 Pos=-62 [Caulobacter sp. K31]
+GATATGTTATTTCATAACACTTC
+>PHZ_c0823(znuL) Score=6.2 Pos=-19 [Phenylobacterium zucineum HLK1]
+GTTATGTTATTTCATAACAGTGA
+>PHZ_c3369(yciC) Score=5.8 Pos=-75 [Phenylobacterium zucineum HLK1]
+CATGTGTTACTTTATAACATCCC

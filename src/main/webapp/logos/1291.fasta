@@ -1,0 +1,40 @@
+>BSU18460(gltC) Score=5.2 Pos=-34 [Bacillus subtilis subsp. subtilis str. 168]
+ATCTCAAAATGAGAT
+>BSU18460(gltC) Score=5.3 Pos=-56 [Bacillus subtilis subsp. subtilis str. 168]
+ATATATAATTTAGAT
+>BSU18450(gltA) Score=5.3 Pos=-105 [Bacillus subtilis subsp. subtilis str. 168]
+ATCTAAATTATATAT
+>BSU18450(gltA) Score=5.2 Pos=-127 [Bacillus subtilis subsp. subtilis str. 168]
+ATCTCATTTTGAGAT
+>RBAM_018630(gltC) Score=5.2 Pos=-32 [Bacillus amyloliquefaciens FZB42]
+ATCTCAAAATGAGAT
+>RBAM_018630(gltC) Score=5.3 Pos=-54 [Bacillus amyloliquefaciens FZB42]
+ATATATAATTTAGAT
+>RBAM_018620(gltA) Score=5.3 Pos=-106 [Bacillus amyloliquefaciens FZB42]
+ATCTAAATTATATAT
+>RBAM_018620(gltA) Score=5.2 Pos=-128 [Bacillus amyloliquefaciens FZB42]
+ATCTCATTTTGAGAT
+>BPUM_1815(gltC) Score=5.1 Pos=-36 [Bacillus pumilus SAFR-032]
+ATCTCTTTTTGAGAT
+>BPUM_1815(gltC) Score=5.3 Pos=-58 [Bacillus pumilus SAFR-032]
+ATATATAATTTAGAT
+>BPUM_1814(gltA) Score=5.3 Pos=-110 [Bacillus pumilus SAFR-032]
+ATCTAAATTATATAT
+>BPUM_1814(gltA) Score=5.1 Pos=-132 [Bacillus pumilus SAFR-032]
+ATCTCAAAAAGAGAT
+>BLi02162(gltA) Score=5.2 Pos=-131 [Bacillus licheniformis DSM 13]
+ATCTCAAAATGAGAT
+>BLi02163(gltC) Score=5.2 Pos=-32 [Bacillus licheniformis DSM 13]
+ATCTCATTTTGAGAT
+>BLi02163(gltC) Score=5.3 Pos=-54 [Bacillus licheniformis DSM 13]
+ATATATAATTTAGAT
+>BLi02162(gltA) Score=5.3 Pos=-109 [Bacillus licheniformis DSM 13]
+ATCTAAATTATATAT
+>Aflv_1234(gltC) Score=5.3 Pos=-49 [Anoxybacillus flavithermus WK1]
+ATATATAATTTAGAT
+>Aflv_1235(gltA) Score=5.3 Pos=-76 [Anoxybacillus flavithermus WK1]
+ATCTAAATTATATAT
+>GK1431(gltA) Score=5.3 Pos=-82 [Geobacillus kaustophilus HTA426]
+ATCTAAATTATATAT
+>GK1430(gltC) Score=5.3 Pos=-58 [Geobacillus kaustophilus HTA426]
+ATATATAATTTAGAT

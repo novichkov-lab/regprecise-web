@@ -1,0 +1,42 @@
+>LBA1075(mleS) Score=4.7 Pos=-363 [Lactobacillus acidophilus NCFM]
+TATTAATTTCATTTAAA
+>LVIS_2203(mleS) Score=6 Pos=-103 [Lactobacillus brevis ATCC 367]
+TATAAAATAATTTTATA
+>LVIS_2204(mleR) Score=6 Pos=-52 [Lactobacillus brevis ATCC 367]
+TATAAAATTATTTTATA
+>LSEI_0740(mleS) Score=5.7 Pos=-389 [Lactobacillus casei ATCC 334]
+TATAAAAATATTTTATC
+>LSEI_0739(mleR) Score=5.7 Pos=-76 [Lactobacillus casei ATCC 334]
+GATAAAATATTTTTATA
+>lp_1118(mleS) Score=5.4 Pos=-138 [Lactobacillus plantarum WCFS1]
+TATTTAATATATTTATA
+>lp_1116(mleR) Score=5.4 Pos=-53 [Lactobacillus plantarum WCFS1]
+TATAAATATATTAAATA
+>LAR_1441(mleS) Score=5.7 Pos=-100 [Lactobacillus reuteri JCM 1112]
+TATCAATTTTATTTATA
+>LAR_1442(mleR) Score=5.7 Pos=-53 [Lactobacillus reuteri JCM 1112]
+TATAAATAAAATTGATA
+>LGG_00726(mleS) Score=5.7 Pos=-118 [Lactobacillus rhamnosus GG]
+TATAAAAATATTTTATC
+>LGG_00725(mleR) Score=5.7 Pos=-322 [Lactobacillus rhamnosus GG]
+GATAAAATATTTTTATA
+>LSA0441(mleS) Score=5.3 Pos=-97 [Lactobacillus sakei subsp. sakei 23K]
+TATAAATCTATTTTATC
+>LSA0440(mleR) Score=5.3 Pos=-51 [Lactobacillus sakei subsp. sakei 23K]
+GATAAAATAGATTTATA
+>LSL_1313(mleS) Score=5.7 Pos=-107 [Lactobacillus salivarius subsp. salivarius UCC118]
+TATAAATAATATTAATA
+>LSL_1314(mleR) Score=5.7 Pos=-51 [Lactobacillus salivarius subsp. salivarius UCC118]
+TATTAATATTATTTATA
+>LEUM_1005(mleS) Score=6 Pos=-106 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TATAAAATAAATTTATA
+>LEUM_1004(mleR) Score=6 Pos=-53 [Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+TATAAATTTATTTTATA
+>OEOE_1564(mleS) Score=5.1 Pos=-83 [Oenococcus oeni PSU-1]
+TATAAGATAATTTTATC
+>OEOE_1565(mleR) Score=5.1 Pos=-16 [Oenococcus oeni PSU-1]
+GATAAAATTATCTTATA
+>PEPE_1617(mleS) Score=6 Pos=-91 [Pediococcus pentosaceus ATCC 25745]
+TATAAAAAATATTTATA
+>PEPE_1618(mleR) Score=6 Pos=-61 [Pediococcus pentosaceus ATCC 25745]
+TATAAATATTTTTTATA

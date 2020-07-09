@@ -1,0 +1,54 @@
+>SAG1904(kduD) Score=5.1 Pos=-265 [Streptococcus agalactiae 2603V/R]
+TGAGTTTACCGGTTTACTTT
+>SAG1904(kduD) Score=5.1 Pos=-46 [Streptococcus agalactiae 2603V/R]
+CATGTAAACAGGTTTACTTC
+>SAG1904(kduD) Score=5.9 Pos=-75 [Streptococcus agalactiae 2603V/R]
+TGACAAAACCGGTTTACTTT
+>SAG1197(hyl) Score=5 Pos=-42 [Streptococcus agalactiae 2603V/R]
+AGGAAAAACCGGTTTACAAT
+>SAG1902(hylD) Score=5.1 Pos=-32 [Streptococcus agalactiae 2603V/R]
+AAAGTAAACCGGTAAACTCA
+>SAG1902(hylD) Score=5.1 Pos=-251 [Streptococcus agalactiae 2603V/R]
+GAAGTAAACCTGTTTACATG
+>SAG1902(hylD) Score=5.9 Pos=-222 [Streptococcus agalactiae 2603V/R]
+AAAGTAAACCGGTTTTGTCA
+>SDEG_0648(hylD) Score=5.3 Pos=-33 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TAAGTAAACCGGTAAACTAA
+>SDEG_0648(hylD) Score=5.1 Pos=-280 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AAAGTAAACTAGTTTTGTCA
+>SDEG_0650(kduD) Score=5.1 Pos=-74 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TGACAAAACTAGTTTACTTT
+>SDEG_0650(kduD) Score=6.1 Pos=-45 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTGGTAAACAGGTTTACTTA
+>Sez_1304(hylD) Score=6.1 Pos=-281 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TAAGTAAACCTGTTTACCAA
+>Sez_1303(kduD) Score=5.3 Pos=-293 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTAGTTTACCGGTTTACTTA
+>Sez_1303(kduD) Score=6.1 Pos=-45 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TTGGTAAACAGGTTTACTTA
+>Sez_1304(hylD) Score=5.3 Pos=-33 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+TAAGTAAACCGGTAAACTAA
+>SP_0314(hyl) Score=6.2 Pos=-89 [Streptococcus pneumoniae TIGR4]
+TAATTAAACCGGTTTACTTA
+>SP_0320(kduD) Score=5 Pos=-253 [Streptococcus pneumoniae TIGR4]
+TAGGTTTACCGGTTTACTTT
+>SP_0320(kduD) Score=5.6 Pos=-71 [Streptococcus pneumoniae TIGR4]
+TGACAAAACCGGTTTACTAG
+>SP_0321(hylD) Score=5.6 Pos=-219 [Streptococcus pneumoniae TIGR4]
+CTAGTAAACCGGTTTTGTCA
+>SP_0321(hylD) Score=5 Pos=-37 [Streptococcus pneumoniae TIGR4]
+AAAGTAAACCGGTAAACCTA
+>SPy0636(kduD) Score=6.1 Pos=-45 [Streptococcus pyogenes M1 GAS]
+TTGGTAAACAGGTTTACTTA
+>SPy0636(kduD) Score=5.1 Pos=-74 [Streptococcus pyogenes M1 GAS]
+TGACAAAACTAGTTTACTTT
+>SPy1032(hyl) Score=5.5 Pos=-54 [Streptococcus pyogenes M1 GAS]
+TTAGTAAATCAATTTACTTT
+>SPy0634(hylD) Score=4.6 Pos=-33 [Streptococcus pyogenes M1 GAS]
+TGAGTAAACCGGTAAACCGA
+>SPy0634(hylD) Score=5.1 Pos=-281 [Streptococcus pyogenes M1 GAS]
+AAAGTAAACTAGTTTTGTCA
+>SSU05_1225(kduD) Score=5.8 Pos=-75 [Streptococcus suis 05ZYH33]
+TGACAAAACCGGTTTACTAT
+>SSU05_1221(hylD) Score=4.9 Pos=-33 [Streptococcus suis 05ZYH33]
+TAGGTAAACCGGTAAAGTTA

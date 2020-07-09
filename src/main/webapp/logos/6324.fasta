@@ -1,0 +1,80 @@
+>rrnAC1182(thiC) Score=5.1 Pos=-29 [Haloarcula marismortui ATCC 43049]
+TTATAACTTGGTAGTAT
+>rrnAC1182(thiC) Score=4.6 Pos=-16 [Haloarcula marismortui ATCC 43049]
+GTATAACCTAGTGATTA
+>rrnAC1782(thi4) Score=4.7 Pos=2 [Haloarcula marismortui ATCC 43049]
+GTACCACCAAGAGATAT
+>rrnAC1765(tenA1) Score=5.4 Pos=-59 [Haloarcula marismortui ATCC 43049]
+ATACAACCAAGTTGTAT
+>rrnAC1764(thiR2) Score=5.4 Pos=-77 [Haloarcula marismortui ATCC 43049]
+ATACAACTTGGTTGTAT
+>OE4651F(thi4) Score=4.2 Pos=-28 [Halobacterium salinarum R1]
+TAATTATCTAGTTGTAC
+>OE4651F(thi4) Score=4.6 Pos=-15 [Halobacterium salinarum R1]
+GTACCATGTAGTGGTAT
+>OE2057F(thiC) Score=4.8 Pos=-30 [Halobacterium salinarum R1]
+TTATTATCTAGTGGTAT
+>OE2057F(thiC) Score=4.5 Pos=-17 [Halobacterium salinarum R1]
+GTATCACTAAGTAATTG
+>VNG0715G(thiC) Score=4.8 Pos=-30 [Halobacterium sp. NRC-1]
+TTATTATCTAGTGGTAT
+>VNG2604Gm(thi4) Score=4.2 Pos=-28 [Halobacterium sp. NRC-1]
+TAATTATCTAGTTGTAC
+>VNG2604Gm(thi4) Score=4.6 Pos=-15 [Halobacterium sp. NRC-1]
+GTACCATGTAGTGGTAT
+>VNG0715G(thiC) Score=4.5 Pos=-17 [Halobacterium sp. NRC-1]
+GTATCACTAAGTAATTG
+>HVO_2154(thiC) Score=4.5 Pos=-30 [Haloferax volcanii DS2]
+TTATTAACTAGTTGTAT
+>HVO_0665(thi4) Score=5 Pos=-28 [Haloferax volcanii DS2]
+TTACTACTAGGTAGTAT
+>HVO_0665(thi4) Score=5.3 Pos=-15 [Haloferax volcanii DS2]
+GTATCACTAAGTAGTAT
+>Hmuk_2297(thiC) Score=4.8 Pos=-30 [Halomicrobium mukohataei DSM 12286]
+TTATAATCTAGTGATAT
+>Hmuk_2297(thiC) Score=4.3 Pos=-17 [Halomicrobium mukohataei DSM 12286]
+ATATAACTAGCTTATCT
+>Hmuk_0002(thi4) Score=5.3 Pos=-15 [Halomicrobium mukohataei DSM 12286]
+GTACCACTAGGTTGTAT
+>HQ1276A(thi4) Score=4.8 Pos=-15 [Haloquadratum walsbyi DSM 16790]
+ATAACACCAAGTAATAT
+>HQ2369A(tenA1) Score=4.8 Pos=-61 [Haloquadratum walsbyi DSM 16790]
+GTATTAGTTAGTTGTAT
+>Huta_2472(thiC) Score=5.3 Pos=-43 [Halorhabdus utahensis DSM 12940]
+GTATCACTAGGTTATAT
+>Huta_2472(thiC) Score=4.9 Pos=-30 [Halorhabdus utahensis DSM 12940]
+ATATAATCTAGTAGTAC
+>Huta_2718(thi4) Score=5.4 Pos=-15 [Halorhabdus utahensis DSM 12940]
+GTACCACTAAGTGGTAT
+>Huta_0684(tenA1) Score=4.9 Pos=-55 [Halorhabdus utahensis DSM 12940]
+GTATAATTTGGTAGTAT
+>Huta_0684(tenA1) Score=4.2 Pos=-42 [Halorhabdus utahensis DSM 12940]
+GTATTAGTGAGTTATAA
+>Hlac_2980(thi4) Score=4.2 Pos=-28 [Halorubrum lacusprofundi ATCC 49239]
+GTACCACCGGGAGATAT
+>Hlac_2980(thi4) Score=5.5 Pos=-15 [Halorubrum lacusprofundi ATCC 49239]
+ATATCACTAAGTGGTAT
+>Htur_1332(thiC) Score=4.5 Pos=-17 [Haloterrigena turkmenica DSM 5511]
+ATACAACCTAGTTATCG
+>Htur_1332(thiC) Score=4.6 Pos=-30 [Haloterrigena turkmenica DSM 5511]
+ATATAACTCGATGATAC
+>Htur_1462(thi4) Score=5.1 Pos=-15 [Haloterrigena turkmenica DSM 5511]
+CTACCACCAAGTTGTAT
+>Nmag_2593(thiC) Score=4.7 Pos=-17 [Natrialba magadii ATCC 43099]
+ATACAACCTAGTTATCC
+>Nmag_2593(thiC) Score=4.7 Pos=-30 [Natrialba magadii ATCC 43099]
+TTATAATCTAGTAATAC
+>Nmag_2419(thi4) Score=5.4 Pos=-15 [Natrialba magadii ATCC 43099]
+ATACCACCTAGTTGTAT
+>Nmag_0869(tenA1) Score=4.1 Pos=-55 [Natrialba magadii ATCC 43099]
+GTATAAGCAGATTATAG
+>Nmag_0869(tenA1) Score=4.4 Pos=-42 [Natrialba magadii ATCC 43099]
+ATAGCACTAGCTTATAT
+>NP2210A(thiC) Score=4.1 Pos=-17 [Natronomonas pharaonis DSM 2160]
+GTATTACTAGATTGTTG
+>NP5174A(thi4) Score=5.1 Pos=-15 [Natronomonas pharaonis DSM 2160]
+ATATAACTGAGTTGTAT
+>NP2210A(thiC) Score=4.6 Pos=-30 [Natronomonas pharaonis DSM 2160]
+TTATTAGCTGGTTGTAT
+>NP4082A(tenA1) Score=4.2 Pos=-41 [Natronomonas pharaonis DSM 2160]
+GTACCACCCGGATATAT

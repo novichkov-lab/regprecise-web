@@ -1,0 +1,90 @@
+>BSU17450(glnR) Score=5.3 Pos=-83 [Bacillus subtilis subsp. subtilis str. 168]
+ATGTTAAGAATCCTTACAT
+>BSU17450(glnR) Score=5 Pos=-60 [Bacillus subtilis subsp. subtilis str. 168]
+TTGACACATAATATAACAT
+>BSU13310(tnrA) Score=5.4 Pos=-82 [Bacillus subtilis subsp. subtilis str. 168]
+ATGTTAGAAAATATGACAA
+>BSU36660(ureA) Score=5.1 Pos=-833 [Bacillus subtilis subsp. subtilis str. 168]
+tTGTaAactTTTaTAACAT
+>RBAM_017250(glnR) Score=5.3 Pos=-83 [Bacillus amyloliquefaciens FZB42]
+ATGTTAAGATTCCTTACAT
+>RBAM_017250(glnR) Score=5 Pos=-60 [Bacillus amyloliquefaciens FZB42]
+TTGACACAAAATATAACAT
+>RBAM_033830(ureA) Score=4.8 Pos=-204 [Bacillus amyloliquefaciens FZB42]
+ATGTAACCTTTCTTCACAT
+>BPUM_1636(glnR) Score=5.3 Pos=-83 [Bacillus pumilus SAFR-032]
+ATGTTAATATTCCTAACAT
+>BPUM_1636(glnR) Score=5.1 Pos=-60 [Bacillus pumilus SAFR-032]
+TTGACATATAATATAACAT
+>BPUM_1636(glnR) Score=4.6 Pos=-55 [Bacillus pumilus SAFR-032]
+ATATAATATAACATGACAT
+>BPUM_1230(tnrA) Score=4.3 Pos=-122 [Bacillus pumilus SAFR-032]
+TTGTCAACTTTCCTTCCAT
+>BPUM_1230(tnrA) Score=4.9 Pos=-81 [Bacillus pumilus SAFR-032]
+GTGTTATATTTTCTAACAA
+>BLi01992(glnR) Score=5.2 Pos=-82 [Bacillus licheniformis DSM 13]
+ATGTAAAGAATCCTTACAT
+>BLi01992(glnR) Score=5 Pos=-59 [Bacillus licheniformis DSM 13]
+TTGACACATTATATAACAT
+>BLi01490(tnrA) Score=4.9 Pos=-82 [Bacillus licheniformis DSM 13]
+ATGTTAGATTTTCTGACAG
+>Aflv_1508(glnR) Score=4.8 Pos=-83 [Anoxybacillus flavithermus WK1]
+ATGTGATAAAATGTAACGT
+>Aflv_1508(glnR) Score=4.8 Pos=-60 [Anoxybacillus flavithermus WK1]
+TTGACATATAAGTTAACAT
+>Aflv_1544(tnrA) Score=5.2 Pos=-114 [Anoxybacillus flavithermus WK1]
+TTGTTACTTTTTATAACAT
+>Aflv_1544(tnrA) Score=5.1 Pos=-83 [Anoxybacillus flavithermus WK1]
+TTGTTACTTTTTATAACAA
+>Aflv_1544(tnrA) Score=5.5 Pos=-28 [Anoxybacillus flavithermus WK1]
+ATGTTATAAAATATGACAT
+>GK1326(glnR) Score=4.5 Pos=-82 [Geobacillus kaustophilus HTA426]
+TTGTGAGGAAACATCACGT
+>GK1860(tnrA) Score=4.8 Pos=-87 [Geobacillus kaustophilus HTA426]
+ATGTTAATTTTATTTACAA
+>GK1860(tnrA) Score=4.7 Pos=-34 [Geobacillus kaustophilus HTA426]
+ACGTTAGAAAATATAACGT
+>GK1937(utrA) Score=5.1 Pos=-202 [Geobacillus kaustophilus HTA426]
+ATGTAATAAAATGTGACAA
+>GK1937(utrA) Score=4.3 Pos=-225 [Geobacillus kaustophilus HTA426]
+GTGATAATAAATATAACAA
+>BC1156(nrgA) Score=5.1 Pos=-57 [Bacillus cereus ATCC 14579]
+ATGaTAtgAAacaTAACAa
+>BC1156(nrgA) Score=5.6 Pos=-127 [Bacillus cereus ATCC 14579]
+ATGTTAtAtTTTCTAACAT
+>BC5051(alsT) Score=5.5 Pos=-89 [Bacillus cereus ATCC 14579]
+ATGTTATAAAACCTGACAT
+>BC3706(glnR) Score=5.3 Pos=-84 [Bacillus cereus ATCC 14579]
+ATGTAAGAAAAGCTAACAT
+>BC3706(glnR) Score=4.8 Pos=-62 [Bacillus cereus ATCC 14579]
+TTGACACTAAACATAACAT
+>BC1156(nrgA) Score=5.4 Pos=-34 [Bacillus cereus ATCC 14579]
+ATGTTAtttTTTCTAACAT
+>BC5051(alsT) Score=4.2 Pos=-112 [Bacillus cereus ATCC 14579]
+ATGTTAAAAGAGTTAACGT
+>BC1432(gltP) Score=5.2 Pos=-218 [Bacillus cereus ATCC 14579]
+ATGTGAGGTTTTCTGACAT
+>BH0252(ureA) Score=5 Pos=-62 [Bacillus halodurans C-125]
+TTGTCATCAAAGATAACAT
+>BH0251(utrA) Score=4.8 Pos=-89 [Bacillus halodurans C-125]
+ATGTAACGATTTCTAACGA
+>BH1494(tnrA) Score=5.4 Pos=-111 [Bacillus halodurans C-125]
+TTGTAAGAAAATCTAACAT
+>BH0252(ureA) Score=4.6 Pos=-97 [Bacillus halodurans C-125]
+CTGTAATCTTTTCTAACAA
+>BH0251(utrA) Score=5 Pos=-193 [Bacillus halodurans C-125]
+ATGTTATCTTTGATGACAA
+>BH0251(utrA) Score=4.6 Pos=-158 [Bacillus halodurans C-125]
+TTGTTAGAAAAGATTACAG
+>BH0252(ureA) Score=4.8 Pos=-166 [Bacillus halodurans C-125]
+TCGTTAGAAATCGTTACAT
+>ABC1760(tnrA) Score=5.4 Pos=-100 [Bacillus clausii KSM-K16]
+TTGTTAGATTTTCTTACAT
+>OB1650(glnR) Score=5.5 Pos=-81 [Oceanobacillus iheyensis HTE831]
+ATGTTAGAAATACTAACAT
+>Pjdr2_4328(ureA) Score=5.4 Pos=-85 [Paenibacillus sp. JDR-2]
+ATGTCATATTACCTAACAT
+>Pjdr2_5154(tnrA) Score=5.5 Pos=-303 [Paenibacillus sp. JDR-2]
+TTGTTAGATAATCTAACAT
+>Pjdr2_5154(tnrA) Score=4.8 Pos=-42 [Paenibacillus sp. JDR-2]
+GTGTTAGAAAACATTACAT

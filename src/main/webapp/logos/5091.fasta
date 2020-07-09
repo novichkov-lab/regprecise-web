@@ -1,0 +1,24 @@
+>mlr4998(mocD) Score=5.4 Pos=-117 [Mesorhizobium loti MAFF303099]
+AATGATAGAAACTATCTTT
+>mll4997(mocR) Score=5.4 Pos=-67 [Mesorhizobium loti MAFF303099]
+AAAGATAGTTTCTATCATT
+>RHE_PE00446(mocD) Score=5.8 Pos=-81 [Rhizobium etli CFN 42]
+TTTGATAGATTACATCAAG
+>RHE_PE00447(mocR) Score=5.8 Pos=-67 [Rhizobium etli CFN 42]
+CTTGATGTAATCTATCAAA
+>pRL110622(mocD) Score=4.9 Pos=-124 [Rhizobium leguminosarum bv. viciae 3841]
+CCTGATGGATTCAATCATG
+>pRL110622(mocD) Score=6 Pos=-82 [Rhizobium leguminosarum bv. viciae 3841]
+TTTGATAGATTATATCAAG
+>pRL110623(mocR) Score=6 Pos=-68 [Rhizobium leguminosarum bv. viciae 3841]
+CTTGATATAATCTATCAAA
+>pRL110623(mocR) Score=4.9 Pos=-26 [Rhizobium leguminosarum bv. viciae 3841]
+CATGATTGAATCCATCAGG
+>NGR_b17110(mocD) Score=5.6 Pos=-104 [Rhizobium sp. NGR234]
+TTTGAGAGAATATATCATG
+>NGR_b17120(mocR) Score=5.6 Pos=-74 [Rhizobium sp. NGR234]
+CATGATATATTCTCTCAAA
+>SM_b20818(mocD) Score=5.6 Pos=-153 [Sinorhizobium meliloti 1021]
+ATTGAGAGAATATATCATG
+>SMb20817(mocR) Score=5.6 Pos=-71 [Sinorhizobium meliloti 1021]
+CATGATATATTCTCTCAAT

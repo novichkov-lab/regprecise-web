@@ -1,0 +1,34 @@
+>MAB_2566(PF00903) Score=4.6 Pos=-83 [Mycobacterium abscessus ATCC 19977]
+GTTTGACATATGTCAAAG
+>MAB_4862(arsR) Score=4.9 Pos=-9 [Mycobacterium abscessus ATCC 19977]
+TATCGATGTATGTCGAAT
+>Mflv_1653(PF00903) Score=5.9 Pos=-79 [Mycobacterium flavescens PYR-GCK]
+CATTGACATATGTCGAAA
+>Mflv_3470(PF00903) Score=6 Pos=-82 [Mycobacterium flavescens PYR-GCK]
+TATTGACATATATCGAAA
+>Mflv_3471(arsR) Score=5.6 Pos=10 [Mycobacterium flavescens PYR-GCK]
+TTTCGATATATGTCAATA
+>MMAR_2057(PF00903) Score=5.6 Pos=-82 [Mycobacterium marinum M]
+CCTTGACATATATCAAAA
+>Mjls_4906(arsR) Score=5.4 Pos=-25 [Mycobacterium sp. JLS]
+CATTGATCAACGTCAATA
+>Mjls_4906(arsR) Score=4.9 Pos=-9 [Mycobacterium sp. JLS]
+TATCGATGTATGTCGAAT
+>Mjls_1441(arsR) Score=5.7 Pos=-25 [Mycobacterium sp. JLS]
+TATCGATAACTGTCAATA
+>Mjls_1441(arsR) Score=5.5 Pos=-9 [Mycobacterium sp. JLS]
+TATCGATGTATGTCGAAA
+>Rv2641(PF00903) Score=5 Pos=-82 [Mycobacterium tuberculosis H37Rv]
+CCTTGACATATATCAAAG
+>Rv2641(PF00903) Score=4.9 Pos=-37 [Mycobacterium tuberculosis H37Rv]
+TTTTGATATAAGTCAAAC
+>Rv2642(arsR) Score=5 Pos=-9 [Mycobacterium tuberculosis H37Rv]
+TATTGATGTATGTCGAAT
+>Mvan_4826(PF00903) Score=5.6 Pos=-80 [Mycobacterium vanbaalenii PYR-1]
+TGTTGACATATATCAAAA
+>MSMEG_1173(arsR) Score=6.1 Pos=-25 [Mycobacterium smegmatis str. MC2 155]
+TATCGATATATGTCAATA
+>MSMEG_1175(arsR) Score=4.9 Pos=-81 [Mycobacterium smegmatis str. MC2 155]
+TTTCGACATATGTCGAAC
+>MSMEG_1175(arsR) Score=5.6 Pos=-37 [Mycobacterium smegmatis str. MC2 155]
+TTTCGATATATGTCAATA

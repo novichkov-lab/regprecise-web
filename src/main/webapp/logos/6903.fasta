@@ -1,0 +1,60 @@
+>BACCELL_05446(susC) Score=5.7 Pos=-184 [Bacteroides cellulosilyticus DSM 14838]
+CTGTGCAATCGTTTGCACTG
+>BACCELL_05433(glgB) Score=5.8 Pos=-105 [Bacteroides cellulosilyticus DSM 14838]
+TCATGCAACCGTTTGCATTA
+>BACCELL_03487(susB) Score=5.7 Pos=-114 [Bacteroides cellulosilyticus DSM 14838]
+TTATGCAAACGTTTGCCGGT
+>BACCELL_05464(malR) Score=5.6 Pos=-2 [Bacteroides cellulosilyticus DSM 14838]
+GTTTGCAAACGTTTGCGCAA
+>BACEGG_01899(malR) Score=5.4 Pos=-322 [Bacteroides eggerthii DSM 20697]
+GAGCGCAAACGATTGCATCA
+>BACEGG_00187(dpe) Score=5.7 Pos=-121 [Bacteroides eggerthii DSM 20697]
+AAGAGCAAACGTTTGCATAG
+>BACEGG_01490(susA) Score=5.8 Pos=-107 [Bacteroides eggerthii DSM 20697]
+GCCTGAAAACGTTTGCATAA
+>BACEGG_01900(susC) Score=5.4 Pos=-198 [Bacteroides eggerthii DSM 20697]
+TGATGCAATCGTTTGCGCTC
+>BACEGG_01900(susC) Score=5.6 Pos=-351 [Bacteroides eggerthii DSM 20697]
+AAGTGCAAACGATTGCAGGA
+>BACEGG_01482(susB) Score=5.7 Pos=-109 [Bacteroides eggerthii DSM 20697]
+TTATGCAAACGTTTTCTGAC
+>BACEGG_02870(glgP) Score=5.8 Pos=-115 [Bacteroides eggerthii DSM 20697]
+TTATGCAAACGATTGTATAT
+>BACEGG_01899(malR) Score=5.6 Pos=-169 [Bacteroides eggerthii DSM 20697]
+TCCTGCAATCGTTTGCACTT
+>BF3146(susC) Score=5.6 Pos=-172 [Bacteroides fragilis NCTC 9343]
+TGATGCAATCGTTTGCGGAG
+>BF1158(susB) Score=5.7 Pos=-100 [Bacteroides fragilis NCTC 9343]
+TTATGCAAACGTTTTCTGAT
+>BF3134(susA) Score=6.1 Pos=-108 [Bacteroides fragilis NCTC 9343]
+CAATGAAAACGTTTGCATAA
+>BF3147(malR) Score=5.6 Pos=-163 [Bacteroides fragilis NCTC 9343]
+CTCCGCAAACGATTGCATCA
+>BACSTE_02867(glgP) Score=5.5 Pos=-115 [Bacteroides stercoris ATCC 43183]
+TTATGCAAACGATTGTTTAT
+>BACSTE_01657(susC) Score=5.9 Pos=-190 [Bacteroides stercoris ATCC 43183]
+TAGTGCAATCGTTTGCATTC
+>BACSTE_03243(dpe) Score=5.3 Pos=-121 [Bacteroides stercoris ATCC 43183]
+AAGCACAAACGTTTGCATAG
+>BACSTE_00969(susB) Score=6 Pos=-104 [Bacteroides stercoris ATCC 43183]
+TTATGCAAACGTTTGCTTTT
+>BACSTE_00961(susA) Score=5.9 Pos=-107 [Bacteroides stercoris ATCC 43183]
+CAGTGAAAACGTTTGCATAA
+>BACSTE_01652(PF02278) Score=5.9 Pos=-115 [Bacteroides stercoris ATCC 43183]
+TTGTGCAAACGATTGCATGT
+>BACSTE_01650(malR) Score=5.9 Pos=-404 [Bacteroides stercoris ATCC 43183]
+ACATGCAATCGTTTGCACAA
+>BACUNI_01464(susA) Score=6.1 Pos=-107 [Bacteroides uniformis ATCC 8492]
+CAATGAAAACGTTTGCATAA
+>BACUNI_01209(susC) Score=5.6 Pos=-191 [Bacteroides uniformis ATCC 8492]
+GCATGCAATCGTTTGCACTG
+>BACUNI_01214(glgB) Score=5.7 Pos=-108 [Bacteroides uniformis ATCC 8492]
+ATATGCAAACGTTTTCGTGA
+>BACUNI_01476(susB) Score=5.7 Pos=-109 [Bacteroides uniformis ATCC 8492]
+TCATGCAAACGTTTGCCGAC
+>BACUNI_01811(glgP) Score=5.1 Pos=-116 [Bacteroides uniformis ATCC 8492]
+TTCCGCAAACGATTGTTTAT
+>BACUNI_01203(malR) Score=5.7 Pos=-127 [Bacteroides uniformis ATCC 8492]
+GTCCGCAATCGTTTGCACAA
+>BACUNI_01204(bgaA) Score=5.7 Pos=-78 [Bacteroides uniformis ATCC 8492]
+TTGTGCAAACGATTGCGGAC

@@ -1,0 +1,98 @@
+>BACPEC_00926(nrdD) Score=5.1 Pos=-147 [Bacteroides pectinophilus ATCC 43243]
+GCACAATATATTGTTT
+>BACPEC_00926(nrdD) Score=3.9 Pos=-116 [Bacteroides pectinophilus ATCC 43243]
+TTTCTATATTTGGTAG
+>BACPEC_00140(nrdD) Score=4.1 Pos=-159 [Bacteroides pectinophilus ATCC 43243]
+ACGCAATATTTGGTAA
+>BACPEC_00140(nrdD) Score=4.5 Pos=-128 [Bacteroides pectinophilus ATCC 43243]
+TATCTATATATTGTGG
+>BLAHAN_01704(nrdE) Score=5.4 Pos=-41 [Blautia hansenii DSM 20583]
+ATACAAGATATAGTAT
+>BLAHAN_00802(ligA) Score=5 Pos=-123 [Blautia hansenii DSM 20583]
+ACACTATATATCGTTT
+>BLAHAN_00802(ligA) Score=5.6 Pos=-153 [Blautia hansenii DSM 20583]
+ACACTATATGTAGTAT
+>BLAHAN_00802(ligA) Score=4.8 Pos=-92 [Blautia hansenii DSM 20583]
+TTACTATATATAGAGG
+>BRYFOR_03555(nrdD2) Score=4.8 Pos=-110 [Bryantella formatexigens DSM 14469]
+ACACTATATATTGATG
+>BRYFOR_03555(nrdD2) Score=4.4 Pos=-142 [Bryantella formatexigens DSM 14469]
+ATACTCTATTTAGTAC
+>Cbac1_010100006828(nrdD) Score=4.8 Pos=-141 [Clostridiales bacterium 1_7_47_FAA]
+ACACAACATTTAGTGC
+>Cbac1_010100017114(nrdD2) Score=5 Pos=-144 [Clostridiales bacterium 1_7_47_FAA]
+ACACAATATCTAGTTT
+>Cbac1_010100006828(nrdD) Score=3.8 Pos=-173 [Clostridiales bacterium 1_7_47_FAA]
+ATACATCCTATCGTAT
+>Cbac1_010100017114(nrdD2) Score=4.1 Pos=-127 [Clostridiales bacterium 1_7_47_FAA]
+ACACAAAATGTTATAC
+>CLOBOL_02823(nrdD) Score=4 Pos=-171 [Clostridium bolteae ATCC BAA-613]
+ATACATCTTATCGTAT
+>CLOBOL_02823(nrdD) Score=5 Pos=-140 [Clostridium bolteae ATCC BAA-613]
+ACACAACATTTAGTGG
+>CLONEX_03145(nrdE) Score=5.1 Pos=-60 [Clostridium nexile DSM 1787]
+CAACTATATATTGTGG
+>CLONEX_03145(nrdE) Score=5 Pos=-28 [Clostridium nexile DSM 1787]
+ATACTATAAATAGTAA
+>CLONEX_02838(nrdD2) Score=4.3 Pos=-122 [Clostridium nexile DSM 1787]
+TAACAATATATAGGAA
+>CLONEX_02838(nrdD2) Score=4.9 Pos=-91 [Clostridium nexile DSM 1787]
+ACACAATATATGGTTT
+>CLOSCI_01031(nrdD) Score=4.6 Pos=-67 [Clostridium scindens ATCC 35704]
+GTGCTAGATATTGTAT
+>CLOSCI_01031(nrdD) Score=4.1 Pos=-35 [Clostridium scindens ATCC 35704]
+AACCAACATTTAGTGG
+>CLOSCI_01639(nrdD2) Score=4.4 Pos=-96 [Clostridium scindens ATCC 35704]
+ACACAATAAGTGGTAT
+>CLOSCI_01639(nrdD2) Score=4.8 Pos=-129 [Clostridium scindens ATCC 35704]
+GCACAATATATTGTTA
+>CLOSCI_02889(nrdE) Score=5.1 Pos=-64 [Clostridium scindens ATCC 35704]
+CAACAATATATTGTGG
+>CLOSCI_02889(nrdE) Score=4.4 Pos=-33 [Clostridium scindens ATCC 35704]
+AATCAATAAATTGTAT
+>CLOSCI_01031(nrdD) Score=4.4 Pos=-135 [Clostridium scindens ATCC 35704]
+AAAGTAAATATTGTAT
+>CLOSCI_01639(nrdD2) Score=4.8 Pos=-160 [Clostridium scindens ATCC 35704]
+TAACAATATATTGTGC
+>DORFOR_02443(nrdD) Score=4.2 Pos=-162 [Dorea formicigenerans ATCC 27755]
+ACGCCATATTTTGTAG
+>DORFOR_02443(nrdD) Score=5 Pos=-129 [Dorea formicigenerans ATCC 27755]
+ACACAATATCTTGTGA
+>DORFOR_02443(nrdD) Score=4.9 Pos=-64 [Dorea formicigenerans ATCC 27755]
+ACACAAGATGTTGTGG
+>DORLON_00953(nrdD) Score=4.6 Pos=-102 [Dorea longicatena DSM 13814]
+GCACAATATCTTGTGC
+>DORLON_00953(nrdD) Score=5 Pos=-70 [Dorea longicatena DSM 13814]
+AAACAATATTTAGTAG
+>DORLON_01167(COG0345) Score=3.8 Pos=-74 [Dorea longicatena DSM 13814]
+ACATAACAGATTGTTT
+>EUBELI_01571(nrdD) Score=5.1 Pos=-178 [Eubacterium eligens ATCC 27750]
+TTACAAGATATTGTGT
+>EUBELI_01571(nrdD) Score=4.6 Pos=-146 [Eubacterium eligens ATCC 27750]
+AGCCTATATGTTGTAT
+>EUBREC_2400(nrdD) Score=4.7 Pos=-284 [Eubacterium rectale ATCC 33656]
+CTACAAAATATTGTTG
+>EUBREC_2400(nrdD) Score=4.9 Pos=-253 [Eubacterium rectale ATCC 33656]
+CAACAATATCTTGTAT
+>EUBREC_2400(nrdD) Score=5.5 Pos=-26 [Eubacterium rectale ATCC 33656]
+ATACTATATATAGTAC
+>ROSINTL182_03097(nrdD) Score=5.9 Pos=-95 [Roseburia intestinalis L1-82]
+ACACAATATATTGTAT
+>RUMGNA_02624(nrdE) Score=4.8 Pos=-78 [Ruminococcus gnavus ATCC 29149]
+ATCCAATATCTTGTGT
+>RUMGNA_02624(nrdE) Score=5.3 Pos=-48 [Ruminococcus gnavus ATCC 29149]
+CCACTATATTTTGTAT
+>RUMGNA_01429(ligA) Score=5.6 Pos=-153 [Ruminococcus gnavus ATCC 29149]
+ACACTATATGTAGTAT
+>RUMGNA_01429(ligA) Score=5 Pos=-123 [Ruminococcus gnavus ATCC 29149]
+ACACTATATATCGTTT
+>RUMGNA_01429(ligA) Score=4.8 Pos=-92 [Ruminococcus gnavus ATCC 29149]
+TTACTATATATAGAGG
+>RUMGNA_02734(nrdD2) Score=4 Pos=-91 [Ruminococcus gnavus ATCC 29149]
+ATACTAGATGTTGGTG
+>RUMGNA_02734(nrdD2) Score=4.3 Pos=-44 [Ruminococcus gnavus ATCC 29149]
+ACACTAAATACAGCGT
+>RUMLAC_00868(nrdD) Score=5.5 Pos=19 [Ruminococcus lactaris ATCC 29176]
+ATACTATATTTTGTAT
+>RUMLAC_00868(nrdD) Score=4.1 Pos=48 [Ruminococcus lactaris ATCC 29176]
+AGACAATATCTTGAAA

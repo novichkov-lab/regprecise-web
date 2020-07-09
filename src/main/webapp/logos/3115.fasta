@@ -1,0 +1,20 @@
+>Deide_06790(ndh) Score=5.8 Pos=-29 [Deinococcus deserti VCD115]
+TCGTGAATTCGTTCACAG
+>Deide_05090(nuoA) Score=5.2 Pos=-87 [Deinococcus deserti VCD115]
+TCGTGCGGTTTTTCACGT
+>Deide_13560(nadC) Score=5.4 Pos=-37 [Deinococcus deserti VCD115]
+GCGTGATTTCTCTCACAA
+>Dgeo_1949(ndh) Score=5.7 Pos=-28 [Deinococcus geothermalis DSM 11300]
+TCGTGAATTCCTTCACAG
+>Dgeo_0909(nuoA) Score=5.6 Pos=-83 [Deinococcus geothermalis DSM 11300]
+TCGTGCGTTTTTTCACGA
+>Dgeo_1163(nadC) Score=5.4 Pos=-46 [Deinococcus geothermalis DSM 11300]
+ACGTGATTTCGTTCACGA
+>DR0950(ndh) Score=5.9 Pos=-29 [Deinococcus radiodurans R1]
+TCGTGAATACTTTCACAG
+>DR1506(nuoA) Score=4.7 Pos=56 [Deinococcus radiodurans R1]
+TCGTGCCTCTTTTCACGA
+>TaqDRAFT_4255(nuoA) Score=5 Pos=-30 [Thermus aquaticus Y51MC23]
+TCGTGAAGAGAGGCACGA
+>TTC1920(nuoA) Score=5 Pos=-30 [Thermus thermophilus HB27]
+TCGTGAAGAAAGGCACGA

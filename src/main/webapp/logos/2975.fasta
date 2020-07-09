@@ -1,0 +1,192 @@
+>HI0749(lexA) Score=5.2 Pos=-46 [Haemophilus influenzae Rd KW20]
+ATCTGTATACAATACCAGTT
+>HI1546(impA) Score=4.9 Pos=-88 [Haemophilus influenzae Rd KW20]
+CCCTGTATGAAATATCAGTA
+>HI1546(impA) Score=4.9 Pos=-62 [Haemophilus influenzae Rd KW20]
+AACTGTACAAAAAAACAAGG
+>HI0600(recA) Score=5.1 Pos=-60 [Haemophilus influenzae Rd KW20]
+ACCTGTACATCAATACAGAT
+>HI0749(lexA) Score=5 Pos=-26 [Haemophilus influenzae Rd KW20]
+ATCTGTGTTTAAAAACAGGA
+>HI1188(uvrD) Score=5.5 Pos=-32 [Haemophilus influenzae Rd KW20]
+AACTGTAAATTTAAACAGAT
+>HI0250(ssb) Score=5.1 Pos=-93 [Haemophilus influenzae Rd KW20]
+ATCTGTGCAAATATCCAGTT
+>HI1258(mfd) Score=5.6 Pos=-96 [Haemophilus influenzae Rd KW20]
+AACTGTTTTTTTAAACAGTT
+>HI0249(uvrA) Score=5.2 Pos=-80 [Haemophilus influenzae Rd KW20]
+AACTGGATATTTGCACAGAT
+>HI0313(ruvA) Score=4.7 Pos=-64 [Haemophilus influenzae Rd KW20]
+AACTGGATGTTCGTCCAGTT
+>HI0070(recN) Score=5.1 Pos=-55 [Haemophilus influenzae Rd KW20]
+TACTGTAAATTAAGTCAGTT
+>NT05HA_0999(impA) Score=5.6 Pos=-37 [Aggregatibacter aphrophilus NJ8700]
+CACTGTACAAAAACACAGTT
+>NT05HA_0999(impA) Score=5.7 Pos=-63 [Aggregatibacter aphrophilus NJ8700]
+TACTGTATATAACAACAGTA
+>NT05HA_1941(recA) Score=6.1 Pos=-67 [Aggregatibacter aphrophilus NJ8700]
+TACTGTATATTAATACAGTT
+>NT05HA_1581(lexA) Score=4.9 Pos=-28 [Aggregatibacter aphrophilus NJ8700]
+TCATGTATATATTAACAGGA
+>NT05HA_1581(lexA) Score=5.2 Pos=-50 [Aggregatibacter aphrophilus NJ8700]
+TTCTGTATATAATACCAGTC
+>NT05HA_2208(uvrA) Score=5.4 Pos=-79 [Aggregatibacter aphrophilus NJ8700]
+AACTGGATATTTGCACAGTT
+>NT05HA_2209(ssb) Score=5.4 Pos=-110 [Aggregatibacter aphrophilus NJ8700]
+AACTGTGCAAATATCCAGTT
+>NT05HA_0196(mfd) Score=4.8 Pos=-86 [Aggregatibacter aphrophilus NJ8700]
+CACTGTTTTTTTATACAGAC
+>NT05HA_1086(uvrD) Score=5.3 Pos=-36 [Aggregatibacter aphrophilus NJ8700]
+GCCTGTACAAAAAAACAGTA
+>NT05HA_1353(ruvA) Score=5.6 Pos=-66 [Aggregatibacter aphrophilus NJ8700]
+AACTGGATATTTATCCAGTT
+>NT05HA_1273(recN) Score=6.1 Pos=-55 [Aggregatibacter aphrophilus NJ8700]
+TACTGTATATTAAAACAGTA
+>PM0892(impA) Score=5.8 Pos=-38 [Pasteurella multocida subsp. multocida str. Pm70]
+ACCTGTATAAATAACCAGTT
+>PM1817(recA) Score=5.6 Pos=-66 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTGTTTATTCATACAGTT
+>PM0892(impA) Score=5.5 Pos=-64 [Pasteurella multocida subsp. multocida str. Pm70]
+ACCTGTATATAACAACAGTA
+>PM0411(uvrD) Score=6.2 Pos=-142 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTGTATAAAAAAACAGTT
+>PM1181(lexA) Score=5.8 Pos=-47 [Pasteurella multocida subsp. multocida str. Pm70]
+TTCTGTATATAATAACAGTT
+>PM1950(ssb) Score=5.4 Pos=-112 [Pasteurella multocida subsp. multocida str. Pm70]
+AACTGTGCAAATATCCAGTT
+>PM1951(uvrA) Score=5.4 Pos=-79 [Pasteurella multocida subsp. multocida str. Pm70]
+AACTGGATATTTGCACAGTT
+>PM1041(mfd) Score=4.4 Pos=-101 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTGGCTTTTTATACAGAC
+>PM1181(lexA) Score=5.3 Pos=-26 [Pasteurella multocida subsp. multocida str. Pm70]
+TTCTGTATAAAAAAACAGGG
+>PM0977(ruvA) Score=5 Pos=-65 [Pasteurella multocida subsp. multocida str. Pm70]
+AACTGGATGTTCATCCAGTT
+>PM0332(recN) Score=6.2 Pos=-56 [Pasteurella multocida subsp. multocida str. Pm70]
+TACTGTATATAAAAACAGTT
+>MS2243(recA) Score=5.8 Pos=-69 [Mannheimia succiniciproducens MBEL55E]
+TACTGTATATTATACCAGTT
+>MS0831(impA) Score=5.2 Pos=-66 [Mannheimia succiniciproducens MBEL55E]
+ATCTGTTTGTTTATACAGTA
+>MS0831(impA) Score=5.7 Pos=-40 [Mannheimia succiniciproducens MBEL55E]
+ACCTGTATAAACAAACAGTT
+>MS0744(lexA) Score=4.6 Pos=-11 [Mannheimia succiniciproducens MBEL55E]
+TCCTGTATATAATGTCAGCA
+>MS0586(uvrA) Score=5.6 Pos=-79 [Mannheimia succiniciproducens MBEL55E]
+AACTGGATATTTTCACAGTT
+>MS0585(ssb) Score=5.2 Pos=-92 [Mannheimia succiniciproducens MBEL55E]
+AACTGTGAAAATATCCAGTT
+>MS1368(uvrD) Score=5.1 Pos=-31 [Mannheimia succiniciproducens MBEL55E]
+CCCTGTAAAAATAAACAGAT
+>MS0741(recN) Score=5.5 Pos=-54 [Mannheimia succiniciproducens MBEL55E]
+TACTGTATAAAAAAACATAA
+>MS0744(lexA) Score=5.1 Pos=9 [Mannheimia succiniciproducens MBEL55E]
+TTCTGTACAAAAAAACAGGG
+>MS0712(ruvA) Score=5 Pos=-65 [Mannheimia succiniciproducens MBEL55E]
+AACTGGTTATCTATCCAGTT
+>Asuc_0261(recA) Score=5.2 Pos=-63 [Actinobacillus succinogenes 130Z]
+TACTGTGTTTTATACCAGTT
+>Asuc_0946(impA) Score=4.4 Pos=-54 [Actinobacillus succinogenes 130Z]
+AACTGTAAATTAAATCACAC
+>Asuc_0946(impA) Score=5.1 Pos=-80 [Actinobacillus succinogenes 130Z]
+CCCTGTTTAAGAAAACAGTA
+>Asuc_1880(ssb) Score=4.6 Pos=-94 [Actinobacillus succinogenes 130Z]
+ATCTGTTAAAATATTCAGTG
+>Asuc_1268(uvrD) Score=4.8 Pos=-30 [Actinobacillus succinogenes 130Z]
+TAGTGTAAATTTAAACAGAT
+>Asuc_0877(lexA) Score=4.4 Pos=-46 [Actinobacillus succinogenes 130Z]
+AACTGTATAGAATATCAATC
+>Asuc_1800(ruvA) Score=4.1 Pos=-60 [Actinobacillus succinogenes 130Z]
+AGCTGTTGTTTTATTCAGTT
+>Asuc_0884(recN) Score=4.2 Pos=-34 [Actinobacillus succinogenes 130Z]
+TATAATATATTTATACAGTA
+>Asuc_1879(uvrA) Score=5.1 Pos=-77 [Actinobacillus succinogenes 130Z]
+CACTGAATATTTTAACAGAT
+>HSM_1015(impA) Score=5.5 Pos=-77 [Haemophilus somnus 2336]
+ATATGTATATAAAAACAGTA
+>HSM_0315(recA) Score=5.2 Pos=-66 [Haemophilus somnus 2336]
+CACTGTATGTGAATACAGTA
+>HSM_1015(impA) Score=5.7 Pos=-51 [Haemophilus somnus 2336]
+ACCTGTATAAATAATCAGTT
+>HSM_1774(uvrD) Score=6 Pos=-31 [Haemophilus somnus 2336]
+AACTGTATAAAAACACAGTT
+>HSM_1049(uvrA) Score=5.4 Pos=-97 [Haemophilus somnus 2336]
+AACTGGATATTTGCACAGTT
+>HSM_1048 Score=5.4 Pos=-101 [Haemophilus somnus 2336]
+AACTGTGCAAATATCCAGTT
+>HSM_0991(recN) Score=5.6 Pos=-57 [Haemophilus somnus 2336]
+TACTGTATATAAAAACATAT
+>HSM_0711(lexA) Score=5.4 Pos=-26 [Haemophilus somnus 2336]
+TTCTGTATATAAAAACAGGG
+>HSM_0991(recN) Score=5.2 Pos=-33 [Haemophilus somnus 2336]
+AATTGTATTTATATACAGTA
+>HSM_0711(lexA) Score=4.9 Pos=-47 [Haemophilus somnus 2336]
+TTCTGTATATAATATCATAT
+>HSM_0142(ruvA) Score=5.6 Pos=-65 [Haemophilus somnus 2336]
+AACTGGATATTTATCCAGTT
+>APP7_1202(recA) Score=5.3 Pos=-86 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AACTGTATAAGTAAACACTA
+>APP7_0025(recN) Score=5.6 Pos=-61 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACTGTTCAAAAAAACAGTA
+>APP7_0940(radA) Score=4.9 Pos=44 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AGCTGTTTATTTACTCAGTA
+>APP7_1165(lexA) Score=5.3 Pos=-49 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACTGTATATAATAACAAAA
+>APP7_1377(uvrD) Score=5.1 Pos=-38 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AACTGTATAAACGAACATTA
+>APP7_0845 Score=5.4 Pos=-99 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+AACTGTACAAAATATCAGTT
+>APP7_0382(impA) Score=5.1 Pos=-61 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+CACTGTTTTTTTAATCAGTA
+>APP7_1165(lexA) Score=5 Pos=-28 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATCTGTATATAAAGACAGCG
+>APP7_0382(impA) Score=5.5 Pos=-36 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ACCTGTATAAACACACAGTT
+>APP7_0382(impA) Score=4.9 Pos=-101 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TACTGGATATTTTTACAAAA
+>HD0815(recN) Score=5 Pos=-42 [Haemophilus ducreyi 35000HP]
+TACTATATATCTATACAGAA
+>HD0410(recA) Score=5.3 Pos=-84 [Haemophilus ducreyi 35000HP]
+AACTGTATAAGTAAACACTA
+>HD1063(impA) Score=5.2 Pos=-61 [Haemophilus ducreyi 35000HP]
+TACTGTTTTTTTAATCAGTA
+>HD0545(lexA) Score=5.5 Pos=-28 [Haemophilus ducreyi 35000HP]
+TTCTGTATATAAAGACAGTG
+>HD0545(lexA) Score=5.3 Pos=-50 [Haemophilus ducreyi 35000HP]
+TACTGTATATAATAACACAA
+>HD1758(ruvA) Score=5 Pos=-106 [Haemophilus ducreyi 35000HP]
+GCCTGTTTTTTTATACAGTT
+>HD1121(radA) Score=4.6 Pos=-65 [Haemophilus ducreyi 35000HP]
+GCCTGTGTATTTAGTCAGTA
+>HD1285(ssb) Score=4.9 Pos=-96 [Haemophilus ducreyi 35000HP]
+AGCTGTACAAAATATCAGTT
+>HD0815(recN) Score=5.8 Pos=-63 [Haemophilus ducreyi 35000HP]
+TACTGTTTAAAAAAACAGTA
+>HD1032(uvrD) Score=4.8 Pos=-39 [Haemophilus ducreyi 35000HP]
+CACTGTATAAATGCACATTG
+>HD1063(impA) Score=4.8 Pos=-36 [Haemophilus ducreyi 35000HP]
+GCCTGTATAAATAACCATAT
+>HD1063(impA) Score=5.2 Pos=-100 [Haemophilus ducreyi 35000HP]
+TACTGTATATTTTTACAAAA
+>HAPS_1355(recN) Score=5.7 Pos=-61 [Haemophilus parasuis SH0165]
+TACTGTGTATAAAAACAGTG
+>HAPS_1355(recN) Score=4.6 Pos=-40 [Haemophilus parasuis SH0165]
+TACTATATACTCATACAGTG
+>HAPS_1186(recA) Score=5.3 Pos=-84 [Haemophilus parasuis SH0165]
+AACTGTATGGTTAAACAGTA
+>HAPS_0014(lexA) Score=5.5 Pos=-28 [Haemophilus parasuis SH0165]
+TTCTGTATATAAAGACAGTG
+>HAPS_1067(uvrD) Score=4.9 Pos=-30 [Haemophilus parasuis SH0165]
+CACTGTATAAAATCACATAA
+>HAPS_0014(lexA) Score=4.7 Pos=-50 [Haemophilus parasuis SH0165]
+TACTGTATATAATGTCATAA
+>HAPS_2014(radA) Score=4.9 Pos=-67 [Haemophilus parasuis SH0165]
+CCCTGTGCATTTACACAGTG
+>HAPS_0372(ssb) Score=5.4 Pos=-191 [Haemophilus parasuis SH0165]
+AACTGTACAAAATATCAGTT
+>HAPS_2271(impA) Score=5.3 Pos=-62 [Haemophilus parasuis SH0165]
+CACTGTGTGTTTAAACAGTA
+>HAPS_2271(impA) Score=5.5 Pos=-38 [Haemophilus parasuis SH0165]
+AACTGTATAAACACACAGAT
+>HAPS_2271(impA) Score=4.7 Pos=-102 [Haemophilus parasuis SH0165]
+ACCTGTAAAAATTTACACTA

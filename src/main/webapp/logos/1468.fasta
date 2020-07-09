@@ -1,0 +1,76 @@
+>CORAM0001_0703(yciC) Score=5.4 Pos=-36 [Corynebacterium amycolatum SK46]
+TATTGATAAGCATTTTCAGTA
+>CORAM0001_1250(znuA) Score=5.4 Pos=-85 [Corynebacterium amycolatum SK46]
+AAAGGACAACTGTTTTCAATA
+>CORAM0001_0534(mntA) Score=4.4 Pos=-143 [Corynebacterium amycolatum SK46]
+GGTTGAAAATGCTTGTCGTTA
+>cauri_0148(yciC) Score=6 Pos=-25 [Corynebacterium aurimucosum ATCC 700975]
+TGATGAAAACCGTTATCATTA
+>cauri_2206(znuA) Score=5.1 Pos=-39 [Corynebacterium aurimucosum ATCC 700975]
+ATTTGACAACAATTTTCACTA
+>cauri_1146(cmrA) Score=4.4 Pos=-116 [Corynebacterium aurimucosum ATCC 700975]
+AATTGAACCCTGTTTCCACTA
+>cauri_1146(cmrA) Score=4.4 Pos=-67 [Corynebacterium aurimucosum ATCC 700975]
+TAACGGGACTGAATTCCATTA
+>cauri_0852(cg0040) Score=4.8 Pos=-39 [Corynebacterium aurimucosum ATCC 700975]
+TATTGCTATTGATTTTCACTT
+>DIP1486(yciC) Score=5.1 Pos=-25 [Corynebacterium diphtheriae NCTC 13129]
+AAGTGAAAACGGTATCCATTA
+>DIP0438(troA) Score=4.9 Pos=-69 [Corynebacterium diphtheriae NCTC 13129]
+TAATGAAAATGATTGTGATGT
+>DIP0442 Score=5 Pos=-84 [Corynebacterium diphtheriae NCTC 13129]
+TATTGGTTATCTTTTTCATTT
+>DIP2114(adhA) Score=5.5 Pos=-37 [Corynebacterium diphtheriae NCTC 13129]
+TATTGAAAATAGGTACCATTA
+>DIP1724(sapD) Score=5.2 Pos=-68 [Corynebacterium diphtheriae NCTC 13129]
+AATTGACATCGGATTCCAATA
+>DIP1724(sapD) Score=4.4 Pos=-30 [Corynebacterium diphtheriae NCTC 13129]
+AATTGCAAATCTAAATCAATA
+>DIP2325(cmra) Score=5.3 Pos=-2 [Corynebacterium diphtheriae NCTC 13129]
+TAATGAAAATAATTACCGATA
+>CE2512(znuA) Score=5.8 Pos=1 [Corynebacterium efficiens YS-314]
+TGTTGACAATCGTTTCCAATA
+>cg0794(yciC) Score=6.1 Pos=-79 [Corynebacterium glutamicum ATCC 13032]
+TATTGAAAACAATTTCCATTA
+>cg0794(yciC) Score=5.3 Pos=-34 [Corynebacterium glutamicum ATCC 13032]
+TATTGAAAATGATTCCCAAAA
+>cg2911(znuA) Score=5.4 Pos=-38 [Corynebacterium glutamicum ATCC 13032]
+TGTTGACATCCTTTTTCAATA
+>cg0042(DIP0441) Score=5.9 Pos=-25 [Corynebacterium glutamicum ATCC 13032]
+TAATGATAACGGTTATCATTT
+>cg0042(DIP0441) Score=4.2 Pos=-19 [Corynebacterium glutamicum ATCC 13032]
+TAACGGTTATCATTTTCAAAT
+>cg3107(adhA) Score=5.7 Pos=-317 [Corynebacterium glutamicum ATCC 13032]
+AATTGAAAAACATTTCCATTA
+>cg0041(mntA) Score=5.3 Pos=-40 [Corynebacterium glutamicum ATCC 13032]
+TATTGACAAAGAGTGCCATTA
+>cg0041(mntA) Score=5.3 Pos=4 [Corynebacterium glutamicum ATCC 13032]
+TACTGAAAGACATTTTCAATA
+>cg0795 Score=5.3 Pos=-105 [Corynebacterium glutamicum ATCC 13032]
+TTTTGGGAATCATTTTCAATA
+>cg0795 Score=6.1 Pos=-60 [Corynebacterium glutamicum ATCC 13032]
+TAATGGAAATTGTTTTCAATA
+>cg0043(znuC2) Score=5.9 Pos=-25 [Corynebacterium glutamicum ATCC 13032]
+AAATGATAACCGTTATCATTA
+>jk0328(znuA) Score=5 Pos=40 [Corynebacterium jeikeium K411]
+TgAaGAAAATGgTTgcCAaTt
+>jk1292(yciC) Score=5.2 Pos=-40 [Corynebacterium jeikeium K411]
+TGATGAAAACAGGTTGCAATA
+>jk1856(sapD) Score=4.4 Pos=-75 [Corynebacterium jeikeium K411]
+GTTTGAAAATGGTTGCCACTT
+>jk1856(sapD) Score=4.2 Pos=-42 [Corynebacterium jeikeium K411]
+TAATGAAAACTAGACTCATTG
+>ckrop_1235(yciC) Score=5.1 Pos=-164 [Corynebacterium kroppenstedtii DSM 44385]
+TATTGACATTGTGTATCATTA
+>ckrop_0347(znuA) Score=5.1 Pos=-38 [Corynebacterium kroppenstedtii DSM 44385]
+AATTGACATCATATTTCATTA
+>cur_1662(znuA) Score=5.1 Pos=-43 [Corynebacterium urealyticum DSM 7109]
+TATTGCAATCTGTTCCCATTA
+>cur_0291(sapD) Score=5.1 Pos=-160 [Corynebacterium urealyticum DSM 7109]
+AAAGGAAAACCATTGCCAATT
+>cur_0291(sapD) Score=5 Pos=-103 [Corynebacterium urealyticum DSM 7109]
+ACTTGAAAATGGCTGTCATTA
+>cur_1829(adhA) Score=4.8 Pos=-98 [Corynebacterium urealyticum DSM 7109]
+TAATGGGAACTATACTCATTA
+>cur_1147(mntA) Score=5.3 Pos=-128 [Corynebacterium urealyticum DSM 7109]
+TAATGGAAAACAGTGCCATTA

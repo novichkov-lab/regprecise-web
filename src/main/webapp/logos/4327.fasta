@@ -1,0 +1,498 @@
+>SO3058(SO3058) Score=4.3 Pos=-77 [Shewanella oneidensis MR-1]
+TACCTCCTTTTAGGTG
+>SO2805(nnrS) Score=4.2 Pos=-78 [Shewanella oneidensis MR-1]
+TACTCATAAGGGGATA
+>SO3980(nrfA) Score=5.2 Pos=-95 [Shewanella oneidensis MR-1]
+TACCCCCTAAGAGGTA
+>SO4520(SO4520) Score=4.4 Pos=-95 [Shewanella oneidensis MR-1]
+TACTCCATTCGAGGTA
+>SO4452(moaA) Score=4.8 Pos=-167 [Shewanella oneidensis MR-1]
+TACCTGTTTAGGGGTA
+>SO3981(narQ) Score=5.1 Pos=-199 [Shewanella oneidensis MR-1]
+TACCTCTTAGGGGGTA
+>SO0398(frdA) Score=4.2 Pos=-19 [Shewanella oneidensis MR-1]
+TACCCGTTAAGGAGCA
+>SO0970(fccA) Score=4.5 Pos=-43 [Shewanella oneidensis MR-1]
+TATCCCTTATTAAGTA
+>SO1659(mtrF) Score=4.9 Pos=-80 [Shewanella oneidensis MR-1]
+TACCACTTTATAAGTA
+>SO0624(crp) Score=4.2 Pos=-217 [Shewanella oneidensis MR-1]
+TAACTCTACAGAGTTA
+>SO3140.1(SO3141) Score=4.3 Pos=-205 [Shewanella oneidensis MR-1]
+TACTTCCAAAGATATA
+>SO1673(ompW) Score=4.6 Pos=-135 [Shewanella oneidensis MR-1]
+TACCTAAAAATAAGTA
+>SO1490(adhB) Score=5.1 Pos=-68 [Shewanella oneidensis MR-1]
+TACCCCTTAATTGGTA
+>SO4062(psrA) Score=5 Pos=-179 [Shewanella oneidensis MR-1]
+TACCCCTTTAGGAATA
+>SO3896(omp35) Score=5.2 Pos=-255 [Shewanella oneidensis MR-1]
+TACCTCTTTAGTGGTA
+>SO1779(omcA) Score=4.8 Pos=-179 [Shewanella oneidensis MR-1]
+TACCTCAAAAGAAATA
+>SO0849(napD) Score=4.9 Pos=-119 [Shewanella oneidensis MR-1]
+TACCTCTTGTGAGGTA
+>SO3059(SO3059) Score=3.9 Pos=-104 [Shewanella oneidensis MR-1]
+CACCTAAAAGGAGGTA
+>SO1778(mtrC) Score=5.2 Pos=-204 [Shewanella oneidensis MR-1]
+TACCTCTTTAGAAATA
+>Sputcn32_2432(SO3058) Score=4.5 Pos=-77 [Shewanella putrefaciens CN-32]
+TACCTCTTTTTAGGTG
+>Sputcn32_0685(nrfA) Score=5.2 Pos=-95 [Shewanella putrefaciens CN-32]
+TACCTCCTAAGAGGTA
+>Sputcn32_0684(narQ) Score=5.2 Pos=-162 [Shewanella putrefaciens CN-32]
+TACCTCTTAGGAGGTA
+>Sputcn32_3147(napD) Score=4.9 Pos=-116 [Shewanella putrefaciens CN-32]
+TACCTCTTGTGAGGTA
+>Sputcn32_0905(fccA) Score=4.7 Pos=-42 [Shewanella putrefaciens CN-32]
+TAACCCTTATTAAGTA
+>Sputcn32_1392(ompW) Score=4.1 Pos=-242 [Shewanella putrefaciens CN-32]
+TAACCCTTACTAGGTG
+>Sputcn32_1392(ompW) Score=4.6 Pos=-132 [Shewanella putrefaciens CN-32]
+TACCTATAAGTGGGTA
+>Sputcn32_3576(dnrN) Score=4.6 Pos=-137 [Shewanella putrefaciens CN-32]
+TACTCCCTAAGGAATA
+>Sputcn32_0781(omp35) Score=5.1 Pos=-256 [Shewanella putrefaciens CN-32]
+TACCTCTTAAGTAGTA
+>Sputcn32_0389(moaA) Score=4.8 Pos=-134 [Shewanella putrefaciens CN-32]
+TACCTGTTTAGGGGTA
+>Sputcn32_1901(napE2) Score=4.4 Pos=-145 [Shewanella putrefaciens CN-32]
+TACCGATTTGGAGGTA
+>Sputcn32_1478(mtrC) Score=5.2 Pos=-204 [Shewanella putrefaciens CN-32]
+TACCTCTTTAGAAATA
+>Sputcn32_2507(SO3141) Score=4.9 Pos=-219 [Shewanella putrefaciens CN-32]
+TACCTCTAAAGTAATA
+>Sputcn32_1479(omcA) Score=5.1 Pos=-180 [Shewanella putrefaciens CN-32]
+TACCCCTAAAGAAATA
+>Sputcn32_1380(mtrF) Score=4.9 Pos=-77 [Shewanella putrefaciens CN-32]
+TACCACTTTATAAGTA
+>Sputcn32_0652(crp) Score=3.7 Pos=-217 [Shewanella putrefaciens CN-32]
+TAACTCGACAGAGTTA
+>Sputcn32_2433(SO3059) Score=4.2 Pos=-104 [Shewanella putrefaciens CN-32]
+CACCTAAAAAGAGGTA
+>Sputw3181_3486(nrfA) Score=5.2 Pos=-95 [Shewanella sp W3-18-1]
+TACCTCCTAAGAGGTA
+>Sputw3181_3487(narQ) Score=5.2 Pos=-162 [Shewanella sp W3-18-1]
+TACCTCTTAGGAGGTA
+>Sputw3181_0796(napD) Score=4.9 Pos=-116 [Shewanella sp W3-18-1]
+TACCTCTTGTGAGGTA
+>Sputw3181_3267(fccA) Score=4.7 Pos=-42 [Shewanella sp W3-18-1]
+TAACCCTTATTAAGTA
+>Sputw3181_2709(ompW) Score=4.6 Pos=-132 [Shewanella sp W3-18-1]
+TACCTATAAGTGGGTA
+>Sputw3181_2709(ompW) Score=4.2 Pos=-242 [Shewanella sp W3-18-1]
+TAACCCTTATTAGGTG
+>Sputw3181_3394(omp35) Score=5.1 Pos=-256 [Shewanella sp W3-18-1]
+TACCTCTTAAGTAGTA
+>Sputw3181_2721(mtrF) Score=4.9 Pos=-77 [Shewanella sp W3-18-1]
+TACCACTTTATAAGTA
+>Sputw3181_1576(SO3058) Score=4.5 Pos=-77 [Shewanella sp W3-18-1]
+TACCTCTTTTTAGGTG
+>Sputw3181_2622(omcA) Score=5.1 Pos=-180 [Shewanella sp W3-18-1]
+TACCCCTAAAGAAATA
+>Sputw3181_0243(moaA) Score=4.8 Pos=-134 [Shewanella sp W3-18-1]
+TACCTGTTTAGGGGTA
+>Sputw3181_2107(napE2) Score=4.4 Pos=-145 [Shewanella sp W3-18-1]
+TACCGATTTGGAGGTA
+>Sputw3181_3715(dnrN) Score=4.6 Pos=-137 [Shewanella sp W3-18-1]
+TACTCCCTAAGGAATA
+>Sputw3181_3522(crp) Score=3.7 Pos=-217 [Shewanella sp W3-18-1]
+TAACTCGACAGAGTTA
+>Sputw3181_1575(SO3059) Score=4.2 Pos=-104 [Shewanella sp W3-18-1]
+CACCTAAAAAGAGGTA
+>Sputw3181_2623(mtrC) Score=5.2 Pos=-204 [Shewanella sp W3-18-1]
+TACCTCTTTAGAAATA
+>Sputw3181_1501(SO3141) Score=4.4 Pos=-219 [Shewanella sp W3-18-1]
+TATCTCTAAAGTAATA
+>Shewana3_0658(nrfA) Score=5.2 Pos=-77 [Shewanella sp ANA-3]
+TACCCCCTAAGAGGTA
+>Shewana3_0657(narQ) Score=5.1 Pos=-163 [Shewanella sp ANA-3]
+TACCTCTTAGGGGGTA
+>Shewana3_3318(fccA) Score=4.7 Pos=-43 [Shewanella sp ANA-3]
+TAACCCTTATTAAGTA
+>Shewana3_3926(SO4520) Score=4.4 Pos=-95 [Shewanella sp ANA-3]
+TACTCCATACGAGGTA
+>Shewana3_0403(frdA) Score=4.2 Pos=-19 [Shewanella sp ANA-3]
+TACCCGTTAAGGAGCA
+>Shewana3_2787(mtrF) Score=4.9 Pos=-77 [Shewanella sp ANA-3]
+TACCACTTTATAAGTA
+>Shewana3_2587(nnrS) Score=4 Pos=-77 [Shewanella sp ANA-3]
+TACTCAAAAGGAGATA
+>Shewana3_0733(omp35) Score=5.1 Pos=-255 [Shewanella sp ANA-3]
+TACCTCTTTAGTAGTA
+>Shewana3_0617(crp) Score=4.2 Pos=-217 [Shewanella sp ANA-3]
+TAACTCTACAGAGTTA
+>Shewana3_1409(SO3141) Score=4.6 Pos=-216 [Shewanella sp ANA-3]
+TACCTCCAAAGATATA
+>Shewana3_2675(omcA) Score=5.1 Pos=-179 [Shewanella sp ANA-3]
+TACCTCTAAAGAAATA
+>Shewana3_0274(moaA) Score=4.8 Pos=-134 [Shewanella sp ANA-3]
+TACCTGTTTAGGGGTA
+>Shewana3_3619(psrA) Score=5.1 Pos=-181 [Shewanella sp ANA-3]
+TACCCCTTTAGGGATA
+>Shewana3_2938(adhB) Score=5.1 Pos=-68 [Shewanella sp ANA-3]
+TACCCCTTAATTGGTA
+>Shewana3_1489(SO3058) Score=4.5 Pos=-77 [Shewanella sp ANA-3]
+TACCTCTTTTTAGGTG
+>Shewana3_0397(dnrN) Score=4.4 Pos=-127 [Shewanella sp ANA-3]
+TACTCACTTAGAGATA
+>Shewana3_2775(ompW) Score=4.8 Pos=-132 [Shewanella sp ANA-3]
+TACCTCAAAATAAGTA
+>Shewana3_1488(SO3059) Score=4.2 Pos=-104 [Shewanella sp ANA-3]
+CACCTAAAAAGAGGTA
+>Shewana3_2676(mtrC) Score=5.2 Pos=-203 [Shewanella sp ANA-3]
+TACCTCTTTAGAAATA
+>Shewana3_3429(napD) Score=4.8 Pos=-118 [Shewanella sp ANA-3]
+TACCTCTTGCGAGGTA
+>Shewmr4_0659(nrfA) Score=5.2 Pos=-77 [Shewanella sp MR-4]
+TACCCCCTAAGAGGTA
+>Shewmr4_0658(narQ) Score=5.1 Pos=-164 [Shewanella sp MR-4]
+TACCTCTTAGGGGGTA
+>Shewmr4_3228(omp35) Score=5.1 Pos=-255 [Shewanella sp MR-4]
+TACCTCTTTAGTAGTA
+>Shewmr4_0808(fccA) Score=4.7 Pos=-43 [Shewanella sp MR-4]
+TAACCCTTATTAAGTA
+>Shewmr4_3730(SO4520) Score=4.4 Pos=-95 [Shewanella sp MR-4]
+TACTCCATACGAGGTA
+>Shewmr4_1356(SO3141) Score=4.6 Pos=-215 [Shewanella sp MR-4]
+TACCTCCAAAGATATA
+>Shewmr4_0404(frdA) Score=4.2 Pos=-19 [Shewanella sp MR-4]
+TACCCGTTAAGGAGCA
+>Shewmr4_2762(adhB) Score=5.1 Pos=-68 [Shewanella sp MR-4]
+TACCCCTTAATTGGTA
+>Shewmr4_2509(omcA) Score=5.1 Pos=-179 [Shewanella sp MR-4]
+TACCCCTAAAGAAATA
+>Shewmr4_0618(crp) Score=4.2 Pos=-217 [Shewanella sp MR-4]
+TAACTCTACAGAGTTA
+>Shewmr4_2226(narG) Score=4.3 Pos=-261 [Shewanella sp MR-4]
+TACCTCTTAATAGTTC
+>Shewmr4_1840(napE2) Score=4.4 Pos=-137 [Shewanella sp MR-4]
+TACCGATTTGGAGGTA
+>Shewmr4_2225(narK) Score=4.4 Pos=-128 [Shewanella sp MR-4]
+CACCCATTAAGGAGTA
+>Shewmr4_2225(narK) Score=4.5 Pos=-238 [Shewanella sp MR-4]
+TACCCCCTTGTGGATA
+>Shewmr4_0273(moaA) Score=4.6 Pos=-134 [Shewanella sp MR-4]
+TACCTGTTTGGGGGTA
+>Shewmr4_0398(dnrN) Score=4.7 Pos=-127 [Shewanella sp MR-4]
+TACTCCCTTAGAGATA
+>Shewmr4_2601(ompW) Score=4.8 Pos=-132 [Shewanella sp MR-4]
+TACCTCAAAATAAGTA
+>Shewmr4_2510(mtrC) Score=5.2 Pos=-203 [Shewanella sp MR-4]
+TACCTCTTTAGAAATA
+>Shewmr4_2613(mtrF) Score=4.9 Pos=-78 [Shewanella sp MR-4]
+TACCACTTTATAAGTA
+>Shewmr4_2425(nnrS) Score=4.4 Pos=-77 [Shewanella sp MR-4]
+TACTCATAAGGAGATA
+>Shewmr4_0705(napD) Score=4.9 Pos=-118 [Shewanella sp MR-4]
+TACCTCTTGTGAGGTA
+>Shewmr7_3317(napD) Score=4.9 Pos=-118 [Shewanella sp MR-7]
+TACCTCTTGTGAGGTA
+>Shewmr7_3363(nrfA) Score=5.2 Pos=-77 [Shewanella sp MR-7]
+TACCCCCTAAGAGGTA
+>Shewmr7_3364(narQ) Score=5.1 Pos=-164 [Shewanella sp MR-7]
+TACCTCTTAGGGGGTA
+>Shewmr7_0761(omp35) Score=5.1 Pos=-255 [Shewanella sp MR-7]
+TACCTCTTTAGTAGTA
+>Shewmr7_3215(fccA) Score=4.7 Pos=-43 [Shewanella sp MR-7]
+TAACCCTTATTAAGTA
+>Shewmr7_3801(SO4520) Score=4.4 Pos=-95 [Shewanella sp MR-7]
+TACTCCATACGAGGTA
+>Shewmr7_3412(crp) Score=4.2 Pos=-217 [Shewanella sp MR-7]
+TAACTCTACAGAGTTA
+>Shewmr7_2137(napE2) Score=4.4 Pos=-137 [Shewanella sp MR-7]
+TACCGATTTGGAGGTA
+>Shewmr7_1421(SO3141) Score=4.6 Pos=-215 [Shewanella sp MR-7]
+TACCTCCAAAGATATA
+>Shewmr7_3748(moaA) Score=4.6 Pos=-134 [Shewanella sp MR-7]
+TACCTGTTTGGGGGTA
+>Shewmr7_2302(narG) Score=4.3 Pos=-261 [Shewanella sp MR-7]
+TACCTCTTAATAGTTC
+>Shewmr7_2301(narK) Score=4.4 Pos=-128 [Shewanella sp MR-7]
+CACCCATTAAGGAGTA
+>Shewmr7_2301(narK) Score=4.6 Pos=-238 [Shewanella sp MR-7]
+TACCCCCTTGTAGATA
+>Shewmr7_2840(adhB) Score=5.1 Pos=-68 [Shewanella sp MR-7]
+TACCCCTTAATTGGTA
+>Shewmr7_2577(omcA) Score=5.1 Pos=-179 [Shewanella sp MR-7]
+TACCCCTAAAGAAATA
+>Shewmr7_3621(frdA) Score=4.2 Pos=-19 [Shewanella sp MR-7]
+TACCCGTTAAGGAGCA
+>Shewmr7_3627(dnrN) Score=4.7 Pos=-127 [Shewanella sp MR-7]
+TACTCCCTTAGAGATA
+>Shewmr7_2680(mtrF) Score=4.9 Pos=-78 [Shewanella sp MR-7]
+TACCACTTTATAAGTA
+>Shewmr7_2668(ompW) Score=4.8 Pos=-132 [Shewanella sp MR-7]
+TACCTCAAAATAAGTA
+>Shewmr7_2578(mtrC) Score=5.2 Pos=-203 [Shewanella sp MR-7]
+TACCTCTTTAGAAATA
+>Shewmr7_2495(nnrS) Score=4.4 Pos=-77 [Shewanella sp MR-7]
+TACTCATAAGGAGATA
+>Sbal_3510(napD) Score=4.9 Pos=-119 [Shewanella baltica OS155]
+TACCTCTTGTGAGGTA
+>Sbal_0794(nrfA) Score=5.2 Pos=-95 [Shewanella baltica OS155]
+TACCCCCTAAGAGGTA
+>Sbal_1490(ompW) Score=4.5 Pos=-132 [Shewanella baltica OS155]
+TACCTATAAGTGAGTA
+>Sbal_0793(narQ) Score=5.1 Pos=-146 [Shewanella baltica OS155]
+TACCTCTTAGGGGGTA
+>Sbal_3570(omp35) Score=4.9 Pos=-256 [Shewanella baltica OS155]
+TACCACTTAAGTAGTA
+>Sbal_0859(fccA) Score=4.7 Pos=-42 [Shewanella baltica OS155]
+TAACCCTTATTAAGTA
+>Sbal_0578(crp) Score=3.7 Pos=-217 [Shewanella baltica OS155]
+TAACTCGACAGAGTTA
+>Sbal_1590(omcA) Score=4.8 Pos=-180 [Shewanella baltica OS155]
+TACTCCTAAAGAAATA
+>Sbal_1321(adhB) Score=4.8 Pos=-72 [Shewanella baltica OS155]
+TACCTCCAAATTGGTA
+>Sbal_1478(mtrF) Score=4.7 Pos=-78 [Shewanella baltica OS155]
+TACCACTTTGTAAGTA
+>Sbal_2843(SO3141) Score=4.4 Pos=-217 [Shewanella baltica OS155]
+TACCTCCAAAGTATTA
+>Sbal_0284(moaA) Score=4.8 Pos=-134 [Shewanella baltica OS155]
+TACCTGTTTAGGGGTA
+>Sbal_1908(napE2) Score=4.6 Pos=-144 [Shewanella baltica OS155]
+TACCAATTTGGAGGTA
+>Sbal_3989(dnrN) Score=5 Pos=-136 [Shewanella baltica OS155]
+TACTCCTTAAGAGATA
+>Sbal_1589(mtrC) Score=5.2 Pos=-204 [Shewanella baltica OS155]
+TACCTCTTTAGAAATA
+>Sbal_1680(nnrS) Score=4.2 Pos=-82 [Shewanella baltica OS155]
+TACTCATATCGAGATA
+>Sfri_0622(nrfA) Score=5 Pos=-111 [Shewanella frigidimarina NCIMB 400]
+TACCCCATAAGGGGTA
+>Sfri_3897(Sfri_3897) Score=3.9 Pos=-123 [Shewanella frigidimarina NCIMB 400]
+TACCTACAATTGATTA
+>Sfri_0621(narQ) Score=5.1 Pos=-188 [Shewanella frigidimarina NCIMB 400]
+TACCCCTTATGGGGTA
+>Sfri_0553(napA) Score=4.5 Pos=-111 [Shewanella frigidimarina NCIMB 400]
+TACCCATTCTGAGGTA
+>Sfri_0076(SO4520) Score=4.5 Pos=-106 [Shewanella frigidimarina NCIMB 400]
+TATCTCTAAAGTGATA
+>Sfri_3690(fccA) Score=4.6 Pos=-313 [Shewanella frigidimarina NCIMB 400]
+TACCTCTTTATAACTA
+>Sfri_0503(omp35) Score=4.3 Pos=-243 [Shewanella frigidimarina NCIMB 400]
+CATCCCTAAAGAGGTA
+>Sfri_1334(ompW) Score=5 Pos=-132 [Shewanella frigidimarina NCIMB 400]
+TACCTCTATAGTAGTA
+>Sfri_1505(nasA) Score=5.3 Pos=-203 [Shewanella frigidimarina NCIMB 400]
+TACCTCTTTATAGGTA
+>Sfri_3686(dmsE) Score=4.6 Pos=-243 [Shewanella frigidimarina NCIMB 400]
+TACCTATATGTAGGTA
+>Sfri_2555(napE2) Score=4.3 Pos=-119 [Shewanella frigidimarina NCIMB 400]
+TACCAATTTGTGAGTA
+>Sfri_0913(mtrF) Score=4.9 Pos=-191 [Shewanella frigidimarina NCIMB 400]
+TACCTCTTTAGGGTTA
+>Sfri_2637(mtrC) Score=4.9 Pos=-178 [Shewanella frigidimarina NCIMB 400]
+TACCTCTTTATTAATA
+>Sfri_2636(omcA) Score=4.7 Pos=-150 [Shewanella frigidimarina NCIMB 400]
+TACCCATAAAGGAATA
+>Sama_0648(nrfA) Score=5 Pos=-101 [Shewanella amazonensis SB2B]
+TACCACTTAATGGGTA
+>Sama_0647(narQ) Score=4.9 Pos=-160 [Shewanella amazonensis SB2B]
+TACCCATTAAGTGGTA
+>Sama_0611(fccA) Score=5.2 Pos=-35 [Shewanella amazonensis SB2B]
+TACCTCTTTATAAGTA
+>Sama_2228(mtrF) Score=4.5 Pos=-77 [Shewanella amazonensis SB2B]
+TACCACTTTATATATA
+>Sama_3524(moaA) Score=4.2 Pos=-127 [Shewanella amazonensis SB2B]
+TACACGTTTAGAGGTA
+>Sama_0544(omp35) Score=4.9 Pos=-262 [Shewanella amazonensis SB2B]
+TACCCATTTATGGGTA
+>Sama_2990(SO3141) Score=4.4 Pos=-212 [Shewanella amazonensis SB2B]
+TATCTCCAAAGTGGTA
+>Sama_2753(nhaD) Score=4.5 Pos=-145 [Shewanella amazonensis SB2B]
+TACCACCTTGTAGGTA
+>Sama_3177(psrA) Score=4.8 Pos=-331 [Shewanella amazonensis SB2B]
+TACCTCTTTAGGGGTG
+>Sama_1208(mtrC) Score=4.9 Pos=-192 [Shewanella amazonensis SB2B]
+TACCCCTTTTGAAATA
+>Sama_1209(omcA) Score=5.1 Pos=-182 [Shewanella amazonensis SB2B]
+TACCCCTAAAGAAATA
+>Sama_2982(napD) Score=4.8 Pos=-105 [Shewanella amazonensis SB2B]
+TACCTCCTAGTGGGTA
+>Sama_1620(napE2) Score=4.5 Pos=-106 [Shewanella amazonensis SB2B]
+TACCGATTTAGGGGTA
+>Sama_1371(ompW) Score=4.5 Pos=-134 [Shewanella amazonensis SB2B]
+TACCCCAAAGTGGGTA
+>Sama_3236(dnrN) Score=4 Pos=-123 [Shewanella amazonensis SB2B]
+TACTCCTTTTGGCATA
+>Sama_1208(mtrC) Score=5 Pos=-133 [Shewanella amazonensis SB2B]
+TACCCCCTATGAGGTA
+>Shew_3205(napD) Score=4.9 Pos=-123 [Shewanella loihica PV-4]
+TACCTCTCAAGAGGTA
+>Shew_0073(SO4520) Score=4.3 Pos=-106 [Shewanella loihica PV-4]
+TATTCCTTAAGTGATA
+>Shew_3112(fccA) Score=4.5 Pos=-268 [Shewanella loihica PV-4]
+TACCTCTTTGTGATTA
+>Shew_0843(narQ) Score=5.1 Pos=-161 [Shewanella loihica PV-4]
+TACCCCTTATGGGGTA
+>Shew_3260(omp35) Score=4.9 Pos=-261 [Shewanella loihica PV-4]
+TACCCCTTTGGGAGTA
+>Shew_1768(napE2) Score=4.5 Pos=-153 [Shewanella loihica PV-4]
+TACCGATTTAGGGGTA
+>Shew_2524(omcA) Score=5.1 Pos=-214 [Shewanella loihica PV-4]
+TACCTCTAAAGAAATA
+>Shew_2655(Shew_2655) Score=5 Pos=-166 [Shewanella loihica PV-4]
+TACCACTTTAGAGATA
+>Shew_2281(SO3058) Score=3.8 Pos=-107 [Shewanella loihica PV-4]
+CCCCTCTTTTTAGGTA
+>Shew_2655(Shew_2655) Score=4.3 Pos=-152 [Shewanella loihica PV-4]
+TACCTCTAATTCAGTA
+>Shew_0699(nhaD) Score=4.8 Pos=-156 [Shewanella loihica PV-4]
+TACCACTTTGTAGGTA
+>Shew_0844(nrfA) Score=5 Pos=-102 [Shewanella loihica PV-4]
+TACCCCATAAGGGGTA
+>Shew_2580(SO3141) Score=5 Pos=-248 [Shewanella loihica PV-4]
+TACCTCCAAAGAGATA
+>Shew_0504(nnrS2) Score=4.4 Pos=-177 [Shewanella loihica PV-4]
+TGCCTATAAAGAGGTA
+>Shew_2525(mtrC) Score=5.2 Pos=-193 [Shewanella loihica PV-4]
+TACCCCTTTAGAAATA
+>Shew_0918(mtrF) Score=4.8 Pos=-21 [Shewanella loihica PV-4]
+TACCTATAAAGGGATA
+>Spea_3939(Sfri_3897) Score=4.6 Pos=-158 [Shewanella pealeana ATCC 700345]
+TACCTCCAAAGTAATA
+>Spea_0624(napD) Score=4.9 Pos=-118 [Shewanella pealeana ATCC 700345]
+TACCCCTTGTGAGGTA
+>Spea_0722(fccA) Score=4.5 Pos=-101 [Shewanella pealeana ATCC 700345]
+TACCTCAAAGTGAGTA
+>Spea_2787(ompW) Score=3.9 Pos=-133 [Shewanella pealeana ATCC 700345]
+TATCTCGAAGTGGGTA
+>Spea_1227(nnrS2) Score=4.4 Pos=-155 [Shewanella pealeana ATCC 700345]
+TACTCATTAAGATATA
+>Spea_3600(Spea_3600) Score=4.6 Pos=-109 [Shewanella pealeana ATCC 700345]
+TATCTCTTTAGTAGTA
+>Spea_2697(omcA) Score=5.1 Pos=-184 [Shewanella pealeana ATCC 700345]
+TACCCCTAAAGAAATA
+>Spea_0830(narQ) Score=5 Pos=-157 [Shewanella pealeana ATCC 700345]
+TACCTCCTATGAGGTA
+>Spea_3233(Shew_2655) Score=4.5 Pos=-165 [Shewanella pealeana ATCC 700345]
+TACCTACTTGTAGGTA
+>Spea_3233(Shew_2655) Score=4.4 Pos=-151 [Shewanella pealeana ATCC 700345]
+TATCCCTAAATTAGTA
+>Spea_0589(omp35) Score=4.6 Pos=-260 [Shewanella pealeana ATCC 700345]
+CACCTCTTTATAGATA
+>Spea_0831(nrfA) Score=4.9 Pos=-101 [Shewanella pealeana ATCC 700345]
+TACCTCATAGGAGGTA
+>Spea_2698(mtrC) Score=5.2 Pos=-195 [Shewanella pealeana ATCC 700345]
+TACCTCTTTAGAAATA
+>Shal_0331(Sfri_3897) Score=4.1 Pos=-157 [Shewanella halifaxensis HAW-EB4]
+CACTTCTAAAGTAGTA
+>Shal_0176(narK) Score=3.9 Pos=-237 [Shewanella halifaxensis HAW-EB4]
+TAATACCTAGGTGGTA
+>Shal_1261(nnrS2) Score=4.6 Pos=-153 [Shewanella halifaxensis HAW-EB4]
+TACCTATAAAGATATA
+>Shal_0886(nrfA) Score=4.7 Pos=-98 [Shewanella halifaxensis HAW-EB4]
+TACCTCGTTGGAGGTA
+>Shal_0776(fccA) Score=4.3 Pos=-101 [Shewanella halifaxensis HAW-EB4]
+TACCTCGAATTGAGTA
+>Shal_0716(napD) Score=4.7 Pos=-119 [Shewanella halifaxensis HAW-EB4]
+TACCCCTTGCGAGGTA
+>Shal_2928(dmsE) Score=4.3 Pos=-69 [Shewanella halifaxensis HAW-EB4]
+TACCCCCTTCGATATA
+>Shal_0676(omp35) Score=4.8 Pos=-260 [Shewanella halifaxensis HAW-EB4]
+TACTCCTTTAGGGATA
+>Shal_3305(Shew_2655) Score=4.3 Pos=-165 [Shewanella halifaxensis HAW-EB4]
+TACCTATTTGTGTGTA
+>Shal_3305(Shew_2655) Score=4.6 Pos=-151 [Shewanella halifaxensis HAW-EB4]
+TACCTCTAAATCGGTA
+>Shal_0885(narQ) Score=4.7 Pos=-159 [Shewanella halifaxensis HAW-EB4]
+TACCTCCAACGAGGTA
+>Shal_3447(SO3058) Score=4 Pos=-105 [Shewanella halifaxensis HAW-EB4]
+TATCGCTAATTAGGTA
+>Shal_2784(mtrC) Score=5.2 Pos=-194 [Shewanella halifaxensis HAW-EB4]
+TACCTCTTTAGAAATA
+>Shal_2783(omcA) Score=5.1 Pos=-182 [Shewanella halifaxensis HAW-EB4]
+TACCCCTAAAGAAATA
+>Shal_3689(Spea_3600) Score=4.7 Pos=-109 [Shewanella halifaxensis HAW-EB4]
+TATCTCTTTAGTGGTA
+>swp_0614(swp_0614) Score=5.2 Pos=-293 [Shewanella piezotolerans WP3]
+TACCTCTTAATGGGTA
+>swp_0220(Sfri_3897) Score=4.7 Pos=-226 [Shewanella piezotolerans WP3]
+TACTCCTAAAGTAGTA
+>swp_3958(nrfA) Score=5 Pos=-96 [Shewanella piezotolerans WP3]
+TACCCCATAAGGGGTA
+>swp_3960(narQ) Score=5.1 Pos=-263 [Shewanella piezotolerans WP3]
+TACCCCTTATGGGGTA
+>swp_4456(napD) Score=4.9 Pos=-111 [Shewanella piezotolerans WP3]
+TACCCCTTGTGAGGTA
+>swp_3395(ompW) Score=4.6 Pos=-136 [Shewanella piezotolerans WP3]
+TATCTCTAAATGGGTA
+>swp_2922(nasA) Score=4.3 Pos=-197 [Shewanella piezotolerans WP3]
+TACCTCTTTGTGAGTG
+>swp_3404(nnrS2) Score=4.5 Pos=-158 [Shewanella piezotolerans WP3]
+TACCTACAAAGGAATA
+>swp_1238(psrA) Score=3.9 Pos=-236 [Shewanella piezotolerans WP3]
+TACCACAATAGACATA
+>swp_0694(Spea_3600) Score=4.6 Pos=-110 [Shewanella piezotolerans WP3]
+TATCTCTTTAGTAGTA
+>swp_3277(omcA) Score=5.1 Pos=-184 [Shewanella piezotolerans WP3]
+TACCCCTAAAGAAATA
+>swp_1107(Shew_2655) Score=4.9 Pos=-151 [Shewanella piezotolerans WP3]
+TACCTCTAAATTAGTA
+>swp_1107(Shew_2655) Score=5 Pos=-165 [Shewanella piezotolerans WP3]
+TACCCATTTATAGGTA
+>swp_3461(dmsE) Score=4.3 Pos=-34 [Shewanella piezotolerans WP3]
+TACCCCCTTCGATATA
+>swp_4514(omp35) Score=5.1 Pos=-260 [Shewanella piezotolerans WP3]
+TACCCCTTTAGGGATA
+>swp_3278(mtrC) Score=5.1 Pos=-193 [Shewanella piezotolerans WP3]
+TACCTCTTTATAAATA
+>swp_0896(mtrF) Score=4.8 Pos=-18 [Shewanella piezotolerans WP3]
+TACCTATAAAGGGATA
+>Ssed_0273(Sfri_3897) Score=4.7 Pos=-159 [Shewanella sediminis HAW-EB3]
+TACCTCTAAAGTTGTA
+>Ssed_3185(Shew_2655) Score=5 Pos=-162 [Shewanella sediminis HAW-EB3]
+TACCTCCTTATAAGTA
+>Ssed_1953(narK) Score=4.1 Pos=-235 [Shewanella sediminis HAW-EB3]
+TAGTTCTTTAGTAGTA
+>Ssed_1525(mtrC) Score=5 Pos=-205 [Shewanella sediminis HAW-EB3]
+TACCCCTTTATAAATA
+>Ssed_3956(napD) Score=4.7 Pos=-132 [Shewanella sediminis HAW-EB3]
+TACCTCTTGTTGGGTA
+>Ssed_1469(ompW) Score=4 Pos=-133 [Shewanella sediminis HAW-EB3]
+TATCTATAACTGGGTA
+>Ssed_3744(swp_0614) Score=5.2 Pos=-173 [Shewanella sediminis HAW-EB3]
+TACCTCTTTAGGGATA
+>Ssed_0931(nrfA) Score=5 Pos=-100 [Shewanella sediminis HAW-EB3]
+TACCCCCTTAGGGGTA
+>Ssed_4009(omp35) Score=4.1 Pos=-263 [Shewanella sediminis HAW-EB3]
+TACTTCGTTCTAGGTA
+>Ssed_1912(napD2) Score=4.1 Pos=-192 [Shewanella sediminis HAW-EB3]
+TATCTCCTTACGAGTA
+>Ssed_3185(Shew_2655) Score=4.6 Pos=-176 [Shewanella sediminis HAW-EB3]
+TACTACTTTAGGAGTA
+>Ssed_1526(omcA) Score=5.1 Pos=-209 [Shewanella sediminis HAW-EB3]
+TACCCCTAAAGAAATA
+>Ssed_1912(napD2) Score=4.4 Pos=-218 [Shewanella sediminis HAW-EB3]
+TACCAAGTTAGAGGTA
+>Ssed_0930(narQ) Score=4.9 Pos=-161 [Shewanella sediminis HAW-EB3]
+TACCCCTAAGGGGGTA
+>Ssed_0346(SO3059) Score=4.1 Pos=-230 [Shewanella sediminis HAW-EB3]
+TAACGCTTTTTAAGTA
+>Ssed_0742(Spea_3600) Score=4.7 Pos=-109 [Shewanella sediminis HAW-EB3]
+TATCCCTTTATGGGTA
+>Swoo_4806(SO4520) Score=4.8 Pos=-107 [Shewanella woodyi ATCC 51908]
+TAACTCTAAAGTGGTA
+>Swoo_4109(napD) Score=5 Pos=-124 [Shewanella woodyi ATCC 51908]
+TACCCCTTACTAGGTA
+>Swoo_3207(ompW) Score=4.1 Pos=-133 [Shewanella woodyi ATCC 51908]
+TATCTATAAGTGGGTA
+>Swoo_4517(SO3141) Score=5.1 Pos=-161 [Shewanella woodyi ATCC 51908]
+TACCTCTTTAGTAGTA
+>Swoo_3303(Shew_2655) Score=5 Pos=-164 [Shewanella woodyi ATCC 51908]
+TACCACTTTATAGGTA
+>Swoo_3303(Shew_2655) Score=4.8 Pos=-150 [Shewanella woodyi ATCC 51908]
+TACCACTTAATTAGTA
+>Swoo_0972(nrfA) Score=5 Pos=-100 [Shewanella woodyi ATCC 51908]
+TACCTCATAAGGGGTA
+>Swoo_2682(napE2) Score=4.4 Pos=-157 [Shewanella woodyi ATCC 51908]
+TACCAAGTTAGAGGTA
+>Swoo_3124(omcA) Score=5.1 Pos=-209 [Shewanella woodyi ATCC 51908]
+TACCCCTAAAGAAATA
+>Swoo_0971(narQ) Score=5.2 Pos=-160 [Shewanella woodyi ATCC 51908]
+TACCCCTTATGAGGTA
+>Swoo_3125(mtrC) Score=5 Pos=-218 [Shewanella woodyi ATCC 51908]
+TACCCCTTTATAAATA

@@ -1,0 +1,54 @@
+>BPSS1244(narK) Score=4 Pos=-294 [Burkholderia pseudomallei K96243]
+CGCACGCACACAGTGCT
+>BPSS1244(narK) Score=5.2 Pos=-273 [Burkholderia pseudomallei K96243]
+CGCACCAGATCAGTGCT
+>BPSL2318(glnA) Score=4.7 Pos=-312 [Burkholderia pseudomallei K96243]
+CGCACTAAAGCGGTGCA
+>BPSL2318(glnA) Score=5 Pos=-283 [Burkholderia pseudomallei K96243]
+AGCACCAAATTGGTGTT
+>BMA1743(glnA) Score=4.7 Pos=-312 [Burkholderia mallei ATCC 23344]
+CGCACTAAAGCGGTGCA
+>BMAA1087(narK) Score=5.2 Pos=-273 [Burkholderia mallei ATCC 23344]
+CGCACCAGATCAGTGCT
+>BMAA1087(narK) Score=4 Pos=-294 [Burkholderia mallei ATCC 23344]
+CGCACGCACACAGTGCT
+>BMA1743(glnA) Score=4.9 Pos=-283 [Burkholderia mallei ATCC 23344]
+AGCACCAAATTAGTGTT
+>Bcep18194_A4310(amtB) Score=4.6 Pos=-274 [Burkholderia sp. 383]
+CGCGCCGGAACGGTGCG
+>Bcep18194_B1343(narK) Score=4.5 Pos=-305 [Burkholderia sp. 383]
+CGCACGGGGACAGTGCT
+>Bcep18194_B1343(narK) Score=4.1 Pos=-284 [Burkholderia sp. 383]
+CGCACCACATCTGTGCC
+>Bcep18194_A5458(glnA) Score=4.2 Pos=-242 [Burkholderia sp. 383]
+TGCACCAGCGCGGTGCC
+>Bamb_1085(amtB) Score=4.6 Pos=-255 [Burkholderia cepacia AMMD]
+CGCGCCAGACCGGTGCA
+>Bamb_3937(narK) Score=4.1 Pos=-288 [Burkholderia cepacia AMMD]
+CGCACCACATCTGTGCC
+>Bamb_3937(narK) Score=4 Pos=-309 [Burkholderia cepacia AMMD]
+CGCACGGCGACAGTGCT
+>Bamb_2186(glnA) Score=5.1 Pos=-242 [Burkholderia cepacia AMMD]
+TGCACCATTTCAGTGCG
+>Bcep1808_1116(amtB) Score=4.6 Pos=-253 [Burkholderia vietnamiensis G4]
+CGCACCAGACCGGCGCA
+>Bcep1808_5046(narK) Score=4 Pos=-303 [Burkholderia vietnamiensis G4]
+CGCACGGCGATAGTGCT
+>Bcep1808_5046(narK) Score=4.1 Pos=-282 [Burkholderia vietnamiensis G4]
+CGCACCACATCTGTGCC
+>Bcep1808_2228(glnA) Score=4.8 Pos=-282 [Burkholderia vietnamiensis G4]
+TGCACCGAATCGGCGCT
+>bglu_1g25000(glnA) Score=4.8 Pos=-275 [Burkholderia glumae BGR1]
+CGCATTGATTTGGTGCG
+>bglu_1g25000(glnA) Score=4.6 Pos=-315 [Burkholderia glumae BGR1]
+ATCACCAAAATGGTGCG
+>bglu_2g10010(narK) Score=4.1 Pos=-296 [Burkholderia glumae BGR1]
+CGCACGCGCTTAGTGCT
+>Bxe_A1522(glnA) Score=4.9 Pos=-266 [Burkholderia xenovorans LB400]
+TGCACAAATCTGGTGCG
+>Bxe_A2214(nasD) Score=4 Pos=-284 [Burkholderia xenovorans LB400]
+CGCACCATGCGTGTGCT
+>Bphy_5658(narK) Score=4.6 Pos=-272 [Burkholderia phymatum STM815]
+TGCACCAGCCCAGTGCC
+>Bphy_1481(glnA) Score=4.4 Pos=-273 [Burkholderia phymatum STM815]
+TGCCCTGTGATGGTGCA

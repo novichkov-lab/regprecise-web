@@ -1,0 +1,38 @@
+>Patl_0536(omp1) Score=4.3 Pos=-127 [Pseudoalteromonas atlantica T6c]
+TTTTGACCAGTTAGTCAAAT
+>Patl_0533(udk) Score=5.3 Pos=-180 [Pseudoalteromonas atlantica T6c]
+ACTTGACCATATGGTCCACA
+>Patl_2222(add2) Score=5.5 Pos=-27 [Pseudoalteromonas atlantica T6c]
+GACTGACCATTTGGTCAAAT
+>Patl_2225(omp2) Score=5.7 Pos=-112 [Pseudoalteromonas atlantica T6c]
+ACCTGACCATTTGGACAAGT
+>Patl_2423(rutR) Score=5.9 Pos=-242 [Pseudoalteromonas atlantica T6c]
+ACCAGACCAGTTGGTCAGGT
+>Patl_2421(pbuT) Score=5.2 Pos=-98 [Pseudoalteromonas atlantica T6c]
+GCTAGACTAAATGGTCAGGT
+>Patl_2424(xdhA) Score=5.7 Pos=-91 [Pseudoalteromonas atlantica T6c]
+ACCTGACCAACTGGTCTGGT
+>MADE_02502(omp2) Score=5.2 Pos=-124 [Alteromonas macleodii 'Deep ecotype']
+AGTTGACCAACTGGTTAAGT
+>MADE_00730(udk) Score=4.9 Pos=-183 [Alteromonas macleodii 'Deep ecotype']
+AACTGACCACTTGGAGAACT
+>MADE_02501(pbuT2) Score=5.5 Pos=-353 [Alteromonas macleodii 'Deep ecotype']
+AACAGACCAGTTGGTCAACA
+>MADE_00733(omp1) Score=5.7 Pos=-207 [Alteromonas macleodii 'Deep ecotype']
+ACTTGACCATGTGGTCAGGT
+>MADE_02510(pbuT) Score=5.7 Pos=-71 [Alteromonas macleodii 'Deep ecotype']
+AGTTGACTAATTGGTCAGTT
+>MADE_02515(xdhA) Score=5.8 Pos=-83 [Alteromonas macleodii 'Deep ecotype']
+AATTGACCATTTGGTCTACT
+>CPS_1969(cdd) Score=5.8 Pos=-70 [Colwellia psychrerythraea 34H]
+ACTTGACCATATGGTCAGCA
+>CPS_1974(udk) Score=5.1 Pos=-182 [Colwellia psychrerythraea 34H]
+CTATGACCAACTGGTCAAGT
+>CPS_4864(xdhA) Score=3.5 Pos=-94 [Colwellia psychrerythraea 34H]
+AGCTGACACTTGTGTCAACT
+>ATW7_02067(rutR) Score=5.3 Pos=-61 [Alteromonadales bacterium TW-7]
+AATTGACCTTTCGGTCAGTA
+>ATW7_02017(xdhA) Score=4.9 Pos=-148 [Alteromonadales bacterium TW-7]
+AGTTAACCGATCGGTCAGGC
+>ATW7_02017(xdhA) Score=5.1 Pos=-328 [Alteromonadales bacterium TW-7]
+ACATATCCTTTTGGTCAGGT

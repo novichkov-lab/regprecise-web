@@ -1,0 +1,52 @@
+>BSU25490(hrcA) Score=7.5 Pos=-41 [Bacillus subtilis subsp. subtilis str. 168]
+TTAGCACTCGCTTATTGAGAGTGCTAA
+>BSU06020(groES) Score=7.4 Pos=-62 [Bacillus subtilis subsp. subtilis str. 168]
+TTAGCACTCTTTAGTGCTGAGTGCTAA
+>RBAM_023790(hrcA) Score=7.3 Pos=-41 [Bacillus amyloliquefaciens FZB42]
+TTAGCACTCGCTGACCTTGAGTGCTAA
+>RBAM_006470(groES) Score=7.4 Pos=-62 [Bacillus amyloliquefaciens FZB42]
+TTAGCACTCTTTAGAGCTGAGTGCTAA
+>BPUM_2282(hrcA) Score=7.5 Pos=-41 [Bacillus pumilus SAFR-032]
+TTAGCACTCGTTGAAAGAGAGTGCTAA
+>BPUM_0534(groES) Score=7.5 Pos=-65 [Bacillus pumilus SAFR-032]
+TTAGCACTCACTGGTGATGAGTGCTAA
+>BLi02741(hrcA) Score=7.3 Pos=-41 [Bacillus licheniformis DSM 13]
+TTAGCACTCAGTTGTGCCGAGTGCTAA
+>BLi00623(groES) Score=7.3 Pos=-61 [Bacillus licheniformis DSM 13]
+TTAGCACTCACCGAGTGCGAGTGCTAA
+>Aflv_0833(hrcA) Score=7.4 Pos=-42 [Anoxybacillus flavithermus WK1]
+TTAGCACTCGCTTTGTTAGAGTGCTAA
+>Aflv_0211(groES) Score=7.5 Pos=-64 [Anoxybacillus flavithermus WK1]
+TTAGCACTCGACCGTAATGAGTGCTAA
+>GK2506(hrcA) Score=7.4 Pos=-41 [Geobacillus kaustophilus HTA426]
+TTAGCACTCGAATTGTTCGAGTGCTAA
+>GK0248(groES) Score=7.6 Pos=-69 [Geobacillus kaustophilus HTA426]
+TTAGCACTCAATAGTGATGAGTGCTAA
+>BC4314(hrcA) Score=7.4 Pos=-43 [Bacillus cereus ATCC 14579]
+TTAGCACTCAAAGACAAAGAGTGCTAA
+>BC0294(groES) Score=7.2 Pos=-67 [Bacillus cereus ATCC 14579]
+TTAGCACTCGGATGACTTGAGTGCTAA
+>BH1007(htpG) Score=7.1 Pos=-126 [Bacillus halodurans C-125]
+TTAGCACTCGTTGCTTGCAAGTGCTAA
+>BH1344(hrcA) Score=7.3 Pos=-114 [Bacillus halodurans C-125]
+TTAGCACTCGAACTATGAGAGTGCTAA
+>BH0561(groES) Score=7.5 Pos=-66 [Bacillus halodurans C-125]
+TTAGCACTCGTTTGAAGAGAGTGCTAA
+>ABC0970(htpG) Score=7.5 Pos=-63 [Bacillus clausii KSM-K16]
+TTAGCACTCTAAACAAACGAGTGCTAA
+>ABC1657(hrcA) Score=7.5 Pos=-41 [Bacillus clausii KSM-K16]
+TTAGCACTCGTTGCATTTGAGTGCTAA
+>ABC0881(groES) Score=7.3 Pos=-63 [Bacillus clausii KSM-K16]
+TTAGCACTCATCGAATCCGAGTGCTAA
+>OB3158(htpG) Score=7.6 Pos=-52 [Oceanobacillus iheyensis HTE831]
+TTAGCACTCGTAAGTAGTGAGTGCTAA
+>OB1970(hrcA) Score=7.4 Pos=-41 [Oceanobacillus iheyensis HTE831]
+TTAGCACTCAATAATCAAGAGTGCTAA
+>OB0655(groES) Score=7.5 Pos=-65 [Oceanobacillus iheyensis HTE831]
+TTAGCACTCATCTATGAAGAGTGCTAA
+>Pjdr2_5425(htpG) Score=7 Pos=-64 [Paenibacillus sp. JDR-2]
+TTAGCACTCCAACACGGAGAGTGCTAA
+>Pjdr2_2205(hrcA) Score=7.2 Pos=-62 [Paenibacillus sp. JDR-2]
+TTAGCACTCGGGCCTAATGAGTGCTAA
+>Pjdr2_1050(groES) Score=6.8 Pos=-70 [Paenibacillus sp. JDR-2]
+TTAGCACTTCAAGCTTACGAGTGCTAA

@@ -1,0 +1,106 @@
+>PCNPT3_07900(narQ) Score=3.9 Pos=-122 [Psychromonas sp. CNPT3]
+TACCACTAATGTAGCA
+>PCNPT3_07890(napF) Score=4.1 Pos=-85 [Psychromonas sp. CNPT3]
+TTACCCTAAAGAGGTA
+>PE36_12527(napA) Score=4 Pos=-162 [Moritella sp. PE36]
+TACCTTGTTGGTGGTA
+>PE36_10173(nrfA) Score=4.1 Pos=-171 [Moritella sp. PE36]
+TATTTATATATAGGTA
+>PE36_12557(napF) Score=4.7 Pos=-122 [Moritella sp. PE36]
+TACCCATTAGTGAGTA
+>PE36_12567 Score=3.4 Pos=-118 [Moritella sp. PE36]
+TAATCATTTCTGATTA
+>PE36_21504(adhB) Score=4.1 Pos=-123 [Moritella sp. PE36]
+TACCTCAAAGTGGTTA
+>PE36_10178(nrfB) Score=4.3 Pos=-258 [Moritella sp. PE36]
+TAACTCGTTGTAGGTA
+>PE36_00409(pdhR) Score=4.7 Pos=-185 [Moritella sp. PE36]
+TATCACTTTGGAGGTA
+>PE36_21995(ompW) Score=4.4 Pos=6 [Moritella sp. PE36]
+TACTCATTAGTGAGTA
+>PE36_12527(napA) Score=4.3 Pos=-148 [Moritella sp. PE36]
+TATCACATAAGTGGTA
+>PE36_22040(nqrA) Score=4.4 Pos=-83 [Moritella sp. PE36]
+TACTCATTTTTAGGTA
+>PE36_10848(dcuC) Score=3.7 Pos=-101 [Moritella sp. PE36]
+CTCCCCTTTTTGGGTA
+>PE36_10173(nrfA) Score=4.6 Pos=-259 [Moritella sp. PE36]
+TACTTATTTGGGGATA
+>PE36_10598(nirB) Score=4.5 Pos=-54 [Moritella sp. PE36]
+TATCTCTTAAGTAATA
+>PE36_18239(frdA) Score=4.8 Pos=-50 [Moritella sp. PE36]
+TACCTCTTAGTGGTTA
+>AHA_1584(napF) Score=4.2 Pos=-125 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TATCTCCCTGGTGGTA
+>AHA_1917(dcuC) Score=5 Pos=-121 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCCCTTATTGGATA
+>AHA_4118(nirB) Score=4.4 Pos=-115 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCTATTTATGTATA
+>AHA_4118(nirB) Score=4.7 Pos=-80 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCCCTGAGGGGATA
+>AHA_1942(focA) Score=4.7 Pos=-285 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCTCTTAGGGGGTT
+>AHA_4048(torY) Score=4.8 Pos=-56 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCTCTCAATGGATA
+>AHA_3208(frdA) Score=4.3 Pos=-19 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TATCCCTAAGGAGGCA
+>AHA_2464(nrfA) Score=4.5 Pos=-160 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCCATTTGGTAATA
+>AHA_1136(nqrA) Score=4.8 Pos=-297 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCTATTTTTGGGTA
+>AHA_0431(nhaP) Score=4.4 Pos=-100 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACTCATAAATAGGTA
+>AHA_3953(ompW) Score=4.3 Pos=-107 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TATCTATTTCTTGGTA
+>AHA_0251(napF2) Score=4.6 Pos=-28 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TAACCCCTAATAGGTA
+>AHA_0565(pckA) Score=4.7 Pos=-66 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCACCTAAGTGATA
+>AHA_1485(dcuB) Score=4.7 Pos=-90 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TAACCCTTTAGGGCTA
+>AHA_3208(frdA) Score=4 Pos=-315 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TAATTCTTATTAAATA
+>AHA_4048(torY) Score=4.4 Pos=-42 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACTACTATATTGGTA
+>AHA_2526(hybO) Score=4.9 Pos=-205 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCCCCTAGTGGGTA
+>AHA_3864(pdhR) Score=4.8 Pos=-124 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCCCTTAAGTGGCA
+>AHA_1463(adhB) Score=4.8 Pos=-33 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TACCACTTAATGGCTA
+>ASA_2321(nrfA) Score=4.5 Pos=-159 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCATTTGGTAATA
+>ASA_1105(frdA) Score=4.3 Pos=-19 [Aeromonas salmonicida subsp. salmonicida A449]
+TATCCCTAAGGAGGCA
+>ASA_2351(focA) Score=4.4 Pos=-286 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCCTAAGGGGATT
+>ASA_3199(nqrA) Score=4.8 Pos=-296 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCATTTTGGGGTA
+>ASA_2902(adhB) Score=4.8 Pos=-33 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCACTTAATGGCTA
+>ASA_2773(napF) Score=4.2 Pos=-82 [Aeromonas salmonicida subsp. salmonicida A449]
+TATCTCCCTGGTGGTA
+>ASA_3913(nhaP) Score=4.4 Pos=-101 [Aeromonas salmonicida subsp. salmonicida A449]
+TACTCATAAATAGGTA
+>ASA_4147(napF2) Score=4.6 Pos=-22 [Aeromonas salmonicida subsp. salmonicida A449]
+TAACCCCTAATAGGTA
+>ASA_2882(dcuB) Score=4.7 Pos=-89 [Aeromonas salmonicida subsp. salmonicida A449]
+TAACCCTTTAGGGCTA
+>ASA_1788(hybO) Score=4.8 Pos=-206 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCCCTTGTGGATA
+>ASA_0266(torY) Score=4.4 Pos=-42 [Aeromonas salmonicida subsp. salmonicida A449]
+TACTACTATATTGGTA
+>ASA_0418(pdhR) Score=4.8 Pos=-124 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCCTTAAGTGGCA
+>ASA_3771(pckA) Score=4.7 Pos=-66 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCACCTAAGTGATA
+>ASA_0266(torY) Score=4.1 Pos=-56 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCTCTCTCTAGCTA
+>ASA_1105(frdA) Score=4 Pos=-315 [Aeromonas salmonicida subsp. salmonicida A449]
+TAATTCTTATTAAATA
+>ASA_2368(dcuC) Score=4.9 Pos=-122 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCCTTATTAGATA
+>ASA_0196(nirB) Score=4.4 Pos=-148 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCTATTTATGTATA
+>ASA_0196(nirB) Score=4.6 Pos=-113 [Aeromonas salmonicida subsp. salmonicida A449]
+TACCCCTGAGGAGATA

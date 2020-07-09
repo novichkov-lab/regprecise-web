@@ -1,0 +1,52 @@
+>SYNPCC7002_A0426(recA) Score=4.3 Pos=-64 [Synechococcus sp. PCC 7002]
+AGTACGATTGAACT
+>SYNPCC7002_A0119(ssb) Score=3.9 Pos=-25 [Synechococcus sp. PCC 7002]
+AGAACAGTTGTATG
+>cce_1899(lexA) Score=4.7 Pos=-32 [Cyanothece sp. ATCC 51142]
+AGTACCCATGTTCT
+>cce_4639(recA) Score=4.8 Pos=-47 [Cyanothece sp. ATCC 51142]
+AATACTTTTGTACT
+>cce_3128(SYNPCC7002_A0856) Score=3.8 Pos=-34 [Cyanothece sp. ATCC 51142]
+ACTACACTTATATT
+>PCC8801_1259(SYNPCC7002_A0856) Score=4.4 Pos=-47 [Cyanothece sp. PCC 8801]
+ACTACACTTGTATT
+>PCC8801_2186(lexA) Score=4.3 Pos=-75 [Cyanothece sp. PCC 8801]
+AGTACTTATGTTCG
+>Cyan7425_1469(ssb) Score=4.1 Pos=-18 [Cyanothece sp. PCC 7425]
+AGTACAGGTAAACT
+>Cyan7425_1233(lexA) Score=4.5 Pos=-131 [Cyanothece sp. PCC 7425]
+GATACAAGTGTTCT
+>Cyan7425_1671(recA) Score=4.5 Pos=-39 [Cyanothece sp. PCC 7425]
+AGTACGGATATACT
+>Cyan7425_4886(SYNPCC7002_A0856) Score=4.4 Pos=-52 [Cyanothece sp. PCC 7425]
+ACTACACTTGTATT
+>MAE_39060(ssb) Score=4.3 Pos=-33 [Microcystis aeruginosa NIES-843]
+CATACTATTGTACT
+>MAE_16070(recA) Score=4.6 Pos=-40 [Microcystis aeruginosa NIES-843]
+CATACTGCTGTACT
+>alr0088(ssb) Score=5.1 Pos=-28 [Nostoc sp. PCC 7120]
+AGTACTTATGTACT
+>alr4908(lexA) Score=4.8 Pos=-47 [Nostoc sp. PCC 7120]
+AGTACTAATGTTCT
+>all3272(recA) Score=4.6 Pos=-66 [Nostoc sp. PCC 7120]
+AGTATATCTGTTCT
+>all0854(SYNPCC7002_A0856) Score=4.4 Pos=-46 [Nostoc sp. PCC 7120]
+ACTACACTTGTATT
+>all4790 Score=4 Pos=-45 [Nostoc sp. PCC 7120]
+CGTACATTTGTACC
+>PMT0635(umuD) Score=4.4 Pos=-20 [Prochlorococcus marinus str. MIT 9313]
+GGAACGGGTGTACT
+>PMT0638(umuC) Score=4.5 Pos=-52 [Prochlorococcus marinus str. MIT 9313]
+AGTATCTTTGTACT
+>PMT0380(lexA) Score=4.6 Pos=-28 [Prochlorococcus marinus str. MIT 9313]
+GGTACACATGTATT
+>PMT1727(recA) Score=4.9 Pos=-145 [Prochlorococcus marinus str. MIT 9313]
+GGTACGTCTGTACT
+>CYA_0805(SYNPCC7002_A0856) Score=3.7 Pos=-39 [Synechococcus sp. JA-3-3Ab]
+GCTACAGGAGTAGT
+>SYNW1044(umuD) Score=4.6 Pos=-39 [Synechococcus sp. WH 8102]
+AATACATCAGTACT
+>SYNW2062(recA) Score=4.7 Pos=-78 [Synechococcus sp. WH 8102]
+CGTACGCCTGTACT
+>gll1134(SYNPCC7002_A0856) Score=4.2 Pos=-45 [Gloeobacter violaceus PCC 7421]
+ACTACGGCTATACT

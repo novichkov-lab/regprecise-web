@@ -1,0 +1,14 @@
+>SAS065(hld) Score=8.3 Pos=-103 [Staphylococcus aureus subsp. aureus N315]
+ACAGTTAAG------------CTAGTTAAG
+>SA1842(agrB) Score=9 Pos=-91 [Staphylococcus aureus subsp. aureus N315]
+ACAGTTAAG------------ACAGTTAGG
+>STACA0001_2130(agrB) Score=8.7 Pos=-92 [Staphylococcus capitis SK14]
+ACACTTAGG------------ACAGTTAGG
+>SE1635(agrB) Score=8.7 Pos=-92 [Staphylococcus epidermidis ATCC 12228]
+ACACTTAGG------------ACAGTTAGG
+>Sca_1545(agrB) Score=8.5 Pos=-88 [Staphylococcus carnosus subsp. carnosus TM300]
+ACAGTTAGG------------ACAGTTGGG
+>SH0996(agrB) Score=9 Pos=-91 [Staphylococcus haemolyticus JCSC1435]
+ACAGTTAAG------------ACAGTTAAG
+>SSP0842(agrB) Score=9 Pos=-89 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ACAGTTAGG------------ACAGTTAAG

@@ -1,0 +1,90 @@
+>b1852(zwf) Score=5.4 Pos=-64 [Escherichia coli str. K-12 substr. MG1655]
+CCGTAAGAAAATTACAA
+>b1853(hexR) Score=5.4 Pos=-290 [Escherichia coli str. K-12 substr. MG1655]
+TTGTAATTTTCTTACGG
+>b0699(ybfA) Score=5.6 Pos=-164 [Escherichia coli str. K-12 substr. MG1655]
+GTGTAACTTAATTACAG
+>STM1886(zwf) Score=5.8 Pos=-62 [Salmonella typhimurium LT2]
+GTGTAATAAAATTACAA
+>STM1887(hexR) Score=5.8 Pos=-296 [Salmonella typhimurium LT2]
+TTGTAATTTTATTACAC
+>STM0708(ybfA) Score=4.8 Pos=-187 [Salmonella typhimurium LT2]
+TTGTAACTAATTTACGC
+>STM3500(pckA) Score=5.1 Pos=-258 [Salmonella typhimurium LT2]
+ACGTAACTTTCTTACAT
+>CKO_01113(zwf) Score=5.9 Pos=-63 [Citrobacter koseri ATCC BAA-895]
+TTGTAATAAAATTACAA
+>CKO_01111(hexR) Score=5.9 Pos=-311 [Citrobacter koseri ATCC BAA-895]
+TTGTAATTTTATTACAA
+>CKO_02461(ybfA) Score=5.7 Pos=-61 [Citrobacter koseri ATCC BAA-895]
+ATGTAACTTAATTACAG
+>CKO_04825(pckA) Score=4.9 Pos=-258 [Citrobacter koseri ATCC BAA-895]
+TCGTAAATTTCTTACAT
+>KPN_02367(zwf) Score=5.6 Pos=-62 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GTGTAAGAAAATTACAA
+>KPN_02368(hexR) Score=5.6 Pos=-292 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTGTAATTTTCTTACAC
+>KPN_00718(ybfA) Score=4.6 Pos=-159 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TCGTAACTAATTTACGT
+>KPN_03773(pckA) Score=4.9 Pos=-259 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ACGTAATTTAATTTCAG
+>Ent638_2421(zwf) Score=5.9 Pos=-63 [Enterobacter sp. 638]
+TTGTAATAAAATTACAA
+>Ent638_2422(hexR) Score=5.9 Pos=-312 [Enterobacter sp. 638]
+TTGTAATTTTATTACAA
+>Ent638_1211(ybfA) Score=5.4 Pos=-161 [Enterobacter sp. 638]
+TCGTAACTTAATTACAG
+>Ent638_3816(pckA) Score=5.1 Pos=-258 [Enterobacter sp. 638]
+ACGTAACTTTCTTACAT
+>y2244(zwf) Score=5.7 Pos=-50 [Yersinia pestis KIM]
+ATGTAAGAAAATTACAA
+>y2244(zwf) Score=4.8 Pos=-184 [Yersinia pestis KIM]
+ACGTCATAAAATTACAT
+>y2245(hexR) Score=5.7 Pos=-328 [Yersinia pestis KIM]
+TTGTAATTTTCTTACAT
+>y2245(hexR) Score=4.8 Pos=-194 [Yersinia pestis KIM]
+ATGTAATTTTATGACGT
+>y1267(ybfA) Score=5 Pos=-60 [Yersinia pestis KIM]
+ACGTAACAAAATTACGA
+>Spro_4783(ppc) Score=5 Pos=-51 [Serratia proteamaculans 568]
+GTGAAATTTACTTACAA
+>Spro_2768(zwf) Score=5.7 Pos=-41 [Serratia proteamaculans 568]
+ATGTAAGAAAATTACAA
+>Spro_4783(ppc) Score=4.8 Pos=-166 [Serratia proteamaculans 568]
+GCGTAATTAAATTTCAG
+>Spro_2769(hexR) Score=5.7 Pos=-328 [Serratia proteamaculans 568]
+TTGTAATTTTCTTACAT
+>Spro_1250(ybfA) Score=5.2 Pos=-188 [Serratia proteamaculans 568]
+GTGTAACAAAATTACGT
+>ECA2479(zwf) Score=5.8 Pos=-40 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CTGTAATAAAATTACAG
+>ECA0187(ppc) Score=5.2 Pos=-174 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGTAATTAAATTTCAC
+>ECA0187(ppc) Score=5 Pos=-43 [Erwinia carotovora subsp. atroseptica SCRI1043]
+GTGAAATAAACTTACAA
+>ECA2480(hexR) Score=4.6 Pos=-29 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGGAAAAAACTTACAT
+>ECA1344(ybfA) Score=4.8 Pos=-176 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTGTAACTTAATGACGT
+>ETAE_1449(zwf) Score=5.4 Pos=-40 [Edwardsiella tarda EIB202]
+CTGTAAAAAAATTACAA
+>ETAE_3484(ppc) Score=4.8 Pos=-151 [Edwardsiella tarda EIB202]
+GCGTAATTAAATTTCAG
+>ETAE_1448(hexR) Score=5.4 Pos=-329 [Edwardsiella tarda EIB202]
+TTGTAATTTTTTTACAG
+>PMI1157(zwf) Score=5.7 Pos=-41 [Proteus mirabilis HI4320]
+ATGTAACAAAATTACAA
+>PMI3227(ppc) Score=4.9 Pos=-205 [Proteus mirabilis HI4320]
+CCGTAATTAAATTTCAG
+>PMI3227(ppc) Score=4.7 Pos=-89 [Proteus mirabilis HI4320]
+ATGAAAATTAATTACAC
+>PMI1156(hexR) Score=5.7 Pos=-330 [Proteus mirabilis HI4320]
+TTGTAATTTTGTTACAT
+>PMI0555(ybfA) Score=5 Pos=-130 [Proteus mirabilis HI4320]
+GTGAAATTTAATTACAC
+>plu2122(zwf) Score=5.7 Pos=-40 [Photorhabdus luminescens subsp. laumondii TTO1]
+CTGTAACAAAATTACAA
+>plu2121(hexR) Score=5.7 Pos=-321 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTGTAATTTTGTTACAG
+>plu1423(ybfA) Score=5.8 Pos=-165 [Photorhabdus luminescens subsp. laumondii TTO1]
+ATGTAATAAAATTACAT

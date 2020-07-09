@@ -1,0 +1,40 @@
+>MAB_1499(COG0665) Score=6.4 Pos=-32 [Mycobacterium abscessus ATCC 19977]
+ATTGGTCTAGACCAAT
+>MAB_1499(COG0665) Score=6.4 Pos=-79 [Mycobacterium abscessus ATCC 19977]
+ATTGGTCTATACCAAT
+>MAB_1498c(phnF) Score=6.4 Pos=-151 [Mycobacterium abscessus ATCC 19977]
+ATTGGTATAGACCAAT
+>MAB_1498c(phnF) Score=6.4 Pos=-198 [Mycobacterium abscessus ATCC 19977]
+ATTGGTCTAGACCAAT
+>MSMEG_6668(phnS) Score=6 Pos=-135 [Mycobacterium smegmatis str. MC2 155]
+ATTGGTCTATACCAAA
+>MSMEG_0288(COG0665) Score=6.4 Pos=-97 [Mycobacterium smegmatis str. MC2 155]
+ATTGGTCTATACCAAT
+>MSMEG_0649(phnD) Score=5.4 Pos=-98 [Mycobacterium smegmatis str. MC2 155]
+GTTGGTATAGACCACC
+>MSMEG_0649(phnD) Score=5.4 Pos=-156 [Mycobacterium smegmatis str. MC2 155]
+GCTGGTATAGACCAAG
+>MSMEG_0650(phnF2) Score=5.4 Pos=-42 [Mycobacterium smegmatis str. MC2 155]
+CTTGGTCTATACCAGC
+>MSMEG_0650(phnF2) Score=5.4 Pos=-100 [Mycobacterium smegmatis str. MC2 155]
+GGTGGTCTATACCAAC
+>MSMEG_0287(COG4341) Score=6.4 Pos=-34 [Mycobacterium smegmatis str. MC2 155]
+ATTGGTATAGACCAAT
+>Mjls_1318(COG0665) Score=6.4 Pos=-89 [Mycobacterium sp. JLS]
+ATTGGTCTATACCAAT
+>Mjls_1319(phnX) Score=6 Pos=-90 [Mycobacterium sp. JLS]
+ATTGGTATAGACCAGT
+>Mjls_1319(phnX) Score=4.3 Pos=-32 [Mycobacterium sp. JLS]
+ATTGGCCCAGACCACA
+>Mjls_1317(COG4341) Score=6.4 Pos=-34 [Mycobacterium sp. JLS]
+ATTGGTATAGACCAAT
+>Mvan_0054(COG0665) Score=6.4 Pos=-91 [Mycobacterium vanbaalenii PYR-1]
+ATTGGTCTATACCAAT
+>Mvan_5734(phnS) Score=6.4 Pos=-135 [Mycobacterium vanbaalenii PYR-1]
+ATTGGTCTATACCAAT
+>Mvan_2906(phnE) Score=4.5 Pos=-122 [Mycobacterium vanbaalenii PYR-1]
+ATGGGTATCTACCAGC
+>Mvan_2904(phnD) Score=6 Pos=-208 [Mycobacterium vanbaalenii PYR-1]
+ATTGGTATAGACCAAA
+>Mvan_0055(COG4341) Score=6.4 Pos=-15 [Mycobacterium vanbaalenii PYR-1]
+ATTGGTATAGACCAAT

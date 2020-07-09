@@ -1,0 +1,40 @@
+>cce_3126(ahpC) Score=5.8 Pos=-63 [Cyanothece sp. ATCC 51142]
+TAAGAATTATTCTGA
+>cce_3031(isiB) Score=5.7 Pos=-64 [Cyanothece sp. ATCC 51142]
+TGAGAATTATTCTAA
+>cce_3127(perR) Score=5.6 Pos=-134 [Cyanothece sp. ATCC 51142]
+TCAGAATAATTCTTA
+>slr1738(perR) Score=5.3 Pos=-233 [Synechocystis sp. PCC 6803]
+TCAGAATAGTTCTGA
+>slr1738(perR) Score=4.8 Pos=-181 [Synechocystis sp. PCC 6803]
+TTATAATTATTCTAT
+>sll1621(ahpC) Score=4.7 Pos=-144 [Synechocystis sp. PCC 6803]
+ATAGAATAATTATAA
+>sll1621(ahpC) Score=5.4 Pos=-92 [Synechocystis sp. PCC 6803]
+TCAGAACTATTCTGA
+>SYNPCC7002_A1292(isiA) Score=4.9 Pos=-273 [Synechococcus sp. PCC 7002]
+TGAGAATAATTGTAG
+>SYNPCC7002_A0793(ahpC) Score=5.5 Pos=-79 [Synechococcus sp. PCC 7002]
+TAAGAATTATTCTGG
+>Cyan7425_1596(ahpC) Score=4.8 Pos=-138 [Cyanothece sp. PCC 7425]
+TTAGTATAATTCTCA
+>Cyan7425_1596(ahpC) Score=5.5 Pos=-86 [Cyanothece sp. PCC 7425]
+TCAGAATTATTCTGG
+>Cyan7425_1597(perR) Score=5.2 Pos=-138 [Cyanothece sp. PCC 7425]
+CCAGAATAATTCTGA
+>Cyan7425_1597(perR) Score=5.2 Pos=-86 [Cyanothece sp. PCC 7425]
+TGAGAATTATACTAA
+>Cyan7425_2434(isiA) Score=4.9 Pos=-95 [Cyanothece sp. PCC 7425]
+TGAGAAAGATTCTGA
+>Synpcc7942_1649(rub) Score=5.2 Pos=-45 [Synechococcus elongatus PCC 7942]
+TAAGACTTATTCTTA
+>Synpcc7942_1542(isiA) Score=5.2 Pos=-43 [Synechococcus elongatus PCC 7942]
+TGAGAATTATTGTAA
+>Synpcc7942_1648(perR) Score=5.1 Pos=-119 [Synechococcus elongatus PCC 7942]
+TAAGAATAAGTCTTA
+>glr3734(rub) Score=4.4 Pos=-62 [Gloeobacter violaceus PCC 7421]
+ATAGAACGATTCTTA
+>glr3734(rub) Score=4.6 Pos=-45 [Gloeobacter violaceus PCC 7421]
+TAAGACTTGTTCTAG
+>glr3733(perR) Score=4.9 Pos=-56 [Gloeobacter violaceus PCC 7421]
+TTAGATCTATTCTAA

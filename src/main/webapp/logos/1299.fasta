@@ -1,0 +1,36 @@
+>BSU34190(lutP) Score=6.1 Pos=-78 [Bacillus subtilis subsp. subtilis str. 168]
+CCAGTCATCAGATGATCAT
+>BSU34050(lutA) Score=6.5 Pos=-51 [Bacillus subtilis subsp. subtilis str. 168]
+CAGGTCATCAGATGACCTG
+>BSU34180(lutR) Score=5.3 Pos=-230 [Bacillus subtilis subsp. subtilis str. 168]
+ATGATCATCTGATGACTGG
+>RBAM_031470(lutA) Score=6.4 Pos=-51 [Bacillus amyloliquefaciens FZB42]
+CAGGTCATCAGATGACCAG
+>RBAM_031490(lutR) Score=6.3 Pos=-157 [Bacillus amyloliquefaciens FZB42]
+AAGGTCATCTGATGACCGG
+>RBAM_031500(lutP) Score=6.4 Pos=-67 [Bacillus amyloliquefaciens FZB42]
+CCGGTCATCAGATGACCTT
+>BPUM_1672(lutA) Score=5 Pos=-59 [Bacillus pumilus SAFR-032]
+TTCGTCATCAGAGGACCAA
+>BLi03676(lutR) Score=5.9 Pos=-171 [Bacillus licheniformis DSM 13]
+CTAGTCATCTGATGACATG
+>BLi03677(lutP) Score=5.7 Pos=-55 [Bacillus licheniformis DSM 13]
+CATGTCATCAGATGACTAG
+>Aflv_2009(lutA) Score=5.6 Pos=-83 [Anoxybacillus flavithermus WK1]
+TTAATCATCAGATGACCGG
+>Aflv_2011(lutP) Score=5.1 Pos=-73 [Anoxybacillus flavithermus WK1]
+ATACTCATCAGATGATTGT
+>Aflv_2010(lutR) Score=4.9 Pos=-112 [Anoxybacillus flavithermus WK1]
+ACAATCATCTGATGAGTAT
+>GK0395(lutA) Score=6.3 Pos=-52 [Geobacillus kaustophilus HTA426]
+ATAGTCATCAGATGACCCG
+>GK0398(lutP) Score=5.9 Pos=-93 [Geobacillus kaustophilus HTA426]
+CCGGTCATCTGATGACTGG
+>BC1303(lutA) Score=6.3 Pos=-59 [Bacillus cereus ATCC 14579]
+TAAGTCATCTGATGACCAT
+>BH1831(lutP) Score=6.2 Pos=-54 [Bacillus halodurans C-125]
+TAAGTCATCTGATGACCTA
+>ABC0974(lutP) Score=6.4 Pos=-53 [Bacillus clausii KSM-K16]
+ATAGTCATCTGATGACCAT
+>OB0368(lutP) Score=6.5 Pos=-71 [Oceanobacillus iheyensis HTE831]
+AAGGTCATCAGATGACCTT

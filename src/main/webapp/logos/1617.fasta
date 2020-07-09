@@ -1,0 +1,30 @@
+>Gmet_0842(bioF) Score=8.4 Pos=-65 [Geobacter metallireducens GS-15]
+TTGTCAACC--------------GGTTGACGA
+>Gmet_1582(bioB) Score=7.9 Pos=-75 [Geobacter metallireducens GS-15]
+TTGTTAACC--------------AGTTGACAA
+>GSU2629(bioF) Score=8.4 Pos=-87 [Geobacter sulfurreducens PCA]
+TTGTCAACC--------------GGTTGACGA
+>GSU1584(bioB) Score=8.6 Pos=-79 [Geobacter sulfurreducens PCA]
+TTGTCAACC--------------AGTTGACAA
+>Gura_2242(bioB) Score=8.4 Pos=-74 [Geobacter uraniumreducens Rf4]
+TCGTCAACC--------------GGTTGACAA
+>Gura_3246(bioF) Score=7.7 Pos=-94 [Geobacter uraniumreducens Rf4]
+TTGTTAACC--------------GGTTGACGA
+>Geob_3008(bioB) Score=8.4 Pos=-74 [Geobacter sp. FRC-32]
+TCGTCAACC--------------GGTTGACAA
+>Geob_2084(bioF) Score=7.1 Pos=-90 [Geobacter sp. FRC-32]
+TCGTTAACC--------------GGTTGACGA
+>GM21_2164(bioB) Score=8.4 Pos=-72 [Geobacter sp. M21]
+TCGTCAACC--------------GGTTGACAA
+>GM21_3430(bioF) Score=8.4 Pos=-102 [Geobacter sp. M21]
+TTGTCAACC--------------GGTTGACGA
+>Glov_1662(bioF) Score=7.9 Pos=-32 [Geobacter lovleyi SZ]
+TTGTCAACT--------------GGTTAACAA
+>Glov_2370(bioB) Score=9 Pos=-63 [Geobacter lovleyi SZ]
+TTGTCAACC--------------GGTTGACAA
+>Ppro_2093(bioF) Score=8 Pos=-42 [Pelobacter propionicus DSM 2379]
+TTGTCAACT--------------GGTTGACCA
+>Pcar_1666(bioW) Score=8.2 Pos=-62 [Pelobacter carbinolicus str. DSM 2380]
+ATGTCAACC--------------TGTTGACAA
+>Pcar_1458(bioB) Score=8.4 Pos=-137 [Pelobacter carbinolicus str. DSM 2380]
+TTGTCAACC--------------TGTTGACAA

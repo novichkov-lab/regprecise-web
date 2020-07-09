@@ -1,0 +1,44 @@
+>lin1996(COG3469) Score=5.4 Pos=-123 [Listeria innocua Clip11262]
+GAATTGGTCTATATCAATTT
+>lin0955(nagA) Score=6 Pos=-39 [Listeria innocua Clip11262]
+TAATTGGTATAGACCGATTT
+>lin0825(fbp) Score=5 Pos=-95 [Listeria innocua Clip11262]
+CTTTTTGTATAGACCAATAA
+>lin1606(pfk) Score=4.7 Pos=-203 [Listeria innocua Clip11262]
+TCACAAGTATAGACCAATTA
+>lin1606(pfk) Score=5.1 Pos=-149 [Listeria innocua Clip11262]
+GAAATGGAATAGACCGATAT
+>lmo1883(COG3469) Score=5.8 Pos=-123 [Listeria monocytogenes EGD-e]
+AAATTGGTCTATATCAATTT
+>lmo0956(nagA) Score=6 Pos=-39 [Listeria monocytogenes EGD-e]
+TAATTGGTATAGACCGATTT
+>lmo0830(fbp) Score=5 Pos=-95 [Listeria monocytogenes EGD-e]
+TTTTTTGTATAGACCAATTG
+>lmo1571(pfk) Score=4.7 Pos=-202 [Listeria monocytogenes EGD-e]
+TCACAAGTATAGACCAATTA
+>lmo1571(pfk) Score=3.9 Pos=-242 [Listeria monocytogenes EGD-e]
+TCTTTGGTATATGCCAAACG
+>lmo1571(pfk) Score=5.2 Pos=-149 [Listeria monocytogenes EGD-e]
+AAATCGGAATAGACCGGTTT
+>lse_1866(COG3469) Score=5.8 Pos=-139 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+AAATTGGTCTATATCAATTT
+>lse_0858(nagA) Score=6 Pos=-39 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TAATTGGTATAGACCGATTT
+>lse_0730(fbp) Score=5 Pos=-95 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+CTTTTTGTATAGACCAATAT
+>lse_1486(pfk) Score=4.3 Pos=-203 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+TCACAAGTATAGACCAATTC
+>lse_1486(pfk) Score=4.4 Pos=-149 [Listeria seeligeri serovar 1/2b str. SLCC3954]
+CGATTGGGATAGTCCAATAT
+>lwe1902(COG3469) Score=5.4 Pos=-123 [Listeria welshimeri serovar 6b str. SLCC5334]
+GAATTGGTCTATATCAATTT
+>lwe0938(nagA) Score=6 Pos=-39 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAATTGGTATAGACCGATTT
+>lwe0821(fbp) Score=5.1 Pos=-95 [Listeria welshimeri serovar 6b str. SLCC5334]
+CTTTTTGTATAGACCAATTT
+>lwe1584(pfk) Score=4.8 Pos=-244 [Listeria welshimeri serovar 6b str. SLCC5334]
+TCATTGGTATACACCAAAGA
+>lwe1584(pfk) Score=4.5 Pos=-203 [Listeria welshimeri serovar 6b str. SLCC5334]
+TCACAAGTATAGACCGATTA
+>lwe1584(pfk) Score=5.1 Pos=-149 [Listeria welshimeri serovar 6b str. SLCC5334]
+TAATAGGAATAGACCAATAC

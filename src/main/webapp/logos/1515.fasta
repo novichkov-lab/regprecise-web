@@ -1,0 +1,38 @@
+>cce_3556(arsR) Score=4.1 Pos=-99 [Cyanothece sp. ATCC 51142]
+ATTATGATTAATTGAT
+>cce_3000(arsB) Score=5.5 Pos=-40 [Cyanothece sp. ATCC 51142]
+ATCAAATTAATTTGAT
+>cce_3000(arsB) Score=6 Pos=-11 [Cyanothece sp. ATCC 51142]
+ATCAAGTTTTTTTGAT
+>Cyan7425_0671(arsR) Score=4.7 Pos=-14 [Cyanothece sp. PCC 7425]
+TTCAAGTAAAGTTGAT
+>PCC8801_2322(arsR) Score=4.2 Pos=-231 [Cyanothece sp. PCC 8801]
+ATGAAATTACGGTGAT
+>PCC8801_2321(arsB) Score=5.9 Pos=-129 [Cyanothece sp. PCC 8801]
+ATCAATTTTTTTTGAT
+>MAE_02570(arsR) Score=4.9 Pos=-67 [Microcystis aeruginosa NIES-843]
+ATAAAGTTTTGTTGCA
+>MAE_02560(arsB) Score=5 Pos=-122 [Microcystis aeruginosa NIES-843]
+ATCAAGATTTTTAGAA
+>MAE_02560(arsB) Score=5.5 Pos=-69 [Microcystis aeruginosa NIES-843]
+ATCAACTTTTTTTGAA
+>PMT1001(arsR) Score=5.2 Pos=-94 [Prochlorococcus marinus str. MIT 9313]
+ATCAAAATATCTTGAT
+>PMT1001(arsR) Score=4.3 Pos=-76 [Prochlorococcus marinus str. MIT 9313]
+ATCAACCATAGTCGAT
+>Synpcc7942_0688(arsR) Score=4 Pos=-93 [Synechococcus elongatus PCC 7942]
+ATCAATTGCACTTGCA
+>CYA_1717(arsB) Score=5.1 Pos=-48 [Synechococcus sp. JA-3-3Ab]
+AACAAGTTGTTTTGAT
+>SYNPCC7002_A0590(arsR) Score=5.7 Pos=-19 [Synechococcus sp. PCC 7002]
+ATCAATTATTTTTGAT
+>SYNPCC7002_A0589(arsB) Score=5.9 Pos=-55 [Synechococcus sp. PCC 7002]
+ATCAATTTTTTTTGAT
+>SYNW0798(arsR) Score=5.6 Pos=-46 [Synechococcus sp. WH 8102]
+ATCAAATTATGTTGAT
+>slr0944(arsB) Score=6 Pos=-53 [Synechocystis sp. PCC 6803]
+ATCAAGTTTTTTTGAT
+>slr0944(arsB) Score=6 Pos=-24 [Synechocystis sp. PCC 6803]
+ATCAAGTTTTTTTGAT
+>sll1957(arsR) Score=4.8 Pos=-40 [Synechocystis sp. PCC 6803]
+ATAAATTATTTTTAAT

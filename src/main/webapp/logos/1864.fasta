@@ -1,0 +1,40 @@
+>VC1205(hutI) Score=5.4 Pos=-45 [Vibrio cholerae O1 biovar eltor str. N16961]
+TTATTTGTATATACATTTGA
+>VC1206(hutC) Score=4.1 Pos=-40 [Vibrio cholerae O1 biovar eltor str. N16961]
+TGATTTGTCTATGCAAATGA
+>VV1_2392(hutI) Score=5.8 Pos=-47 [Vibrio vulnificus CMCP6]
+TTATTTGTATATACATTTAG
+>VV1_2393(hutC) Score=4.8 Pos=-30 [Vibrio vulnificus CMCP6]
+CTATTTGTATAGTCAATTAG
+>VIBHAR_02075(hutI) Score=6 Pos=-47 [Vibrio harveyi ATCC BAA-1116]
+TTATTTGTATATACATTTAA
+>VIBHAR_02076(hutC) Score=5 Pos=-32 [Vibrio harveyi ATCC BAA-1116]
+CTATTTGTATAGTCAATTAA
+>VP1276(hutI) Score=6 Pos=-48 [Vibrio parahaemolyticus RIMD 2210633]
+TTATTTGTATATACATTTAA
+>VP1277(hutC) Score=4.6 Pos=-32 [Vibrio parahaemolyticus RIMD 2210633]
+GTATTTGTATAGTCAATTTA
+>VSAK1_17057(hutI) Score=5.7 Pos=-34 [Vibrio shilonii AK1]
+ATATTTGTATATACAATAAA
+>VSAK1_17047(hutC) Score=4.6 Pos=-38 [Vibrio shilonii AK1]
+CCATTTGTATATTCAATTTA
+>VS_1219(hutI) Score=6 Pos=-38 [Vibrio splendidus LGP32]
+TTATTTGTATATACATTTAA
+>VS_1220(hutC) Score=4.9 Pos=-29 [Vibrio splendidus LGP32]
+CTATTTGTATAGTCAAATAA
+>VF_A0453(hutI) Score=5.7 Pos=-59 [Vibrio fischeri ES114]
+TTATTTGTATATACATATAG
+>VF_A0454(hutC) Score=4.9 Pos=-33 [Vibrio fischeri ES114]
+TTATTTGTATAGTCAATTTA
+>VSAL_II0705(hutI) Score=5.5 Pos=-52 [Vibrio salmonicida LFI1238]
+TTATTTGTATATACATATTA
+>VSAL_II0704(hutC) Score=4.9 Pos=-33 [Vibrio salmonicida LFI1238]
+TTATTTGTATAGTCAATTTA
+>VAS14_08550(hutI) Score=5.1 Pos=-40 [Vibrio angustum S14]
+ACATTTGTATAGACATTTAA
+>VAS14_08555(hutC) Score=4.5 Pos=-34 [Vibrio angustum S14]
+TAATTTGTATATACACAATA
+>PBPRA2170(hutI) Score=5.3 Pos=-68 [Photobacterium profundum SS9]
+TTATTTGTATATACATATTG
+>PBPRA2169(hutC) Score=5.2 Pos=-32 [Photobacterium profundum SS9]
+TTATTTGTATAGGCAATTAT

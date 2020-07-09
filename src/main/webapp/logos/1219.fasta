@@ -1,0 +1,52 @@
+>BSU24090(ptb) Score=5.6 Pos=-132 [Bacillus subtilis subsp. subtilis str. 168]
+TGCAATAATTTGCA
+>BSU24100(bkdR) Score=5.6 Pos=-61 [Bacillus subtilis subsp. subtilis str. 168]
+TGCAAATTATTGCA
+>BSU24100(bkdR) Score=4.7 Pos=-31 [Bacillus subtilis subsp. subtilis str. 168]
+TGCAAATTTTTTCA
+>RBAM_022370(ptb) Score=5.8 Pos=-130 [Bacillus amyloliquefaciens FZB42]
+TGCAATAAATTGCA
+>RBAM_022380(bkdR) Score=4.7 Pos=-31 [Bacillus amyloliquefaciens FZB42]
+TGCAAATTTTTTCA
+>RBAM_022380(bkdR) Score=5.6 Pos=-61 [Bacillus amyloliquefaciens FZB42]
+TGCAAATTATTGCA
+>BPUM_2149(bkdR) Score=5.6 Pos=-61 [Bacillus pumilus SAFR-032]
+TGCAATTTTTTGCA
+>BPUM_2148(ptb) Score=4.8 Pos=-113 [Bacillus pumilus SAFR-032]
+TGCAAAAAGTTGCG
+>BPUM_2148(ptb) Score=5.4 Pos=-134 [Bacillus pumilus SAFR-032]
+TGCAATAAAATGCA
+>BPUM_2149(bkdR) Score=4.7 Pos=-31 [Bacillus pumilus SAFR-032]
+TGCAAATTTTTTCA
+>BLi02587(bkdR) Score=4.7 Pos=-31 [Bacillus licheniformis DSM 13]
+TGCAAAATTTTTCA
+>BLi02587(bkdR) Score=5.2 Pos=-61 [Bacillus licheniformis DSM 13]
+TGCAAATTGTTGCA
+>BLi02586(ptb) Score=4.6 Pos=-112 [Bacillus licheniformis DSM 13]
+TGCAAAATCATGCA
+>BLi02586(ptb) Score=5.8 Pos=-134 [Bacillus licheniformis DSM 13]
+TGCAATAAATTGCA
+>Aflv_0958(ptb) Score=5.2 Pos=-117 [Anoxybacillus flavithermus WK1]
+TGCAAAAAGTTGCA
+>Aflv_0957(bkdR) Score=5.6 Pos=-23 [Anoxybacillus flavithermus WK1]
+TGCAAAAAATTGCA
+>GK2382(ptb) Score=5.2 Pos=-148 [Geobacillus kaustophilus HTA426]
+TGCAATAATTTGCG
+>GK2383(bkdR) Score=4.7 Pos=-38 [Geobacillus kaustophilus HTA426]
+TGCAAAAATTGGCA
+>BC4163(ptb) Score=5.8 Pos=-184 [Bacillus cereus ATCC 14579]
+TGCAATTTATTGCA
+>BC4163(ptb) Score=5.4 Pos=-203 [Bacillus cereus ATCC 14579]
+TGCAATAAATTGCG
+>BC4163(ptb) Score=4.9 Pos=-217 [Bacillus cereus ATCC 14579]
+TGCAAAAAATAGCA
+>BC4165(bkdR) Score=4.7 Pos=-41 [Bacillus cereus ATCC 14579]
+TGAAAAAATTTGCA
+>BH2765(bcd) Score=5.6 Pos=-226 [Bacillus halodurans C-125]
+TGCAATAATTTGCA
+>ABC2453(bcd) Score=4.9 Pos=-150 [Bacillus clausii KSM-K16]
+TGCAAAAATATGCA
+>OB1869(bcd) Score=5.6 Pos=-170 [Oceanobacillus iheyensis HTE831]
+TGCAAAATATTGCA
+>OB1870(bkdR) Score=5.2 Pos=-27 [Oceanobacillus iheyensis HTE831]
+TGCAAAATAATGCA

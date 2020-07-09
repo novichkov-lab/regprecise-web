@@ -1,0 +1,40 @@
+>CAC1280(hrcA) Score=7.6 Pos=-42 [Clostridium acetobutylicum ATCC 824]
+TTAGCACTCAAAGAGAGTGAGTGCTAA
+>CAC2704(groES) Score=7.7 Pos=-106 [Clostridium acetobutylicum ATCC 824]
+TTAGCACTCAAGATTAACGAGTGCTAA
+>CAC3315(htpG) Score=7.7 Pos=-116 [Clostridium acetobutylicum ATCC 824]
+TTAGCACTCGTTGATATAGAGTGCTAA
+>Cbei_0828(hrcA) Score=7.6 Pos=-44 [Clostridium beijerincki NCIMB 8052]
+TTAGCACTCGAGGTTAATGAGTGCTAA
+>Cbei_0328(groES) Score=7.6 Pos=-75 [Clostridium beijerincki NCIMB 8052]
+TTAGCACTCGACAATGATGAGTGCTAA
+>CBO2961(hrcA) Score=7.6 Pos=-48 [Clostridium botulinum A str. ATCC 3502]
+TTAGCACTCGTTGCTAGTGAGTGCTAA
+>CBO3299(groES) Score=8.1 Pos=-84 [Clostridium botulinum A str. ATCC 3502]
+TTAGCACTCAATATTAATGAGTGCTAA
+>CBO1985(htpG) Score=7 Pos=-103 [Clostridium botulinum A str. ATCC 3502]
+TTAGCACTCACTAGCTTAAAGTGCTAA
+>CBY_3533(hrcA) Score=7.6 Pos=-44 [Clostridium butyricum 5521]
+TTAGCACTCGCTGCTAATGAGTGCTAA
+>CBY_3050(groES) Score=7.7 Pos=-84 [Clostridium butyricum 5521]
+TTAGCACTCGATGATGATGAGTGCTAA
+>CKL_0900(hrcA) Score=7.6 Pos=-42 [Clostridium kluyveri DSM 555]
+TTAGCACTCAATGCTAGCGAGTGCTAA
+>CKL_0463(groES) Score=7.9 Pos=-84 [Clostridium kluyveri DSM 555]
+TTAGCACTCATAATTAATGAGTGCTAA
+>CKL_2212(htpG) Score=7.1 Pos=-202 [Clostridium kluyveri DSM 555]
+TTAGCACTCAAGTATTATAAGTGCTAA
+>NT01CX_0059(hrcA) Score=7.5 Pos=-49 [Clostridium novyi NT]
+TTAGCACTCAACTAAAACGAGTGCTAA
+>NT01CX_0463(groES) Score=7.9 Pos=-82 [Clostridium novyi NT]
+TTAGCACTCGATGTTATTGAGTGCTAA
+>CPF_2292(hrcA) Score=7.5 Pos=-43 [Clostridium perfringens ATCC 13124]
+TTAGCACTCGTTCAGAGTGAGTGCTAA
+>CPF_2574(groES) Score=7.9 Pos=-64 [Clostridium perfringens ATCC 13124]
+TTAGCACTCTATATTAATGAGTGCTAA
+>CPF_0417(htpG) Score=7.1 Pos=-63 [Clostridium perfringens ATCC 13124]
+TTAGCACTCAAGTTGTTAGAGTGCTAA
+>CTC02033(hrcA) Score=7.7 Pos=-20 [Clostridium tetani E88]
+TTAGCACTCAACAAGAGTGAGTGCTAA
+>CTC01489(htpG) Score=6.9 Pos=-71 [Clostridium tetani E88]
+TTAGCACTCAGCAAATTGGAGTGCTAA

@@ -1,0 +1,62 @@
+>nfa49740(yciC) Score=5.7 Pos=-88 [Nocardia farcinica IFM 10152]
+TGATGACAATCGTTTTCGACA
+>nfa49740(yciC) Score=5.4 Pos=-33 [Nocardia farcinica IFM 10152]
+AAATGACAATCGTTATCGAAA
+>nfa23260(znuB2) Score=5.2 Pos=-35 [Nocardia farcinica IFM 10152]
+TAGTGATAATCGTTTTCATCT
+>nfa4450(znuA) Score=5.3 Pos=-27 [Nocardia farcinica IFM 10152]
+TAATGGAAATCGTTTCCGTTT
+>nfa49750(rpmB2) Score=5.4 Pos=-95 [Nocardia farcinica IFM 10152]
+TTTCGATAACGATTGTCATTT
+>nfa49750(rpmB2) Score=5.7 Pos=-40 [Nocardia farcinica IFM 10152]
+TGTCGAAAACGATTGTCATCA
+>nfa23250(znuC2) Score=5.2 Pos=-45 [Nocardia farcinica IFM 10152]
+AGATGAAAACGATTATCACTA
+>RER_44020(yciC) Score=5.5 Pos=-84 [Rhodococcus erythropolis PR4]
+AGATGACAATCGTTTTCGACA
+>RER_44020(yciC) Score=5.1 Pos=-30 [Rhodococcus erythropolis PR4]
+TAATGACAATCATTCCCAGAA
+>RER_44030(rpmB2) Score=5.5 Pos=-41 [Rhodococcus erythropolis PR4]
+TGTCGAAAACGATTGTCATCT
+>RER_54290(nfa23280) Score=5 Pos=-39 [Rhodococcus erythropolis PR4]
+CTTTGACAATCATTTACATTA
+>RER_14090(yciC3) Score=5.7 Pos=-25 [Rhodococcus erythropolis PR4]
+TAATGACAATGGTTACCATTA
+>RER_07030(znuA) Score=5.3 Pos=-56 [Rhodococcus erythropolis PR4]
+TAACGGTAACGGTTTCCAATA
+>RER_44030(rpmB2) Score=5.1 Pos=-95 [Rhodococcus erythropolis PR4]
+TTCTGGGAATGATTGTCATTA
+>ROP_56820(yciC) Score=5.8 Pos=-56 [Rhodococcus opacus B4]
+TGATGACAATCATTTTCGACA
+>ROP_04730(rpmJ2) Score=5.8 Pos=-30 [Rhodococcus opacus B4]
+TAACGACAATCGTTTTCAATA
+>ROP_56810(rpmB2) Score=5.7 Pos=-116 [Rhodococcus opacus B4]
+TTTCGATAACGATTGTCATTA
+>ROP_56810(rpmB2) Score=5.8 Pos=-62 [Rhodococcus opacus B4]
+TGTCGAAAATGATTGTCATCA
+>ROP_22700(znuB2) Score=5.7 Pos=-31 [Rhodococcus opacus B4]
+TTACGACAATCATTATCGTTA
+>ROP_22730(nfa23280) Score=4.6 Pos=-47 [Rhodococcus opacus B4]
+CTTTGACAACCGTTTGCAAAA
+>ROP_44070(znuA) Score=5 Pos=-28 [Rhodococcus opacus B4]
+CAACGGTAACGGTTTCCAATA
+>ROP_22690(znuC2) Score=5.7 Pos=-8 [Rhodococcus opacus B4]
+TAACGATAATGATTGTCGTAA
+>RHA1_ro05618(yciC) Score=5.8 Pos=-83 [Rhodococcus sp. RHA1]
+TGATGACAATCATTTTCGACA
+>RHA1_ro05618(yciC) Score=5.7 Pos=-29 [Rhodococcus sp. RHA1]
+TAATGACAATCGTTATCGAAA
+>RHA1_ro05617(rpmB2) Score=5.7 Pos=-117 [Rhodococcus sp. RHA1]
+TTTCGATAACGATTGTCATTA
+>RHA1_ro05617(rpmB2) Score=5.8 Pos=-63 [Rhodococcus sp. RHA1]
+TGTCGAAAATGATTGTCATCA
+>RHA1_ro02546(znuB2) Score=5.7 Pos=-31 [Rhodococcus sp. RHA1]
+TTACGACAATCATTATCGTTA
+>RHA1_ro02549(nfa23280) Score=4.7 Pos=-47 [Rhodococcus sp. RHA1]
+CTTTGACAACCGTTTGCAATA
+>RHA1_ro05533(yciC3) Score=5.2 Pos=-25 [Rhodococcus sp. RHA1]
+TAATGAAAACAGTTATCATTT
+>RHA1_ro04479(znuA) Score=5 Pos=-55 [Rhodococcus sp. RHA1]
+CAACGGTAACGGTTTCCAATA
+>RHA1_ro02545(znuC2) Score=5.7 Pos=-8 [Rhodococcus sp. RHA1]
+TAACGATAATGATTGTCGTAA

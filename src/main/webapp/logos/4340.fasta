@@ -1,0 +1,32 @@
+>CKO_04229(rcnR) Score=5.2 Pos=-64 [Citrobacter koseri ATCC BAA-895]
+TACTACCCCCCAGTA
+>CKO_04230(rcnA) Score=5.2 Pos=22 [Citrobacter koseri ATCC BAA-895]
+TACTGGGGGGTAGTA
+>CKO_04230(rcnA) Score=5.4 Pos=42 [Citrobacter koseri ATCC BAA-895]
+TACTGGGGGGGAGTA
+>CKO_04229(rcnR) Score=5.4 Pos=-84 [Citrobacter koseri ATCC BAA-895]
+TACTCCCCCCCAGTA
+>b2105(rcnR) Score=5.4 Pos=-83 [Escherichia coli str. K-12 substr. MG1655]
+TACTCCCCCCCAGTA
+>b2105(rcnR) Score=5.2 Pos=-63 [Escherichia coli str. K-12 substr. MG1655]
+TACTACCCCCCAGTA
+>b2106(rcnA) Score=5.2 Pos=-72 [Escherichia coli str. K-12 substr. MG1655]
+TACTGGGGGGTAGTA
+>b2106(rcnA) Score=5.4 Pos=-52 [Escherichia coli str. K-12 substr. MG1655]
+TACTGGGGGGGAGTA
+>KPN_00423(rcnA) Score=5.2 Pos=-67 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TACTGGGGGGTAGTA
+>KPN_00423(rcnA) Score=5.4 Pos=-46 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TACTGGGGGGGAGTA
+>KPN_00424(rcnR) Score=5.2 Pos=-40 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TACTACCCCCCAGTA
+>KPN_00424(rcnR) Score=5.4 Pos=-61 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TACTCCCCCCCAGTA
+>STM3023(rcnR) Score=5.2 Pos=-64 [Salmonella typhimurium LT2]
+TACTACCCCCCAGTA
+>STM3023(rcnR) Score=5.4 Pos=-84 [Salmonella typhimurium LT2]
+TACTCCCCCCCAGTA
+>STM3024(rcnA) Score=5.2 Pos=-72 [Salmonella typhimurium LT2]
+TACTGGGGGGTAGTA
+>STM3024(rcnA) Score=5.4 Pos=-52 [Salmonella typhimurium LT2]
+TACTGGGGGGGAGTA

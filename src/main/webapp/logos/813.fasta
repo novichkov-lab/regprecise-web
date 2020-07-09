@@ -1,0 +1,40 @@
+>DVU1336(clpX) Score=5.5 Pos=-91 [Desulfovibrio vulgaris Hildenborough]
+CCTGAAG------------CCTGAT
+>DVU3242(rpoZ) Score=5.2 Pos=-392 [Desulfovibrio vulgaris Hildenborough]
+CCGGAAG------------CCCGAT
+>DVU2643(htpG) Score=6.2 Pos=-54 [Desulfovibrio vulgaris Hildenborough]
+CTTGAAA------------GCCCAA
+>DVU1584(rpoH) Score=6.2 Pos=-195 [Desulfovibrio vulgaris Hildenborough]
+CCTGAAA------------CCGGAT
+>Dde_2220(clpP) Score=6.6 Pos=-81 [Desulfovibrio desulfuricans G20]
+CTTGAAC------------CCCGAT
+>Dde_2219(clpX) Score=6.8 Pos=-135 [Desulfovibrio desulfuricans G20]
+CTTGAAA------------ACCGAT
+>Dde_0246 Score=4.3 Pos=-271 [Desulfovibrio desulfuricans G20]
+CCGGAAA------------GCACAT
+>Dde_0248(dnaJ) Score=5.2 Pos=99 [Desulfovibrio desulfuricans G20]
+CCTGACA------------CCCGAA
+>Ddes_0691(clpP) Score=5.4 Pos=-159 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CCCGAAA------------GCCGAT
+>Ddes_2161(rpoZ) Score=6.8 Pos=-180 [Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774]
+CTTGACA------------GCCTAT
+>DESPIG_02499(rpoZ) Score=6.1 Pos=-147 [Desulfovibrio piger ATCC 29098]
+CTTGACA------------ACCAAT
+>DESPIG_01221(rpoH) Score=5.5 Pos=-247 [Desulfovibrio piger ATCC 29098]
+CCGGAAG------------CCCCAT
+>Desal_3023(groES) Score=6 Pos=-259 [Desulfovibrio salexigens DSM 2638]
+CTTGAAA------------GCACAT
+>DMR_28170(clpP) Score=5.2 Pos=-77 [Desulfovibrio magneticus RS-1]
+CCGGAAG------------CCCGAT
+>DMR_28150(lon) Score=5.9 Pos=-135 [Desulfovibrio magneticus RS-1]
+CCTGAAG------------CCGGAT
+>DMR_19970(dnaJ) Score=5.5 Pos=-206 [Desulfovibrio magneticus RS-1]
+CTGGAAA------------CCTCAT
+>DMR_02720(groES) Score=3.7 Pos=-55 [Desulfovibrio magneticus RS-1]
+CCGCAAG------------GCCAAT
+>LI0685(dnaJ) Score=6.5 Pos=-71 [Lawsonia intracellularis PHE/MN1-00]
+CCTGAAG------------CCCTAT
+>Dret_0512(clpX) Score=4.8 Pos=-186 [Desulfohalobium retbaense DSM 5692]
+CTGGAAA------------ACTGAT
+>Dret_2176(groEL) Score=5.3 Pos=-242 [Desulfohalobium retbaense DSM 5692]
+CCCGACA------------GCCCAT

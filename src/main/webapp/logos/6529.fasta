@@ -1,0 +1,46 @@
+>NAP1_15803(ccoN) Score=4.6 Pos=-72 [Erythrobacter sp. NAP1]
+AACTTGATCTGAGTCAAACA
+>NAP1_15793(ompW) Score=5.7 Pos=-238 [Erythrobacter sp. NAP1]
+GCATTGACCTGGATCAATGC
+>NAP1_15848(hemN) Score=5.3 Pos=-52 [Erythrobacter sp. NAP1]
+GATTTGATCTGGCGCAAAGA
+>NAP1_15798(fnrN) Score=5.7 Pos=-3 [Erythrobacter sp. NAP1]
+GCATTGATCCAGGTCAATGC
+>NAP1_01820(uspA) Score=5.5 Pos=-70 [Erythrobacter sp. NAP1]
+AAATTGATCTGGATCAATGC
+>Saro_2578(ccoN) Score=4.6 Pos=-144 [Novosphingobium aromaticivorans DSM 12444]
+ACATTGACGGAGCGCAAAAA
+>Saro_2578(ccoN) Score=4.9 Pos=-77 [Novosphingobium aromaticivorans DSM 12444]
+TATTTGACAAGGGTCAATGT
+>Saro_2579(ompW) Score=4.9 Pos=-179 [Novosphingobium aromaticivorans DSM 12444]
+ACATTGACCCTTGTCAAATA
+>Saro_2579(ompW) Score=4.6 Pos=-112 [Novosphingobium aromaticivorans DSM 12444]
+TTTTTGCGCTCCGTCAATGT
+>Saro_2581(fnrN) Score=4.6 Pos=-232 [Novosphingobium aromaticivorans DSM 12444]
+GTTTTGACATCCGTCAACGC
+>Saro_2569(hemN) Score=4.9 Pos=-68 [Novosphingobium aromaticivorans DSM 12444]
+AATTTGCCATATCTCAATGC
+>Saro_0571(uspA) Score=4.3 Pos=-71 [Novosphingobium aromaticivorans DSM 12444]
+AATTTGACGTGGATCATGGT
+>SJA_C2-00670(ccoN) Score=5.5 Pos=-74 [Sphingobium japonicum UT26S]
+GCTTTGACAGAGGTCAATGC
+>SJA_C2-00650(ompW) Score=5.4 Pos=-103 [Sphingobium japonicum UT26S]
+ACATTGAGCCAGGTCAAATT
+>SJA_C2-00650(ompW) Score=4.5 Pos=-81 [Sphingobium japonicum UT26S]
+CGGTTGCGCGGGATCAATGC
+>SJA_C2-00660(fnrN) Score=4.6 Pos=10 [Sphingobium japonicum UT26S]
+GATTTGATCTGGCGCAAAAG
+>Swit_1801(ccoN) Score=5.1 Pos=-200 [Sphingomonas wittichii RW1]
+GATTTGATCTGGCGCAAGGC
+>Sala_1676(ccoN) Score=4.6 Pos=-112 [Sphingopyxis alaskensis RB2256]
+GCATTGATGGAGCGCAAGCA
+>Sala_1676(ccoN) Score=5.3 Pos=-90 [Sphingopyxis alaskensis RB2256]
+TCGTTGATCCCGGTCAATGT
+>Sala_1677(ompW) Score=5.3 Pos=-97 [Sphingopyxis alaskensis RB2256]
+ACATTGACCGGGATCAACGA
+>Sala_1677(ompW) Score=4.6 Pos=-75 [Sphingopyxis alaskensis RB2256]
+TGCTTGCGCTCCATCAATGC
+>Sala_1679(uspA) Score=4.8 Pos=-69 [Sphingopyxis alaskensis RB2256]
+GATTTGATGCGAATCAATGA
+>Sala_1668(hemN) Score=4.8 Pos=-51 [Sphingopyxis alaskensis RB2256]
+CCGTTGATGCCGATCAATGC

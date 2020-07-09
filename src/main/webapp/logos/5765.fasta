@@ -1,0 +1,220 @@
+>Patl_3580(thrA) Score=6.3 Pos=-239 [Pseudoalteromonas atlantica T6c]
+AGACGTCTATACGGCA
+>Patl_3580(thrA) Score=6.4 Pos=-247 [Pseudoalteromonas atlantica T6c]
+TGACATATAGACGTCT
+>Patl_3580(thrA) Score=7.2 Pos=-262 [Pseudoalteromonas atlantica T6c]
+AGACGTCTAGACGGTT
+>Patl_3955(metF) Score=7.8 Pos=-36 [Pseudoalteromonas atlantica T6c]
+AGACGTCTAAACGTCC
+>Patl_3955(metF) Score=6.6 Pos=-80 [Pseudoalteromonas atlantica T6c]
+AGACTGCTAAACATCT
+>Patl_3331(metK) Score=7.1 Pos=-100 [Pseudoalteromonas atlantica T6c]
+AGCCGTTTGGACGTCT
+>Patl_3956(metJ) Score=7.5 Pos=-126 [Pseudoalteromonas atlantica T6c]
+GGACGTTTAGACGTCT
+>Patl_3021(metA) Score=6.2 Pos=-88 [Pseudoalteromonas atlantica T6c]
+TTACGTTTAGACGTCT
+>Patl_1156(serA) Score=7.3 Pos=-45 [Pseudoalteromonas atlantica T6c]
+AGACGTCCAGATGTCT
+>Patl_3956(metJ) Score=6.2 Pos=-90 [Pseudoalteromonas atlantica T6c]
+AGCCGTCAAGATGTTT
+>Patl_1376(metT) Score=7.8 Pos=-27 [Pseudoalteromonas atlantica T6c]
+AGACGTCTAAACGTCC
+>Patl_3021(metA) Score=6.6 Pos=-80 [Pseudoalteromonas atlantica T6c]
+AGACGTCTAGACGTAA
+>MADE_02861(metA) Score=6.6 Pos=-81 [Alteromonas macleodii 'Deep ecotype']
+AGACGTCTAGACGTAA
+>MADE_03523(metJ) Score=7.8 Pos=-132 [Alteromonas macleodii 'Deep ecotype']
+AGACGTTTAGACGTCT
+>MADE_03161(metK) Score=7.4 Pos=-95 [Alteromonas macleodii 'Deep ecotype']
+AGACTTTTAGACGTCT
+>MADE_03524(metF) Score=8.1 Pos=-45 [Alteromonas macleodii 'Deep ecotype']
+AGACGTCTAAACGTCT
+>MADE_03524(metF) Score=6.3 Pos=-73 [Alteromonas macleodii 'Deep ecotype']
+TGACGTCTAGACATAT
+>MADE_03328(thrA) Score=6.3 Pos=-242 [Alteromonas macleodii 'Deep ecotype']
+AGACGTCTATACGGCA
+>MADE_03328(thrA) Score=6.1 Pos=-250 [Alteromonas macleodii 'Deep ecotype']
+TGACTTATAGACGTCT
+>MADE_03208(serA) Score=8 Pos=-93 [Alteromonas macleodii 'Deep ecotype']
+AGACGTCTAGATGTCT
+>MADE_02861(metA) Score=7.2 Pos=-89 [Alteromonas macleodii 'Deep ecotype']
+AAACGTTTAGACGTCT
+>MADE_03523(metJ) Score=6 Pos=-96 [Alteromonas macleodii 'Deep ecotype']
+AGACGTCAAGAGGTTT
+>GHTCC_010100002414(thrA) Score=6.7 Pos=-188 [Glaciecola sp. HTCC2999]
+TGACATTTAGACGTCT
+>GHTCC_010100002529(metK) Score=6.9 Pos=-115 [Glaciecola sp. HTCC2999]
+AGACGTCTAGATGGTT
+>GHTCC_010100002529(metK) Score=7.5 Pos=-123 [Glaciecola sp. HTCC2999]
+AGACGTATAGACGTCT
+>GHTCC_010100003239(metF) Score=8.1 Pos=-46 [Glaciecola sp. HTCC2999]
+AGACGTCTAAACGTCT
+>GHTCC_010100002414(thrA) Score=6.3 Pos=-180 [Glaciecola sp. HTCC2999]
+AGACGTCTATACGGCA
+>GHTCC_010100002789(serA) Score=8 Pos=-46 [Glaciecola sp. HTCC2999]
+AGACGTCTAGATGTCT
+>GHTCC_010100003244(metJ) Score=7.8 Pos=-122 [Glaciecola sp. HTCC2999]
+AGACGTTTAGACGTCT
+>GHTCC_010100000045(metA) Score=7.5 Pos=-78 [Glaciecola sp. HTCC2999]
+AGACGTCTAGACGTAT
+>GHTCC_010100002789(serA) Score=6.1 Pos=-54 [Glaciecola sp. HTCC2999]
+AAGCATTTAGACGTCT
+>GHTCC_010100000045(metA) Score=7.8 Pos=-86 [Glaciecola sp. HTCC2999]
+AGACGTTTAGACGTCT
+>CPS_0276(metF-II) Score=7.7 Pos=-38 [Colwellia psychrerythraea 34H]
+AGCCATCTAAACGTCT
+>CPS_0455(metB) Score=6.4 Pos=-169 [Colwellia psychrerythraea 34H]
+AGAAGTTTAGAAGTCT
+>CPS_1256(metK) Score=7.3 Pos=-100 [Colwellia psychrerythraea 34H]
+AGACGTTTAGCCGTCT
+>CPS_4359(metR) Score=6.4 Pos=-83 [Colwellia psychrerythraea 34H]
+AGACGTTTAAATGGTT
+>CPS_4359(metR) Score=7.3 Pos=-91 [Colwellia psychrerythraea 34H]
+GGACGTCTAGACGTTT
+>CPS_0455(metB) Score=6 Pos=-121 [Colwellia psychrerythraea 34H]
+AGAGTTATAGACGTCC
+>CPS_0455(metB) Score=7.2 Pos=-113 [Colwellia psychrerythraea 34H]
+AGACGTCCAAACATCT
+>CPS_0454(metJ) Score=6.1 Pos=-143 [Colwellia psychrerythraea 34H]
+GGACGTCTATAACTCT
+>CPS_0454(metJ) Score=6.8 Pos=-95 [Colwellia psychrerythraea 34H]
+AGACTTCTAAACTTCT
+>CPS_1100(metA) Score=7.2 Pos=-92 [Colwellia psychrerythraea 34H]
+AGACGTCTATACGTTT
+>CPS_0454(metJ) Score=6.7 Pos=-151 [Colwellia psychrerythraea 34H]
+AGATGTTTGGACGTCT
+>CPS_3465(metT) Score=7.5 Pos=-79 [Colwellia psychrerythraea 34H]
+AGCCATCTAAACATCT
+>CPS_3465(metT) Score=6 Pos=-87 [Colwellia psychrerythraea 34H]
+AGTCATTTAGCCATCT
+>CPS_1544(serA) Score=6.7 Pos=-64 [Colwellia psychrerythraea 34H]
+AGATATCTAGCCATCT
+>CPS_1166(btuD) Score=7.5 Pos=-217 [Colwellia psychrerythraea 34H]
+AGCCATCTAAACATCT
+>ATW7_06968(metT) Score=5.7 Pos=-156 [Alteromonadales bacterium TW-7]
+ATACATTTAAACTTCC
+>ATW7_14626(COG0235) Score=7.4 Pos=-54 [Alteromonadales bacterium TW-7]
+AGACTTCTAAACATCT
+>ATW7_06703(metR) Score=6.1 Pos=-81 [Alteromonadales bacterium TW-7]
+AGACGTTGAAACGTTT
+>ATW7_06703(metR) Score=6.8 Pos=-89 [Alteromonadales bacterium TW-7]
+AGACGTCTAGACGTTG
+>ATW7_17928(metB) Score=7.6 Pos=-36 [Alteromonadales bacterium TW-7]
+AGACGTCTAAACATCC
+>ATW7_17923(metJ) Score=5.7 Pos=-140 [Alteromonadales bacterium TW-7]
+AGATGTCAAAACATTT
+>ATW7_17923(metJ) Score=6.8 Pos=-179 [Alteromonadales bacterium TW-7]
+GGATGTTTAGACGTCT
+>ATW7_04247(metF-II) Score=6.6 Pos=-65 [Alteromonadales bacterium TW-7]
+ATCTATCTAGACGTCT
+>ATW7_00705(PF08908) Score=7.3 Pos=-245 [Alteromonadales bacterium TW-7]
+AGAAATCTAGACGTCT
+>ATW7_06968(metT) Score=6.6 Pos=-164 [Alteromonadales bacterium TW-7]
+AGCCATCTATACATTT
+>ATW7_10333(metA) Score=7.4 Pos=-82 [Alteromonadales bacterium TW-7]
+AGACATCTATACATCT
+>ATW7_04247(metF-II) Score=7.3 Pos=-57 [Alteromonadales bacterium TW-7]
+AGACGTCTAAATGGCT
+>PSHAa2224(metA) Score=6.8 Pos=-82 [Pseudoalteromonas haloplanktis TAC125]
+AGACATCTATCCATCT
+>PSHAa2276 Score=6.1 Pos=-17 [Pseudoalteromonas haloplanktis TAC125]
+GGCTATATAGACGTCT
+>PSHAa1181(metR) Score=6.1 Pos=-89 [Pseudoalteromonas haloplanktis TAC125]
+AGCCTTCTAGACGTTG
+>PSHAa0286(COG0235) Score=7.4 Pos=-54 [Pseudoalteromonas haloplanktis TAC125]
+AGACTTCTAAACATCT
+>PSHAa2723(metB) Score=7.9 Pos=-36 [Pseudoalteromonas haloplanktis TAC125]
+AGACGTCTAAACATCT
+>PSHAa2724(metJ) Score=7.2 Pos=-179 [Pseudoalteromonas haloplanktis TAC125]
+AGATGTTTAGACGTCT
+>PSHAa0642(metF-II) Score=6.5 Pos=-68 [Pseudoalteromonas haloplanktis TAC125]
+AGCTATCTAGCCATCT
+>PSHAa2724(metJ) Score=5.9 Pos=-124 [Pseudoalteromonas haloplanktis TAC125]
+AAACACCTAGCCATCT
+>PSHAa0642(metF-II) Score=6.9 Pos=-60 [Pseudoalteromonas haloplanktis TAC125]
+AGCCATCTAAATGGCT
+>PSHAa1181(metR) Score=6.1 Pos=-81 [Pseudoalteromonas haloplanktis TAC125]
+AGACGTTGAAACGTTT
+>PSHAa2224(metA) Score=6.5 Pos=-90 [Pseudoalteromonas haloplanktis TAC125]
+GGATATTTAGACATCT
+>PSHAa1226(metT) Score=6 Pos=-148 [Pseudoalteromonas haloplanktis TAC125]
+ATACATTTAAACTTCT
+>PSHAa1226(metT) Score=6.8 Pos=-156 [Pseudoalteromonas haloplanktis TAC125]
+AGCCGTCTATACATTT
+>PSHAa2922(mtnB) Score=6.5 Pos=-52 [Pseudoalteromonas haloplanktis TAC125]
+AGAAGTTTAGCCGTCT
+>PTD2_14279(btuB) Score=7.1 Pos=-313 [Pseudoalteromonas tunicata D2]
+AGACATCTGAACGTCC
+>PTD2_09409(mtnK) Score=5.8 Pos=-60 [Pseudoalteromonas tunicata D2]
+GGACATCTAAACACTT
+>PTD2_06859(COG0235) Score=6.3 Pos=-85 [Pseudoalteromonas tunicata D2]
+AGACTTCTACACTTCT
+>PTD2_22482(metR) Score=6.1 Pos=-375 [Pseudoalteromonas tunicata D2]
+GGATGTTTAGATGGCT
+>PTD2_16511(metB) Score=6.1 Pos=-91 [Pseudoalteromonas tunicata D2]
+AGCTATTTAGACGTAT
+>PTD2_16511(metB) Score=6.5 Pos=-44 [Pseudoalteromonas tunicata D2]
+AACCTTTTAGACGTCT
+>PTD2_16511(metB) Score=6.5 Pos=-83 [Pseudoalteromonas tunicata D2]
+AGACGTATAAATGTTT
+>PTD2_16511(metB) Score=7.9 Pos=-36 [Pseudoalteromonas tunicata D2]
+AGACGTCTAAACATCT
+>PTD2_14897(PF08908) Score=6.6 Pos=-228 [Pseudoalteromonas tunicata D2]
+AGACATCTAGATTTCC
+>PTD2_16516(metJ) Score=7.2 Pos=-224 [Pseudoalteromonas tunicata D2]
+AGATGTTTAGACGTCT
+>PTD2_08609(metA) Score=7.7 Pos=-83 [Pseudoalteromonas tunicata D2]
+AGACATCTAAACATCT
+>PTD2_16516(metJ) Score=6.5 Pos=-177 [Pseudoalteromonas tunicata D2]
+AAACATTTATACGTCT
+>PTD2_16516(metJ) Score=6.5 Pos=-169 [Pseudoalteromonas tunicata D2]
+ATACGTCTAAATAGCT
+>PTD2_16516(metJ) Score=6.4 Pos=-216 [Pseudoalteromonas tunicata D2]
+AGACGTCTAAAAGGTT
+>PTD2_08889(metF-II) Score=7.3 Pos=-58 [Pseudoalteromonas tunicata D2]
+AGACGTCTAAATGGCT
+>PTD2_09374(mtnB) Score=6.1 Pos=-35 [Pseudoalteromonas tunicata D2]
+AGATGTATAGCCATCT
+>PTD2_10704(metT) Score=6.3 Pos=-125 [Pseudoalteromonas tunicata D2]
+AGCCATCTATACATTC
+>PTD2_10704(metT) Score=6.7 Pos=-133 [Pseudoalteromonas tunicata D2]
+AAACATCTAGCCATCT
+>PTD2_09409(mtnK) Score=6.8 Pos=-68 [Pseudoalteromonas tunicata D2]
+AGAAGTCTGGACATCT
+>PTD2_22477(metE) Score=7.2 Pos=-36 [Pseudoalteromonas tunicata D2]
+AGCCATCTAAACATCC
+>OS145_09123(metJ) Score=6.6 Pos=-93 [Idiomarina baltica OS145]
+AGCCATCTAGACGGAT
+>OS145_07801(metK) Score=6.9 Pos=-99 [Idiomarina baltica OS145]
+AGACTTTTGGACGTCT
+>OS145_08567(metT) Score=6.7 Pos=-50 [Idiomarina baltica OS145]
+AAACTTCTGGACGTCT
+>OS145_08567(metT) Score=5.4 Pos=-58 [Idiomarina baltica OS145]
+AGCTATATAAACTTCT
+>OS145_09128(metL) Score=6.6 Pos=-97 [Idiomarina baltica OS145]
+ATCCGTCTAGATGGCT
+>OS145_04750(metX) Score=7.5 Pos=-77 [Idiomarina baltica OS145]
+GGACGTCTAAACATCT
+>OS145_04880(msrA) Score=6.5 Pos=-32 [Idiomarina baltica OS145]
+AGCCTTATAGACGTCC
+>IL2215(metK) Score=6.7 Pos=-99 [Idiomarina loihiensis L2TR]
+GGACTTTTAGACGTCC
+>IL2378(metT) Score=6.4 Pos=-40 [Idiomarina loihiensis L2TR]
+AAACTTCTGGACGTCC
+>IL2378(metT) Score=5.6 Pos=-48 [Idiomarina loihiensis L2TR]
+AGCTGTATAAACTTCT
+>IL2466(metL) Score=6.6 Pos=-97 [Idiomarina loihiensis L2TR]
+ATCCGTCTAGATGGCT
+>IL2013(metX) Score=5.7 Pos=-67 [Idiomarina loihiensis L2TR]
+AAATGTCTTGACGTCC
+>IL2013(metX) Score=7.4 Pos=-75 [Idiomarina loihiensis L2TR]
+GGACGTCTAAATGTCT
+>IL2465(metJ) Score=6.6 Pos=-93 [Idiomarina loihiensis L2TR]
+AGCCATCTAGACGGAT
+>IL2039(msrA) Score=7.1 Pos=-39 [Idiomarina loihiensis L2TR]
+AGCCATATAGACGTCT
+>IL2488(btuB2) Score=7.6 Pos=-42 [Idiomarina loihiensis L2TR]
+AGACGTCTAAACGGCT
+>IL2488(btuB2) Score=7.6 Pos=-50 [Idiomarina loihiensis L2TR]
+AGCCGTTTAGACGTCT

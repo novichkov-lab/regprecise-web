@@ -1,0 +1,50 @@
+>ELI_13865(glnK) Score=4.8 Pos=-134 [Erythrobacter litoralis HTCC2594]
+TGCGTATTCTTTGGGCA
+>ELI_13865(glnK) Score=4.7 Pos=-152 [Erythrobacter litoralis HTCC2594]
+TGACTAAAAATTAGGCC
+>ELI_01665(glnB) Score=5.8 Pos=-237 [Erythrobacter litoralis HTCC2594]
+TGCCTAAATTTTAAGCA
+>ELI_06285(nifR3) Score=5.9 Pos=-31 [Erythrobacter litoralis HTCC2594]
+TGCCCAAATTTTAGGCA
+>NAP1_00830(glnB) Score=5.9 Pos=-208 [Erythrobacter sp. NAP1]
+TGCCCAAAATTTAGGCA
+>NAP1_12238(glnK) Score=4.6 Pos=-164 [Erythrobacter sp. NAP1]
+TGCTCAAAAAATAAACA
+>NAP1_12238(glnK) Score=4.2 Pos=-145 [Erythrobacter sp. NAP1]
+TGATTAAACCTTAGGCA
+>NAP1_05550(nifR3) Score=5.8 Pos=-32 [Erythrobacter sp. NAP1]
+TGCCCAATATTTAGGCA
+>Saro_1109(glnB) Score=5.5 Pos=-265 [Novosphingobium aromaticivorans DSM 12444]
+TGCCTAAAAATAAGGCA
+>Saro_1109(glnB) Score=4.9 Pos=-243 [Novosphingobium aromaticivorans DSM 12444]
+TGCGTAAAATTTGTGCA
+>Saro_0693(glnK) Score=5.8 Pos=-182 [Novosphingobium aromaticivorans DSM 12444]
+TGCTTAAAATTTAGGCA
+>Saro_0693(glnK) Score=3.7 Pos=-207 [Novosphingobium aromaticivorans DSM 12444]
+TGCCCGGAAACGAAGCA
+>Saro_1926(nifR3) Score=5.5 Pos=-28 [Novosphingobium aromaticivorans DSM 12444]
+TGCCTGTTTTTTAGGCA
+>Sala_0148(glnB) Score=4.6 Pos=-229 [Sphingopyxis alaskensis RB2256]
+TGCTGCTTTTTTAGGCA
+>Sala_2326(glnK) Score=5.8 Pos=-163 [Sphingopyxis alaskensis RB2256]
+TGCCCAAAAATTAGGCA
+>Sala_1277(nifR3) Score=5.7 Pos=-38 [Sphingopyxis alaskensis RB2256]
+TGCTCAAAATTTAGGCA
+>SJA_C1-01910(glnK) Score=4.3 Pos=-121 [Sphingobium japonicum UT26S]
+TGCCCATTTTTTCAGCG
+>SJA_C1-01910(glnK) Score=5.6 Pos=-150 [Sphingobium japonicum UT26S]
+TGCCTAATTTTTGAGCA
+>SJA_C1-19360(glnB) Score=4.1 Pos=-199 [Sphingobium japonicum UT26S]
+TGCCCGGAATCCGGGCA
+>SJA_C1-19360(glnB) Score=5.7 Pos=-230 [Sphingobium japonicum UT26S]
+TGCCTAAAAAATGGGCA
+>SJA_C1-16750(nifR3) Score=5.5 Pos=-28 [Sphingobium japonicum UT26S]
+TGCCTGTTTTTTAGGCA
+>Swit_1918(glnK) Score=5.4 Pos=-159 [Sphingomonas wittichii RW1]
+TGCCTAAAAAACGGGCA
+>Swit_1918(glnK) Score=4 Pos=-141 [Sphingomonas wittichii RW1]
+GGCTCAACTTTTAGACA
+>Swit_4832(glnB) Score=5.4 Pos=-145 [Sphingomonas wittichii RW1]
+TGCCCATTTTTCAGGCA
+>Swit_0245(nifR3) Score=4.9 Pos=-27 [Sphingomonas wittichii RW1]
+TGCCGCTTTTTTAGGCA

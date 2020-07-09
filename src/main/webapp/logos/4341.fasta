@@ -1,0 +1,36 @@
+>ML1224(nrtR) Score=7.6 Pos=-23 [Mycobacterium leprae TN]
+GTTTTCGACTTATAATCGAAAAC
+>ML1225(nadA) Score=7.6 Pos=-46 [Mycobacterium leprae TN]
+GTTTTCGATTATAAGTCGAAAAC
+>MMAR_2390(nrtR) Score=7.5 Pos=-23 [Mycobacterium marinum M]
+GTTTTCGACTTACAATCGAAAAC
+>MMAR_2391(nadA) Score=7.5 Pos=-47 [Mycobacterium marinum M]
+GTTTTCGATTGTAAGTCGAAAAC
+>MSMEG_3198(nrtR) Score=7.6 Pos=-50 [Mycobacterium smegmatis str. MC2 155]
+GTTTTCGACTTATAATCGAAAAC
+>MSMEG_3199(nadA) Score=7.6 Pos=-46 [Mycobacterium smegmatis str. MC2 155]
+GTTTTCGATTATAAGTCGAAAAC
+>Mjls_3085(nadA) Score=7.5 Pos=-46 [Mycobacterium sp. JLS]
+GTTTTCGATTGTAAGTCGAAAAC
+>Mjls_3086(nrtR) Score=7.5 Pos=-23 [Mycobacterium sp. JLS]
+GTTTTCGACTTACAATCGAAAAC
+>Rv1593c(nrtR) Score=7.6 Pos=-23 [Mycobacterium tuberculosis H37Rv]
+GTTTTCGACTTATAATCGAAAAC
+>Rv1594(nadA) Score=7.6 Pos=-48 [Mycobacterium tuberculosis H37Rv]
+GTTTTCGATTATAAGTCGAAAAC
+>Mvan_2798(nadA) Score=7.5 Pos=-47 [Mycobacterium vanbaalenii PYR-1]
+GTTTTCGATTGTAAGTCGAAAAC
+>Mvan_2797(nrtR) Score=7.5 Pos=-23 [Mycobacterium vanbaalenii PYR-1]
+GTTTTCGACTTACAATCGAAAAC
+>Mflv_3619(nadA) Score=7.5 Pos=-47 [Mycobacterium flavescens PYR-GCK]
+GTTTTCGATTGTAAGTCGAAAAC
+>Mflv_3620(nrtR) Score=7.5 Pos=-23 [Mycobacterium flavescens PYR-GCK]
+GTTTTCGACTTACAATCGAAAAC
+>MAV_3191(nadA) Score=7.6 Pos=-46 [Mycobacterium avium 104]
+GTTTTCGATTATAAGTCGAAAAC
+>MAV_3192(nrtR) Score=7.6 Pos=-62 [Mycobacterium avium 104]
+GTTTTCGACTTATAATCGAAAAC
+>MAB_2675(nrtR) Score=7.1 Pos=-23 [Mycobacterium abscessus ATCC 19977]
+GTTTTCGACTTATGATCGAAAAC
+>MAB_2674c(nadA) Score=7.1 Pos=-82 [Mycobacterium abscessus ATCC 19977]
+GTTTTCGATCATAAGTCGAAAAC

@@ -1,0 +1,168 @@
+>SMc00977(acdH2) Score=5.9 Pos=-73 [Sinorhizobium meliloti 1021]
+GTTGACGTTCACGTAAAA
+>SMc02229(acdH) Score=6.3 Pos=-135 [Sinorhizobium meliloti 1021]
+TTTGACGTTTACGCAAAC
+>SMc02229(acdH) Score=4.6 Pos=-129 [Sinorhizobium meliloti 1021]
+GTTTACGCAAACGTCAAA
+>SMc02479(mdh) Score=6 Pos=-164 [Sinorhizobium meliloti 1021]
+TCTTACGTTTACGTAAGA
+>SMc01260(liuR1) Score=5.6 Pos=-58 [Sinorhizobium meliloti 1021]
+TTTGACTTTTACGTCAAA
+>SMc02377(etfD) Score=5.3 Pos=-163 [Sinorhizobium meliloti 1021]
+GTTTACGTTTACGTTCAG
+>SMc02377(etfD) Score=4.6 Pos=-157 [Sinorhizobium meliloti 1021]
+GTTTACGTTCAGGTAACA
+>SMc02162(fadD) Score=6.1 Pos=-147 [Sinorhizobium meliloti 1021]
+GTTGACGTTTACGTCAAA
+>SMc02150(PF03060) Score=5.4 Pos=-45 [Sinorhizobium meliloti 1021]
+TTTGACGTTTACGAGAAC
+>SMc02150(PF03060) Score=4.7 Pos=-39 [Sinorhizobium meliloti 1021]
+GTTTACGAGAACGTCAAA
+>SMc00041(SMc00041) Score=5 Pos=-44 [Sinorhizobium meliloti 1021]
+ATTTACCTTGACGTTAAC
+>SMc00041(SMc00041) Score=5.4 Pos=-38 [Sinorhizobium meliloti 1021]
+CTTGACGTTAACGTCAAA
+>SMc02391(PF09917) Score=5.2 Pos=-148 [Sinorhizobium meliloti 1021]
+ATTTACCTTTACGTACGC
+>SMc00729(etfB) Score=5.7 Pos=-187 [Sinorhizobium meliloti 1021]
+TTTTACCTGTACGTAAAC
+>NGR_c04900(acdH2) Score=6.4 Pos=-187 [Rhizobium sp. NGR234]
+GTTGACGTTTACGTAAAA
+>NGR_c01690(acdH) Score=6.3 Pos=-135 [Rhizobium sp. NGR234]
+TTTGACGTTTACGCAAAC
+>NGR_c01690(acdH) Score=4.6 Pos=-129 [Rhizobium sp. NGR234]
+GTTTACGCAAACGTCAAA
+>NGR_c31300(mdh) Score=5.6 Pos=-162 [Rhizobium sp. NGR234]
+TCTTACCTTTACGTAAGA
+>NGR_c12400(liuR1) Score=5.6 Pos=-58 [Rhizobium sp. NGR234]
+TTTGACTTTTACGTCAAA
+>NGR_c07940(etfD) Score=5.5 Pos=-125 [Rhizobium sp. NGR234]
+ATTTACGTTTACGTTCAA
+>NGR_c07940(etfD) Score=5 Pos=-119 [Rhizobium sp. NGR234]
+GTTTACGTTCAAGTAAGA
+>NGR_c01180(fadD) Score=6.1 Pos=-147 [Rhizobium sp. NGR234]
+ATTGACGTTTACGTCAAA
+>NGR_c07190(SMc00041) Score=4.8 Pos=-44 [Rhizobium sp. NGR234]
+ATTTACTTTGACGTCAAC
+>NGR_c07190(SMc00041) Score=5.3 Pos=-38 [Rhizobium sp. NGR234]
+TTTGACGTCAACGTCAAA
+>NGR_c01400(PF03060) Score=4.6 Pos=-41 [Rhizobium sp. NGR234]
+GTTTACGCAAACGTCAAA
+>NGR_c08080(PF09917) Score=5.2 Pos=-118 [Rhizobium sp. NGR234]
+ATTTACCTTTACGTACGC
+>NGR_c01400(PF03060) Score=6.1 Pos=-47 [Rhizobium sp. NGR234]
+ATTGACGTTTACGCAAAC
+>NGR_c26900(etfB) Score=5.8 Pos=-167 [Rhizobium sp. NGR234]
+TCTTACGTGTACGTAAAC
+>RL0965(acdH2) Score=6.4 Pos=-82 [Rhizobium leguminosarum bv. viciae 3841]
+ATTGACGTTTACGTAAAA
+>RL1479(PF09917) Score=4.9 Pos=-61 [Rhizobium leguminosarum bv. viciae 3841]
+ATTTACCTTTACGTTCGC
+>RL0591(acdH) Score=6.3 Pos=-87 [Rhizobium leguminosarum bv. viciae 3841]
+TTTGACGTTTACGCAAAC
+>RL4439(mdh) Score=5.8 Pos=-159 [Rhizobium leguminosarum bv. viciae 3841]
+TATTACGTTTACGTAAGA
+>RL2550(liuR1) Score=5.2 Pos=-53 [Rhizobium leguminosarum bv. viciae 3841]
+ATTGACTATTACGTAAAA
+>RL1457(etfD) Score=5.6 Pos=-164 [Rhizobium leguminosarum bv. viciae 3841]
+ATTGACGTTGACGTAAGC
+>RL0505(fadD) Score=5.9 Pos=-159 [Rhizobium leguminosarum bv. viciae 3841]
+GTTGACGTTTACGTTAAG
+>RL4319(etfB) Score=5.7 Pos=-180 [Rhizobium leguminosarum bv. viciae 3841]
+ATTGACGTGAACGTAAAC
+>RL1312(SMc00041) Score=5.7 Pos=-34 [Rhizobium leguminosarum bv. viciae 3841]
+GTTGACGTTAACGTCAAA
+>RL0537(PF03060) Score=5.8 Pos=-37 [Rhizobium leguminosarum bv. viciae 3841]
+ATTGACGTTTTCGTAAAC
+>RL1312(SMc00041) Score=4.9 Pos=-40 [Rhizobium leguminosarum bv. viciae 3841]
+ATTAACGTTGACGTTAAC
+>RHE_CH00905(acdH2) Score=6.4 Pos=-83 [Rhizobium etli CFN 42]
+ATTGACGTTTACGTAAAA
+>RHE_CH00557(acdH) Score=6.1 Pos=-87 [Rhizobium etli CFN 42]
+TCTGACGTTTACGCAAAC
+>RHE_CH03891(mdh) Score=6 Pos=-156 [Rhizobium etli CFN 42]
+TCTTACGTTTACGTAAGA
+>RHE_CH02217(liuR1) Score=5.2 Pos=-53 [Rhizobium etli CFN 42]
+ATTGACTATTACGTAAAA
+>RHE_CH01308(etfD) Score=5.9 Pos=-158 [Rhizobium etli CFN 42]
+ATTGACGTTAACGTAAGC
+>RHE_CH00478(fadD) Score=5.9 Pos=-159 [Rhizobium etli CFN 42]
+GTTGACGTTTACGTCAAG
+>RHE_CH01182(SMc00041) Score=5.7 Pos=-35 [Rhizobium etli CFN 42]
+GTTGACGTTAACGTCAAA
+>RHE_CH01182(SMc00041) Score=4.5 Pos=-41 [Rhizobium etli CFN 42]
+AATAACGTTGACGTTAAC
+>RHE_CH00505(PF03060) Score=5.8 Pos=-37 [Rhizobium etli CFN 42]
+ATTGACGTTTTCGTAAAC
+>RHE_CH03792(etfB) Score=5.9 Pos=-177 [Rhizobium etli CFN 42]
+GTTGACGTATACGTAAAC
+>Atu0732(acdH2) Score=6.4 Pos=-71 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTGACGTTTACGTAAAA
+>Atu1009(PF09917) Score=5.4 Pos=-208 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTACGTGAACGTCAAA
+>Atu0501(acdH) Score=5.2 Pos=-84 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTGACGTTTACGCGCAC
+>Atu0501(acdH) Score=4.6 Pos=-78 [Agrobacterium tumefaciens str. C58 (Cereon)]
+GTTTACGCGCACGTCAAA
+>Atu2639(mdh) Score=6 Pos=-160 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TCTTACGTTTACGTAAGA
+>Atu1546(liuR1) Score=5 Pos=-56 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTGACTTTTACGTGAAG
+>Atu1546(liuR1) Score=4.8 Pos=-50 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TTTTACGTGAAGGTCAAA
+>Atu0994(etfD) Score=5.2 Pos=-231 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TATTACGTGCACGTAAAA
+>Atu0405(fadD) Score=5.9 Pos=-243 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTGACGTTTACGTTAGA
+>Atu0415(PF03060) Score=4.7 Pos=-37 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACTTACGTGCGCGTAAAC
+>Atu3595(etfB) Score=5.6 Pos=-160 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATTTACGTTAACGTCAAC
+>Meso_0723(acdH2) Score=5.9 Pos=-93 [Mesorhizobium sp. BNC1]
+TTTGACCTTTACGTAAGC
+>Meso_0023(acdH) Score=5.2 Pos=-77 [Mesorhizobium sp. BNC1]
+TTTGACGTTTACGCGCAC
+>Meso_3395(mdh) Score=4.6 Pos=-182 [Mesorhizobium sp. BNC1]
+GCTTACCCTTACGTAAAT
+>Meso_1259(liuR1) Score=5.2 Pos=-63 [Mesorhizobium sp. BNC1]
+ATTGACTTTTACGTAATC
+>mlr7452(acdH2) Score=6.5 Pos=-109 [Mesorhizobium loti MAFF303099]
+TTTGACGTTTACGTAAAA
+>mlr5624(acdH) Score=6.1 Pos=-115 [Mesorhizobium loti MAFF303099]
+ATTGACGTTTACGCAAAC
+>mll4308(mdh) Score=5.8 Pos=-203 [Mesorhizobium loti MAFF303099]
+TTTGACGTTTACGTAAGT
+>mll1317(liuR1) Score=5.3 Pos=-127 [Mesorhizobium loti MAFF303099]
+ATTGACTTTTACGTAAAT
+>mll7718(PF09917) Score=5.3 Pos=-69 [Mesorhizobium loti MAFF303099]
+GCTTACGTTTGCGTAAGC
+>mlr5623(liuR2) Score=5.6 Pos=-154 [Mesorhizobium loti MAFF303099]
+ATTGACGTAAACGTAAAA
+>BMEI1521(acdH2) Score=5.8 Pos=-112 [Brucella melitensis 16M]
+ATTGACGTTTACGTAATA
+>BMEI0304 Score=5.4 Pos=-84 [Brucella melitensis 16M]
+ATTTACCTTTACGTAAAT
+>BMEI1315(PF09917) Score=5.5 Pos=-148 [Brucella melitensis 16M]
+GTTTACGTTTGCGTAAGC
+>BMEI1315(PF09917) Score=5.2 Pos=-154 [Brucella melitensis 16M]
+GTTTACGTTTACGTTTGC
+>BMEI1320(etfD) Score=6 Pos=-244 [Brucella melitensis 16M]
+TTTGACGTTTACGTTAAG
+>BMEII0495(acdH) Score=6.1 Pos=-193 [Brucella melitensis 16M]
+TTTGACGTTTACGGAAAC
+>BMEII0495(acdH) Score=4.6 Pos=-187 [Brucella melitensis 16M]
+GTTTACGGAAACGTCAAA
+>BMEI0137(mdh) Score=6 Pos=-179 [Brucella melitensis 16M]
+TCTTACGTTTACGTAAGA
+>BMEI0808(liuR1) Score=5.3 Pos=-65 [Brucella melitensis 16M]
+ATTGACTTTTACGTAAAT
+>BMEII0460(PF03060) Score=5.5 Pos=10 [Brucella melitensis 16M]
+TATTACGTTTACGGAAAC
+>BMEI0096(etfB) Score=5.3 Pos=-176 [Brucella melitensis 16M]
+ATTGACGTGCACGTCAAC
+>BMEI1320(etfD) Score=5.3 Pos=-238 [Brucella melitensis 16M]
+GTTTACGTTAAGGTAAAA
+>BMEI1371(SMc00041) Score=5 Pos=37 [Brucella melitensis 16M]
+TATTACGTAAACGTAAGA
+>BQ13450(mdh) Score=5.4 Pos=-279 [Bartonella quintana str. Toulouse]
+ATTTACCTTCACGTAAAC

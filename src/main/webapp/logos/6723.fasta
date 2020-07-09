@@ -1,0 +1,56 @@
+>BAD_0152(abfA2) Score=4.7 Pos=-49 [Bifidobacterium adolescentis ATCC 15703]
+TATATTCAACGTTGTAAATA
+>BAD_0153 Score=4.7 Pos=-267 [Bifidobacterium adolescentis ATCC 15703]
+AAATTACAACGTTGAAAATA
+>BAD_0152(abfA2) Score=5.5 Pos=-72 [Bifidobacterium adolescentis ATCC 15703]
+TTGTTACAACGATGTAAGAA
+>BAD_0146 Score=6.3 Pos=-72 [Bifidobacterium adolescentis ATCC 15703]
+GTTGTACAACGATGTAAAAC
+>BAD_0153 Score=5.8 Pos=-299 [Bifidobacterium adolescentis ATCC 15703]
+GTTGTACAACGATAGAAAAA
+>BAD_0146 Score=5.9 Pos=-47 [Bifidobacterium adolescentis ATCC 15703]
+ATAGTACATCGTTGTAAAAC
+>BIFANG_01256 Score=5 Pos=-43 [Bifidobacterium angulatum DSM 20098]
+ATAATACATCGATGTAAATC
+>BIFANG_01259 Score=5.1 Pos=-114 [Bifidobacterium angulatum DSM 20098]
+AAATTACAACGTTATAAAAG
+>BIFANG_01259 Score=5.7 Pos=-146 [Bifidobacterium angulatum DSM 20098]
+CTTGTACAACGATAGAAAAA
+>BIFANG_01258(abfA2) Score=4.7 Pos=-49 [Bifidobacterium angulatum DSM 20098]
+TATATTCAACGTTGTAAATA
+>BIFANG_01258(abfA2) Score=5.6 Pos=-72 [Bifidobacterium angulatum DSM 20098]
+TTGTTACAACGTTGTAAGAA
+>BIFANG_01256 Score=6 Pos=-69 [Bifidobacterium angulatum DSM 20098]
+GCTGTACAACGATGTAAAAA
+>BDP_0237 Score=5.4 Pos=-44 [Bifidobacterium dentium Bd1]
+ATAGTACATCGTTGTAAATG
+>BDP_0237 Score=6.1 Pos=-69 [Bifidobacterium dentium Bd1]
+TTTGTACAACGTTGTAATAT
+>BDP_0240 Score=5.9 Pos=-170 [Bifidobacterium dentium Bd1]
+TTTGTACAACGATAGAAAAA
+>BDP_0239(abfA2) Score=4.5 Pos=-50 [Bifidobacterium dentium Bd1]
+TATATTCAACGTTGTAAATT
+>BDP_0239(abfA2) Score=5.9 Pos=-73 [Bifidobacterium dentium Bd1]
+TTTGTACAACGATGTAATAG
+>BDP_0236 Score=6.1 Pos=-58 [Bifidobacterium dentium Bd1]
+ATATTACAACGTTGTACAAA
+>BDP_0236 Score=5.4 Pos=-83 [Bifidobacterium dentium Bd1]
+CATTTACAACGATGTACTAT
+>BL0186 Score=5.5 Pos=-207 [Bifidobacterium longum NCC2705]
+GATGTACAACGATGTAACAA
+>BL0187(abfA2) Score=5.5 Pos=-77 [Bifidobacterium longum NCC2705]
+TTGTTACATCGTTGTACATC
+>BL0188 Score=4.9 Pos=-175 [Bifidobacterium longum NCC2705]
+GAATTCCAACGTTGTAAACG
+>BL0186 Score=4.7 Pos=-65 [Bifidobacterium longum NCC2705]
+GAATTACAACGTTATAATGA
+>BL0188 Score=6.1 Pos=-205 [Bifidobacterium longum NCC2705]
+TTTGTACAACGATGGAAAAC
+>BL0187(abfA2) Score=5 Pos=-53 [Bifidobacterium longum NCC2705]
+ATATTGCATCGATGTAAATA
+>BL0183 Score=6 Pos=-62 [Bifidobacterium longum NCC2705]
+AGTTTACATCGTTGTACAAA
+>BL0186 Score=5 Pos=-231 [Bifidobacterium longum NCC2705]
+TATTTACATCGATGCAATAT
+>BL0184 Score=6 Pos=-73 [Bifidobacterium longum NCC2705]
+TTTGTACAACGATGTAAACT

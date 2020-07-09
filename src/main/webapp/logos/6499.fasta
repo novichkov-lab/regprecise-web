@@ -1,0 +1,80 @@
+>BACPEC_00407(uxaB) Score=6.4 Pos=-103 [Bacteroides pectinophilus ATCC 43243]
+CAATGTAAGCGCTTACATTA
+>BACPEC_00410(uxuR) Score=6.5 Pos=-38 [Bacteroides pectinophilus ATCC 43243]
+AAATGTAAGCACTTACATTT
+>BRYFOR_01978(uxuB) Score=5.9 Pos=-78 [Bryantella formatexigens DSM 14469]
+GATTGTAAGCGCTTACATGG
+>BRYFOR_01978(uxuB) Score=6.3 Pos=-228 [Bryantella formatexigens DSM 14469]
+AAATGTAAGCGCTTACACAA
+>BRYFOR_01977(uxuR) Score=6.3 Pos=-102 [Bryantella formatexigens DSM 14469]
+TTGTGTAAGCGCTTACATTT
+>BRYFOR_01977(uxuR) Score=5.9 Pos=-252 [Bryantella formatexigens DSM 14469]
+CCATGTAAGCGCTTACAATC
+>Cbac1_010100028614(uxaB2) Score=6.1 Pos=-56 [Clostridiales bacterium 1_7_47_FAA]
+AAATGTAAGTACTTACAAAA
+>Cbac1_010100028614(uxaB2) Score=6.1 Pos=-156 [Clostridiales bacterium 1_7_47_FAA]
+AAATGTAAACACTTACAATT
+>Cbac1_010100025807(pfkA) Score=6.4 Pos=-39 [Clostridiales bacterium 1_7_47_FAA]
+TTTTGTAAGCGCTTACAATT
+>Cbac1_010100002142(uxaA) Score=6.2 Pos=-63 [Clostridiales bacterium 1_7_47_FAA]
+AATTGTAAGTACTTACAATA
+>Cbac1_010100002142(uxaA) Score=5.8 Pos=-166 [Clostridiales bacterium 1_7_47_FAA]
+TTCTGTAAGCGCTTACAAGC
+>Cbac1_010100002147(uxuR) Score=6.2 Pos=-137 [Clostridiales bacterium 1_7_47_FAA]
+TATTGTAAGTACTTACAATT
+>Cbac1_010100002147(uxuR) Score=5.8 Pos=-34 [Clostridiales bacterium 1_7_47_FAA]
+GCTTGTAAGCGCTTACAGAA
+>CLOBOL_06887(uxaB2) Score=6.3 Pos=-42 [Clostridium bolteae ATCC BAA-613]
+AAATGTAAGCACTTACAAAA
+>CLOBOL_06887(uxaB2) Score=5.8 Pos=-139 [Clostridium bolteae ATCC BAA-613]
+AAATGTAAATACTTACAAAA
+>CLOBOL_01311(pfkA) Score=6.4 Pos=-37 [Clostridium bolteae ATCC BAA-613]
+TTTTGTAAGCGCTTACAATT
+>CLOBOL_01978(uxaA) Score=6.3 Pos=-89 [Clostridium bolteae ATCC BAA-613]
+AATTGTAAGCACTTACAAAA
+>CLOBOL_01978(uxaA) Score=5.8 Pos=-192 [Clostridium bolteae ATCC BAA-613]
+TTCTGTAAGCGCTTACAAGC
+>CLOBOL_01979(uxuR) Score=6.3 Pos=-137 [Clostridium bolteae ATCC BAA-613]
+TTTTGTAAGTGCTTACAATT
+>CLOBOL_01979(uxuR) Score=5.8 Pos=-34 [Clostridium bolteae ATCC BAA-613]
+GCTTGTAAGCGCTTACAGAA
+>DORFOR_02948(uxaA) Score=6 Pos=-148 [Dorea formicigenerans ATCC 27755]
+TAGTGTAAGCGCTTACACGT
+>DORFOR_02949(uxaC) Score=6.2 Pos=-57 [Dorea formicigenerans ATCC 27755]
+AAATGTAAGCGTTTACAATA
+>DORFOR_02949(uxaC) Score=6 Pos=-235 [Dorea formicigenerans ATCC 27755]
+ACGTGTAAGCGCTTACACTA
+>EUBELI_00907(uxaB) Score=5.7 Pos=-105 [Eubacterium eligens ATCC 27750]
+TTATGAAAGCGCTTACATGC
+>EUBELI_00907(uxaB) Score=6.5 Pos=-233 [Eubacterium eligens ATCC 27750]
+AAATGTAAGCGCTTACATAT
+>EUBELI_00906(uxuR) Score=5.7 Pos=-211 [Eubacterium eligens ATCC 27750]
+GCATGTAAGCGCTTTCATAA
+>EUBELI_00906(uxuR) Score=6.5 Pos=-83 [Eubacterium eligens ATCC 27750]
+ATATGTAAGCGCTTACATTT
+>ROSINTL182_00594(PF02743) Score=6.1 Pos=-45 [Roseburia intestinalis L1-82]
+AAATGTAACCGCTTACATAA
+>ROSINTL182_00339(ugl) Score=6.3 Pos=-126 [Roseburia intestinalis L1-82]
+ATTTGTAAGCGCTTACAAAA
+>ROSINTL182_03039(uxaB) Score=5.3 Pos=-139 [Roseburia intestinalis L1-82]
+AAATGAAAGCAGTTTCATTA
+>ROSINTL182_03040(uxuR) Score=6.1 Pos=-249 [Roseburia intestinalis L1-82]
+TTTTGTAAGCGTTTACAATT
+>ROSINTL182_03040(uxuR) Score=5.3 Pos=-63 [Roseburia intestinalis L1-82]
+TAATGAAACTGCTTTCATTT
+>RUMGNA_00427(pgl) Score=5.5 Pos=-17 [Ruminococcus gnavus ATCC 29149]
+TAATGTAAGCTGTTACAATG
+>RUMGNA_00427(pgl) Score=5.6 Pos=-215 [Ruminococcus gnavus ATCC 29149]
+AAATGTAAGTACTAACACTA
+>RUMGNA_00433(uxaA) Score=5.9 Pos=-43 [Ruminococcus gnavus ATCC 29149]
+AATTGTAAATACTTACATTT
+>RUMGNA_00433(uxaA) Score=6.1 Pos=-183 [Ruminococcus gnavus ATCC 29149]
+TTTTGTAAGCCCTTACATTT
+>RUMGNA_00432(uxaC) Score=5.9 Pos=-197 [Ruminococcus gnavus ATCC 29149]
+AAATGTAAGTATTTACAATT
+>RUMGNA_00432(uxaC) Score=6.1 Pos=-57 [Ruminococcus gnavus ATCC 29149]
+AAATGTAAGGGCTTACAAAA
+>RUMGNA_00428(uxuR) Score=5.5 Pos=-255 [Ruminococcus gnavus ATCC 29149]
+CATTGTAACAGCTTACATTA
+>RUMGNA_00428(uxuR) Score=5.6 Pos=-57 [Ruminococcus gnavus ATCC 29149]
+TAGTGTTAGTACTTACATTT

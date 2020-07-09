@@ -1,0 +1,38 @@
+>NE1435(metR) Score=5.4 Pos=-17 [Nitrosomonas europaea ATCC 19718]
+ATGAATAATTTTCAT
+>NE1436(metE) Score=5.4 Pos=-98 [Nitrosomonas europaea ATCC 19718]
+ATGAAAATTATTCAT
+>Nmul_A2635(metR) Score=5.8 Pos=-31 [Nitrosospira multiformis ATCC 25196]
+ATGAATAAAATTCAT
+>Nmul_A2634(metE) Score=5.8 Pos=-125 [Nitrosospira multiformis ATCC 25196]
+ATGAATTTTATTCAT
+>Tbd_2285(metR) Score=5.2 Pos=-23 [Thiobacillus denitrificans]
+ATGAATAACACTCAT
+>Tbd_2286(metE) Score=5.2 Pos=-98 [Thiobacillus denitrificans]
+ATGAGTGTTATTCAT
+>CV3603(metR) Score=4.8 Pos=-47 [Chromobacterium violaceum ATCC 12472]
+ATGATTCAAACTCAT
+>CV3604(metE) Score=4.8 Pos=-67 [Chromobacterium violaceum ATCC 12472]
+ATGAGTTTGAATCAT
+>NMB2055(metR) Score=4.9 Pos=-47 [Neisseria meningitidis MC58]
+ATGAATTATTTTAAT
+>NMB0943(metF) Score=4.1 Pos=-110 [Neisseria meningitidis MC58]
+ATTAGAAATTTTCAT
+>NMB0943(metF) Score=4.1 Pos=-79 [Neisseria meningitidis MC58]
+TTGAAATTGACTCAT
+>LHK_00468(metR) Score=4.3 Pos=10 [Laribacter hongkongensis HLHK9]
+ATGGTTTTATTTCAT
+>LHK_00468(metR) Score=5.8 Pos=31 [Laribacter hongkongensis HLHK9]
+ATGAATTTTATTCAT
+>LHK_00469(metE) Score=5.8 Pos=-97 [Laribacter hongkongensis HLHK9]
+ATGAATAAAATTCAT
+>LHK_00469(metE) Score=4.3 Pos=-76 [Laribacter hongkongensis HLHK9]
+ATGAAATAAAACCAT
+>Mfla_2570(metR) Score=5.8 Pos=-19 [Methylobacillus flagellatus KT]
+ATGAATTAAATTCAT
+>Mfla_2571(metE) Score=5.8 Pos=-92 [Methylobacillus flagellatus KT]
+ATGAATTTAATTCAT
+>Mmol_0966(metE) Score=5.4 Pos=-96 [Methylotenera mobilis JLW8]
+ATGAATAAAATTAAT
+>Mmol_0965(metR) Score=5.4 Pos=-22 [Methylotenera mobilis JLW8]
+ATTAATTTTATTCAT

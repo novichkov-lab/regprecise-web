@@ -1,0 +1,14 @@
+>nfa22220(uctT) Score=6.4 Pos=-51 [Nocardia farcinica IFM 10152]
+CAAAACTATCAACCGACAGATATT
+>nfa22230(amtR) Score=6.7 Pos=-160 [Nocardia farcinica IFM 10152]
+AATATCTGTCGGTTGATAGTTTTG
+>RER_29520(uctT) Score=6.9 Pos=-58 [Rhodococcus erythropolis PR4]
+GAAAACTATCAATCGACAGTTATT
+>RER_29510(amtR) Score=7.1 Pos=-172 [Rhodococcus erythropolis PR4]
+AATAACTGTCGATTGATAGTTTTC
+>ROP_68870(amtR) Score=7.2 Pos=-171 [Rhodococcus opacus B4]
+AATATCTGTCGATCGATAGTTTTC
+>ROP_68880(uctT) Score=6.9 Pos=-47 [Rhodococcus opacus B4]
+GAAAACTATCGATCGACAGATATT
+>RHA1_ro06918(amtR) Score=7 Pos=-170 [Rhodococcus sp. RHA1]
+AATATCTGTCGCTCGATAGTTTTC

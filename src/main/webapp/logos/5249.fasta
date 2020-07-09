@@ -1,0 +1,44 @@
+>Smlt1175(omp2) Score=5.5 Pos=-42 [Stenotrophomonas maltophilia K279a]
+ATCTGAAAGCGATTACACCC
+>Smlt0449(bglX) Score=5.7 Pos=-30 [Stenotrophomonas maltophilia K279a]
+GCTTGTAAACGTTTTCATCA
+>Smlt3253(COG5368) Score=5.6 Pos=-31 [Stenotrophomonas maltophilia K279a]
+CCTTGTAAACGATTTCAGAT
+>Smlt3255(XCC2209) Score=5.7 Pos=-46 [Stenotrophomonas maltophilia K279a]
+AGATGGAAACGCTTACATTC
+>Smlt1794(ugpC) Score=5.8 Pos=-148 [Stenotrophomonas maltophilia K279a]
+ACGTGAAAACGTTTACATGG
+>Smlt4137(PF10947) Score=5.7 Pos=-36 [Stenotrophomonas maltophilia K279a]
+TCATGAAAACGTTTTCTCAC
+>XCC2469(omp2) Score=5.1 Pos=-124 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CAGTGGAATCGATTTCAGCA
+>XCC3814(bglX) Score=5.8 Pos=-27 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+CCATGTAAACGTTTTCTCAA
+>XCC2207(COG5368) Score=5.9 Pos=-31 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AGATGTAATCGATTACACGA
+>XCC2209(XCC2209) Score=5.5 Pos=-107 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+ATCTGTAAGCGTTTTCACAA
+>XCC2209(XCC2209) Score=5.5 Pos=-61 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GTATGAAAACGCTTACAGTC
+>XCC2135(ugpC) Score=5.8 Pos=-130 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+ATGTGAAAACGATTACATGT
+>XCC4223(PF10947) Score=5.6 Pos=-33 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+TCATGTAAACGCTTTCAATC
+>XCC3510(COG3137) Score=5.5 Pos=-55 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+TCATGAAATCGCTTTCACCT
+>XAC2600(omp2) Score=5.3 Pos=-118 [Xanthomonas axonopodis pv. citri str. 306]
+GGATGGAATCGATTTCATCG
+>XAC3869(bglX) Score=5.8 Pos=-27 [Xanthomonas axonopodis pv. citri str. 306]
+CCATGTAAACGTTTTCTCAA
+>XAC2311(COG5368) Score=5.9 Pos=-31 [Xanthomonas axonopodis pv. citri str. 306]
+AGATGTAATCGATTACACAC
+>XAC2313(XCC2209) Score=5.6 Pos=-106 [Xanthomonas axonopodis pv. citri str. 306]
+ATCTGTAAGCGTTTTCACGC
+>XAC2313(XCC2209) Score=5.5 Pos=-60 [Xanthomonas axonopodis pv. citri str. 306]
+GTATGAAAACGCTTACAGTC
+>XAC2072(ugpC) Score=5.8 Pos=-130 [Xanthomonas axonopodis pv. citri str. 306]
+ATGTGAAAACGATTACATGT
+>XAC0623(COG3137) Score=5.6 Pos=-49 [Xanthomonas axonopodis pv. citri str. 306]
+TCATGAAATCGCTTTCACCC
+>XAC4357(PF10947) Score=5.7 Pos=-32 [Xanthomonas axonopodis pv. citri str. 306]
+TCATGTAAACGTTTACAACT

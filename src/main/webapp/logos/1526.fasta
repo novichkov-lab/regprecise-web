@@ -1,0 +1,34 @@
+>XF1461 Score=5.7 Pos=-298 [Xylella fastidiosa 9a5c]
+GATGACAACGGTATCAAT
+>XF1460(nagK2) Score=5.7 Pos=-68 [Xylella fastidiosa 9a5c]
+ATTGATACCGTTGTCATC
+>XAC3071(nixD) Score=5.6 Pos=-352 [Xanthomonas axonopodis pv. citri str. 306]
+GTTGACAACGCTGTCAGG
+>XAC3168(naxA) Score=5.7 Pos=-177 [Xanthomonas axonopodis pv. citri str. 306]
+GATGACAACGTTGCCAGT
+>XAC0544(nixB) Score=5.7 Pos=-160 [Xanthomonas axonopodis pv. citri str. 306]
+GTTGACACCGATGTCATC
+>XAC3120(nagK2) Score=5.8 Pos=-82 [Xanthomonas axonopodis pv. citri str. 306]
+ATTGACATCGTTGTCACC
+>XAC3070(nagK2) Score=5.7 Pos=-80 [Xanthomonas axonopodis pv. citri str. 306]
+GCTGACAACGTTGTCTAC
+>XCC3408(nixA) Score=5.6 Pos=-340 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GCTGATAACGTTGTCAGC
+>XCC2887(nixD) Score=6 Pos=-355 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GTTGACAACGCTGTCAAC
+>XCC3045(naxA) Score=5.4 Pos=-178 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GATGACAACGATGGCACT
+>XCC0531(nixB) Score=5.7 Pos=-161 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GTTGACACCGATGTCATC
+>XCC2943(nagK2) Score=6.2 Pos=-83 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+ATTGACAGCGTTGTCATC
+>XCC2886(nagK2) Score=5.7 Pos=-81 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GCTGACAACGTTGTCTAC
+>Smlt4025(nagK2) Score=5.7 Pos=-89 [Stenotrophomonas maltophilia K279a]
+GTTGACATCGTTGTCAGC
+>Smlt4023(nagP) Score=5.7 Pos=-307 [Stenotrophomonas maltophilia K279a]
+GCTGACAACGATGTCAAC
+>Smlt0682(chiA) Score=5.6 Pos=-155 [Stenotrophomonas maltophilia K279a]
+GATGACAACGTTGTCCCC
+>Smlt2566(naxA) Score=5.7 Pos=-94 [Stenotrophomonas maltophilia K279a]
+ATTGACAGCGTTGTCAGG

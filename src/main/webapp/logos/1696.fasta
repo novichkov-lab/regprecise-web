@@ -1,0 +1,72 @@
+>SMc02755(ahcY) Score=6.1 Pos=-145 [Sinorhizobium meliloti 1021]
+ATATAAAGACCTCTTTATAT
+>SMc01842(sahR) Score=6.8 Pos=-36 [Sinorhizobium meliloti 1021]
+ACATAAACATATCTTTATGT
+>SMc03112(metH) Score=6.9 Pos=-66 [Sinorhizobium meliloti 1021]
+ACATAAAGATATCTTTATGT
+>SMc04325(bhmT) Score=7.1 Pos=-53 [Sinorhizobium meliloti 1021]
+ACATAAAGATATCTTTATAT
+>SMc01109(metK) Score=6.6 Pos=-94 [Sinorhizobium meliloti 1021]
+ATATAAAGATATATTTATGT
+>NGR_c33880(ahcY) Score=6.1 Pos=-97 [Rhizobium sp. NGR234]
+ATATAAAGACCTCTTTATAT
+>NGR_c21320(sahR) Score=6.8 Pos=-37 [Rhizobium sp. NGR234]
+ACATAAACATATCTTTATGT
+>NGR_c30540(metH) Score=6.9 Pos=-67 [Rhizobium sp. NGR234]
+ACATAAAGATATCTTTATGT
+>NGR_c18290(bhmT) Score=6.9 Pos=-10 [Rhizobium sp. NGR234]
+ACATAAAGATATGTTTATAT
+>NGR_c00480(metK) Score=6.6 Pos=-93 [Rhizobium sp. NGR234]
+ATATAAAGATATATTTATGT
+>RL0031(ahcY) Score=6.3 Pos=-133 [Rhizobium leguminosarum bv. viciae 3841]
+ATATAAAGACTTCTTTATAT
+>RL3332(sahR) Score=6.9 Pos=-36 [Rhizobium leguminosarum bv. viciae 3841]
+ACATAAAGATATCTTTATGT
+>RL3362(metH) Score=6.9 Pos=-123 [Rhizobium leguminosarum bv. viciae 3841]
+ACATAAAGATATCTTTATGT
+>RL0389(metK) Score=6.6 Pos=-94 [Rhizobium leguminosarum bv. viciae 3841]
+ATATAAAGATATATTTATGT
+>RHE_CH00031(ahcY) Score=6.3 Pos=-122 [Rhizobium etli CFN 42]
+ATATAAAGACTTCTTTATAT
+>RHE_CH02872(sahR) Score=7.1 Pos=-33 [Rhizobium etli CFN 42]
+ACATAAAGATATCTTTATAT
+>RHE_CH02901(metH) Score=6.9 Pos=-18 [Rhizobium etli CFN 42]
+ACATAAAGATATCTTTATGT
+>RHE_CH00370(metK) Score=6.6 Pos=-94 [Rhizobium etli CFN 42]
+ATATAAAGATATATTTATGT
+>Atu2124(sahR) Score=7.1 Pos=-47 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACATAAAGATATCTTTATAT
+>Atu2155(metH) Score=6.8 Pos=-66 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACATAAACATATCTTTATGT
+>Atu0362(metK) Score=6.4 Pos=-91 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACATAAAGATATATTTATGT
+>Atu0029(ahcY) Score=6.1 Pos=-111 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACATAAAGACTTCTTTATAT
+>Meso_2029(sahR) Score=7 Pos=-36 [Mesorhizobium sp. BNC1]
+ATATAAACATATCTTTATAT
+>Meso_0328(metH) Score=6.9 Pos=-53 [Mesorhizobium sp. BNC1]
+ACATAAAGATATCTTTATGT
+>Meso_3576(ahcY) Score=6 Pos=-106 [Mesorhizobium sp. BNC1]
+GAATAAAGATTTCTTTATAT
+>mll1589(sahR) Score=6.7 Pos=-58 [Mesorhizobium loti MAFF303099]
+ACATAAACATATGTTTATAT
+>mlr1243(metH2) Score=6.3 Pos=-37 [Mesorhizobium loti MAFF303099]
+ATATAAAGAACTCTTTATAT
+>mlr1220(bhmT) Score=6.1 Pos=-54 [Mesorhizobium loti MAFF303099]
+ACATAAAGACTTCTTTATAT
+>mll5088(ahcY) Score=6 Pos=-143 [Mesorhizobium loti MAFF303099]
+GGATAAAGATTTCTTTATAT
+>BMEI0558(sahR) Score=7 Pos=-45 [Brucella melitensis 16M]
+ATATAAACATATCTTTATAT
+>BMEI1759(metH) Score=6.8 Pos=-140 [Brucella melitensis 16M]
+ACATAAAGATATGTTTATGT
+>BMEI2029(ahcY) Score=6.3 Pos=-112 [Brucella melitensis 16M]
+GTATAAAGATTTGTTTATAT
+>AZC_4042(ahcY) Score=6.6 Pos=-81 [Azorhizobium caulinodans ORS 571]
+ATATAAACATTTCTTTATAT
+>AZC_4339(sahR) Score=7.1 Pos=-16 [Azorhizobium caulinodans ORS 571]
+ATATAAAGATATCTTTATGT
+>Xaut_0186(ahcY) Score=6.1 Pos=-107 [Xanthobacter autotrophicus Py2]
+ATATAAGCATTTCTTTATAT
+>Xaut_2830(sahR) Score=7.1 Pos=14 [Xanthobacter autotrophicus Py2]
+ATATAAAGATATCTTTATGT

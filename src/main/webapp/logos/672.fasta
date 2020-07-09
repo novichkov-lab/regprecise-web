@@ -1,0 +1,48 @@
+>SA0429(gltC) Score=5.2 Pos=-79 [Staphylococcus aureus subsp. aureus N315]
+ATCTAAAAAATAGAA
+>SA0430(gltB) Score=5.2 Pos=-116 [Staphylococcus aureus subsp. aureus N315]
+TTCTATTTTTTAGAT
+>SA0430(gltB) Score=4.9 Pos=-94 [Staphylococcus aureus subsp. aureus N315]
+TTCTATTTTATATAT
+>SA0429(gltC) Score=4.9 Pos=-101 [Staphylococcus aureus subsp. aureus N315]
+ATATATAAAATAGAA
+>STACA0001_1494(gltB) Score=5 Pos=-96 [Staphylococcus capitis SK14]
+ATCTAATTTATATAT
+>STACA0001_1494(gltB) Score=5.2 Pos=-118 [Staphylococcus capitis SK14]
+TTCTATTTTTTAGAT
+>STACA0001_1493(gltC) Score=5 Pos=-119 [Staphylococcus capitis SK14]
+ATATATAAATTAGAT
+>STACA0001_1493(gltC) Score=5.2 Pos=-97 [Staphylococcus capitis SK14]
+ATCTAAAAAATAGAA
+>SE2312(gltB) Score=5 Pos=-94 [Staphylococcus epidermidis ATCC 12228]
+ATCTAATTTATATAT
+>SE2312(gltB) Score=5.5 Pos=-116 [Staphylococcus epidermidis ATCC 12228]
+TTCTAATAATTAGAT
+>SE2313(gltC) Score=5 Pos=-112 [Staphylococcus epidermidis ATCC 12228]
+ATATATAAATTAGAT
+>SE2313(gltC) Score=5.5 Pos=-90 [Staphylococcus epidermidis ATCC 12228]
+ATCTAATTATTAGAA
+>Sca_0105(gltB) Score=5.4 Pos=-121 [Staphylococcus carnosus subsp. carnosus TM300]
+TTCTAATAATTAGAA
+>Sca_0105(gltB) Score=5.1 Pos=-99 [Staphylococcus carnosus subsp. carnosus TM300]
+ATCTAATATTTATAT
+>Sca_0104(gltC) Score=5.1 Pos=-57 [Staphylococcus carnosus subsp. carnosus TM300]
+ATATAAATATTAGAT
+>Sca_0104(gltC) Score=5.4 Pos=-35 [Staphylococcus carnosus subsp. carnosus TM300]
+TTCTAATTATTAGAA
+>SH2540(gltB) Score=5.4 Pos=-116 [Staphylococcus haemolyticus JCSC1435]
+TTCTAATTATTAGAA
+>SH2540(gltB) Score=5.2 Pos=-94 [Staphylococcus haemolyticus JCSC1435]
+ATCTAATTAATATAT
+>SH2541(gltC) Score=5.2 Pos=-78 [Staphylococcus haemolyticus JCSC1435]
+ATATATTAATTAGAT
+>SH2541(gltC) Score=5.4 Pos=-56 [Staphylococcus haemolyticus JCSC1435]
+TTCTAATAATTAGAA
+>SSP2285(gltC) Score=5.4 Pos=-39 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTCTAATTATTAGAA
+>SSP2284(gltB) Score=5.4 Pos=-113 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+TTCTAATAATTAGAA
+>SSP2284(gltB) Score=4.9 Pos=-91 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATCTATTATATATAT
+>SSP2285(gltC) Score=4.9 Pos=-61 [Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305]
+ATATATATAATAGAT

@@ -1,0 +1,26 @@
+>b1013(rutR) Score=4.3 Pos=-124 [Escherichia coli str. K-12 substr. MG1655]
+AGTGGACTAAACGGTCAAAA
+>b0032(carA) Score=6.5 Pos=-294 [Escherichia coli str. K-12 substr. MG1655]
+TTTTGACCATTTGGTCCACT
+>b1012(rutA) Score=6.2 Pos=-126 [Escherichia coli str. K-12 substr. MG1655]
+TTTTGACCGTTTAGTCCACT
+>STM0066(carA) Score=6.5 Pos=-294 [Salmonella typhimurium LT2]
+ATTTGACCATTTGGTCCACT
+>CKO_03351(carA) Score=6.4 Pos=-268 [Citrobacter koseri ATCC BAA-895]
+TTTTGACCAAATGGTCCACT
+>KPN_01039(rutR) Score=4.2 Pos=-123 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+AGTGGACTGGATGGTCAAAA
+>KPN_01038(rutA) Score=6 Pos=-181 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTTGACCATCCAGTCCACT
+>KPN_00040(carA) Score=6.4 Pos=-267 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TTTTGACCATCTGGTCCACT
+>Ent638_1525(rutA) Score=6.1 Pos=-185 [Enterobacter sp. 638]
+TTTTGACCATTCAGTCCACT
+>Ent638_0591(carA) Score=5.8 Pos=-294 [Enterobacter sp. 638]
+TTTTGACCATTTGGTCTGGT
+>EAM_0660(carA) Score=6.2 Pos=-297 [Erwinia amylovora ATCC 49946]
+TTCTGACCATTTGGTCCACT
+>Spro_1824(rutR) Score=5 Pos=-118 [Serratia proteamaculans 568]
+AACAGACCATTTGGTCAAAA
+>Spro_1823(rutA) Score=5.8 Pos=-187 [Serratia proteamaculans 568]
+TTTTGACCAAATGGTCTGTT

@@ -1,0 +1,50 @@
+>CC0762(cydA) Score=6.2 Pos=-93 [Caulobacter crescentus CB15]
+GCCTTGATCCGGATCAAGGA
+>CC3407(ctaC) Score=5.6 Pos=-45 [Caulobacter crescentus CB15]
+GCCTTGATCGGGCTCAAATC
+>CC3407(ctaC) Score=4.9 Pos=-12 [Caulobacter crescentus CB15]
+GCCGTGAGGGATATGAAGGC
+>CC1401(ccoN) Score=5.8 Pos=-73 [Caulobacter crescentus CB15]
+GCTTTGATGCGTGTCAAAGC
+>CC0761(cydD) Score=6.2 Pos=-50 [Caulobacter crescentus CB15]
+TCCTTGATCCGGATCAAGGC
+>CC0759(fixL) Score=5 Pos=-37 [Caulobacter crescentus CB15]
+GCCTTGACCTGGCTCAAACG
+>CC0752(fixK) Score=5.2 Pos=-143 [Caulobacter crescentus CB15]
+GCCTTGATCGGCGTCAAAAT
+>Cseg_1891(hemN) Score=4.7 Pos=-65 [Caulobacter segnis ATCC 21756]
+GGATTGATCCAAATCACGGC
+>Cseg_1883(ccoN) Score=5.7 Pos=-75 [Caulobacter segnis ATCC 21756]
+GCTTTGAGACAGATCAAAGC
+>Cseg_0283(ctaC) Score=4.2 Pos=-45 [Caulobacter segnis ATCC 21756]
+ACATTGATCATCGTCAAATC
+>Cseg_0283(ctaC) Score=4.9 Pos=-12 [Caulobacter segnis ATCC 21756]
+GCCGTGAGGGATATGAAGGC
+>Cseg_3612(fixK) Score=5.2 Pos=-139 [Caulobacter segnis ATCC 21756]
+ACTTTGATCCCGGTCAAAAC
+>Cseg_3606(cydD) Score=5.8 Pos=-50 [Caulobacter segnis ATCC 21756]
+GCCTTGATCGTGATCAAGGA
+>Cseg_3609(fixL) Score=4.9 Pos=-64 [Caulobacter segnis ATCC 21756]
+GCCTTGACCTGCCTCAAACG
+>Cseg_3605(cydA) Score=5.8 Pos=-92 [Caulobacter segnis ATCC 21756]
+TCCTTGATCACGATCAAGGC
+>Caul_3872(hemN) Score=5.2 Pos=-64 [Caulobacter sp. K31]
+GACTTGACGCGCGTCAAGGT
+>Caul_2437(ccoN) Score=4.5 Pos=-69 [Caulobacter sp. K31]
+GCTTTGACCCAAGTCAATTT
+>Caul_4506(ctaC) Score=4.3 Pos=-75 [Caulobacter sp. K31]
+ACGTTGATGTACGTCAAATC
+>Caul_4506(ctaC) Score=4.9 Pos=-42 [Caulobacter sp. K31]
+GCCGTGAGGGATATGAAGGC
+>Caul_0633(cydD) Score=4.1 Pos=-77 [Caulobacter sp. K31]
+CCCTATAGACGCGTCAAGGC
+>Caul_0633(cydD) Score=5.5 Pos=-51 [Caulobacter sp. K31]
+GCTTTGATTGGTGTCAAGGA
+>Caul_0634(cydA) Score=5.5 Pos=-92 [Caulobacter sp. K31]
+TCCTTGACACCAATCAAAGC
+>PHZ_c2806(hemN) Score=5.3 Pos=-52 [Phenylobacterium zucineum HLK1]
+TCCTTGATCTGAATCAGGGC
+>PHZ_c2798(fixK) Score=5 Pos=-136 [Phenylobacterium zucineum HLK1]
+GATGTGACGGCGATCAAAGC
+>PHZ_c2814(ccoN) Score=6 Pos=-40 [Phenylobacterium zucineum HLK1]
+GCCTTGACCGATATCAAGGC

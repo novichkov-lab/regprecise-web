@@ -1,0 +1,68 @@
+>HI0830(trpR) Score=6.7 Pos=-36 [Haemophilus influenzae Rd KW20]
+TGCACTAGTTTAATAGTGTA
+>HI0287(mtr) Score=6.5 Pos=-41 [Haemophilus influenzae Rd KW20]
+TGTACTACTATAATAGTGCA
+>HI1547(aroG) Score=6.2 Pos=-81 [Haemophilus influenzae Rd KW20]
+CGAACTAGTTTACTAGTACA
+>HI1430(COG4221) Score=6.5 Pos=-46 [Haemophilus influenzae Rd KW20]
+TGTACTACTTTAATAGTACA
+>HI1387(trpE) Score=6.8 Pos=-45 [Haemophilus influenzae Rd KW20]
+TGCACTAGTTTAATAGTACA
+>NT05HA_1280(trpR) Score=6.2 Pos=-31 [Aggregatibacter aphrophilus NJ8700]
+CGCACTAGTTTAATAGTATA
+>NT05HA_0824(COG4221) Score=5.3 Pos=-102 [Aggregatibacter aphrophilus NJ8700]
+TGTACTAGTGTAGTAGTATG
+>NT05HA_0807(trpE) Score=6.9 Pos=-51 [Aggregatibacter aphrophilus NJ8700]
+TGTACTAGTTTAATAGTGCA
+>NT05HA_1570(mtr) Score=6.2 Pos=-44 [Aggregatibacter aphrophilus NJ8700]
+TGTACTATTATAATAGTCCA
+>PM0563(aroG) Score=5.9 Pos=-123 [Pasteurella multocida subsp. multocida str. Pm70]
+AAAACTAGTTTACTAGTGTA
+>PM0581(trpD) Score=6.2 Pos=-57 [Pasteurella multocida subsp. multocida str. Pm70]
+TGTACTAGTTTAATAGTTTT
+>PM0578(trpB) Score=6.8 Pos=-93 [Pasteurella multocida subsp. multocida str. Pm70]
+TGAACTAGTTTAATAGTGCA
+>PM1192(mtr) Score=6.1 Pos=-61 [Pasteurella multocida subsp. multocida str. Pm70]
+TGCACTATTAAAATAGTGCA
+>PM0584(trpE) Score=6.6 Pos=-51 [Pasteurella multocida subsp. multocida str. Pm70]
+TAAACTAGTTTAATAGTTCA
+>MS1153(trpB) Score=6.7 Pos=-52 [Mannheimia succiniciproducens MBEL55E]
+TGTACTAGTTTAATAGTATA
+>MS1566(trpR) Score=6.2 Pos=-42 [Mannheimia succiniciproducens MBEL55E]
+TATACTAGTTTAATAGTATG
+>MS1184(aroG) Score=5.9 Pos=-90 [Mannheimia succiniciproducens MBEL55E]
+TGTACTAGTTTACCAATGCA
+>MS1895(mtr) Score=6.3 Pos=1 [Mannheimia succiniciproducens MBEL55E]
+TGTACTACTATAATAGTTCA
+>MS1149(trpE) Score=6.9 Pos=-50 [Mannheimia succiniciproducens MBEL55E]
+TGTACTAGTTTAATAGTGCA
+>Asuc_1556(trpR) Score=6.7 Pos=-33 [Actinobacillus succinogenes 130Z]
+TGCACTAGTTTAATAGTGTA
+>Asuc_1478(trpB) Score=5.8 Pos=-52 [Actinobacillus succinogenes 130Z]
+TGTACTAGTTAACTAGTATG
+>Asuc_1428(aroG) Score=6.7 Pos=-176 [Actinobacillus succinogenes 130Z]
+TGAACTAGTTTACTAGTGCA
+>Asuc_0628(mtr) Score=6.4 Pos=-44 [Actinobacillus succinogenes 130Z]
+TGCACTACTATAATAGTGCA
+>Asuc_1272(trpE) Score=6.9 Pos=-46 [Actinobacillus succinogenes 130Z]
+TGTACTAGTTTAATAGTGCA
+>HSM_1416(aroG) Score=5.6 Pos=-104 [Haemophilus somnus 2336]
+GAAATTAGTTTACTAGTACA
+>HSM_1017(trpR) Score=5.5 Pos=-29 [Haemophilus somnus 2336]
+TACACTAGTTTAATAGTCAG
+>HSM_1315(trpE) Score=6.4 Pos=-52 [Haemophilus somnus 2336]
+CGCACTAGTTTAATAGTTCA
+>HSM_0462(mtr) Score=6.3 Pos=-49 [Haemophilus somnus 2336]
+TGAACTATTATAATAGTTCA
+>APP7_1221(trpE) Score=6.4 Pos=-48 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TATACTAGTTTAATAGTACG
+>APP7_0546(trpB) Score=6.7 Pos=-47 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TGTACTATTTTAATAGTGCA
+>APP7_0666(aroG) Score=6.3 Pos=-106 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+TGTACTAGTAAAATAGTTCA
+>HAPS_1997(trpE) Score=6.7 Pos=-47 [Haemophilus parasuis SH0165]
+TATACTAGTTTAATAGTACA
+>HAPS_1139(HAPS_1139) Score=5.7 Pos=-26 [Haemophilus parasuis SH0165]
+TGTACTAGTAAAATAGTATT
+>HAPS_0395(HAPS_0395) Score=6.6 Pos=-52 [Haemophilus parasuis SH0165]
+TGTACTATTTTAATAGTACA

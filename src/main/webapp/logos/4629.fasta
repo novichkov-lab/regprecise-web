@@ -1,0 +1,48 @@
+>SAG1909(ytjD) Score=5.9 Pos=-96 [Streptococcus agalactiae 2603V/R]
+AATTACTACATAGTAATA
+>SAG1910(SAG1910) Score=5.9 Pos=-48 [Streptococcus agalactiae 2603V/R]
+AATAACTAATTAGTGATA
+>SAG0731(SAG0731) Score=5.4 Pos=-50 [Streptococcus agalactiae 2603V/R]
+TGATACTATATAGTGATA
+>SDEG_0248(SAG1910) Score=4.8 Pos=-41 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TAATACTAATCAGTGACA
+>SDEG_0249(SDEG_0249) Score=5.7 Pos=-50 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+AATAACTACATAGTAATA
+>Sez_1761(SDEG_0249) Score=5.1 Pos=-58 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AATCACTACATAGTATAA
+>GALLO_0211(SDEG_0249) Score=5.6 Pos=-82 [Streptococcus gallolyticus UCN34]
+AAGCACTATTTAGTGATA
+>SGO_1300(SDEG_0249) Score=5.3 Pos=-85 [Streptococcus gordonii str. Challis substr. CH1]
+AATTGCTAATTAGTAACA
+>SGO_1299(SAG1910) Score=5.3 Pos=-22 [Streptococcus gordonii str. Challis substr. CH1]
+TAATACTATTTATTGATA
+>SMU.125(SDEG_0249) Score=6.1 Pos=-41 [Streptococcus mutans UA159]
+TATTACTATTTAGTGATA
+>SMU.124(SAG1910) Score=5.5 Pos=-33 [Streptococcus mutans UA159]
+TAACACTAATTAGTAGTA
+>SMU.260(ytjD) Score=5.4 Pos=-59 [Streptococcus mutans UA159]
+TGTCACTAATTAGTAGTA
+>SPy1959(SDEG_0249) Score=5.9 Pos=-95 [Streptococcus pyogenes M1 GAS]
+AATTACTACATAGTGATA
+>SSA_2106(SAG0731) Score=5.9 Pos=-54 [Streptococcus sanguinis SK36]
+TATCACTAATTAGTTATA
+>SSA_1386(SDEG_0249) Score=5.4 Pos=-83 [Streptococcus sanguinis SK36]
+AATTGCTAACTAGTAATT
+>SSU05_1952(ytjD) Score=5.3 Pos=-83 [Streptococcus suis 05ZYH33]
+TGACACTACTTAGTAATA
+>SSU05_1952(ytjD) Score=5.2 Pos=-38 [Streptococcus suis 05ZYH33]
+AACTACTATGTAGTAACA
+>SSU05_0518(SAG0731) Score=5.8 Pos=-66 [Streptococcus suis 05ZYH33]
+TATCACTAATTAGCGATA
+>str1363(ytjD) Score=5.6 Pos=-143 [Streptococcus thermophilus CNRZ1066]
+TATTAATAATTAGTGATT
+>str0066(SDEG_0249) Score=5.6 Pos=-52 [Streptococcus thermophilus CNRZ1066]
+TATTACTACGTAGTAGTA
+>SUB0259(SDEG_0249) Score=5.6 Pos=-101 [Streptococcus uberis 0140J]
+CATTACTAATTAGTAATA
+>SUB0259(SDEG_0249) Score=5.4 Pos=-79 [Streptococcus uberis 0140J]
+AATAACTACATAGTATTA
+>SUB0259(SDEG_0249) Score=5.5 Pos=-58 [Streptococcus uberis 0140J]
+AATCACTATATAGTGACT
+>SUB0258(SAG1910) Score=5.7 Pos=-46 [Streptococcus uberis 0140J]
+TATCACTAACTAGTTATA

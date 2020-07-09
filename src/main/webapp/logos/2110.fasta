@@ -1,0 +1,56 @@
+>RSP_0904(sitA) Score=5.2 Pos=-40 [Rhodobacter sphaeroides 2.4.1]
+TTTGCGAATGCCTCGCATT
+>Pden_1260(mur) Score=4.6 Pos=-35 [Paracoccus denitrificans PD1222]
+GTTGCAATTTCTTCGCATC
+>Pden_1259(sitA) Score=4.6 Pos=-89 [Paracoccus denitrificans PD1222]
+GATGCGAAGAAATTGCAAC
+>Pden_1259(sitA) Score=4.6 Pos=-60 [Paracoccus denitrificans PD1222]
+GTTGAGAATGGTTCGCAGA
+>Pden_1260(mur) Score=4.6 Pos=-64 [Paracoccus denitrificans PD1222]
+TCTGCGAACCATTCTCAAC
+>Jann_2080(sitA) Score=5 Pos=-88 [Jannaschia sp. CCS1]
+TTTGCAACTCACTCGCAAG
+>Jann_2080(sitA) Score=4.7 Pos=-58 [Jannaschia sp. CCS1]
+CTTGCGAATAAGTCGCATA
+>RB2654_19543(sitA) Score=5.4 Pos=-117 [Rhodobacterales bacterium HTCC2654]
+GTTGCAATTCATTCGCAAC
+>RB2654_19538(mur) Score=5.7 Pos=-79 [Rhodobacterales bacterium HTCC2654]
+AGTGCAAATCATTTGCAAC
+>RB2654_19538(mur) Score=5.4 Pos=-127 [Rhodobacterales bacterium HTCC2654]
+GTTGCGAATGAATTGCAAC
+>RB2654_19543(sitA) Score=5.7 Pos=-165 [Rhodobacterales bacterium HTCC2654]
+GTTGCAAATGATTTGCACT
+>OG2516_13601(mntX) Score=5.9 Pos=-39 [Oceanicola granulosus HTCC2516]
+ATTGCGAATTATTCGCAAT
+>SKA53_08116(sitA) Score=4.9 Pos=-63 [Loktanella vestfoldensis SKA53]
+GTTGCGAACGCTTCTCATT
+>OB2597_13568(sitA) Score=5.5 Pos=-91 [Oceanicola batsensis HTCC2597]
+GTTGCGAATGGTTCGCATT
+>OB2597_13568(sitA) Score=5.3 Pos=-60 [Oceanicola batsensis HTCC2597]
+GTTGCGAATGGTTCGCATC
+>ISM_02005(mntX) Score=5.7 Pos=-29 [Roseovarius nubinhibens ISM]
+ATTGAGAATAATTCGCAAT
+>ROS217_05129(sitA) Score=5.1 Pos=-28 [Roseovarius sp. 217]
+GTTGCGAATAATTCTCATA
+>EE36_12418(sitA) Score=5 Pos=-110 [Sulfitobacter sp. EE-36]
+TATGCGACTAATTCGCATT
+>EE36_12413(mur) Score=5 Pos=-109 [Sulfitobacter sp. EE-36]
+AATGCGAATTAGTCGCATA
+>TM1040_0098(sitA) Score=4.5 Pos=-95 [Silicibacter TM1040]
+TGTGAGAATAATTCTCATT
+>TM1040_0098(sitA) Score=4.7 Pos=-64 [Silicibacter TM1040]
+GTTGCGAAGCGTTCTCATA
+>TM1040_0183(irr) Score=4.5 Pos=-75 [Silicibacter TM1040]
+TTTGCAAATCCGTTTGAAA
+>SPO3366(sitA) Score=5.3 Pos=-84 [Silicibacter pomeroyi DSS-3]
+CTTGCGAATAATTCTCAAT
+>SPOA0445(irr) Score=4.2 Pos=-76 [Silicibacter pomeroyi DSS-3]
+GATGAGAATGAAATTCATT
+>SPO3366(sitA) Score=5 Pos=-53 [Silicibacter pomeroyi DSS-3]
+GTTGCGAATGGTTCTCATA
+>MED193_12968(sitA) Score=4.8 Pos=-56 [Roseobacter sp. MED193]
+GTTGAGAATCGTTCTCATA
+>MED193_12968(sitA) Score=5.1 Pos=-87 [Roseobacter sp. MED193]
+GTTGAGAATAATTCTCATT
+>MED193_17849(irr) Score=5 Pos=-40 [Roseobacter sp. MED193]
+AATGCAATTCATTCGCAGT

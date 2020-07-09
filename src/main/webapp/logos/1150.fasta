@@ -1,0 +1,140 @@
+>b2234(nrdA) Score=5.7 Pos=-93 [Escherichia coli str. K-12 substr. MG1655]
+CCCCTATATATAGTGT
+>b2673(nrdH) Score=4.8 Pos=-120 [Escherichia coli str. K-12 substr. MG1655]
+TTGCTATATATTGTGT
+>b2673(nrdH) Score=5.5 Pos=-89 [Escherichia coli str. K-12 substr. MG1655]
+CAACTACATCTAGTAT
+>b4238(nrdD) Score=4.3 Pos=-208 [Escherichia coli str. K-12 substr. MG1655]
+GCACTATATATAGACT
+>b4238(nrdD) Score=5 Pos=-177 [Escherichia coli str. K-12 substr. MG1655]
+ACCCAATATGTTGTAT
+>b2234(nrdA) Score=3.5 Pos=-62 [Escherichia coli str. K-12 substr. MG1655]
+GTACTACAGGTAGTCT
+>STM2277(nrdA) Score=3.7 Pos=-136 [Salmonella typhimurium LT2]
+ACTCACCATATAGCGT
+>STM2277(nrdA) Score=5.8 Pos=-104 [Salmonella typhimurium LT2]
+CCCCTATATATAGTAT
+>STM2805(nrdH) Score=5.5 Pos=-89 [Salmonella typhimurium LT2]
+CAACTACATCTAGTAT
+>STM4452(nrdD) Score=5 Pos=-177 [Salmonella typhimurium LT2]
+ACCCAATATGTTGTAT
+>STM2805(nrdH) Score=4.7 Pos=-121 [Salmonella typhimurium LT2]
+TTCCCATATCTTGTAT
+>STM4452(nrdD) Score=4.5 Pos=-207 [Salmonella typhimurium LT2]
+TCACTACATATAGACT
+>CKO_00541(nrdA) Score=3.7 Pos=-127 [Citrobacter koseri ATCC BAA-895]
+ACTCACCATATAGCGT
+>CKO_00541(nrdA) Score=5.8 Pos=-95 [Citrobacter koseri ATCC BAA-895]
+CCCCTATATATAGTAT
+>CKO_04022(nrdH) Score=4.6 Pos=-106 [Citrobacter koseri ATCC BAA-895]
+TTCCCATATCTTGTGT
+>CKO_04022(nrdH) Score=5.3 Pos=-75 [Citrobacter koseri ATCC BAA-895]
+CATCTACATCTAGTAT
+>CKO_03580(nrdD) Score=4.7 Pos=-225 [Citrobacter koseri ATCC BAA-895]
+TCACTACATATAGAAC
+>CKO_03580(nrdD) Score=5 Pos=-194 [Citrobacter koseri ATCC BAA-895]
+ACCCAATATGTTGTAT
+>KPN_02642(nrdA) Score=3.7 Pos=-125 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ACTCACCATATAGCGT
+>KPN_02642(nrdA) Score=5.8 Pos=-93 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CCCCTACATATAGTAT
+>KPN_03004(nrdH) Score=4.6 Pos=-182 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ACGCTATATATTGAGT
+>KPN_03004(nrdH) Score=5.4 Pos=-151 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TAACTACATCTAGTAT
+>KPN_04646(nrdD) Score=4.7 Pos=-207 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+TCACTACATATAGAAC
+>KPN_04646(nrdD) Score=5 Pos=-176 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+GCCCAACATATTGTAT
+>Ent638_2801(nrdA) Score=3.7 Pos=-130 [Enterobacter sp. 638]
+ACTCACCATATAGCGT
+>Ent638_2801(nrdA) Score=5.6 Pos=-98 [Enterobacter sp. 638]
+CCCCTATATGTAGTAT
+>Ent638_3153(nrdH) Score=4.6 Pos=-106 [Enterobacter sp. 638]
+TTCCCATATCTTGTGT
+>Ent638_3153(nrdH) Score=5.5 Pos=-75 [Enterobacter sp. 638]
+CAACTACATCTAGTAT
+>Ent638_0437(nrdD) Score=4.7 Pos=-203 [Enterobacter sp. 638]
+TCACTACATATAGAAC
+>Ent638_0437(nrdD) Score=5.1 Pos=-172 [Enterobacter sp. 638]
+ACCCAACATCTTGTAT
+>EAM_2266(nrdA) Score=3.2 Pos=-96 [Erwinia amylovora ATCC 49946]
+ACCCCCTATATGTTGT
+>EAM_2266(nrdA) Score=5.4 Pos=-94 [Erwinia amylovora ATCC 49946]
+CCCCTATATGTTGTGT
+>EAM_2594(nrdH) Score=5.1 Pos=-121 [Erwinia amylovora ATCC 49946]
+ACGCTATATCTAGTAT
+>EAM_2594(nrdH) Score=4.2 Pos=-89 [Erwinia amylovora ATCC 49946]
+ACGCTATATGGTGTGT
+>EAM_3059(nrdD) Score=3 Pos=-67 [Erwinia amylovora ATCC 49946]
+ATACCATATATAGATA
+>EAM_3059(nrdD) Score=3.4 Pos=-36 [Erwinia amylovora ATCC 49946]
+GGACTATATGTAGTTG
+>y2974(nrdA) Score=5.5 Pos=-132 [Yersinia pestis KIM]
+CCACTATATATTGTGT
+>y1225(nrdH) Score=5.2 Pos=-171 [Yersinia pestis KIM]
+TAACTACATGTAGTGT
+>y1225(nrdH) Score=5.3 Pos=-140 [Yersinia pestis KIM]
+GCACTACATATAGTAT
+>y0733(nrdD) Score=5.1 Pos=-142 [Yersinia pestis KIM]
+TACCCATATATAGTGT
+>y0733(nrdD) Score=4.7 Pos=-111 [Yersinia pestis KIM]
+CATCTATATGTAGTAG
+>y2974(nrdA) Score=3 Pos=-165 [Yersinia pestis KIM]
+ACTCACTATCTTGTTA
+>Spro_3271(nrdA) Score=3.2 Pos=-83 [Serratia proteamaculans 568]
+AACCCCTATATATAGT
+>Spro_3271(nrdA) Score=5.7 Pos=-81 [Serratia proteamaculans 568]
+CCCCTATATATAGTGT
+>Spro_3721(nrdH) Score=4.4 Pos=-164 [Serratia proteamaculans 568]
+ACACCATATATAGCGT
+>Spro_3721(nrdH) Score=5.4 Pos=-133 [Serratia proteamaculans 568]
+TATCTACATATAGTAT
+>Spro_0525(nrdD) Score=5 Pos=-189 [Serratia proteamaculans 568]
+TATCTATATATAGTGC
+>Spro_0525(nrdD) Score=4.9 Pos=-158 [Serratia proteamaculans 568]
+CACCTATATGTAGTAG
+>ECA1199(nrdA) Score=3.6 Pos=-129 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ACTCACCATGTAGTAG
+>ECA1199(nrdA) Score=5.6 Pos=-98 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CACCTATATCTAGTAT
+>ECA3335(nrdH) Score=4.4 Pos=-162 [Erwinia carotovora subsp. atroseptica SCRI1043]
+ATCATATATCTTGTGT
+>ECA3335(nrdH) Score=5.3 Pos=-131 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TATCTACATCTAGTAT
+>ECA0375(nrdD) Score=4.4 Pos=-132 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTTCAATATATAGTGC
+>ECA0375(nrdD) Score=5.5 Pos=-101 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TACCTACATATAGTGT
+>ETAE_2338(nrdA) Score=3.3 Pos=-126 [Edwardsiella tarda EIB202]
+CAACACTATCTTGTTG
+>ETAE_2338(nrdA) Score=5.6 Pos=-94 [Edwardsiella tarda EIB202]
+CCCCTATATATTGTGT
+>ETAE_0423(nrdD) Score=4.8 Pos=-156 [Edwardsiella tarda EIB202]
+TTCCCATATATAGTGT
+>ETAE_0423(nrdD) Score=5.1 Pos=-124 [Edwardsiella tarda EIB202]
+CACCTATATATAGTAG
+>PMI1734(nrdA) Score=3.3 Pos=-169 [Proteus mirabilis HI4320]
+TACCATTATCTTGTTA
+>PMI1734(nrdA) Score=5.6 Pos=-137 [Proteus mirabilis HI4320]
+CCCCTATATATTGTGT
+>PMI0416(nrdH) Score=4.9 Pos=-107 [Proteus mirabilis HI4320]
+ACACCATATCTAGTGT
+>PMI0416(nrdH) Score=5.6 Pos=-76 [Proteus mirabilis HI4320]
+AACCTATATATAGTAT
+>PMI3451(nrdD) Score=4.7 Pos=-143 [Proteus mirabilis HI4320]
+TTACTATATATTGTGC
+>PMI3451(nrdD) Score=4.2 Pos=-111 [Proteus mirabilis HI4320]
+ATACAACATATAGTAA
+>plu3052(nrdA) Score=3.2 Pos=-178 [Photorhabdus luminescens subsp. laumondii TTO1]
+TAACATTATCTTGTTG
+>plu3052(nrdA) Score=5.6 Pos=-146 [Photorhabdus luminescens subsp. laumondii TTO1]
+CCCCTACATATTGTGT
+>plu1287(nrdH) Score=4.6 Pos=-133 [Photorhabdus luminescens subsp. laumondii TTO1]
+ACACCATATATAGTGC
+>plu1287(nrdH) Score=5.6 Pos=-102 [Photorhabdus luminescens subsp. laumondii TTO1]
+TCACTACATATAGTAT
+>plu4499(nrdD) Score=5.1 Pos=-119 [Photorhabdus luminescens subsp. laumondii TTO1]
+TTACTATATATTGTGT
+>plu4499(nrdD) Score=3.8 Pos=-88 [Photorhabdus luminescens subsp. laumondii TTO1]
+AGACTATATATAGCAA

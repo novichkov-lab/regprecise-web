@@ -1,0 +1,70 @@
+>RS02290(norR) Score=4 Pos=-36 [Ralstonia solanacearum GMI1000]
+CAAGGTTCTTTTCACCCTC
+>RS02290(norR) Score=4.7 Pos=-62 [Ralstonia solanacearum GMI1000]
+CTGGGTAAAATCGACCGCA
+>RS02289(norA) Score=4.7 Pos=-122 [Ralstonia solanacearum GMI1000]
+TGCGGTCGATTTTACCCAG
+>RS02289(norA) Score=4 Pos=-148 [Ralstonia solanacearum GMI1000]
+GAGGGTGAAAAGAACCTTG
+>RS02289(norA) Score=4.2 Pos=-168 [Ralstonia solanacearum GMI1000]
+CATGGTTGGAATTACCTGA
+>Rpic_4656(norR) Score=4.5 Pos=-36 [Ralstonia pickettii 12J]
+CAAGGTATCTTTCACCCTT
+>Rpic_4656(norR) Score=4.6 Pos=-62 [Ralstonia pickettii 12J]
+CGGGGTAGAATTCACCGTC
+>Rpic_4655(norA) Score=4.6 Pos=-121 [Ralstonia pickettii 12J]
+GACGGTGAATTCTACCCCG
+>Rpic_4655(norA) Score=4.5 Pos=-147 [Ralstonia pickettii 12J]
+AAGGGTGAAAGATACCTTG
+>Rpic_4655(norA) Score=4.6 Pos=-167 [Ralstonia pickettii 12J]
+CATGGTTGAAATGACCCTG
+>Rmet_3166(norR) Score=3.9 Pos=-35 [Ralstonia metallidurans CH34]
+TAGGGTGTTTTTGACTATC
+>Rmet_3166(norR) Score=5.1 Pos=-60 [Ralstonia metallidurans CH34]
+CGCGGTAATATTCACCGTG
+>Rmet_3167(norB) Score=5.1 Pos=-119 [Ralstonia metallidurans CH34]
+CACGGTGAATATTACCGCG
+>Rmet_3167(norB) Score=3.9 Pos=-144 [Ralstonia metallidurans CH34]
+GATAGTCAAAAACACCCTA
+>Rmet_3167(norB) Score=4.6 Pos=-163 [Ralstonia metallidurans CH34]
+CATGGTCAAAACAACCCTA
+>Reut_B5057(norR) Score=4.8 Pos=-29 [Ralstonia eutropha JMP134]
+CGCGGTGTAATTTACCCGT
+>Reut_B5057(norR) Score=4.6 Pos=-55 [Ralstonia eutropha JMP134]
+AACGGTATAATTCACCCAC
+>Reut_B5056(norA) Score=4.6 Pos=-106 [Ralstonia eutropha JMP134]
+GTGGGTGAATTATACCGTT
+>Reut_B5056(norA) Score=4.8 Pos=-132 [Ralstonia eutropha JMP134]
+ACGGGTAAATTACACCGCG
+>Reut_B5056(norA) Score=5.1 Pos=-151 [Ralstonia eutropha JMP134]
+TAGGGTCATAAATACCTTA
+>H16_B2325(norR) Score=4.3 Pos=-34 [Ralstonia eutropha H16]
+CGCGGTACTTATCACCCTT
+>H16_B2325(norR) Score=5 Pos=-60 [Ralstonia eutropha H16]
+GACGGTAATTAATACCCTA
+>PHG246(norR) Score=5.1 Pos=-35 [Ralstonia eutropha H16]
+CATGGTATATTTGACCCGG
+>PHG246(norR) Score=5.3 Pos=-61 [Ralstonia eutropha H16]
+TACGGTCATATTTACCTTA
+>PHG245(norA) Score=5.3 Pos=-108 [Ralstonia eutropha H16]
+TAAGGTAAATATGACCGTA
+>H16_B2324(norA) Score=4.9 Pos=-154 [Ralstonia eutropha H16]
+CATGGTTAAAAATACCGTA
+>H16_B2324(norA) Score=4.3 Pos=-136 [Ralstonia eutropha H16]
+AAGGGTGATAAGTACCGCG
+>H16_B2324(norA) Score=5 Pos=-110 [Ralstonia eutropha H16]
+TAGGGTATTAATTACCGTC
+>PHG245(norA) Score=4.8 Pos=-153 [Ralstonia eutropha H16]
+CATGGTGATAAATACCGGT
+>PHG245(norA) Score=5.1 Pos=-134 [Ralstonia eutropha H16]
+CCGGGTCAAATATACCATG
+>RALTA_B2088(norA) Score=4.4 Pos=-136 [Cupriavidus taiwanensis]
+AAGGGTAATTAGTACCGCG
+>RALTA_B2088(norA) Score=4.4 Pos=-155 [Cupriavidus taiwanensis]
+CATGGTGAAAAAAACCTCA
+>RALTA_B2089(norR) Score=4.4 Pos=-35 [Cupriavidus taiwanensis]
+CGCGGTACTAATTACCCTT
+>RALTA_B2089(norR) Score=4.9 Pos=-61 [Cupriavidus taiwanensis]
+AAGGGTATTAACTACCCTA
+>RALTA_B2088(norA) Score=4.9 Pos=-110 [Cupriavidus taiwanensis]
+TAGGGTAGTTAATACCCTT

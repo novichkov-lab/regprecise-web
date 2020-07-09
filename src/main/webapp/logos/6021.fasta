@@ -1,0 +1,52 @@
+>SAV_1131(alkB) Score=4.1 Pos=-37 [Streptomyces avermitilis MA-4680]
+TAGAACAGATCTTCGA
+>SAV_2442(gyrB) Score=4.7 Pos=-151 [Streptomyces avermitilis MA-4680]
+TCGAACGCTCGTACGA
+>SAV_2492(recA) Score=4 Pos=-178 [Streptomyces avermitilis MA-4680]
+TCGAACATCCATTCTT
+>SAV_6286(uvrA) Score=4.8 Pos=-166 [Streptomyces avermitilis MA-4680]
+TCGAATGCGCGTGCTA
+>SAV_6555(dnaE2) Score=3.9 Pos=-106 [Streptomyces avermitilis MA-4680]
+TCGTACAGCAGTTCGA
+>SAV_2463(lexA) Score=4.8 Pos=-75 [Streptomyces avermitilis MA-4680]
+TCGAACGTGTGTTTGG
+>SAV_6555(dnaE2) Score=4.6 Pos=-62 [Streptomyces avermitilis MA-4680]
+TTGAACAGATGTTCGA
+>SCO5769(recA) Score=4 Pos=-178 [Streptomyces coelicolor A3(2)]
+TCGAACATCCATTCTT
+>SCO7302(alkB) Score=4.2 Pos=-36 [Streptomyces coelicolor A3(2)]
+TAGAACAGACTTTCGA
+>SCP1.321 (deprecated)(dinP) Score=4.4 Pos=-27 [Streptomyces coelicolor A3(2)]
+TCGAATTCCTGTTCGA
+>SCO5822(gyrB) Score=4.9 Pos=-152 [Streptomyces coelicolor A3(2)]
+TCGAACAGGCATGCGA
+>SCO1739(dnaE2) Score=5.1 Pos=-116 [Streptomyces coelicolor A3(2)]
+TCGCACACACATTCGA
+>SCO1739(dnaE2) Score=3.9 Pos=-72 [Streptomyces coelicolor A3(2)]
+GGGAACAGACGTTCGA
+>SCP1.33c (deprecated)(dinP) Score=4.4 Pos=-27 [Streptomyces coelicolor A3(2)]
+TCGAATTCCTGTTCGA
+>SCO5803(lexA) Score=4.8 Pos=-150 [Streptomyces coelicolor A3(2)]
+TCGAACGTGTGTTTGG
+>SCO1958(uvrA) Score=4.8 Pos=-164 [Streptomyces coelicolor A3(2)]
+TCGAATGCACGTGCTA
+>SGR_1536(alkB) Score=4.7 Pos=-35 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGCACACATGCTCGA
+>SGR_1745(recA) Score=4.3 Pos=-154 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGAACATCCATTCTG
+>SGR_1698(gyrB) Score=4.8 Pos=-163 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGAACATCCATGCGA
+>SGR_5564(uvrA) Score=4.8 Pos=-117 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGAATGTGCGTGCTA
+>SGR_1717(lexA) Score=4.8 Pos=-77 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGAACGTGTGTTTGG
+>SCAB_24951(recA) Score=4 Pos=-178 [Streptomyces scabiei 87.22]
+TCGAACATCCATTCTT
+>SCAB_72281(dnaE2) Score=4.1 Pos=-114 [Streptomyces scabiei 87.22]
+TCGTACAGAAGTTCGA
+>SCAB_24391(gyrB) Score=5.1 Pos=-153 [Streptomyces scabiei 87.22]
+TCGAACGCGTATGCGA
+>SCAB_24651(lexA) Score=4.8 Pos=-76 [Streptomyces scabiei 87.22]
+TCGAACGTGTGTTTGG
+>SCAB_69561(uvrA) Score=4.8 Pos=-166 [Streptomyces scabiei 87.22]
+TCGAATGCACGTGCTA

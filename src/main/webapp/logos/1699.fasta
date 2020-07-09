@@ -1,0 +1,50 @@
+>ELI_14285(metK) Score=6.1 Pos=-49 [Erythrobacter litoralis HTCC2594]
+ACATAAAGATTCCTTTATAT
+>ELI_05040(ahcY) Score=5.7 Pos=-110 [Erythrobacter litoralis HTCC2594]
+ATATAAAGGAATCGTTATAT
+>ELI_10100(sahR) Score=6.1 Pos=-18 [Erythrobacter litoralis HTCC2594]
+ATATAACGATGTCTTTATAT
+>NAP1_11848(metK) Score=5.6 Pos=-80 [Erythrobacter sp. NAP1]
+ATATAAAGGTTTCCTTATGT
+>NAP1_04180(ahcY) Score=6.3 Pos=-115 [Erythrobacter sp. NAP1]
+ATATAAAGAAAACTTTATAT
+>NAP1_10493(sahR) Score=5.2 Pos=-40 [Erythrobacter sp. NAP1]
+ATTTACACATATCTAAATAT
+>NAP1_10493(sahR) Score=5.6 Pos=-32 [Erythrobacter sp. NAP1]
+ATATCTAAATATCTTTATAT
+>Saro_0284(metK) Score=6.1 Pos=-30 [Novosphingobium aromaticivorans DSM 12444]
+ACATAAAGGTTTCTTTATAT
+>Saro_2003(ahcY) Score=6.3 Pos=-105 [Novosphingobium aromaticivorans DSM 12444]
+ATATAAAGAAGTCTTTATAT
+>Saro_3209(sahR) Score=6.5 Pos=-48 [Novosphingobium aromaticivorans DSM 12444]
+ATATAAAGATATCTTTAAAC
+>Saro_3209(sahR) Score=6.3 Pos=-18 [Novosphingobium aromaticivorans DSM 12444]
+ATATAAAGGTTTCTTTATAT
+>Sala_3139(metK) Score=5.6 Pos=-39 [Sphingopyxis alaskensis RB2256]
+ACATAAAGCTTCCTTTATAT
+>Sala_0163(ahcY) Score=6.1 Pos=-118 [Sphingopyxis alaskensis RB2256]
+ATATAAAGAAAAGTTTATAT
+>Sala_0034(sahR) Score=6.3 Pos=-28 [Sphingopyxis alaskensis RB2256]
+ATATAAAGAAAGCTTTATAT
+>SJA_C1-12140(metK) Score=5.8 Pos=-53 [Sphingobium japonicum UT26S]
+ACATAAACTTTTCTTTATGT
+>SJA_C1-16830(ahcY) Score=6.1 Pos=-120 [Sphingobium japonicum UT26S]
+ACATAAAGAAAACTTTATAT
+>SJA_C1-29170(sahR) Score=6.8 Pos=-29 [Sphingobium japonicum UT26S]
+ATATAAAGATTTCTTTATAT
+>Swit_4786 Score=6.3 Pos=-558 [Sphingomonas wittichii RW1]
+ATATAAAGTTTTCTTTATAT
+>Swit_3373(metK) Score=5.7 Pos=-79 [Sphingomonas wittichii RW1]
+ATATAACGAAGTCTTTATAT
+>Swit_2674(ahcY) Score=6.3 Pos=-102 [Sphingomonas wittichii RW1]
+ATATAAAGAAACCTTTATAT
+>Swit_2402(sahR) Score=6.7 Pos=-16 [Sphingomonas wittichii RW1]
+ATATAAAGATTTCTTTATGT
+>ZMO1000(metE) Score=6.5 Pos=-316 [Zymomonas mobilis subsp. mobilis ZM4]
+ATATAAACACATCTTTATAT
+>ZMO0273(metK) Score=5.2 Pos=-187 [Zymomonas mobilis subsp. mobilis ZM4]
+ATATAAGGAAAGATTTATAT
+>ZMO0182(ahcY) Score=5.8 Pos=-231 [Zymomonas mobilis subsp. mobilis ZM4]
+ACATAAAGAATTATTTATAT
+>ZMO1748(sahR) Score=6.5 Pos=-186 [Zymomonas mobilis subsp. mobilis ZM4]
+TCATAAAGATATCTTTATAT

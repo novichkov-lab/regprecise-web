@@ -1,0 +1,24 @@
+>Ping_1925(bioA) Score=7.1 Pos=-52 [Psychromonas ingrahamii 37]
+CTGTCAACT---------------TCTTTACAT
+>Ping_1924(bioB) Score=7.1 Pos=-249 [Psychromonas ingrahamii 37]
+ATGTAAAGA---------------AGTTGACAG
+>PCNPT3_07370(bioA) Score=7.5 Pos=-43 [Psychromonas sp. CNPT3]
+CTGTCAACT---------------ACTTTACAA
+>PCNPT3_07375(bioB) Score=7.5 Pos=-97 [Psychromonas sp. CNPT3]
+TTGTAAAGT---------------AGTTGACAG
+>PE36_13022(bioA) Score=8.3 Pos=-32 [Moritella sp. PE36]
+AGGTCAACC---------------GGTTTACAA
+>PE36_13017(bioB) Score=8.3 Pos=-92 [Moritella sp. PE36]
+TTGTAAACC---------------GGTTGACCT
+>AHA_1488(bioA) Score=7.2 Pos=145 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+cTGTcAACa---------------aaTTgACAA
+>AHA_1489(bioB) Score=7.2 Pos=-180 [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+TTGTCAATT---------------TGTTGACAG
+>ASA_2878(bioA) Score=7.2 Pos=-45 [Aeromonas salmonicida subsp. salmonicida A449]
+CTGTCAACA---------------AATTGACAA
+>ASA_2877(bioB) Score=7.2 Pos=-181 [Aeromonas salmonicida subsp. salmonicida A449]
+TTGTCAATT---------------TGTTGACAG
+>Tola_1096(bioA) Score=6.9 Pos=-44 [Tolumonas auensis DSM 9187]
+CTGTCAATC---------------TATTTACAT
+>Tola_1097(bioB) Score=6.9 Pos=-90 [Tolumonas auensis DSM 9187]
+ATGTAAATA---------------GATTGACAG

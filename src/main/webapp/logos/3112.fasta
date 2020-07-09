@@ -1,0 +1,176 @@
+>Acel_0239(rex) Score=5.3 Pos=-59 [Acidothermus cellulolyticus 11B]
+TTGTGCGTGCGTTCACAA
+>Acel_0266(COG0644) Score=5.8 Pos=-61 [Acidothermus cellulolyticus 11B]
+TCGTGAAGAATTTCACAA
+>Acel_0560(whiB) Score=5.7 Pos=-158 [Acidothermus cellulolyticus 11B]
+TCGTGAAACTATTCACAA
+>Francci3_0484(rex) Score=5.3 Pos=-159 [Frankia sp. CcI3]
+TCGTGAATCCCTTCACGA
+>Francci3_0537(COG0644) Score=5.4 Pos=-92 [Frankia sp. CcI3]
+TCGTGAAGAATTTCACGA
+>Franean1_6095(COG0644) Score=5.4 Pos=-85 [Frankia sp. EAN1pec]
+TCGTGAAGAATTTCACGA
+>Franean1_6132(rex) Score=5.4 Pos=-226 [Frankia sp. EAN1pec]
+TCGTGAATACCTTCACGA
+>Namu_0973(COG0644) Score=5.9 Pos=-96 [Nakamurella multipartita DSM 44233]
+TCGTGAACGAATTCACAA
+>Namu_0919(rex) Score=5.4 Pos=-110 [Nakamurella multipartita DSM 44233]
+TTGTGCACGCGTTCACGA
+>Namu_1412(whiB) Score=5.9 Pos=-109 [Nakamurella multipartita DSM 44233]
+ATGTGAAAGCATTCACAA
+>SAV_2888(atpI) Score=5 Pos=-154 [Streptomyces avermitilis MA-4680]
+TTGTGATACGGTTCACGA
+>SAV_3529(ndh) Score=4.6 Pos=-136 [Streptomyces avermitilis MA-4680]
+TTGTGAAGGGGCGCACGA
+>SAV_3538(SCO3101) Score=4.5 Pos=-36 [Streptomyces avermitilis MA-4680]
+TTGTGCACCGTCGCACAA
+>SAV_4738(rex) Score=5.8 Pos=-94 [Streptomyces avermitilis MA-4680]
+TTGTGCACGCGTTCACAA
+>SAV_4837(nuoA) Score=5 Pos=-164 [Streptomyces avermitilis MA-4680]
+TTGTGACCTGCTTCACAT
+>SAV_4798(resA) Score=4.9 Pos=-16 [Streptomyces avermitilis MA-4680]
+ATGCGAAACTTTTCACAT
+>SAV_4616(hppA) Score=5.2 Pos=-212 [Streptomyces avermitilis MA-4680]
+TCGTGAATTGATTCACGA
+>SAV_3016(whiB) Score=5.9 Pos=-60 [Streptomyces avermitilis MA-4680]
+TCGTGAAAGCGTTCACAT
+>SAV_4260(cydA) Score=5.9 Pos=-98 [Streptomyces avermitilis MA-4680]
+ATGTGAACGCGTTCACAA
+>SCO5366(atpI) Score=5 Pos=-147 [Streptomyces coelicolor A3(2)]
+TTGTGATACGGTTCACGA
+>SCO3092(ndh) Score=4.6 Pos=-136 [Streptomyces coelicolor A3(2)]
+TTGTGAAGGGGCGCACGA
+>SCO3101(SCO3101) Score=4.5 Pos=-37 [Streptomyces coelicolor A3(2)]
+TTGTGCACCGTCGCACAA
+>SCO6168(SC6C5.04c) Score=4.7 Pos=-100 [Streptomyces coelicolor A3(2)]
+TTGTGAAAACTTTCACCC
+>SCO3320(rex) Score=5.8 Pos=-97 [Streptomyces coelicolor A3(2)]
+TTGTGCACGCGTTCACAA
+>SCO4562(nuoA) Score=5 Pos=-124 [Streptomyces coelicolor A3(2)]
+TTGTGACCTGCTTCACAT
+>SCO4472(resA) Score=4.9 Pos=-16 [Streptomyces coelicolor A3(2)]
+ATGCGAAACTTTTCACAT
+>SCO3547(hppA) Score=5 Pos=-224 [Streptomyces coelicolor A3(2)]
+AAGTGAATTCATTCACGA
+>SCO5240(whiB) Score=5.9 Pos=-61 [Streptomyces coelicolor A3(2)]
+TCGTGAAAGCGTTCACAT
+>SCO3945(cydA) Score=5.9 Pos=-109 [Streptomyces coelicolor A3(2)]
+ATGTGAACGCGTTCACAA
+>SGR_2170(atpI) Score=5.2 Pos=-147 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGATACCGTTCACGA
+>SGR_4443(ndh) Score=5.1 Pos=-52 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGAAGGGGCTCACGA
+>SGR_4433(SCO3101) Score=4.9 Pos=-38 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGCACTGATGCACAA
+>SGR_4154(rex) Score=5.8 Pos=-94 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGCACGCGTTCACAA
+>SGR_2984(nuoA) Score=4.9 Pos=-97 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGAACTGCCTCACAT
+>SGR_4196(resA) Score=4.9 Pos=-16 [Streptomyces griseus subsp. griseus NBRC 13350]
+ATGCGAAACTTTTCACAT
+>SGR_1357 Score=5 Pos=-108 [Streptomyces griseus subsp. griseus NBRC 13350]
+TTGTGAAATCTTTCACCT
+>SGR_2274(whiB) Score=5.9 Pos=-60 [Streptomyces griseus subsp. griseus NBRC 13350]
+TCGTGAAAGCGTTCACAT
+>SGR_3646(cydA) Score=5.9 Pos=-102 [Streptomyces griseus subsp. griseus NBRC 13350]
+ATGTGAACGCGTTCACAA
+>Noca_1755(atpI) Score=5 Pos=-76 [Nocardioides sp. JS614]
+TTGTGTTAACTTTCACAA
+>Noca_0493(rex) Score=4.4 Pos=-118 [Nocardioides sp. JS614]
+TTGTTCTCCTGTTCACAA
+>Noca_0520(nuoA) Score=5.6 Pos=-87 [Nocardioides sp. JS614]
+TCGTGATTGTGTTCACAA
+>Noca_1713(whiB) Score=5.3 Pos=-100 [Nocardioides sp. JS614]
+TCGTGAATGCGTTCACTT
+>nfa51710(rex) Score=5.5 Pos=-179 [Nocardia farcinica IFM 10152]
+TTGTGCATGGCTTCACAA
+>nfa45800(whiB) Score=6.1 Pos=-106 [Nocardia farcinica IFM 10152]
+TCGTGAAAGCATTCACAA
+>RHA1_ro06034(fadD) Score=4.8 Pos=-48 [Rhodococcus sp. RHA1]
+ATGTGATCGAATGCACAT
+>RHA1_ro11313(COG1960) Score=4.6 Pos=-172 [Rhodococcus sp. RHA1]
+TTGTGGACCTCTTCACTA
+>RHA1_ro06201(choD) Score=4.7 Pos=-71 [Rhodococcus sp. RHA1]
+TTGTGGCAGCTGTCACAA
+>RHA1_ro05230(coxM) Score=4.7 Pos=-17 [Rhodococcus sp. RHA1]
+TTGTGAGGTAGGTCACAA
+>RHA1_ro05909(nuoA) Score=4.1 Pos=-88 [Rhodococcus sp. RHA1]
+CTGTGGCATAACTCACAA
+>RHA1_ro01583(pntAa) Score=5.1 Pos=-215 [Rhodococcus sp. RHA1]
+CTGTGACCGGGTTCACAA
+>RHA1_ro02831(dhaS) Score=5.1 Pos=-40 [Rhodococcus sp. RHA1]
+TTGTGACAGCCATCACAA
+>RHA1_ro06345(whiB) Score=6.1 Pos=-103 [Rhodococcus sp. RHA1]
+TCGTGAAAGCATTCACAA
+>ROP_60930(fadD) Score=4.8 Pos=-48 [Rhodococcus opacus B4]
+ATGTGATCGAATGCACAT
+>ROP_33030(COG1960) Score=4.9 Pos=-108 [Rhodococcus opacus B4]
+AAGTGACCGCCTTCACAT
+>ROP_17260(rex) Score=5.7 Pos=-164 [Rhodococcus opacus B4]
+TTGTGCATGGGTTCACAA
+>ROP_62610(choD) Score=4.6 Pos=-71 [Rhodococcus opacus B4]
+TTGTGGCAGTTGTCACAA
+>ROP_59710(nuoA) Score=4.1 Pos=-88 [Rhodococcus opacus B4]
+CTGTGGCATAACTCACAA
+>ROP_52770(coxM) Score=4.7 Pos=-17 [Rhodococcus opacus B4]
+TTGTGAGGTAGGTCACAA
+>ROP_12860(pntAa) Score=5.1 Pos=-215 [Rhodococcus opacus B4]
+CTGTGATCGGGTTCACAA
+>ROP_25550(dhaS) Score=5.1 Pos=-40 [Rhodococcus opacus B4]
+TTGTGACAGCCATCACAA
+>ROP_64060(whiB) Score=6.1 Pos=-103 [Rhodococcus opacus B4]
+TCGTGAAAGCATTCACAA
+>RER_40980(fadD) Score=4.5 Pos=-51 [Rhodococcus erythropolis PR4]
+ATGTGATGCAATGCACAT
+>RER_16400(rex) Score=4.1 Pos=-219 [Rhodococcus erythropolis PR4]
+TCGTGACGATTTACGCAA
+>RER_16400(rex) Score=5.7 Pos=-127 [Rhodococcus erythropolis PR4]
+TTGTGCATGGGTTCACAA
+>RER_19350(choD) Score=4.5 Pos=-69 [Rhodococcus erythropolis PR4]
+TTGTGGTGGTAGTCACAA
+>RER_21900(whiB) Score=6.1 Pos=-106 [Rhodococcus erythropolis PR4]
+TCGTGAAAGCATTCACAA
+>JNB_07044(atpI) Score=5.7 Pos=-49 [Janibacter sp. HTCC2649]
+TTGTGATAGTTTTCACAA
+>JNB_09294(rex) Score=5.3 Pos=-72 [Janibacter sp. HTCC2649]
+TTGTGCATCGCTTCACAA
+>JNB_09029(nuoA) Score=5.9 Pos=-216 [Janibacter sp. HTCC2649]
+TCGTGAAGACTTTCACAA
+>SACE_6903(COG0644) Score=5.6 Pos=-68 [Saccharopolyspora erythraea NRRL 2338]
+TAGTGAACTCGTTCACAA
+>SACE_6426(whiB) Score=6.1 Pos=-104 [Saccharopolyspora erythraea NRRL 2338]
+TCGTGAAAGCATTCACAA
+>SACE_6426(whiB) Score=5.7 Pos=-75 [Saccharopolyspora erythraea NRRL 2338]
+CCGTGAAAGCATTCACAA
+>Svir_02840(rex) Score=5.3 Pos=-120 [Saccharomonospora viridis DSM 43017]
+TTGTGCCTACGTTCACAA
+>Svir_03160(nuoA) Score=5.8 Pos=-195 [Saccharomonospora viridis DSM 43017]
+TTGTGAAGGTATTCACAT
+>Svir_03160(nuoA) Score=5.8 Pos=-226 [Saccharomonospora viridis DSM 43017]
+TTGTGAATGGCTTCACAA
+>Svir_35830(hppA) Score=4.4 Pos=-197 [Saccharomonospora viridis DSM 43017]
+AAGTGATCAAATTCACAC
+>Svir_30700(whiB) Score=6.1 Pos=-87 [Saccharomonospora viridis DSM 43017]
+TCGTGAAAGCATTCACAA
+>Amir_6731(rex) Score=5.3 Pos=-95 [Actinosynnema mirum DSM 43827]
+TTGTGCGTGCGTTCACAA
+>Amir_6682(nuoA) Score=6.1 Pos=-135 [Actinosynnema mirum DSM 43827]
+TTGTGAAGGCTTTCACAA
+>Amir_6682(nuoA) Score=5.4 Pos=-167 [Actinosynnema mirum DSM 43827]
+ATGTGAATCACTTCACAA
+>Amir_6683(COG0644) Score=5.4 Pos=-27 [Actinosynnema mirum DSM 43827]
+TTGTGAACAAGTGCACAA
+>Amir_6289(whiB) Score=6.1 Pos=-85 [Actinosynnema mirum DSM 43827]
+TCGTGAAAGCATTCACAA
+>AAur_1521(pdhA) Score=4.7 Pos=-184 [Arthrobacter aurescens TC1]
+TTGTGAGTAGGGTCACAA
+>AAur_1268(ndh) Score=5.5 Pos=-37 [Arthrobacter aurescens TC1]
+TAGTGAAGATTTTCACAA
+>AAur_2682(whiB) Score=5.9 Pos=-58 [Arthrobacter aurescens TC1]
+TCGTGAATGTTTTCACAA
+>Arth_1381(pdhA) Score=4.8 Pos=-113 [Arthrobacter sp. FB24]
+TTGTGAGTATGGTCACAA
+>Arth_1152(ndh) Score=5.5 Pos=-37 [Arthrobacter sp. FB24]
+TAGTGAAGATTTTCACAA
+>Arth_2697(whiB) Score=5.5 Pos=-60 [Arthrobacter sp. FB24]
+TAGTGAATATTTTCACAA

@@ -1,0 +1,44 @@
+>HI0433(nfuA) Score=4.8 Pos=-38 [Haemophilus influenzae Rd KW20]
+ATTCCCGATACTTTCTCTCAAGTAT
+>HI0379(iscR) Score=6.3 Pos=-60 [Haemophilus influenzae Rd KW20]
+ATAATTGACTAAATTAGTCAGATAT
+>NT05HA_0581(erpA) Score=4.9 Pos=-67 [Aggregatibacter aphrophilus NJ8700]
+ATTCTTGAATGCCTTAGAGGGTTAT
+>NT05HA_1766(nfuA) Score=5.3 Pos=-43 [Aggregatibacter aphrophilus NJ8700]
+ATGCCCGACAAAATCAATCAAGTTT
+>NT05HA_1200(iscR) Score=5.2 Pos=-68 [Aggregatibacter aphrophilus NJ8700]
+ATAGTTGACTAAACAAGTCAACAAT
+>PM0458(erpA) Score=6.2 Pos=-65 [Pasteurella multocida subsp. multocida str. Pm70]
+ATTCTTGAACGAATTAGTCGGTTAT
+>PM1557(nfuA) Score=5.8 Pos=-46 [Pasteurella multocida subsp. multocida str. Pm70]
+ATTCTTGACAATCTTACTCAAGTAT
+>PM0317(iscR) Score=5.9 Pos=-69 [Pasteurella multocida subsp. multocida str. Pm70]
+ATAGTTGACTAATTTAGTATGATAT
+>MS1307(erpA) Score=5.7 Pos=-73 [Mannheimia succiniciproducens MBEL55E]
+TTGGTTGAACGAATTAGTCGGTTAT
+>MS2232(nfuA) Score=5.7 Pos=-59 [Mannheimia succiniciproducens MBEL55E]
+ATTCCCGACTATGTTAGTCAGCTAT
+>MS1727(iscR) Score=6.2 Pos=-69 [Mannheimia succiniciproducens MBEL55E]
+ATAGTTGACTAATTTACTTGGTTAT
+>Asuc_1030(erpA) Score=5.7 Pos=-73 [Actinobacillus succinogenes 130Z]
+ATCCTTGAACGAATCAGTCGGTTAT
+>Asuc_0296(nfuA) Score=4.6 Pos=-40 [Actinobacillus succinogenes 130Z]
+ATTTCCGACCGTAAAACTCAGATAA
+>Asuc_0863(iscR) Score=6 Pos=-64 [Actinobacillus succinogenes 130Z]
+ATAGTTGATTAATTTGGTTGGTTAT
+>HSM_1296(erpA) Score=5.3 Pos=-64 [Haemophilus somnus 2336]
+AATCTTGAATGGTTTGGTTGGTTAT
+>HSM_0510(nfuA) Score=6 Pos=-43 [Haemophilus somnus 2336]
+ATTCCTGATAATTTTACTCAAGTAT
+>HSM_0153(iscR) Score=5.2 Pos=-65 [Haemophilus somnus 2336]
+GAAGTTGACTAATTTAGTAGGATTA
+>APP7_0151(nfuA) Score=5.6 Pos=-49 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATATCCGATAAATTTAGTCAATTAA
+>APP7_0990(iscR) Score=5.9 Pos=-83 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]
+ATTCTTGACTGTAACAGTCAGGTAT
+>HD0378(nfuA) Score=5.6 Pos=-47 [Haemophilus ducreyi 35000HP]
+ATGGCTGATAATTTTAGTCAAGTTA
+>HD1080(iscR) Score=6.2 Pos=-75 [Haemophilus ducreyi 35000HP]
+ATGCTTGACTAAAATAGTCGAGTAT
+>HAPS_0052(iscR) Score=6 Pos=-70 [Haemophilus parasuis SH0165]
+AATATTGACTAAATTAGTAGGGTAT

@@ -1,0 +1,80 @@
+>PA2665(norR) Score=5 Pos=-55 [Pseudomonas aeruginosa PAO1]
+ATAGGTCATAATGACTGCA
+>PA2665(norR) Score=4.4 Pos=-10 [Pseudomonas aeruginosa PAO1]
+AGAGGTCGAAATGACCACC
+>PA2665(norR) Score=5.2 Pos=-30 [Pseudomonas aeruginosa PAO1]
+CAGAGTCATTAGGACTGCA
+>PA2664(hmp) Score=5 Pos=-118 [Pseudomonas aeruginosa PAO1]
+TGCAGTCATTATGACCTAT
+>PA2664(hmp) Score=4.4 Pos=-163 [Pseudomonas aeruginosa PAO1]
+GGTGGTCATTTCGACCTCT
+>PA2664(hmp) Score=5.2 Pos=-143 [Pseudomonas aeruginosa PAO1]
+TGCAGTCCTAATGACTCTG
+>PSEEN0951(norR) Score=4.5 Pos=-55 [Pseudomonas entomophila L48]
+CGGTGTCATAAGGACACAC
+>PSEEN0951(norR) Score=5.2 Pos=-10 [Pseudomonas entomophila L48]
+AGGAGTCCATATGACTGCA
+>PSEEN0951(norR) Score=4.2 Pos=-29 [Pseudomonas entomophila L48]
+TATAGTCATTCCGACCAAC
+>PSEEN0952(hmp) Score=5.2 Pos=-164 [Pseudomonas entomophila L48]
+TGCAGTCATATGGACTCCT
+>PSEEN0952(hmp) Score=4.2 Pos=-145 [Pseudomonas entomophila L48]
+GTTGGTCGGAATGACTATA
+>PSEEN0952(hmp) Score=4.5 Pos=-119 [Pseudomonas entomophila L48]
+GTGTGTCCTTATGACACCG
+>PSEEN3000(nnrS) Score=5.1 Pos=-140 [Pseudomonas entomophila L48]
+GGAAGTCAATATGACAACA
+>PSEEN3000(nnrS) Score=5 Pos=-115 [Pseudomonas entomophila L48]
+CAAGGTCATTATGACAACA
+>PP0807(norR) Score=4.5 Pos=-29 [Pseudomonas putida KT2440]
+TATAGTCATATCGACCCAT
+>PP0807(norR) Score=5.3 Pos=-10 [Pseudomonas putida KT2440]
+AGGAGTCCATATGACTACA
+>PP0808(hmp) Score=4.5 Pos=-145 [Pseudomonas putida KT2440]
+ATGGGTCGATATGACTATA
+>PP0808(hmp) Score=5.3 Pos=-164 [Pseudomonas putida KT2440]
+TGTAGTCATATGGACTCCT
+>PP2840(nnrS) Score=4.2 Pos=-140 [Pseudomonas putida KT2440]
+GCCAGTCTGAATGACCGCA
+>PFL_5041(norR) Score=5.9 Pos=-10 [Pseudomonas fluorescens Pf-5]
+TGGAGTCATTATGACTGCA
+>PFL_5041(norR) Score=4.9 Pos=-55 [Pseudomonas fluorescens Pf-5]
+TATAGTCATAAAGACACTC
+>PFL_5041(norR) Score=5.3 Pos=-29 [Pseudomonas fluorescens Pf-5]
+TATAGTCATTAAGACACCA
+>PFL_5040(hmp) Score=5.9 Pos=-165 [Pseudomonas fluorescens Pf-5]
+TGCAGTCATAATGACTCCA
+>PFL_5040(hmp) Score=5.3 Pos=-146 [Pseudomonas fluorescens Pf-5]
+TGGTGTCTTAATGACTATA
+>PFL_5040(hmp) Score=4.9 Pos=-120 [Pseudomonas fluorescens Pf-5]
+GAGTGTCTTTATGACTATA
+>PFL_3310 Score=5.5 Pos=-157 [Pseudomonas fluorescens Pf-5]
+TGCAGTCATATTGACTGCG
+>PFL_3310 Score=4.9 Pos=-136 [Pseudomonas fluorescens Pf-5]
+GGCGGTCTTTATGACTTCT
+>PFL_3310 Score=4.7 Pos=-111 [Pseudomonas fluorescens Pf-5]
+TCTGGTCATAAAGACTCTT
+>Pmen_3579(norR) Score=4.9 Pos=-55 [Pseudomonas mendocina ymp]
+TGTTGTCTTAATGACTCGC
+>Pmen_3579(norR) Score=4.6 Pos=-29 [Pseudomonas mendocina ymp]
+GTGAGTCATAAAGACTTTG
+>Pmen_3579(norR) Score=4.9 Pos=-10 [Pseudomonas mendocina ymp]
+AGTAGTCGAAATGACCGCT
+>Pmen_3580(hmp) Score=4.9 Pos=-156 [Pseudomonas mendocina ymp]
+GCGAGTCATTAAGACAACA
+>Pmen_3580(hmp) Score=4.9 Pos=-201 [Pseudomonas mendocina ymp]
+AGCGGTCATTTCGACTACT
+>Pmen_3580(hmp) Score=4.6 Pos=-182 [Pseudomonas mendocina ymp]
+CAAAGTCTTTATGACTCAC
+>Avin_51080(norR) Score=5 Pos=-29 [Azotobacter vinelandii AvOP]
+CGTTGTCAATAAGACTGCT
+>Avin_51080(norR) Score=5 Pos=-54 [Azotobacter vinelandii AvOP]
+TGCAGTCGTTTCGACTACG
+>Avin_51080(norR) Score=4.3 Pos=-10 [Azotobacter vinelandii AvOP]
+CGTTATCCGAATGACTACA
+>Avin_51090(hmp) Score=4.3 Pos=-178 [Azotobacter vinelandii AvOP]
+TGTAGTCATTCGGATAACG
+>Avin_51090(hmp) Score=5 Pos=-159 [Azotobacter vinelandii AvOP]
+AGCAGTCTTATTGACAACG
+>Avin_51090(hmp) Score=5 Pos=-134 [Azotobacter vinelandii AvOP]
+CGTAGTCGAAACGACTGCA

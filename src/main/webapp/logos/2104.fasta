@@ -1,0 +1,98 @@
+>XF0175(COG1272) Score=5.1 Pos=-37 [Xylella fastidiosa 9a5c]
+AAATGCGAATTATTCGCGGTT
+>XF0932(feoA) Score=4.7 Pos=-34 [Xylella fastidiosa 9a5c]
+TATTGAGAACGATTCTTGTCA
+>XF0394(bfd) Score=5.4 Pos=-64 [Xylella fastidiosa 9a5c]
+AATTGACATTCATTCTCATCT
+>XF0395(bfr) Score=4.9 Pos=-78 [Xylella fastidiosa 9a5c]
+TAATGAGCACGATTTTCGTTC
+>XF0599(fhuA) Score=5.6 Pos=-112 [Xylella fastidiosa 9a5c]
+TATTGAAAATCATTCTCCTTT
+>XAC3043(COG1272) Score=4.3 Pos=-37 [Xanthomonas axonopodis pv. citri str. 306]
+CGATGCGAATCGCTCGCAATT
+>XAC3620(pfeA) Score=4.9 Pos=-177 [Xanthomonas axonopodis pv. citri str. 306]
+ATTTGAGAATGAATCGCATCT
+>XAC1458(fpr) Score=5.5 Pos=-71 [Xanthomonas axonopodis pv. citri str. 306]
+AAATGAGAGTTCATCTCATTT
+>XAC3370(fhuE) Score=6 Pos=-120 [Xanthomonas axonopodis pv. citri str. 306]
+AAATGTGAATCATTCCCATTA
+>XAC0176(fpvA) Score=5.6 Pos=-175 [Xanthomonas axonopodis pv. citri str. 306]
+AAACGATAACGATTTACATTT
+>XAC1854(feoA) Score=4.6 Pos=-35 [Xanthomonas axonopodis pv. citri str. 306]
+AATTGAGAACCATTCCTAACA
+>XAC0493(bfr) Score=4.4 Pos=-80 [Xanthomonas axonopodis pv. citri str. 306]
+AACTGATCACGATTCGCGTTC
+>XAC0492(bfd) Score=5 Pos=-73 [Xanthomonas axonopodis pv. citri str. 306]
+AATTGACACCTATTCTCGTTT
+>XAC0822(hemP) Score=6.1 Pos=-2 [Xanthomonas axonopodis pv. citri str. 306]
+AAATGAGAATGGTTATTATTT
+>XAC0822(hemP) Score=4.9 Pos=-26 [Xanthomonas axonopodis pv. citri str. 306]
+AAATGAGAATGGCTCTTGATC
+>XAC1435(fhuA) Score=5.2 Pos=-28 [Xanthomonas axonopodis pv. citri str. 306]
+ATTTGATAACCATTCCCATTA
+>XAC2941(fhuA) Score=5.5 Pos=-252 [Xanthomonas axonopodis pv. citri str. 306]
+AAAGAAGAATGATTTGCATTT
+>XCC1414(fpr) Score=5.5 Pos=-73 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAATGAGAGTTCATCTCATTT
+>XCC4162(COG4773) Score=4.6 Pos=-31 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+GGATAAGAATCGTTATCATTG
+>XCC3518(fpvA) Score=5.2 Pos=-72 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+TAATAATATTCATTCTCACTT
+>XCC3216(fhuE) Score=6 Pos=-121 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAATGTGAATCATTCCCATTA
+>XCC0158(fpvA) Score=5.6 Pos=-167 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAACGATAACGATTTACATTT
+>XCC1834(feoA) Score=4.6 Pos=-35 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AATTGAGAACCATTCCTAACA
+>XCC0481(bfd) Score=5 Pos=-73 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AATTGACACCTATTCTCGTTT
+>XCC0482(bfr) Score=4.4 Pos=-80 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AACTGATCACGATTCGCGTTC
+>XCC0767(hemP) Score=6.1 Pos=-2 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAATGAGAATGGTTATTATTT
+>XCC1391(fhuA) Score=5.2 Pos=-28 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+ATTTGATAACCATTCCCATTA
+>XCC0767(hemP) Score=4.9 Pos=-26 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAATGAGAATGGCTCTTGATC
+>XCC2772(fhuA) Score=5.5 Pos=-263 [Xanthomonas campestris pv. campestris str. ATCC 33913]
+AAAGAAGAATGATTTGCATTT
+>Smlt2935(fecI4) Score=4.6 Pos=-87 [Stenotrophomonas maltophilia K279a]
+GGATGCAAATGATTCTCTTTT
+>Smlt3227(fpr) Score=5.5 Pos=-61 [Stenotrophomonas maltophilia K279a]
+CAATGAGAACCCATCTCATTT
+>Smlt3999(fhuE) Score=4.8 Pos=-94 [Stenotrophomonas maltophilia K279a]
+AAATAGGAATAGTTCGTATTA
+>Smlt1145 Score=5.3 Pos=-99 [Stenotrophomonas maltophilia K279a]
+TTTTGGCAATCATTCTCATTT
+>Smlt2848(fecI) Score=5.8 Pos=-28 [Stenotrophomonas maltophilia K279a]
+TAATGGGAATCATTCGCATTA
+>Smlt1145 Score=4.1 Pos=-76 [Stenotrophomonas maltophilia K279a]
+AACGGCTAACAGCTCTCATTA
+>Smlt3900(fecI3) Score=5.1 Pos=-69 [Stenotrophomonas maltophilia K279a]
+GAACGTGACTGATTCTCATTA
+>Smlt2858(COG4771) Score=5 Pos=4 [Stenotrophomonas maltophilia K279a]
+AATCAGCAATAATTCTCATTT
+>Smlt1567(XAC0271) Score=5.6 Pos=-126 [Stenotrophomonas maltophilia K279a]
+AAATGCGAATGCCTATCATTT
+>Smlt2664(fecI2) Score=5.4 Pos=-86 [Stenotrophomonas maltophilia K279a]
+AAACGCGAACGGTTCCCATTA
+>Smlt2210(feoA) Score=4.5 Pos=-38 [Stenotrophomonas maltophilia K279a]
+AATCGAGAACCATTTACATCC
+>Smlt1233(fpvA) Score=4.5 Pos=-136 [Stenotrophomonas maltophilia K279a]
+TGTTAAGAATTATTTACATTT
+>Smlt1426(pfeA) Score=4.8 Pos=-142 [Stenotrophomonas maltophilia K279a]
+ATTTGAGAATCACTCGCATTG
+>Smlt3022(fhuA) Score=5.9 Pos=-42 [Stenotrophomonas maltophilia K279a]
+AAATGCTAATCTTTCTCATTT
+>Smlt0794(hemP) Score=6.1 Pos=-45 [Stenotrophomonas maltophilia K279a]
+AACTGAGAATCATTATCATTT
+>Smlt0794(hemP) Score=5.1 Pos=-69 [Stenotrophomonas maltophilia K279a]
+AATTGAGAATGGTTGTTGATT
+>Smlt4297(bfr) Score=4.2 Pos=-81 [Stenotrophomonas maltophilia K279a]
+CAATGCGCACGATTCGCGTTC
+>Smlt4298(bfd) Score=5.4 Pos=-73 [Stenotrophomonas maltophilia K279a]
+GATTGACAACCATTCTCGTTT
+>Smlt1142(pepSY) Score=4.6 Pos=-85 [Stenotrophomonas maltophilia K279a]
+AATTGCGAGCTATTCTCATCA
+>Smlt1149 Score=5.1 Pos=-66 [Stenotrophomonas maltophilia K279a]
+ATATGCGAATCATTATCGTTG

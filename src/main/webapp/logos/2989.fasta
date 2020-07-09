@@ -1,0 +1,94 @@
+>CC2040(lhr) Score=-0.9 Pos=-32 [Caulobacter crescentus CB15]
+AAACAGAAAGGGAAC
+>CC1087(recA) Score=1.8 Pos=-122 [Caulobacter crescentus CB15]
+GAACATCTTGCGAAC
+>CC3467(PF06319) Score=1 Pos=-28 [Caulobacter crescentus CB15]
+GAACAAAGCTGGAAC
+>CC3213(imuA) Score=0.4 Pos=-81 [Caulobacter crescentus CB15]
+GAACAAAAGTGGAAC
+>CC1926(dnaE) Score=-0.2 Pos=-155 [Caulobacter crescentus CB15]
+GAACAAAACAAGAAA
+>CC1926(dnaE) Score=0.1 Pos=-173 [Caulobacter crescentus CB15]
+GAACAAAACCGGAAT
+>CC2038(yoaA) Score=4.9 Pos=-42 [Caulobacter crescentus CB15]
+GTTCCCATTCTGTTT
+>CC1902(lexA) Score=5.1 Pos=-2 [Caulobacter crescentus CB15]
+GTTTGCGGTTTGTTC
+>CC2590(uvrA) Score=5.4 Pos=-93 [Caulobacter crescentus CB15]
+GTTCGCATCTTGTTC
+>CC0140(PF01078) Score=5.4 Pos=-78 [Caulobacter crescentus CB15]
+GTTCGTTTTTCGTTC
+>CC2272(nth) Score=5 Pos=-32 [Caulobacter crescentus CB15]
+GTTCTTGTTATGTTC
+>CC3711(COG5529) Score=4.8 Pos=-101 [Caulobacter crescentus CB15]
+GTTCCGCTTTCGTTC
+>CC1983(recN) Score=5.2 Pos=-62 [Caulobacter crescentus CB15]
+GATCCCGTTTCGTTC
+>Cseg_0204(PF06319) Score=1 Pos=-28 [Caulobacter segnis ATCC 21756]
+GAACAAAGCTGGAAC
+>Cseg_2214(dnaE) Score=-0.2 Pos=-143 [Caulobacter segnis ATCC 21756]
+GAACAAAACAAGAAA
+>Cseg_2214(dnaE) Score=0.1 Pos=-161 [Caulobacter segnis ATCC 21756]
+GAACAAAACCGGAAT
+>Cseg_1391(yoaA) Score=4.9 Pos=-41 [Caulobacter segnis ATCC 21756]
+GTTCCCTTTCTGTTT
+>Cseg_1444(recN) Score=5.2 Pos=-62 [Caulobacter segnis ATCC 21756]
+GATCCCGTTTCGTTC
+>Cseg_4018(PF01078) Score=5.4 Pos=-78 [Caulobacter segnis ATCC 21756]
+GTTCGTTTTTCGTTC
+>Cseg_2189(lexA) Score=5.1 Pos=-36 [Caulobacter segnis ATCC 21756]
+GTTTGCGGTTTGTTC
+>Cseg_1175(recA) Score=1.8 Pos=-122 [Caulobacter segnis ATCC 21756]
+GAACATCTTGCGAAC
+>Cseg_1102(uvrA) Score=5.4 Pos=-93 [Caulobacter segnis ATCC 21756]
+GTTCGCATCTTGTTC
+>Cseg_4159(COG5529) Score=4.8 Pos=-53 [Caulobacter segnis ATCC 21756]
+GTTCCGCTTTCGTTC
+>Cseg_2927(nth) Score=5.3 Pos=-32 [Caulobacter segnis ATCC 21756]
+GTTCCCATTATGTTC
+>Cseg_1390(lhr) Score=-0.9 Pos=-32 [Caulobacter segnis ATCC 21756]
+AAACAGAAAGGGAAC
+>Caul_4208(PF06319) Score=1 Pos=-26 [Caulobacter sp. K31]
+GAACAAAGCTGGAAC
+>Caul_4463(imuA) Score=0.4 Pos=-40 [Caulobacter sp. K31]
+GAACAAAAGTGGAAC
+>Caul_1392(recA) Score=0.5 Pos=-111 [Caulobacter sp. K31]
+GAACATGGAACAAAC
+>Caul_2808(dnaE) Score=-0.5 Pos=-144 [Caulobacter sp. K31]
+GAACAAACAGGCAAC
+>Caul_2808(dnaE) Score=-0 Pos=-162 [Caulobacter sp. K31]
+GAACAAAAGTGGAAT
+>Caul_0179(PF01078) Score=5.4 Pos=-79 [Caulobacter sp. K31]
+GTTCGTTTTTCGTTC
+>Caul_2782(lexA) Score=5.1 Pos=-38 [Caulobacter sp. K31]
+GTTTGCGGTTTGTTC
+>Caul_3697(uvrA) Score=5 Pos=-96 [Caulobacter sp. K31]
+GTTCGCACCTTGTTC
+>Caul_5071(COG5529) Score=4.6 Pos=-53 [Caulobacter sp. K31]
+GTTCTATCTTCGTTC
+>Caul_1412(nth) Score=5.2 Pos=-31 [Caulobacter sp. K31]
+GTTCTCGTTACGTTC
+>Caul_1454(lhr) Score=-0 Pos=-33 [Caulobacter sp. K31]
+AAACGGAACGGGAAC
+>PHZ_c1782(dnaE) Score=0.1 Pos=-205 [Phenylobacterium zucineum HLK1]
+GAACAAAAGGCGAAT
+>PHZ_c0224(PF06319) Score=0.8 Pos=-26 [Phenylobacterium zucineum HLK1]
+GAACGGAGGCGGAAC
+>PHZ_c3266(imuA) Score=0.7 Pos=-34 [Phenylobacterium zucineum HLK1]
+GAACGGAAGTGGAAC
+>PHZ_c1782(dnaE) Score=1 Pos=-188 [Phenylobacterium zucineum HLK1]
+GAACGAACAAGGAAC
+>PHZ_c2755(yoaA) Score=5.2 Pos=-42 [Phenylobacterium zucineum HLK1]
+GTTCCCCTTCCGTTC
+>PHZ_c0985(recA) Score=1.1 Pos=-86 [Phenylobacterium zucineum HLK1]
+GAACAAAGGAGGTAC
+>PHZ_c3480(PF01078) Score=5 Pos=-80 [Phenylobacterium zucineum HLK1]
+GTTCTATTTTCGTTC
+>PHZ_c3424(COG5529) Score=5.1 Pos=-41 [Phenylobacterium zucineum HLK1]
+GTTCTCTCTTCGTTC
+>PHZ_c1762(lexA) Score=5.1 Pos=-31 [Phenylobacterium zucineum HLK1]
+GTTTGCGCTTTGTTC
+>PHZ_c1946(uvrA) Score=5.1 Pos=-114 [Phenylobacterium zucineum HLK1]
+GTTCGCCTTGCGTTC
+>PHZ_c2761(lhr) Score=1 Pos=-32 [Phenylobacterium zucineum HLK1]
+AAACGAACCGCGAAC

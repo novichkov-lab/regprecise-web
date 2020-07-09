@@ -1,0 +1,890 @@
+>BSU32090(yuiA) Score=4.9 Pos=-36 [Bacillus subtilis subsp. subtilis str. 168]
+TATTATCAGAAAATT
+>BSU14620(slp) Score=4.4 Pos=-95 [Bacillus subtilis subsp. subtilis str. 168]
+AATTATATAACAATT
+>BSU14520(adeC) Score=4.5 Pos=-118 [Bacillus subtilis subsp. subtilis str. 168]
+TATTATCAGAATATA
+>BSU14240(rok) Score=4.6 Pos=-134 [Bacillus subtilis subsp. subtilis str. 168]
+CATTTTCAGAAAATA
+>BSU10460(yhjC) Score=4.5 Pos=-159 [Bacillus subtilis subsp. subtilis str. 168]
+TAATTTCAGACAATT
+>BSU32980(yusZ) Score=4.4 Pos=-83 [Bacillus subtilis subsp. subtilis str. 168]
+TATTGTATAAAAATT
+>BSU13190(ispA) Score=4.5 Pos=-147 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTTTGAAGATT
+>BSU34530(cotR) Score=4.7 Pos=-218 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCAAACAATT
+>BSU31020(yuaF) Score=4.6 Pos=-96 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTGTCTTAAAATT
+>BSU31030(yuaE) Score=4.6 Pos=-86 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTAAGACAAAT
+>BSU02370(gamR) Score=4.8 Pos=-115 [Bacillus subtilis subsp. subtilis str. 168]
+TAATTTCTGAAAATT
+>BSU32610(frlB) Score=4.8 Pos=-100 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTTCAGAAAATA
+>BSU03300(nasD) Score=4.8 Pos=-121 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCATAAAATT
+>BSU10070(yhaA) Score=4.4 Pos=-57 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTCAGACTTTT
+>BSU12400(yjnA) Score=4.7 Pos=-84 [Bacillus subtilis subsp. subtilis str. 168]
+AAAATTCAAAAAATT
+>BSU11900(yjcL) Score=4.7 Pos=-29 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCTAACAATA
+>BSU03010(amhX) Score=4.3 Pos=-116 [Bacillus subtilis subsp. subtilis str. 168]
+ATTATTCTGAATAGT
+>BSU36660(ureA) Score=4.9 Pos=-890 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTTTAAATATT
+>BSU09430(citR) Score=4.6 Pos=-68 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTTAAAAAATA
+>BSU38950(metE2) Score=4.7 Pos=-225 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTAAGATAATT
+>BSU29600(braB) Score=4.6 Pos=-44 [Bacillus subtilis subsp. subtilis str. 168]
+AATTGACAGAATATT
+>BSU29600(braB) Score=4.7 Pos=-59 [Bacillus subtilis subsp. subtilis str. 168]
+TATTATCTGACAATT
+>BSU15340(ylmA) Score=4.7 Pos=-52 [Bacillus subtilis subsp. subtilis str. 168]
+AGTTTTATGAAAATT
+>BSU09460(yhdG) Score=4.7 Pos=-181 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCTAACAATT
+>BSU40350(rocR) Score=4.7 Pos=-34 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTAAGAAAATA
+>BSU30640(ytkC) Score=4.9 Pos=-82 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCTGAAAAAT
+>BSU02390(ybgE) Score=4.6 Pos=-38 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTTAAACAATT
+>BSU02390(ybgE) Score=4.9 Pos=-118 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTCTGAAATTT
+>BSU31540(nupN) Score=4.9 Pos=-102 [Bacillus subtilis subsp. subtilis str. 168]
+TATTATCAGAAAATT
+>BSU19340(yocR) Score=5 Pos=-141 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCTGAATAAT
+>BSU19350(yocS) Score=5 Pos=-92 [Bacillus subtilis subsp. subtilis str. 168]
+ATTATTCAGAAAATT
+>BSU09590(yhdT) Score=4.4 Pos=-200 [Bacillus subtilis subsp. subtilis str. 168]
+AAAAGTCTAAAAATT
+>BSU27430(glnQ) Score=5 Pos=-60 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCAGAAAAGT
+>BSU09560(cueR) Score=4.4 Pos=-139 [Bacillus subtilis subsp. subtilis str. 168]
+AAAAATTTGAAAATT
+>BSU13530(kinE) Score=5.1 Pos=-90 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCTGAAATTT
+>BSU31470(kapD) Score=4.4 Pos=-90 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTTAGAAAATG
+>BSU09990(hpr) Score=4.4 Pos=-90 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTATTAAAAAATT
+>BSU32260(hom) Score=4.5 Pos=-183 [Bacillus subtilis subsp. subtilis str. 168]
+AATAATTAGAAAATA
+>BSU33730(opuBA) Score=4.9 Pos=-65 [Bacillus subtilis subsp. subtilis str. 168]
+AATTGTCTGAAAAAT
+>BSU33830(opuCA) Score=5 Pos=-42 [Bacillus subtilis subsp. subtilis str. 168]
+ACTTTTCAGAAAATT
+>BSU13950(mcpC) Score=4.5 Pos=-62 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTTTGATTATT
+>BSU13950(mcpC) Score=4.8 Pos=-98 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCAGTAAATA
+>BSU06670(gatC) Score=5 Pos=-172 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTCAGAAAAAT
+>BSU10420(comK) Score=4.5 Pos=-225 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTTAGACAACT
+>BSU17990(sspO) Score=4.7 Pos=-170 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTCTCACAATT
+>BSU09440(citA) Score=4.6 Pos=-55 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTTTAAATATT
+>BSU01700(murQ) Score=4.6 Pos=-48 [Bacillus subtilis subsp. subtilis str. 168]
+AATATACTGAATATT
+>BSU01700(murQ) Score=4.4 Pos=-95 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTTCAAAAATTT
+>BSU31480(yuxJ) Score=4.4 Pos=-135 [Bacillus subtilis subsp. subtilis str. 168]
+CATTTTCTAAAAATA
+>BSU12920(dppA) Score=4.5 Pos=-43 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTGTTAGAATATT
+>BSU00490(spoVG) Score=4.4 Pos=-98 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTTCAAAAAATA
+>BSU06660(opuE) Score=5 Pos=-256 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCTGAATATT
+>BSU11860(ycjH) Score=4.6 Pos=-73 [Bacillus subtilis subsp. subtilis str. 168]
+AAATTTCTAATAATT
+>BSU21770(ilvA) Score=4.8 Pos=-68 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTTTGAATATT
+>BSU36550(spoIIQ) Score=4.8 Pos=-44 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTCAGAAAAGT
+>BSU21870(ilvD) Score=4.5 Pos=-64 [Bacillus subtilis subsp. subtilis str. 168]
+AATAAACTGAAAATT
+>BSU23070(serA) Score=4.5 Pos=-44 [Bacillus subtilis subsp. subtilis str. 168]
+AATTATCAGATATTT
+>BSU29690(acuA) Score=4.6 Pos=-97 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTTAAAATATA
+>BSU09410(phoB) Score=4.9 Pos=-156 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCTGAAAAAT
+>BSU37740(bacA) Score=4.7 Pos=-36 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTACTTAAAATT
+>BSU16980(spoVS) Score=4.4 Pos=-186 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTATAAAAATA
+>BSU19579(yoyD) Score=4.4 Pos=-80 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTTTCTAATAATT
+>BSU18000(citB) Score=4.7 Pos=-72 [Bacillus subtilis subsp. subtilis str. 168]
+AATTGTGAGAAAATT
+>BSU29680(acsA) Score=4.6 Pos=-78 [Bacillus subtilis subsp. subtilis str. 168]
+TATATTTTAAAAATT
+>BSU28310(ilvB) Score=4.1 Pos=-633 [Bacillus subtilis subsp. subtilis str. 168]
+ATTAATAAAAAAATT
+>BSU02060(ybxG) Score=4.8 Pos=-257 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTCAAATAATT
+>BSU29590(iscS) Score=4.6 Pos=-165 [Bacillus subtilis subsp. subtilis str. 168]
+AATATTCTGTCAATT
+>BSU29590(iscS) Score=4.7 Pos=-150 [Bacillus subtilis subsp. subtilis str. 168]
+AATTGTCAGATAATA
+>BSU06310(gabP) Score=4.7 Pos=-48 [Bacillus subtilis subsp. subtilis str. 168]
+AATTATCATAATATT
+>BSU28310(ilvB) Score=4.7 Pos=-544 [Bacillus subtilis subsp. subtilis str. 168]
+AATTGTCTAATAATT
+>BSU29470(ackA) Score=4 Pos=-182 [Bacillus subtilis subsp. subtilis str. 168]
+atgTgTCtGAaAata
+>BSU03200(putB) Score=4.1 Pos=-106 [Bacillus subtilis subsp. subtilis str. 168]
+AATAATCAGAATCTT
+>BSU03200(putB) Score=4.5 Pos=-89 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTGAGAATATT
+>BSU39340(hutP) Score=4.1 Pos=-25 [Bacillus subtilis subsp. subtilis str. 168]
+AGTTATCAGAATTTT
+>BSU03480(srfAA) Score=4.4 Pos=-440 [Bacillus subtilis subsp. subtilis str. 168]
+ATTTTTCTGTAAATA
+>BSU29140(citZ) Score=4.3 Pos=-224 [Bacillus subtilis subsp. subtilis str. 168]
+AAATGTCTGATTATT
+>BSU11430(oppA) Score=4.3 Pos=-116 [Bacillus subtilis subsp. subtilis str. 168]
+AATAATCAGAAAAGA
+>BSU40340(rocD) Score=4.7 Pos=-221 [Bacillus subtilis subsp. subtilis str. 168]
+TATTTTCTTAATATT
+>BSU11870(metI) Score=4.3 Pos=-214 [Bacillus subtilis subsp. subtilis str. 168]
+AACAATCAGAAAATT
+>BSU11870(metI) Score=4.6 Pos=-297 [Bacillus subtilis subsp. subtilis str. 168]
+AATTATTAGAAATTT
+>BSU22260(yppF) Score=4.3 Pos=-76 [Bacillus subtilis subsp. subtilis str. 168]
+AATTTTTTAAAAACA
+>RBAM_011430(oppA) Score=4.3 Pos=-115 [Bacillus amyloliquefaciens FZB42]
+AATAATCAGAAAAGA
+>RBAM_014460(slp) Score=4.4 Pos=-115 [Bacillus amyloliquefaciens FZB42]
+AATTATATAACAATT
+>RBAM_002460(ybxG) Score=4.4 Pos=-268 [Bacillus amyloliquefaciens FZB42]
+TATTATCTTAATATT
+>RBAM_038050 Score=4.5 Pos=-39 [Bacillus amyloliquefaciens FZB42]
+ACTATTCTGAAAAAT
+>RBAM_014000(rok) Score=4.6 Pos=-133 [Bacillus amyloliquefaciens FZB42]
+CATTTTCAGAAAATA
+>RBAM_010680(yhjC) Score=4.6 Pos=-85 [Bacillus amyloliquefaciens FZB42]
+AAATTTCAGACTATT
+>RBAM_005540(cotR) Score=4.5 Pos=-185 [Bacillus amyloliquefaciens FZB42]
+TATTTTTAAATAATT
+>RBAM_028120(yuaF) Score=4.7 Pos=-84 [Bacillus amyloliquefaciens FZB42]
+ACTTATCAGAAAATT
+>RBAM_028130(yuaE) Score=4.7 Pos=-77 [Bacillus amyloliquefaciens FZB42]
+AATTTTCTGATAAGT
+>RBAM_010260(serC) Score=4.4 Pos=-75 [Bacillus amyloliquefaciens FZB42]
+AAAAATCAAAAAATT
+>RBAM_029670(frlB) Score=4.8 Pos=-103 [Bacillus amyloliquefaciens FZB42]
+AAATTTCAGAAAATA
+>RBAM_003510(nasD) Score=4.4 Pos=-109 [Bacillus amyloliquefaciens FZB42]
+AATTTTTAGATTTTT
+>RBAM_017250(glnR) Score=4.7 Pos=-100 [Bacillus amyloliquefaciens FZB42]
+AATTTTCAAAGAATT
+>RBAM_012430(yjnA) Score=5 Pos=-84 [Bacillus amyloliquefaciens FZB42]
+AATTTTCCGAAAATT
+>RBAM_003260(ycgA) Score=4.6 Pos=-182 [Bacillus amyloliquefaciens FZB42]
+TATTTTCTGAATAGT
+>RBAM_003250(amhX) Score=4.6 Pos=-104 [Bacillus amyloliquefaciens FZB42]
+ACTATTCAGAAAATA
+>RBAM_033830(ureA) Score=4.6 Pos=-251 [Bacillus amyloliquefaciens FZB42]
+AATATTCTATAAATT
+>RBAM_020410(yppF) Score=4.3 Pos=-76 [Bacillus amyloliquefaciens FZB42]
+AATTTTTTAAAAACA
+>RBAM_009690(citR) Score=4.6 Pos=-67 [Bacillus amyloliquefaciens FZB42]
+AATATTTAAAAAATA
+>RBAM_036120(metE2) Score=4.4 Pos=-188 [Bacillus amyloliquefaciens FZB42]
+TTTATTCTGAAAAAT
+>RBAM_026530(braB) Score=4.6 Pos=-41 [Bacillus amyloliquefaciens FZB42]
+AATTGACAGAATATT
+>RBAM_026530(braB) Score=4.7 Pos=-56 [Bacillus amyloliquefaciens FZB42]
+TATTATCTGACAATT
+>RBAM_002680(gldA) Score=4.5 Pos=-55 [Bacillus amyloliquefaciens FZB42]
+TATTTTCTGACAAGT
+>RBAM_015170(ylmA) Score=4.8 Pos=-42 [Bacillus amyloliquefaciens FZB42]
+AGTTTTTAGAAAATT
+>RBAM_009720(yhdG) Score=4.8 Pos=-165 [Bacillus amyloliquefaciens FZB42]
+AATTTTCAAAAAAGT
+>RBAM_002750(gltP) Score=4.4 Pos=-229 [Bacillus amyloliquefaciens FZB42]
+AATTATCAAAATTTT
+>RBAM_027650(ytkC) Score=4.9 Pos=-70 [Bacillus amyloliquefaciens FZB42]
+ATTTTTCTGAAAAAT
+>RBAM_025530(yslB) Score=4.5 Pos=-213 [Bacillus amyloliquefaciens FZB42]
+AATTTATTGACAATT
+>RBAM_025520(sdhC) Score=4.5 Pos=-98 [Bacillus amyloliquefaciens FZB42]
+AATTGTCAATAAATT
+>RBAM_002760(ybgE) Score=4.4 Pos=-152 [Bacillus amyloliquefaciens FZB42]
+AAAATTTTGATAATT
+>RBAM_028640(nupN) Score=4.5 Pos=-243 [Bacillus amyloliquefaciens FZB42]
+ATTTTTTAAAAAATA
+>RBAM_028640(nupN) Score=4.5 Pos=-244 [Bacillus amyloliquefaciens FZB42]
+TATTTTTTAAAAAAT
+>RBAM_019090(yocR) Score=4.4 Pos=-49 [Bacillus amyloliquefaciens FZB42]
+TATATTCTTACAATT
+>RBAM_019100(yocS) Score=4.4 Pos=-169 [Bacillus amyloliquefaciens FZB42]
+AATTGTAAGAATATA
+>RBAM_024530(glnQ) Score=4.6 Pos=-96 [Bacillus amyloliquefaciens FZB42]
+AATATTCATAAAAAT
+>RBAM_024530(glnQ) Score=4.5 Pos=-126 [Bacillus amyloliquefaciens FZB42]
+AATTATCAGAAATTA
+>RBAM_013310(kinE) Score=4.6 Pos=-90 [Bacillus amyloliquefaciens FZB42]
+AATTTTCTGAAATGT
+>RBAM_028570(kapD) Score=4.4 Pos=-93 [Bacillus amyloliquefaciens FZB42]
+TATTTTTAGAAAATG
+>RBAM_029920(fadN) Score=4.5 Pos=-132 [Bacillus amyloliquefaciens FZB42]
+AAATTTAAAAAAATT
+>RBAM_029370(hom) Score=4.8 Pos=-185 [Bacillus amyloliquefaciens FZB42]
+AATATTTAGAAAATA
+>RBAM_031050(opuBA) Score=4.8 Pos=-66 [Bacillus amyloliquefaciens FZB42]
+AATTGTCTGAAAAGT
+>RBAM_031100(opuCA) Score=4.7 Pos=-41 [Bacillus amyloliquefaciens FZB42]
+ACTTTTCAGAAAAAT
+>RBAM_007070(gatC) Score=4.5 Pos=-163 [Bacillus amyloliquefaciens FZB42]
+AATTTTCTGACATAT
+>RBAM_010600(comK) Score=4.2 Pos=-88 [Bacillus amyloliquefaciens FZB42]
+TATATTCAAAAAAAA
+>RBAM_017790(sspO) Score=4.7 Pos=-169 [Bacillus amyloliquefaciens FZB42]
+AATTTTCTCACAATT
+>RBAM_028580(yuxJ) Score=4.4 Pos=-178 [Bacillus amyloliquefaciens FZB42]
+CATTTTCTAAAAATA
+>RBAM_012770(dppA) Score=4.5 Pos=-58 [Bacillus amyloliquefaciens FZB42]
+ATTTGTTAGAATATT
+>RBAM_007060(opuE) Score=4.5 Pos=-273 [Bacillus amyloliquefaciens FZB42]
+ATATGTCAGAAAATT
+>RBAM_011920(ycjH) Score=4.6 Pos=-70 [Bacillus amyloliquefaciens FZB42]
+AAATTTCTAATAATT
+>RBAM_019920(ilvA) Score=4.5 Pos=-67 [Bacillus amyloliquefaciens FZB42]
+TATTATTTGAATATT
+>RBAM_019920(ilvA) Score=4.4 Pos=-75 [Bacillus amyloliquefaciens FZB42]
+AATTGTCTTATTATT
+>RBAM_033730(spoIIQ) Score=4.8 Pos=-44 [Bacillus amyloliquefaciens FZB42]
+TATTTTCAGAAAAGT
+>RBAM_020010(ilvD) Score=4.5 Pos=-56 [Bacillus amyloliquefaciens FZB42]
+AATAAACTGAAAATT
+>RBAM_021220(serA) Score=4.5 Pos=-44 [Bacillus amyloliquefaciens FZB42]
+AATTATCAGATATTT
+>RBAM_026810(acuA) Score=4.6 Pos=-100 [Bacillus amyloliquefaciens FZB42]
+AATTTTTAAAATATA
+>RBAM_009700(citA) Score=4.6 Pos=-51 [Bacillus amyloliquefaciens FZB42]
+TATTTTTTAAATATT
+>RBAM_034930(bacA) Score=4.4 Pos=-26 [Bacillus amyloliquefaciens FZB42]
+TATTTACTTAAAATT
+>RBAM_034930(bacA) Score=4.5 Pos=-67 [Bacillus amyloliquefaciens FZB42]
+TATTTTCAAATAATA
+>RBAM_019340(yodF) Score=4.6 Pos=-280 [Bacillus amyloliquefaciens FZB42]
+TTTTTTCTGAAAAAT
+>RBAM_016820(spoVS) Score=4.4 Pos=-186 [Bacillus amyloliquefaciens FZB42]
+TATTTTATAAAAATA
+>RBAM_017800(citB) Score=4.7 Pos=-77 [Bacillus amyloliquefaciens FZB42]
+AATTGTGAGAAAATT
+>RBAM_026400(ackA) Score=4.6 Pos=-172 [Bacillus amyloliquefaciens FZB42]
+ATTTATCAGAAAATA
+>RBAM_026800(acsA) Score=4.6 Pos=-73 [Bacillus amyloliquefaciens FZB42]
+TATATTTTAAAAATT
+>RBAM_016830(tdh) Score=4.5 Pos=-137 [Bacillus amyloliquefaciens FZB42]
+AATATTCAAAAAAAA
+>RBAM_026520(iscS) Score=4.7 Pos=-152 [Bacillus amyloliquefaciens FZB42]
+AATTGTCAGATAATA
+>RBAM_026520(iscS) Score=4.6 Pos=-167 [Bacillus amyloliquefaciens FZB42]
+AATATTCTGTCAATT
+>RBAM_026180(citZ) Score=4.2 Pos=-224 [Bacillus amyloliquefaciens FZB42]
+ATTAATCAGATTATT
+>RBAM_025370(ilvB) Score=4.7 Pos=-464 [Bacillus amyloliquefaciens FZB42]
+AATTGTCTAATAATT
+>RBAM_003440(putB) Score=4.8 Pos=-23 [Bacillus amyloliquefaciens FZB42]
+TATTTTTAGAATATT
+>RBAM_036400(hutP) Score=4.5 Pos=-36 [Bacillus amyloliquefaciens FZB42]
+AGTTATCAGAATATT
+>RBAM_003650(srfAA) Score=4.4 Pos=-398 [Bacillus amyloliquefaciens FZB42]
+AATATTTTTAAAAAT
+>RBAM_029140(yuiA) Score=4.9 Pos=-34 [Bacillus amyloliquefaciens FZB42]
+TATTATCAGAAAATT
+>RBAM_011930(metI) Score=4.6 Pos=-314 [Bacillus amyloliquefaciens FZB42]
+AATTATTAGAAATTT
+>RBAM_006710(gabP) Score=4.3 Pos=-160 [Bacillus amyloliquefaciens FZB42]
+AAATAACAGAAAATT
+>RBAM_006710(gabP) Score=4 Pos=-45 [Bacillus amyloliquefaciens FZB42]
+ACTTGTCGGAATATT
+>RBAM_010310(yhaA) Score=4.2 Pos=-57 [Bacillus amyloliquefaciens FZB42]
+AATCTTCTGACATTT
+>RBAM_035750(ybgE) Score=4.3 Pos=-48 [Bacillus amyloliquefaciens FZB42]
+TATTTTCAAATAAGT
+>BPUM_0965(gltT) Score=4.4 Pos=-140 [Bacillus pumilus SAFR-032]
+TTTTTTCAAACAATT
+>BPUM_1119(metI) Score=4.4 Pos=-297 [Bacillus pumilus SAFR-032]
+AAAATACAGAAAATT
+>BPUM_1603(tdh) Score=4.4 Pos=-136 [Bacillus pumilus SAFR-032]
+TTTTTTTAGAAAAAT
+>BPUM_0343(yclF) Score=4.5 Pos=-187 [Bacillus pumilus SAFR-032]
+AATTTTAAATAAATT
+>BPUM_0697(yfmB) Score=4.7 Pos=-80 [Bacillus pumilus SAFR-032]
+AATTTTCTGAAATAT
+>BPUM_1860(yocS) Score=4.9 Pos=-62 [Bacillus pumilus SAFR-032]
+TTTTTTCAGAAAATT
+>BPUM_0276(ycgA) Score=5 Pos=-52 [Bacillus pumilus SAFR-032]
+ATTATTCTGAAAATT
+>BPUM_0275(amhX) Score=5 Pos=-116 [Bacillus pumilus SAFR-032]
+AATTTTCAGAATAAT
+>BPUM_3562(metE2) Score=4.4 Pos=-227 [Bacillus pumilus SAFR-032]
+TTTATTAAGAAAATT
+>BPUM_2605(braB) Score=4.5 Pos=-44 [Bacillus pumilus SAFR-032]
+AATTAACAGAATATT
+>BPUM_0501(gltP) Score=4.5 Pos=-44 [Bacillus pumilus SAFR-032]
+AAAATTCTTAAAATT
+>BPUM_2504(yslB) Score=4.5 Pos=-134 [Bacillus pumilus SAFR-032]
+AATTTTCCGAAATTT
+>BPUM_2504(yslB) Score=4.5 Pos=-201 [Bacillus pumilus SAFR-032]
+AATTTATTGACAATT
+>BPUM_2503(sdhC) Score=4.5 Pos=-94 [Bacillus pumilus SAFR-032]
+AATTGTCAATAAATT
+>BPUM_2503(sdhC) Score=4.5 Pos=-161 [Bacillus pumilus SAFR-032]
+AAATTTCGGAAAATT
+>BPUM_3500(ybgE) Score=4.4 Pos=-226 [Bacillus pumilus SAFR-032]
+AATTGTCAGATTAAT
+>BPUM_2823(nupN) Score=4.5 Pos=-233 [Bacillus pumilus SAFR-032]
+ATTTTTTTAAAAATA
+>BPUM_0906(yhdT) Score=5 Pos=-196 [Bacillus pumilus SAFR-032]
+AATTTTCAGATTATT
+>BPUM_0905(cueR) Score=5 Pos=-153 [Bacillus pumilus SAFR-032]
+AATAATCTGAAAATT
+>BPUM_0503(yaaC) Score=5 Pos=-36 [Bacillus pumilus SAFR-032]
+AATTTTTAGAAAATA
+>BPUM_0543(gabP) Score=4.5 Pos=-231 [Bacillus pumilus SAFR-032]
+AAATTTCAGAATAAT
+>BPUM_2888(hom) Score=4.8 Pos=-185 [Bacillus pumilus SAFR-032]
+AATATTTTGAAAATA
+>BPUM_3043(opuCA) Score=5 Pos=-43 [Bacillus pumilus SAFR-032]
+AATTTTCTGAATATA
+>BPUM_0644(gatC) Score=4.9 Pos=-182 [Bacillus pumilus SAFR-032]
+AATTTTCTGATAAAT
+>BPUM_0978(comK) Score=5 Pos=-222 [Bacillus pumilus SAFR-032]
+AATTTTTAGACAATT
+>BPUM_2473(dat) Score=4.6 Pos=-54 [Bacillus pumilus SAFR-032]
+AAGTGTCTGAAAATT
+>BPUM_2473(dat) Score=4.7 Pos=-166 [Bacillus pumilus SAFR-032]
+AATTGTCTAATAATT
+>BPUM_1698(sspO) Score=4.7 Pos=-152 [Bacillus pumilus SAFR-032]
+AATTTTCTCACAATT
+>BPUM_1698(sspO) Score=4.6 Pos=-183 [Bacillus pumilus SAFR-032]
+AATTCTCAGAAAAAT
+>BPUM_0158(murQ) Score=4.5 Pos=-131 [Bacillus pumilus SAFR-032]
+TATTTTCTAACTATT
+>BPUM_2154(spo0A) Score=4.4 Pos=-111 [Bacillus pumilus SAFR-032]
+ATTATTCGGAAAATT
+>BPUM_0543(gabP) Score=4.3 Pos=-33 [Bacillus pumilus SAFR-032]
+AATATTCTAAAAACA
+>BPUM_1184(dppA) Score=5 Pos=-55 [Bacillus pumilus SAFR-032]
+ATTTTTTAGAAAATT
+>BPUM_0643(opuE) Score=4.9 Pos=-231 [Bacillus pumilus SAFR-032]
+ATTTATCAGAAAATT
+>BPUM_1071(oppB) Score=4.4 Pos=-38 [Bacillus pumilus SAFR-032]
+AATATACAGAAAAGT
+>BPUM_1118(ycjH) Score=4.4 Pos=-140 [Bacillus pumilus SAFR-032]
+AATTTTCTGTATTTT
+>BPUM_1911(ilvA) Score=4.8 Pos=-64 [Bacillus pumilus SAFR-032]
+TATTTTTTGAATATT
+>BPUM_1672(lutA) Score=4.6 Pos=-103 [Bacillus pumilus SAFR-032]
+AAATTTCAGAAATTT
+>BPUM_3062(lutR) Score=4.6 Pos=-109 [Bacillus pumilus SAFR-032]
+GATTTTTTGAAAATT
+>BPUM_3302(spoIIQ) Score=4.6 Pos=-43 [Bacillus pumilus SAFR-032]
+TATTTTTTGAAAAGT
+>BPUM_1922(ilvD) Score=4.5 Pos=-83 [Bacillus pumilus SAFR-032]
+AATAAACAGAAAATT
+>BPUM_2039(serA) Score=4.5 Pos=-45 [Bacillus pumilus SAFR-032]
+AATTATCAGATATTT
+>BPUM_2617(acuA) Score=4.6 Pos=-93 [Bacillus pumilus SAFR-032]
+AATTTTTAAAAAACT
+>BPUM_1699(citB) Score=4.6 Pos=-52 [Bacillus pumilus SAFR-032]
+ATTTTTCTGAGAATT
+>BPUM_1877(yoyD) Score=4.4 Pos=-27 [Bacillus pumilus SAFR-032]
+AAATTACAAAAAATT
+>BPUM_2579(ackA) Score=4.7 Pos=-206 [Bacillus pumilus SAFR-032]
+ATTATTCAGAAAATA
+>BPUM_1699(citB) Score=4.7 Pos=-83 [Bacillus pumilus SAFR-032]
+AATTGTGAGAAAATT
+>BPUM_2616(acsA) Score=4.6 Pos=-77 [Bacillus pumilus SAFR-032]
+AGTTTTTTAAAAATT
+>BPUM_0421(gltO) Score=5 Pos=-252 [Bacillus pumilus SAFR-032]
+AATTTTCTAAAAATA
+>BPUM_0421(gltO) Score=4.4 Pos=-230 [Bacillus pumilus SAFR-032]
+AATAGTATGAAAATA
+>BPUM_0965(gltT) Score=4.6 Pos=-273 [Bacillus pumilus SAFR-032]
+TTTTTTCTGAAAAAT
+>BPUM_2600(ytcI) Score=4.6 Pos=-158 [Bacillus pumilus SAFR-032]
+AATAGTTTGAATATT
+>BPUM_2556(citZ) Score=4.3 Pos=-210 [Bacillus pumilus SAFR-032]
+AAATGTCTGATTATT
+>BPUM_0319(srfAA) Score=4 Pos=-366 [Bacillus pumilus SAFR-032]
+TATTTTCGGTAAATA
+>BPUM_1119(metI) Score=4.1 Pos=-287 [Bacillus pumilus SAFR-032]
+AAATTTCAATTAATT
+>BPUM_0954(yhaA) Score=4.2 Pos=-58 [Bacillus pumilus SAFR-032]
+AAGATTCTAACAATT
+>BLi01289(metI) Score=4 Pos=-164 [Bacillus licheniformis DSM 13]
+AACAATCAGAATATT
+>BLi03391(yuiA) Score=4.9 Pos=-35 [Bacillus licheniformis DSM 13]
+TATTATCAGAAAATT
+>BLi00401(srfAA) Score=4.2 Pos=-418 [Bacillus licheniformis DSM 13]
+ATTTTTTTGTCAATT
+>BLi00220(ybxG) Score=4.4 Pos=-241 [Bacillus licheniformis DSM 13]
+TATTATAAGAATATT
+>BLi00175(pdaB) Score=4.5 Pos=-193 [Bacillus licheniformis DSM 13]
+ACTTTTCTCAAAATT
+>BLi03198(gltZ) Score=4.5 Pos=-98 [Bacillus licheniformis DSM 13]
+TATTATTTGAAAATA
+>BLi00817(glyP) Score=4.6 Pos=-52 [Bacillus licheniformis DSM 13]
+AACTTTCAGAATATT
+>BLi03479(yusZ) Score=4.6 Pos=-111 [Bacillus licheniformis DSM 13]
+AATTTTTATAAAAAT
+>BLi01423(ispA) Score=4.7 Pos=-114 [Bacillus licheniformis DSM 13]
+ACTTTTCATAAAATT
+>BLi00656(amyS) Score=4.7 Pos=-57 [Bacillus licheniformis DSM 13]
+AAAATTCTGAATATT
+>BLi04156(glpQ) Score=4.7 Pos=-91 [Bacillus licheniformis DSM 13]
+AAATTTATGAAAATT
+>BLi00778(yfmB) Score=4.6 Pos=-83 [Bacillus licheniformis DSM 13]
+AATTTTCAGACAAAA
+>BLi03321(alaR) Score=4.8 Pos=-44 [Bacillus licheniformis DSM 13]
+AATATTCAGAAGATT
+>BLi04129(pelB) Score=4.7 Pos=-151 [Bacillus licheniformis DSM 13]
+ATTATTCAGACAATT
+>BLi01088(yhaA) Score=4.9 Pos=-50 [Bacillus licheniformis DSM 13]
+AATTGTCATAAAATT
+>BLi01291(yjcL) Score=4.9 Pos=-47 [Bacillus licheniformis DSM 13]
+AATTATCAGATAATT
+>BLi01176(glnB) Score=5 Pos=-103 [Bacillus licheniformis DSM 13]
+ATTTTTTTGAAAATT
+>BLi01009(citR) Score=4.6 Pos=-65 [Bacillus licheniformis DSM 13]
+AATATTTAAAAAATA
+>BLi01752(ylmA) Score=4.7 Pos=-39 [Bacillus licheniformis DSM 13]
+ATTTATCAGAATATT
+>BLi00421(rocR) Score=4.8 Pos=-49 [Bacillus licheniformis DSM 13]
+AATTTTCAGAACATT
+>BLi02408(ndk) Score=4.7 Pos=-74 [Bacillus licheniformis DSM 13]
+AATTGTTTGAAAAAT
+>BLi03206(ytkC) Score=4.7 Pos=-88 [Bacillus licheniformis DSM 13]
+AATTGTCAAACAATT
+>BLi02995(yslB) Score=4.5 Pos=-132 [Bacillus licheniformis DSM 13]
+ATATTTTTGAAAATT
+>BLi02995(yslB) Score=4.9 Pos=-151 [Bacillus licheniformis DSM 13]
+AATTTTCTAAAATTT
+>BLi02994(sdhC) Score=4.9 Pos=-165 [Bacillus licheniformis DSM 13]
+AAATTTTAGAAAATT
+>BLi02994(sdhC) Score=4.5 Pos=-184 [Bacillus licheniformis DSM 13]
+AATTTTCAAAAATAT
+>BLi04226 Score=4.9 Pos=-29 [Bacillus licheniformis DSM 13]
+TATTTTCTGAAAAAT
+>BLi02256(yocR) Score=4.8 Pos=-163 [Bacillus licheniformis DSM 13]
+AATATTCTGAATAAT
+>BLi02258(yocS) Score=4.8 Pos=-66 [Bacillus licheniformis DSM 13]
+ATTATTCAGAATATT
+>BLi01028(yhdT) Score=4.5 Pos=-217 [Bacillus licheniformis DSM 13]
+ATTTATCTAAATATT
+>BLi01027(cueR) Score=4.5 Pos=-112 [Bacillus licheniformis DSM 13]
+AATATTTAGATAAAT
+>BLi00013(yaaC) Score=5 Pos=-36 [Bacillus licheniformis DSM 13]
+AATTTTTAGAAAATA
+>BLi03329(kapD) Score=4.6 Pos=-165 [Bacillus licheniformis DSM 13]
+CATTTTCAGAAAATA
+>BLi03466(fadN) Score=4.4 Pos=-132 [Bacillus licheniformis DSM 13]
+AAAATTCAGAAATTT
+>BLi01078(hpr) Score=4.7 Pos=-93 [Bacillus licheniformis DSM 13]
+ATTTTTTAAAAAATT
+>BLi00730(gatC) Score=5.1 Pos=-167 [Bacillus licheniformis DSM 13]
+AATATTCTGAATATT
+>BLi01119(comK) Score=5.3 Pos=-205 [Bacillus licheniformis DSM 13]
+AATTTTTAGAAAATT
+>BLi02962(dat) Score=4.7 Pos=-192 [Bacillus licheniformis DSM 13]
+AATTGTCTAATAATT
+>BLi02046(sspO) Score=4.7 Pos=-171 [Bacillus licheniformis DSM 13]
+AATTTTCTCACAATT
+>BLi01010(citA) Score=4.6 Pos=-60 [Bacillus licheniformis DSM 13]
+TATTTTTTAAATATT
+>BLi00191(murQ) Score=4.8 Pos=-53 [Bacillus licheniformis DSM 13]
+AATATACTGAAAATT
+>BLi03330(yuxJ) Score=4.6 Pos=-68 [Bacillus licheniformis DSM 13]
+TATTTTCTGAAAATG
+>BLi01392(dppA) Score=4.5 Pos=-61 [Bacillus licheniformis DSM 13]
+ATTTGTTAGAATATT
+>BLi03425 Score=5 Pos=-56 [Bacillus licheniformis DSM 13]
+AATTATTAGAAAATT
+>BLi00728(opuE) Score=5.1 Pos=-289 [Bacillus licheniformis DSM 13]
+AATATTCAGAATATT
+>BLi02315(ilvA) Score=4.6 Pos=-97 [Bacillus licheniformis DSM 13]
+AATATTCTGTAAATA
+>BLi03892(spoIIQ) Score=4.8 Pos=-43 [Bacillus licheniformis DSM 13]
+TATTTTCTGAAAAGT
+>BLi02324(ilvD) Score=4.8 Pos=-51 [Bacillus licheniformis DSM 13]
+AATATTCAGAATATA
+>BLi02446(serA) Score=4.5 Pos=-43 [Bacillus licheniformis DSM 13]
+AATTATCAGATATTT
+>BLi03120(acuA) Score=4.8 Pos=-96 [Bacillus licheniformis DSM 13]
+AATTTTTAAAAAATA
+>BLi02047(citB) Score=4.7 Pos=-78 [Bacillus licheniformis DSM 13]
+AATTGTGAGAAAATT
+>BLi03086(ackA) Score=4.8 Pos=-194 [Bacillus licheniformis DSM 13]
+TATATTCAGAAAATA
+>BLi02277(yoyD) Score=4.4 Pos=-81 [Bacillus licheniformis DSM 13]
+TTTTTTCTAATAATT
+>BLi03119(acsA) Score=4.8 Pos=-74 [Bacillus licheniformis DSM 13]
+TATTTTTTAAAAATT
+>BLi01100(gltT) Score=4.6 Pos=-124 [Bacillus licheniformis DSM 13]
+AATTTTCAATATATT
+>BLi03101(iscS) Score=4.8 Pos=-165 [Bacillus licheniformis DSM 13]
+AATTTTCTGTCAATT
+>BLi03062(citZ) Score=4.5 Pos=-225 [Bacillus licheniformis DSM 13]
+AAATGTCTGATAATT
+>BLi00373(putB) Score=4.3 Pos=-155 [Bacillus licheniformis DSM 13]
+AAGTTTCTGAAAAAA
+>BLi00375(putP) Score=4.5 Pos=-85 [Bacillus licheniformis DSM 13]
+ATTAGTCTAAAAATT
+>BLi00422(rocD) Score=4.8 Pos=-114 [Bacillus licheniformis DSM 13]
+AATGTTCTGAAAATT
+>BLi01233(oppB) Score=4.3 Pos=-30 [Bacillus licheniformis DSM 13]
+AATAGACTGAATATT
+>Aflv_0145(pdaB) Score=4.4 Pos=-92 [Anoxybacillus flavithermus WK1]
+ATTTTTTAAAAAAAT
+>Aflv_0257(adeC) Score=4.6 Pos=-122 [Anoxybacillus flavithermus WK1]
+AATTTTCAAAAAACA
+>Aflv_0983(yqjP) Score=4.4 Pos=-108 [Anoxybacillus flavithermus WK1]
+AATTTTTTAATAAAT
+>Aflv_0983(yqjP) Score=4.6 Pos=-117 [Anoxybacillus flavithermus WK1]
+TATTTTCTGAATTTT
+>Aflv_2391(alaR) Score=4.7 Pos=-32 [Anoxybacillus flavithermus WK1]
+AATTGTGTGAAAATT
+>Aflv_2293(serC) Score=4.7 Pos=-90 [Anoxybacillus flavithermus WK1]
+ATTTTTTAAAAAATT
+>Aflv_2293(serC) Score=4.5 Pos=-91 [Anoxybacillus flavithermus WK1]
+TATTTTTTAAAAAAT
+>Aflv_2401(yuiA) Score=5.2 Pos=-35 [Anoxybacillus flavithermus WK1]
+AATTATCTGAAAATT
+>Aflv_2792(glnH) Score=4.7 Pos=-122 [Anoxybacillus flavithermus WK1]
+TATTTTTATAAAATT
+>Aflv_0356(appD) Score=4.5 Pos=-26 [Anoxybacillus flavithermus WK1]
+TATTTTTTTAATATT
+>Aflv_0356(appD) Score=4.7 Pos=-48 [Anoxybacillus flavithermus WK1]
+AATTTTTTGAATTTT
+>Aflv_2051(azlC) Score=4.9 Pos=-29 [Anoxybacillus flavithermus WK1]
+AATTTTATGAAAATA
+>Aflv_1508(glnR) Score=4.9 Pos=-100 [Anoxybacillus flavithermus WK1]
+AATTTTCAGAAAAAA
+>Aflv_2134 Score=4.6 Pos=-142 [Anoxybacillus flavithermus WK1]
+AATTTTCTAACATTT
+>Aflv_1403(glnA2) Score=4.4 Pos=-102 [Anoxybacillus flavithermus WK1]
+AAAATACAGAAAATT
+>Aflv_0564(lcfA) Score=4.8 Pos=-56 [Anoxybacillus flavithermus WK1]
+AAATTTCAGAAAATA
+>Aflv_1883(ykzI) Score=4.9 Pos=-39 [Anoxybacillus flavithermus WK1]
+AATTTTCAGAAAAAA
+>Aflv_2006(kinE) Score=4.8 Pos=-83 [Anoxybacillus flavithermus WK1]
+AATTTTCGGAATATT
+>Aflv_1464(metA) Score=5.3 Pos=-51 [Anoxybacillus flavithermus WK1]
+AATTTTCTAAAAATT
+>Aflv_2290(hpr) Score=4.4 Pos=-87 [Anoxybacillus flavithermus WK1]
+ATTTATTAAAAAATT
+>Aflv_2414(hom) Score=4.7 Pos=-88 [Anoxybacillus flavithermus WK1]
+TTTTTTTAGAAAATT
+>Aflv_0590(dat) Score=4.7 Pos=-79 [Anoxybacillus flavithermus WK1]
+AATTTTCAAATAAAT
+>Aflv_0590(dat) Score=4.8 Pos=-136 [Anoxybacillus flavithermus WK1]
+AATAATCAAAAAATT
+>Aflv_1279(liuR) Score=4.9 Pos=-25 [Anoxybacillus flavithermus WK1]
+AAAATTCAGAAAATT
+>Aflv_0953(spo0A) Score=4.6 Pos=-120 [Anoxybacillus flavithermus WK1]
+TATTTTATGAAAAAT
+>Aflv_1525 Score=5 Pos=-113 [Anoxybacillus flavithermus WK1]
+ATTTTTCAAAAAATT
+>Aflv_2428 Score=4.5 Pos=-166 [Anoxybacillus flavithermus WK1]
+ATTTTTTAAAATATT
+>Aflv_2133(oppA) Score=4.6 Pos=-102 [Anoxybacillus flavithermus WK1]
+AAATGTTAGAAAATT
+>Aflv_2073(yjcG) Score=4.7 Pos=-35 [Anoxybacillus flavithermus WK1]
+TATTTTCCGAAAATT
+>Aflv_1453(ilvA) Score=5 Pos=-99 [Anoxybacillus flavithermus WK1]
+ATTTTTTAGAAAATT
+>Aflv_2011(lutP) Score=4.4 Pos=-121 [Anoxybacillus flavithermus WK1]
+AAATTTTTAAATATT
+>Aflv_2010(lutR) Score=4.4 Pos=-60 [Anoxybacillus flavithermus WK1]
+AATATTTAAAAATTT
+>Aflv_1055(serA) Score=4.8 Pos=-47 [Anoxybacillus flavithermus WK1]
+AATTATCAGAAATTT
+>Aflv_0461(acuA) Score=5.1 Pos=-101 [Anoxybacillus flavithermus WK1]
+AATTTTTAAAAAATT
+>Aflv_1527(spoVS) Score=4.6 Pos=-116 [Anoxybacillus flavithermus WK1]
+ATTTTTCTGAAAAAA
+>Aflv_0217(bacD) Score=4.7 Pos=-238 [Anoxybacillus flavithermus WK1]
+AATTTTCATATTATT
+>Aflv_0462(acsA) Score=5.1 Pos=-77 [Anoxybacillus flavithermus WK1]
+AATTTTTTAAAAATT
+>Aflv_1459(gltO) Score=4.9 Pos=-140 [Anoxybacillus flavithermus WK1]
+ATTTTTCTGACAATT
+>Aflv_0504(citZ) Score=4.3 Pos=-209 [Anoxybacillus flavithermus WK1]
+AAAAGTCTGATAATT
+>Aflv_2607(ushA) Score=4.3 Pos=-50 [Anoxybacillus flavithermus WK1]
+AATTTTGTTATAATT
+>Aflv_2067(metI) Score=4.6 Pos=-200 [Anoxybacillus flavithermus WK1]
+AAAAATCAGAAAATT
+>Aflv_1145(yppF) Score=4.4 Pos=-68 [Anoxybacillus flavithermus WK1]
+AATTTTTTGAATTTA
+>Aflv_2067(metI) Score=4.4 Pos=-228 [Anoxybacillus flavithermus WK1]
+ATTTTTCGGAAAATA
+>GK0866(metI) Score=4.5 Pos=-341 [Geobacillus kaustophilus HTA426]
+AAATTTAAAAAAATT
+>GK2020(yclF) Score=4.4 Pos=-68 [Geobacillus kaustophilus HTA426]
+ATTTTTTTGACAATA
+>GK2020(yclF) Score=4.4 Pos=-118 [Geobacillus kaustophilus HTA426]
+TTTTTTCTTAATATT
+>GK0929(ywcB) Score=4.5 Pos=-130 [Geobacillus kaustophilus HTA426]
+ATTTTTCAGATAAAT
+>GK3453(glnH) Score=4.8 Pos=-264 [Geobacillus kaustophilus HTA426]
+AATATTCTGTAAATT
+>GK0673(azlC) Score=4.7 Pos=-51 [Geobacillus kaustophilus HTA426]
+AATTTTTAGACAATA
+>GK1490(liuR) Score=4.7 Pos=-36 [Geobacillus kaustophilus HTA426]
+AAAATTCAGAATATT
+>GK2387(spo0A) Score=4.7 Pos=-96 [Geobacillus kaustophilus HTA426]
+TATTTTTTGAAAAAT
+>GK0042(spoVG) Score=4.6 Pos=-96 [Geobacillus kaustophilus HTA426]
+AATTTATAAAAAATT
+>GK0865(ycjH) Score=4.5 Pos=-172 [Geobacillus kaustophilus HTA426]
+AATTTTTTTAAATTT
+>GK2247(serA) Score=4.8 Pos=-86 [Geobacillus kaustophilus HTA426]
+AATTATCAGAAATTT
+>GK2807(acuA) Score=4.4 Pos=-87 [Geobacillus kaustophilus HTA426]
+ACTTTTTTGAAATTT
+>GK2807(acuA) Score=4.9 Pos=-112 [Geobacillus kaustophilus HTA426]
+AATTTTTAAAATATT
+>GK2806(acsA) Score=4.4 Pos=-102 [Geobacillus kaustophilus HTA426]
+AAATTTCAAAAAAGT
+>GK2806(acsA) Score=4.9 Pos=-77 [Geobacillus kaustophilus HTA426]
+AATATTTTAAAAATT
+>GK2736(citZ) Score=4.3 Pos=-201 [Geobacillus kaustophilus HTA426]
+AAAAGTCTGATAATT
+>GK3452(putP) Score=4.8 Pos=-158 [Geobacillus kaustophilus HTA426]
+AATTTACAGAATATT
+>GK1367(hutU) Score=4.3 Pos=-102 [Geobacillus kaustophilus HTA426]
+AAAATTCAAAAAAAT
+>GK2951(yuiA) Score=4.4 Pos=-54 [Geobacillus kaustophilus HTA426]
+TTTTTACAGAAAATT
+>BC0344(putC) Score=4.6 Pos=-102 [Bacillus cereus ATCC 14579]
+AATTTTTAAAATATA
+>BC1252(odhA) Score=4.4 Pos=-231 [Bacillus cereus ATCC 14579]
+ATTTTTCTGTAAAAT
+>BC2923 Score=4.5 Pos=-32 [Bacillus cereus ATCC 14579]
+AATATTATGTAAATT
+>BC4133(yqjP) Score=4.3 Pos=-90 [Bacillus cereus ATCC 14579]
+TTTTATCTGAAAATA
+>BC3482(amyS) Score=4.5 Pos=-60 [Bacillus cereus ATCC 14579]
+AATATTATAATAATT
+>BC1608(ywcB) Score=4.8 Pos=-71 [Bacillus cereus ATCC 14579]
+AATATTTATAAAATT
+>BC1608(ywcB) Score=4.7 Pos=-80 [Bacillus cereus ATCC 14579]
+AAGTTTCTGAATATT
+>BC5387(pta) Score=4.9 Pos=-124 [Bacillus cereus ATCC 14579]
+AATTTTATGAAAATA
+>BC1178 Score=5.3 Pos=-83 [Bacillus cereus ATCC 14579]
+AATTTTCAAAAAATT
+>BC4526(lcfA) Score=4.4 Pos=-277 [Bacillus cereus ATCC 14579]
+AAAAGTCAGAATATT
+>BC0473(rocR) Score=4.8 Pos=-60 [Bacillus cereus ATCC 14579]
+AATTTTAATAAAATT
+>BC3959(ykzI) Score=4.6 Pos=-74 [Bacillus cereus ATCC 14579]
+AAAAATCAGAAAATT
+>BC0012(yaaC) Score=4.7 Pos=-30 [Bacillus cereus ATCC 14579]
+AATTTTTAGACAATA
+>BC4910(kapD) Score=4.5 Pos=-142 [Bacillus cereus ATCC 14579]
+ATTTTTTAAAATATT
+>BC5004(fadN) Score=4.5 Pos=-141 [Bacillus cereus ATCC 14579]
+TTATTTCAGAAAATT
+>BC1396(dat) Score=5.3 Pos=-88 [Bacillus cereus ATCC 14579]
+AATTTTCTAAAAATT
+>BC1396(dat) Score=4.4 Pos=-167 [Bacillus cereus ATCC 14579]
+AATTTTTTGACTTTT
+>BC4170(spo0A) Score=4.7 Pos=-84 [Bacillus cereus ATCC 14579]
+AATTTTCACACAATT
+>BC3774 Score=4.5 Pos=-214 [Bacillus cereus ATCC 14579]
+AAAATTCAGAAAAAT
+>BC4071 Score=4.5 Pos=-70 [Bacillus cereus ATCC 14579]
+AATTTATTGATAATT
+>BC0053(spoVG) Score=5.1 Pos=-87 [Bacillus cereus ATCC 14579]
+AATTTTTAAAAAATT
+>BC3644(opuE) Score=5.3 Pos=-214 [Bacillus cereus ATCC 14579]
+AATTTTCTGAATATT
+>BC1180(oppB) Score=4.4 Pos=-65 [Bacillus cereus ATCC 14579]
+TATTTTAAAAAAATA
+>BC1303(lutA) Score=4.6 Pos=-149 [Bacillus cereus ATCC 14579]
+AATTTTCTGATAAAA
+>BC1303(lutA) Score=4.5 Pos=-165 [Bacillus cereus ATCC 14579]
+AATCTTTTAAAAATT
+>BC4660(acuA) Score=4.8 Pos=-110 [Bacillus cereus ATCC 14579]
+AATTTTCAGTATATT
+>BC4343(phoB) Score=4.6 Pos=-238 [Bacillus cereus ATCC 14579]
+TATTTTCATAAAAAT
+>BC3776(spoVS) Score=4.6 Pos=-113 [Bacillus cereus ATCC 14579]
+ATTTTTTAGAAAAAT
+>BC4630(argG) Score=4.4 Pos=-108 [Bacillus cereus ATCC 14579]
+AATTGTTTGAAAAAA
+>BC4659(acsA) Score=4.8 Pos=-69 [Bacillus cereus ATCC 14579]
+AATATACTGAAAATT
+>BC1389(gltO) Score=4.6 Pos=-88 [Bacillus cereus ATCC 14579]
+AAAATTCAGAAAATA
+>BC3724(gabP) Score=4.5 Pos=-218 [Bacillus cereus ATCC 14579]
+TAATATCTGAAAATT
+>BC0374(amhX) Score=4.6 Pos=-95 [Bacillus cereus ATCC 14579]
+TTTTTTCTTAAAATT
+>BC4645(ytcI) Score=4.7 Pos=-58 [Bacillus cereus ATCC 14579]
+AATTAACTGAAAATT
+>BC3653(hutP) Score=4.8 Pos=-36 [Bacillus cereus ATCC 14579]
+AATATTCAAATAATT
+>BC0344(putC) Score=4.6 Pos=-121 [Bacillus cereus ATCC 14579]
+TATATTTTAAAAATT
+>BC1231(putP) Score=4.6 Pos=-106 [Bacillus cereus ATCC 14579]
+ACATTTCTGAAAATT
+>BC1231(putP) Score=4.6 Pos=-76 [Bacillus cereus ATCC 14579]
+ATTTTTCAGAATAAT
+>BC4253(metI) Score=4.4 Pos=-344 [Bacillus cereus ATCC 14579]
+AATTTTTTAATAAAT
+>BC1558(yppF) Score=5.1 Pos=-79 [Bacillus cereus ATCC 14579]
+AATTTTTAAAAAATT
+>BH3406(yuiA) Score=4.3 Pos=-47 [Bacillus halodurans C-125]
+AAAATTCTGATAATA
+>BH2206(odhA) Score=4.3 Pos=-232 [Bacillus halodurans C-125]
+TATTTTCAGAATTTA
+>BH4033(glyP) Score=4.5 Pos=-51 [Bacillus halodurans C-125]
+TATTATTTGAATATT
+>BH1728(gltA) Score=4.5 Pos=-94 [Bacillus halodurans C-125]
+AAATGTCAGAAAAAT
+>BH0031(oppA2) Score=4.5 Pos=-295 [Bacillus halodurans C-125]
+AATATTTTGACAAAT
+>BH3819(pelB) Score=4.8 Pos=-174 [Bacillus halodurans C-125]
+AATATTTATAAAATT
+>BH3819(pelB) Score=4.5 Pos=-183 [Bacillus halodurans C-125]
+TATATTCATAATATT
+>BH3823(pta) Score=4.6 Pos=-114 [Bacillus halodurans C-125]
+AATTTTATAAAAAAT
+>BH0916(chi) Score=4.5 Pos=-125 [Bacillus halodurans C-125]
+TATTTTCTAAAGATT
+>BH0030(dppC) Score=4.5 Pos=-46 [Bacillus halodurans C-125]
+ATTTGTCAAAATATT
+>BH3488(fadN) Score=4.8 Pos=-134 [Bacillus halodurans C-125]
+AATTTTCAGAAAATC
+>BH1185(hpr) Score=4.7 Pos=-148 [Bacillus halodurans C-125]
+ATTTTTTAAAAAATT
+>BH1827(mcpC) Score=4.5 Pos=-114 [Bacillus halodurans C-125]
+ATTTTTCAGATAAAT
+>BH2773(spo0A) Score=5 Pos=-89 [Bacillus halodurans C-125]
+AATTTTTTTAAAATT
+>BH2374(BH2374) Score=4.7 Pos=-121 [Bacillus halodurans C-125]
+ATTTGTCAAAAAATT
+>BH3439(BH3439) Score=5 Pos=-62 [Bacillus halodurans C-125]
+AATTTTCTGAATATA
+>BH3439(BH3439) Score=4.5 Pos=-240 [Bacillus halodurans C-125]
+AATTTTCGAAAAATA
+>BH0347(oppA) Score=4.3 Pos=-32 [Bacillus halodurans C-125]
+TATTTTCAAAATAGT
+>BH1831(lutP) Score=4.4 Pos=-123 [Bacillus halodurans C-125]
+ATTTATCAGTAAATT
+>BH3820(gltO) Score=4.4 Pos=-258 [Bacillus halodurans C-125]
+TATTTTTTGAAAAAA
+>BH3201(ytcI) Score=4.3 Pos=-65 [Bacillus halodurans C-125]
+AATATTCAAAATAAA
+>BH0858(yocS) Score=4.4 Pos=26 [Bacillus halodurans C-125]
+ATTTTTCAGTAAATA
+>BH3062(ilvD) Score=4.5 Pos=-111 [Bacillus halodurans C-125]
+TATTTTTTGACTATT
+>BH3062(ilvD) Score=4.3 Pos=-217 [Bacillus halodurans C-125]
+AATAGTCAAATTATT
+>ABC0645(gamR) Score=4.5 Pos=-208 [Bacillus clausii KSM-K16]
+AATTTTCGAAAAATA
+>ABC0646(chi) Score=4.5 Pos=-117 [Bacillus clausii KSM-K16]
+TATTTTTCGAAAATT
+>ABC3940(glnA2) Score=4.7 Pos=-122 [Bacillus clausii KSM-K16]
+TATTATCTGAATATT
+>ABC3806 Score=4.5 Pos=-191 [Bacillus clausii KSM-K16]
+AAATTTAAAAAAATT
+>ABC1961 Score=4.6 Pos=-101 [Bacillus clausii KSM-K16]
+TTTTTTCAGAAAATA
+>ABC3661(oppA) Score=4.5 Pos=-55 [Bacillus clausii KSM-K16]
+AATAATTTTAAAATT
+>ABC3661(oppA) Score=4.5 Pos=-245 [Bacillus clausii KSM-K16]
+TATTTTTGGAAAATT
+>ABC3908(gltO) Score=4.3 Pos=-77 [Bacillus clausii KSM-K16]
+AATTTTTAATAAAAT
+>ABC3255(ytcI) Score=4.3 Pos=-175 [Bacillus clausii KSM-K16]
+CTTTTTTAGAAAATT
+>OB1157(yhaA) Score=4.3 Pos=-58 [Oceanobacillus iheyensis HTE831]
+AATTATATGAATAAT
+>OB2168(citZ) Score=4.3 Pos=-222 [Oceanobacillus iheyensis HTE831]
+AAATATTAAAAAATT
+>OB2303(gltZ) Score=4.5 Pos=-49 [Oceanobacillus iheyensis HTE831]
+AATTGTTAGAATAAT
+>OB3099(gltA) Score=4.6 Pos=-202 [Oceanobacillus iheyensis HTE831]
+AAATTTCAAAAAATA
+>OB2833(glpQ) Score=4.5 Pos=-40 [Oceanobacillus iheyensis HTE831]
+AATATAATGAAAATT
+>OB0463(oppA2) Score=4.4 Pos=-122 [Oceanobacillus iheyensis HTE831]
+AATTGAAAGAAAATT
+>OB3071(oppA2) Score=4.5 Pos=-86 [Oceanobacillus iheyensis HTE831]
+ATTTTTTAAAAAATA
+>OB3071(oppA2) Score=4.7 Pos=-87 [Oceanobacillus iheyensis HTE831]
+AATTTTTTAAAAAAT
+>OB3071(oppA2) Score=4.8 Pos=-186 [Oceanobacillus iheyensis HTE831]
+AATTTTCGGAATATT
+>OB2453(appD) Score=4.8 Pos=-58 [Oceanobacillus iheyensis HTE831]
+AATTTTCAGTATATT
+>OB0994(yocS) Score=4.4 Pos=-56 [Oceanobacillus iheyensis HTE831]
+TATTATCAGATTATT
+>OB1212(glnB) Score=4.6 Pos=-113 [Oceanobacillus iheyensis HTE831]
+AATTTTCTAAAAACA
+>OB3328(gldA) Score=4.4 Pos=-264 [Oceanobacillus iheyensis HTE831]
+AATAGTATGATAATT
+>OB2122(lcfA) Score=4.4 Pos=-67 [Oceanobacillus iheyensis HTE831]
+AAAATTCAAAAAATA
+>OB1787(ndk) Score=4.8 Pos=-66 [Oceanobacillus iheyensis HTE831]
+ATTTTTAAGAAAATT
+>OB3067(dppC) Score=4.5 Pos=-112 [Oceanobacillus iheyensis HTE831]
+TATTTTTACAAAATT
+>OB0438(metA) Score=4.4 Pos=-89 [Oceanobacillus iheyensis HTE831]
+AATTTTTAGATAAAA
+>OB1177(comK) Score=4.5 Pos=-94 [Oceanobacillus iheyensis HTE831]
+TTTATTCTAAAAATT
+>OB0266(sspO) Score=4.5 Pos=-227 [Oceanobacillus iheyensis HTE831]
+AATATTCTGTTAATT
+>OB2971(dppA) Score=4.5 Pos=-41 [Oceanobacillus iheyensis HTE831]
+AATTAATAGAAAATT
+>OB2971(dppA) Score=4.5 Pos=-96 [Oceanobacillus iheyensis HTE831]
+AATATTCAGATTAAT
+>OB2606(lutR) Score=5 Pos=-121 [Oceanobacillus iheyensis HTE831]
+ATTTTTTTGAAAATT
+>OB2221(acuA) Score=4.6 Pos=-85 [Oceanobacillus iheyensis HTE831]
+AAATTTCAAAAAATA
+>OB3129(argG) Score=4.4 Pos=-101 [Oceanobacillus iheyensis HTE831]
+AATAATCAGAAAAAA
+>OB0021(gltO) Score=4.9 Pos=-36 [Oceanobacillus iheyensis HTE831]
+AATTTTCTGAAAAAA
+>OB2643(ytcI) Score=4.5 Pos=-96 [Oceanobacillus iheyensis HTE831]
+TATAATCAGAATATT
+>OB2623(ilvB) Score=4.1 Pos=-508 [Oceanobacillus iheyensis HTE831]
+AATAATTAAAAAACT
+>OB1004(glnH) Score=4.4 Pos=-108 [Oceanobacillus iheyensis HTE831]
+ATTTTTCTGAAATAT
+>Pjdr2_0817(suhB) Score=4.6 Pos=-129 [Paenibacillus sp. JDR-2]
+AATATTTTAAAAATA
+>Pjdr2_1025(Pjdr2_1025) Score=4.6 Pos=-607 [Paenibacillus sp. JDR-2]
+AATTGACAGAATATT
+>Pjdr2_6138(crnA) Score=4.7 Pos=-199 [Paenibacillus sp. JDR-2]
+AATTGTGTGAAAATT
+>Pjdr2_6138(crnA) Score=5.3 Pos=-103 [Paenibacillus sp. JDR-2]
+AATATTCAGAAAATT
+>Pjdr2_3723(Pjdr2_3723) Score=4.8 Pos=-131 [Paenibacillus sp. JDR-2]
+AATTTACAAAAAATT
+>Pjdr2_0438(ushA) Score=5.2 Pos=-96 [Paenibacillus sp. JDR-2]
+AATTTTCAGATAATT
+>Pjdr2_4798(metI) Score=4.4 Pos=-6 [Paenibacillus sp. JDR-2]
+AACTTTATGAAAATT

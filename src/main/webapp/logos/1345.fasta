@@ -1,0 +1,50 @@
+>BSU33000(htrB) Score=6.4 Pos=-200 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTCATTTTATCCCA
+>BSU12900(htrA) Score=6.4 Pos=-99 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTCATTTTATCCCA
+>BSU12900(htrA) Score=8.5 Pos=-120 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTCACAATTTCCCA
+>BSU33000(htrB) Score=8.5 Pos=-221 [Bacillus subtilis subsp. subtilis str. 168]
+TTTTCATAATTTCACA
+>BSU33010(cssR) Score=1.1 Pos=-72 [Bacillus subtilis subsp. subtilis str. 168]
+TGTGAAATTATGAAAA
+>BSU33010(cssR) Score=0.4 Pos=-94 [Bacillus subtilis subsp. subtilis str. 168]
+TGGGATAAAATGAAAA
+>RBAM_012750(htrA) Score=6.4 Pos=-90 [Bacillus amyloliquefaciens FZB42]
+TTTTCATTTTATCCCA
+>RBAM_030110(htrB) Score=6.4 Pos=-200 [Bacillus amyloliquefaciens FZB42]
+TTTTCATTTTATCCCA
+>RBAM_012750(htrA) Score=8.5 Pos=-111 [Bacillus amyloliquefaciens FZB42]
+TTTTCACAATTTCCCA
+>RBAM_030120(cssR) Score=1.1 Pos=-71 [Bacillus amyloliquefaciens FZB42]
+TGTGAAATTATGAAAA
+>RBAM_030110(htrB) Score=8.5 Pos=-221 [Bacillus amyloliquefaciens FZB42]
+TTTTCATAATTTCACA
+>RBAM_030120(cssR) Score=0.4 Pos=-93 [Bacillus amyloliquefaciens FZB42]
+TGGGATAAAATGAAAA
+>BPUM_1181(htrA) Score=6.4 Pos=-100 [Bacillus pumilus SAFR-032]
+TTTTCATTTTATCCCA
+>BPUM_2953(cssR) Score=1.1 Pos=-84 [Bacillus pumilus SAFR-032]
+TGTGAAATTGTGAAAA
+>BPUM_1181(htrA) Score=7.6 Pos=-121 [Bacillus pumilus SAFR-032]
+TTTTAACAATTTCCCA
+>BPUM_2952(htrB) Score=6.2 Pos=-122 [Bacillus pumilus SAFR-032]
+ATTATATAATTTGACA
+>BPUM_2953(cssR) Score=0.3 Pos=-230 [Bacillus pumilus SAFR-032]
+TGTCAAATTATATAAT
+>BLi03482(cssR) Score=1.1 Pos=-72 [Bacillus licheniformis DSM 13]
+TGTGAAATTATGAAAA
+>BLi03482(cssR) Score=0.4 Pos=-94 [Bacillus licheniformis DSM 13]
+TGGGATAAAATGAAAA
+>BLi01390(htrA) Score=6.4 Pos=-73 [Bacillus licheniformis DSM 13]
+TTTTCATGTTATCCCA
+>BLi01390(htrA) Score=7.5 Pos=-94 [Bacillus licheniformis DSM 13]
+CTTTGACAATTTCCCA
+>BLi03481(htrB) Score=6.4 Pos=-161 [Bacillus licheniformis DSM 13]
+TTTTCATTTTATCCCA
+>BLi03481(htrB) Score=8.5 Pos=-182 [Bacillus licheniformis DSM 13]
+TTTTCATAATTTCACA
+>OB0584(cssR) Score=0.3 Pos=-91 [Oceanobacillus iheyensis HTE831]
+TGGAAAAATGTGTAAT
+>OB0583(htrB) Score=6.8 Pos=-88 [Oceanobacillus iheyensis HTE831]
+ATTACACATTTTTCCA

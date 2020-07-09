@@ -1,0 +1,38 @@
+>Jann_1443(bisC) Score=8.8 Pos=-120 [Jannaschia sp. CCS1]
+TTGGTCTCAA------------CTGGCCCTAT
+>Jann_1443(bisC) Score=8 Pos=-97 [Jannaschia sp. CCS1]
+CTGGCCCTAT------------TTGGCCATAG
+>Jann_2846(xsc) Score=8.6 Pos=-106 [Jannaschia sp. CCS1]
+CTGGCCTTAT------------TTGGCCCTAC
+>Jann_2848(COG161(BioA)) Score=8.8 Pos=-106 [Jannaschia sp. CCS1]
+CTGGCCTTAC------------CTGGCCCTAC
+>SKA53_00604(tauR) Score=6.4 Pos=-69 [Loktanella vestfoldensis SKA53]
+CTGGGCTAAA------------TTGGCCCCAG
+>SKA53_00604(tauR) Score=6.5 Pos=-46 [Loktanella vestfoldensis SKA53]
+TTGGCCCCAG------------CTGGACGAAA
+>Pden_4273(tpa2) Score=8.5 Pos=-93 [Paracoccus denitrificans PD1222]
+CTGGCTCCAT------------CTGGCTCTAT
+>Pden_1647(tauK) Score=8.6 Pos=-114 [Paracoccus denitrificans PD1222]
+CTGGACCTAT------------CTGGACATAT
+>RSP_4016(tauK) Score=8.1 Pos=-55 [Rhodobacter sphaeroides 2.4.1]
+CTGGACCTAC------------CTGGACATAT
+>MED193_12208(xsc) Score=9.1 Pos=-116 [Roseobacter sp. MED193]
+TTGGATCTAT------------CTGGCCCTAT
+>MED193_12173 Score=8.5 Pos=-130 [Roseobacter sp. MED193]
+CTGGATGCAA------------CTGGCCCTAG
+>ISM_09816 Score=9.1 Pos=-113 [Roseovarius nubinhibens ISM]
+CTGGTGTTAT------------CTGGCCCTAT
+>ISM_10690(xsc) Score=9.4 Pos=-81 [Roseovarius nubinhibens ISM]
+CTGGCTCTAT------------CTGGCCCTAT
+>ROS217_11286 Score=9.6 Pos=-134 [Roseovarius sp. 217]
+CTGGACCTAT------------CTGGCCCTAA
+>ROS217_11936(xsc) Score=9.1 Pos=-114 [Roseovarius sp. 217]
+CTGGTATTAT------------CTGGCCCTAG
+>TM1040_0155(xsc) Score=8.9 Pos=-115 [Silicibacter TM1040]
+CTGGCACTAC------------CTGGCCCTAA
+>TM1040_0159 Score=9 Pos=-128 [Silicibacter TM1040]
+TTGGACCTAA------------CTGGACCTAT
+>SPO3561(xsc) Score=9.6 Pos=-106 [Silicibacter pomeroyi DSS-3]
+CTGGACCTAT------------CTGGCCCTAA
+>SPO0673(tpa) Score=8.9 Pos=-130 [Silicibacter pomeroyi DSS-3]
+TTGGACATAT------------CTGGCCCTAT

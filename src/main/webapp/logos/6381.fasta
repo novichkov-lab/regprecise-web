@@ -1,0 +1,22 @@
+>CtesDRAFT_2755(tauA) Score=9 Pos=-213 [Comamonas testosteroni KF-1]
+CTGGACCTAA-------------CTGGCCCTAC
+>CtesDRAFT_2753(tauX) Score=6.6 Pos=-149 [Comamonas testosteroni KF-1]
+TTGGACTTAA-------------CTGGTTCTAC
+>CtesDRAFT_2754(tauY) Score=7.6 Pos=-174 [Comamonas testosteroni KF-1]
+CTGGCTCCAT-------------GTGGCCCTAA
+>Daci_2020(tauX) Score=8.2 Pos=-144 [Delftia acidovorans SPH-1]
+CTGGACCTAA-------------CTGGTTCTAA
+>Daci_2019(tauY) Score=7.4 Pos=-172 [Delftia acidovorans SPH-1]
+CTGGCTCTAT-------------GTGGCGCTAA
+>Daci_5671(odpA) Score=6.3 Pos=-112 [Delftia acidovorans SPH-1]
+CTGGCTCCTA-------------GTGGCCCCCG
+>Vapar_3846(tauA) Score=6.8 Pos=-90 [Variovorax paradoxus S110]
+CTGGCTCCAT-------------CTGGTACTTC
+>Vapar_3849(tauX) Score=7.1 Pos=-85 [Variovorax paradoxus S110]
+CTGGCTCGGT-------------CTGGCCCTAT
+>Veis_4286(tauA) Score=6.5 Pos=-162 [Verminephrobacter eiseniae EF01-2]
+CTGGCTCCAT-------------CTGGTACTTT
+>Veis_4289(tauY) Score=5 Pos=-239 [Verminephrobacter eiseniae EF01-2]
+GTGCGCCAGG-------------CTGGCACGCC
+>Veis_4290(odpA) Score=6.6 Pos=-156 [Verminephrobacter eiseniae EF01-2]
+CTGGCCCTGC-------------TTGGCTCTTC

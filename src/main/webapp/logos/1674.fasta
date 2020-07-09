@@ -1,0 +1,78 @@
+>SMc01237(nrdJ) Score=4.5 Pos=-130 [Sinorhizobium meliloti 1021]
+TCACAAGATACAGGAT
+>SMc01237(nrdJ) Score=4.8 Pos=-407 [Sinorhizobium meliloti 1021]
+ACACAAGATATAGCGC
+>SMc01237(nrdJ) Score=5.5 Pos=-161 [Sinorhizobium meliloti 1021]
+ATACTATATTTAGTGT
+>NGR_c15550(nrdJ) Score=5.5 Pos=-155 [Rhizobium sp. NGR234]
+ATACTATATTTAGTGT
+>NGR_c15550(nrdJ) Score=4.8 Pos=-400 [Rhizobium sp. NGR234]
+ACACAAGATATAGCGC
+>NGR_c15550(nrdJ) Score=4.2 Pos=-124 [Rhizobium sp. NGR234]
+CCACAAGATACTGGAG
+>RL1945(nrdJ) Score=5.5 Pos=-175 [Rhizobium leguminosarum bv. viciae 3841]
+ATACTATATTTAGTGT
+>RL1945(nrdJ) Score=4.4 Pos=-144 [Rhizobium leguminosarum bv. viciae 3841]
+CCACAAGATACAGGAA
+>RL4261(nrdH) Score=5 Pos=-508 [Rhizobium leguminosarum bv. viciae 3841]
+GTACCATATCTAGTGT
+>RL1945(nrdJ) Score=4.7 Pos=-420 [Rhizobium leguminosarum bv. viciae 3841]
+CCACAACATGTTGTGG
+>RHE_CH01753(nrdJ) Score=4.7 Pos=-411 [Rhizobium etli CFN 42]
+CCACAACATGTTGTGG
+>RHE_CH01753(nrdJ) Score=5.3 Pos=-167 [Rhizobium etli CFN 42]
+ATACTATATTTAGCGT
+>RHE_CH01753(nrdJ) Score=4.4 Pos=-136 [Rhizobium etli CFN 42]
+CCACAAGATACAGGAA
+>RHE_CH03718(nrdH) Score=5.1 Pos=-486 [Rhizobium etli CFN 42]
+GTACTATATCTAGTGT
+>Atu1733(nrdJ) Score=5 Pos=-416 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACACAATATCTTGTGG
+>Atu1733(nrdJ) Score=4.6 Pos=-296 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TCTCCATATTTAGCGT
+>Atu1733(nrdJ) Score=5.3 Pos=-170 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACACTATATATAGTAG
+>Atu1733(nrdJ) Score=4.2 Pos=-137 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ACACGAGATACAGGGA
+>Atu0068(nrdH) Score=5 Pos=-534 [Agrobacterium tumefaciens str. C58 (Cereon)]
+ATACTATATGTGGTGT
+>Meso_1332(nrdJ) Score=5.2 Pos=-530 [Mesorhizobium sp. BNC1]
+ACACAATATCTAGCGT
+>Meso_1332(nrdJ) Score=4.7 Pos=-284 [Mesorhizobium sp. BNC1]
+ATGCTATATTTAGCGT
+>Meso_2703(nrdA) Score=3.9 Pos=-310 [Mesorhizobium sp. BNC1]
+CTACTAAATATAGCCC
+>mll0136(nrdJ) Score=4.6 Pos=-360 [Mesorhizobium loti MAFF303099]
+ACACAAGATGTTGGGG
+>mll0136(nrdJ) Score=5.5 Pos=-113 [Mesorhizobium loti MAFF303099]
+ATACTATATTTAGTGT
+>BMEI0943(nrdJ) Score=4.9 Pos=-537 [Brucella melitensis 16M]
+GCACAATATCTAGCGT
+>BMEI0943(nrdJ) Score=5.3 Pos=-279 [Brucella melitensis 16M]
+ACACAAGATTTAGTAT
+>BMEI0943(nrdJ) Score=4.5 Pos=-31 [Brucella melitensis 16M]
+CTACTATATATAGAAC
+>BMEII0932(nrdH) Score=5 Pos=-555 [Brucella melitensis 16M]
+CTACCATATCTTGTGT
+>BQ01800(nrdH) Score=5.4 Pos=-523 [Bartonella quintana str. Toulouse]
+ATACTATATATAGTAT
+>RPA2977(nrdJ) Score=5.1 Pos=-409 [Rhodopseudomonas palustris CGA009]
+CCACCACATTTAGTAT
+>bll0007(nrdA) Score=3.3 Pos=-20 [Bradyrhizobium japonicum USDA 110]
+TTCGCATATATGGTGG
+>bll0007(nrdA) Score=4.5 Pos=-51 [Bradyrhizobium japonicum USDA 110]
+CTTCTATATGTGGTGT
+>bll4274(nrdJ) Score=5.4 Pos=-492 [Bradyrhizobium japonicum USDA 110]
+CCACCATATTTAGTAT
+>BBta_4237(nrdJ) Score=4.6 Pos=-320 [Bradyrhizobium sp. BTAi1]
+CCACTAGATGTGGGGG
+>BBta_4237(nrdJ) Score=4.9 Pos=-546 [Bradyrhizobium sp. BTAi1]
+CCCCCATATTTAGTGT
+>Nwi_2888(nrdA) Score=4.8 Pos=-337 [Nitrobacter winogradskyi Nb-255]
+CTACTAAATATAGTGG
+>Nwi_1571(nrdJ) Score=5.5 Pos=-532 [Nitrobacter winogradskyi Nb-255]
+CCACCATATTTAGTGT
+>AZC_1268(nrdJ) Score=5.1 Pos=-262 [Azorhizobium caulinodans ORS 571]
+TCACTATATTTAGTAG
+>Xaut_4674(nrdJ) Score=5.3 Pos=-273 [Xanthobacter autotrophicus Py2]
+CCACCATATGTAGTAT

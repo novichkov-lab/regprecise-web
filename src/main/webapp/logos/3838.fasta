@@ -1,0 +1,48 @@
+>CKO_04215(lysR) Score=4.8 Pos=-47 [Citrobacter koseri ATCC BAA-895]
+CTATGCAAAAATGATATA
+>CKO_04214(lysA) Score=4.8 Pos=-95 [Citrobacter koseri ATCC BAA-895]
+TATATCATTTTTGCATAG
+>ETAE_2911(lysA) Score=5.5 Pos=-73 [Edwardsiella tarda EIB202]
+CATATCATAAATGAATAG
+>ETAE_2912(lysR) Score=5.5 Pos=-15 [Edwardsiella tarda EIB202]
+CTATTCATTTATGATATG
+>Ent638_3285(lysR) Score=5 Pos=-43 [Enterobacter sp. 638]
+CTATGCAAAAATGATATG
+>Ent638_3284(lysA) Score=5 Pos=-96 [Enterobacter sp. 638]
+CATATCATTTTTGCATAG
+>EAM_2771(lysA) Score=4.6 Pos=-94 [Erwinia amylovora ATCC 49946]
+CATATCATGGATGAATAG
+>EAM_2772(lysR) Score=4.6 Pos=-50 [Erwinia amylovora ATCC 49946]
+CTATTCATCCATGATATG
+>ECA3652(lysA) Score=5 Pos=-107 [Erwinia carotovora subsp. atroseptica SCRI1043]
+CATATCAGAAATGAATAA
+>ECA3653(lysR) Score=5 Pos=-46 [Erwinia carotovora subsp. atroseptica SCRI1043]
+TTATTCATTTCTGATATG
+>b2839(lysR) Score=5 Pos=-44 [Escherichia coli str. K-12 substr. MG1655]
+CTATGCAAAAATGATATG
+>b2838(lysA) Score=5 Pos=-95 [Escherichia coli str. K-12 substr. MG1655]
+CATATCATTTTTGCATAG
+>KPN_03253(lysR) Score=5 Pos=-45 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CTATGCAAAAATGATATG
+>KPN_03252(lysA) Score=5 Pos=-109 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+CATATCATTTTTGCATAG
+>plu1191(lysA) Score=4.7 Pos=-84 [Photorhabdus luminescens subsp. laumondii TTO1]
+TATATCACAGATGAATAG
+>plu1190(lysR) Score=4.7 Pos=-47 [Photorhabdus luminescens subsp. laumondii TTO1]
+CTATTCATCTGTGATATA
+>PMI0347(lysA) Score=4.8 Pos=-98 [Proteus mirabilis HI4320]
+TATATCACAAGTGAATAG
+>PMI0346(lysR) Score=4.8 Pos=-29 [Proteus mirabilis HI4320]
+CTATTCACTTGTGATATA
+>STM3014(lysR) Score=5 Pos=-41 [Salmonella typhimurium LT2]
+CTATGCAAAAATGATATG
+>STM3013(lysA) Score=5 Pos=-94 [Salmonella typhimurium LT2]
+CATATCATTTTTGCATAG
+>Spro_3836(lysA) Score=5.5 Pos=-107 [Serratia proteamaculans 568]
+CATATCATAAATGAATAG
+>Spro_3837(lysR) Score=5.5 Pos=-43 [Serratia proteamaculans 568]
+CTATTCATTTATGATATG
+>y3185(lysR) Score=5.5 Pos=-55 [Yersinia pestis KIM]
+CTATTCATTTATGATATG
+>y3184(lysA) Score=5.5 Pos=-177 [Yersinia pestis KIM]
+CATATCATAAATGAATAG

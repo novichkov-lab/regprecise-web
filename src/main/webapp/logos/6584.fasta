@@ -1,0 +1,108 @@
+>AZL_a04200(fer2) Score=4 Pos=-214 [Azospirillum sp. B510]
+TGTCCTTTTCCCGACC
+>AZL_006470(fixB) Score=5.4 Pos=-177 [Azospirillum sp. B510]
+TGTCGCCTTTGCGACA
+>AZL_007710(nifH) Score=5.5 Pos=-182 [Azospirillum sp. B510]
+TGTCGGGACCCCGACA
+>AZL_007660(nifE) Score=5 Pos=-123 [Azospirillum sp. B510]
+TGTCGGGTATCGCACA
+>AZL_007660(nifE) Score=4.4 Pos=-150 [Azospirillum sp. B510]
+TGTGCGATACCCTACA
+>AZL_022470(nifB) Score=5.3 Pos=-190 [Azospirillum sp. B510]
+TGTCGGCACCCCGACA
+>AZL_022470(nifB) Score=4.4 Pos=-139 [Azospirillum sp. B510]
+TGTCACAATGACGACA
+>AZL_006570(iscN) Score=5.2 Pos=-188 [Azospirillum sp. B510]
+TGTCGCAAAAGCGACA
+>AZL_006470(fixB) Score=4.6 Pos=-205 [Azospirillum sp. B510]
+TGTAGCGAAACCGACA
+>Gdia_1570(nifH) Score=4 Pos=-156 [Gluconacetobacter diazotrophicus PAl 5]
+TGTCAGGCTTCGCACA
+>Gdia_1555(fixB) Score=4.6 Pos=-181 [Gluconacetobacter diazotrophicus PAl 5]
+TGTCGGAGTTGACACA
+>Gdia_1560(iscN) Score=4.2 Pos=-115 [Gluconacetobacter diazotrophicus PAl 5]
+CGTTGCAAATCGGACA
+>Gdia_1576(nifB) Score=4.8 Pos=-120 [Gluconacetobacter diazotrophicus PAl 5]
+TGTCGGACATGAGACA
+>Gdia_1560(iscN) Score=5.1 Pos=-132 [Gluconacetobacter diazotrophicus PAl 5]
+CGTCGGGAATCCGACA
+>Gdia_1579(modA) Score=3.7 Pos=-125 [Gluconacetobacter diazotrophicus PAl 5]
+TGTCGCCAAGCGGCCC
+>Magn03009032(nifB) Score=4.4 Pos=-135 [Magnetospirillum magnetotacticum MS-1]
+TGTCGCATCCCCGCCC
+>Magn03009032(nifB) Score=5.5 Pos=-116 [Magnetospirillum magnetotacticum MS-1]
+TGTCGGGGATGCGACA
+>Magn03009023(draT) Score=5 Pos=-139 [Magnetospirillum magnetotacticum MS-1]
+TGTGCGGAATCCGACA
+>Magn03009023(draT) Score=4.6 Pos=-109 [Magnetospirillum magnetotacticum MS-1]
+TGTTGCAACCCCAACA
+>Magn03009022(nifH) Score=5 Pos=-193 [Magnetospirillum magnetotacticum MS-1]
+TGTCGGATTCCGCACA
+>Magn03009011(iscN) Score=5.3 Pos=-126 [Magnetospirillum magnetotacticum MS-1]
+TGTCGCAAAACCGACA
+>Magn03009017(nifE) Score=5.5 Pos=-118 [Magnetospirillum magnetotacticum MS-1]
+TGTCGCATCCCCGACA
+>Magn03008147(rnfX) Score=5.2 Pos=-326 [Magnetospirillum magnetotacticum MS-1]
+TGTCGCTTTTGCGACA
+>Magn03009022(nifH) Score=4.6 Pos=-223 [Magnetospirillum magnetotacticum MS-1]
+TGTTGGGGTTGCAACA
+>amb1583(nifB) Score=5.5 Pos=-115 [Magnetospirillum magneticum AMB-1]
+TGTCGGGGATGCGACA
+>amb1575(draT) Score=5 Pos=-139 [Magnetospirillum magneticum AMB-1]
+TGTGCGGAATCCGACA
+>amb1575(draT) Score=4.6 Pos=-109 [Magnetospirillum magneticum AMB-1]
+TGTTGCAACCCCAACA
+>amb1563(iscN) Score=4 Pos=-110 [Magnetospirillum magneticum AMB-1]
+TGTCGGATTCCCCTCC
+>amb2611(rnfX) Score=5 Pos=-324 [Magnetospirillum magneticum AMB-1]
+TGTCGTACTTGCGACA
+>amb1583(nifB) Score=4.9 Pos=-135 [Magnetospirillum magneticum AMB-1]
+TGTCGCGTCCCCGACC
+>amb1569(nifE) Score=5.4 Pos=-118 [Magnetospirillum magneticum AMB-1]
+TGTCGCATGTCCGACA
+>amb1574(nifH) Score=5 Pos=-193 [Magnetospirillum magneticum AMB-1]
+TGTCGGATTCCGCACA
+>amb1574(nifH) Score=4.6 Pos=-223 [Magnetospirillum magneticum AMB-1]
+TGTTGGGGTTGCAACA
+>amb1563(iscN) Score=4.9 Pos=-127 [Magnetospirillum magneticum AMB-1]
+TGTCGCAAAGTCGACA
+>Rru_A2271(iscN) Score=4.9 Pos=-125 [Rhodospirillum rubrum ATCC 11170]
+TGTCGGAAAGGCGCCA
+>Rru_A1009(draT) Score=5.7 Pos=-182 [Rhodospirillum rubrum ATCC 11170]
+TGTCGCAAACCCGACA
+>Rru_A1009(draT) Score=5.1 Pos=-152 [Rhodospirillum rubrum ATCC 11170]
+TGTCGCGGACCCAACA
+>Rru_A2897(ahpC) Score=4.4 Pos=-119 [Rhodospirillum rubrum ATCC 11170]
+GGTCTGCTACCCGACA
+>Rru_A2271(iscN) Score=5.5 Pos=-173 [Rhodospirillum rubrum ATCC 11170]
+TGTCGGCTTTCCGACA
+>Rru_A0994(nifB) Score=4 Pos=-130 [Rhodospirillum rubrum ATCC 11170]
+TGTCGTAGACTCTACA
+>Rru_A0994(nifB) Score=4.2 Pos=-169 [Rhodospirillum rubrum ATCC 11170]
+TGTCGATATCCCGACC
+>Rru_A1010(nifH) Score=5.7 Pos=-192 [Rhodospirillum rubrum ATCC 11170]
+TGTCGGGTTTGCGACA
+>Rru_A1010(nifH) Score=5.1 Pos=-222 [Rhodospirillum rubrum ATCC 11170]
+TGTTGGGTCCGCGACA
+>Rru_A2286(nifE) Score=5.4 Pos=-175 [Rhodospirillum rubrum ATCC 11170]
+TGTCGTAAACCCGACA
+>Rru_A2286(nifE) Score=4.4 Pos=-217 [Rhodospirillum rubrum ATCC 11170]
+TGTCCGGCTTGCGCCA
+>RC1_3693(nifV) Score=5.3 Pos=-155 [Rhodospirillum centenum SW]
+TGTCGTGAATGCGACA
+>RC1_0480(iscN) Score=5.4 Pos=-122 [Rhodospirillum centenum SW]
+TGTCGCGTTGCCGACA
+>RC1_0480(iscN) Score=5.7 Pos=-158 [Rhodospirillum centenum SW]
+TGTCGGGAATCCGACA
+>RC1_3693(nifV) Score=5.3 Pos=-119 [Rhodospirillum centenum SW]
+TGTCGCATTCACGACA
+>RC1_3690(nifB) Score=5.1 Pos=-157 [Rhodospirillum centenum SW]
+TGTCGGCTTCCCCACA
+>RC1_0481(nifQ) Score=5.4 Pos=-168 [Rhodospirillum centenum SW]
+TGTCGGCAACGCGACA
+>RC1_0481(nifQ) Score=5.7 Pos=-132 [Rhodospirillum centenum SW]
+TGTCGGATTCCCGACA
+>RC1_3690(nifB) Score=5.5 Pos=-134 [Rhodospirillum centenum SW]
+TGTCGCATCCCCGACA
+>RC1_3683(nifH) Score=5.6 Pos=-192 [Rhodospirillum centenum SW]
+TGTCGCGTTTGCGACA

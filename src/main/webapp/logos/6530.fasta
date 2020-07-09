@@ -1,0 +1,170 @@
+>Jann_3858(fnrN) Score=5.4 Pos=-56 [Jannaschia sp. CCS1]
+GCATTGATTTGGATCAAGCG
+>Jann_1933(hemA) Score=5.9 Pos=-67 [Jannaschia sp. CCS1]
+CCTTTGATCCAGATCAAAGC
+>Jann_3859(hemN) Score=5.4 Pos=-51 [Jannaschia sp. CCS1]
+CGCTTGATCCAAATCAATGC
+>Jann_3857(ccoN) Score=5.6 Pos=-126 [Jannaschia sp. CCS1]
+GGCTTGACCCAGATCAAGGT
+>Jann_3853(ccoG) Score=5.4 Pos=-84 [Jannaschia sp. CCS1]
+AACTTGATCCACGTCAAAGC
+>SKA53_02751(hemA) Score=4.9 Pos=-167 [Loktanella vestfoldensis SKA53]
+TTATTGATCCAGATCATGGT
+>SKA53_08751(uspA) Score=5.1 Pos=-136 [Loktanella vestfoldensis SKA53]
+TCGTTGATGTGGATCAACCC
+>SKA53_08751(uspA) Score=5.3 Pos=-114 [Loktanella vestfoldensis SKA53]
+CGTTTGACATGGATCAATGC
+>SKA53_08741(ccoN) Score=5.3 Pos=-105 [Loktanella vestfoldensis SKA53]
+GCATTGATCCATGTCAAACG
+>SKA53_08741(ccoN) Score=5.1 Pos=-83 [Loktanella vestfoldensis SKA53]
+GGGTTGATCCACATCAACGA
+>SKA53_08641(ccoG) Score=5.6 Pos=-177 [Loktanella vestfoldensis SKA53]
+TGCTTGATCCACATCAAGGA
+>OB2597_01932(hemA) Score=5.3 Pos=-155 [Oceanicola batsensis HTCC2597]
+GAATTGATTCACATCAAGGA
+>OB2597_06915(ctaD) Score=5.2 Pos=-113 [Oceanicola batsensis HTCC2597]
+TATTTGATCTGCGTCAATAC
+>OB2597_15845(ctaC) Score=5.6 Pos=-189 [Oceanicola batsensis HTCC2597]
+TTCTTGATCCAGATCAAAAA
+>OB2597_20571(ccoN) Score=4.9 Pos=-73 [Oceanicola batsensis HTCC2597]
+CAATTGACCCAAGTCAAAAC
+>OB2597_20591(ccoG) Score=5.7 Pos=-77 [Oceanicola batsensis HTCC2597]
+GCCTTGATGCAGATCAAAGG
+>OG2516_17525(uspA) Score=5.9 Pos=-74 [Oceanicola granulosus HTCC2516]
+GCCTTGATCTGGATCAAGGT
+>Pden_1850(fnrN) Score=5.3 Pos=-131 [Paracoccus denitrificans PD1222]
+ACCTTGACCCAAATCAAATG
+>Pden_1851(hemN) Score=5.3 Pos=-51 [Paracoccus denitrificans PD1222]
+CATTTGATTTGGGTCAAGGT
+>Pden_1822(hemA) Score=5.4 Pos=-40 [Paracoccus denitrificans PD1222]
+GGCTTGATGCGTATCAAGGT
+>Pden_1849(uspA) Score=5.3 Pos=-146 [Paracoccus denitrificans PD1222]
+ACTTTGATCTGCGTCAATCT
+>Pden_3636(ompW) Score=5.5 Pos=-51 [Paracoccus denitrificans PD1222]
+ATCTTGATCCAGATCAACGT
+>Pden_0893(ccpR) Score=5.1 Pos=-141 [Paracoccus denitrificans PD1222]
+CATCTGACCCAGATCAAAGC
+>Pden_1848(ccoN) Score=5.3 Pos=-124 [Paracoccus denitrificans PD1222]
+AGATTGACGCAGATCAAAGT
+>Pden_1844(ccoG) Score=5.3 Pos=-70 [Paracoccus denitrificans PD1222]
+CGCTTGACGCAGATCAATGC
+>RSP_1877(ctaD) Score=5.6 Pos=-127 [Rhodobacter sphaeroides 2.4.1]
+TTATTGATCCAGATCAAAGT
+>RSP_0698(fnrN) Score=5.5 Pos=-31 [Rhodobacter sphaeroides 2.4.1]
+GCTTTGATTCAGATCAAGCG
+>RSP_1826(ctaC) Score=5.5 Pos=-161 [Rhodobacter sphaeroides 2.4.1]
+TCCTTGATTCAGATCAAATG
+>RSP_0699(hemN) Score=5.5 Pos=-51 [Rhodobacter sphaeroides 2.4.1]
+CGCTTGATCTGAATCAAAGC
+>RSP_2984(hemA) Score=5.2 Pos=-87 [Rhodobacter sphaeroides 2.4.1]
+GATTTGATCCTTATCAAGGC
+>RSP_0696(ccoN) Score=5.1 Pos=-136 [Rhodobacter sphaeroides 2.4.1]
+TCCTTGATGAGGATCAAGTA
+>RSP_0697(uspA) Score=5.4 Pos=-111 [Rhodobacter sphaeroides 2.4.1]
+GCCTTGATCCATGTCAATGG
+>RSP_0697(uspA) Score=5.1 Pos=-79 [Rhodobacter sphaeroides 2.4.1]
+TACTTGATCCTCATCAAGGA
+>RSP_0696(ccoN) Score=5.4 Pos=-104 [Rhodobacter sphaeroides 2.4.1]
+CCATTGACATGGATCAAGGC
+>RSP_2507(ompW) Score=5.4 Pos=-69 [Rhodobacter sphaeroides 2.4.1]
+CCATTGACGCAGATCAAGGC
+>RSP_2395(ccpR) Score=5.2 Pos=-81 [Rhodobacter sphaeroides 2.4.1]
+GAATTGATCTAAGTCAAAGG
+>RB2654_06514(ctaC) Score=5.3 Pos=-192 [Rhodobacterales bacterium HTCC2654]
+GCATTGATCTGCATCAATCG
+>RB2654_10044(fnrN) Score=5.3 Pos=-29 [Rhodobacterales bacterium HTCC2654]
+ACATTGATACGGATCAAATG
+>RB2654_08222(ctaD) Score=5.6 Pos=-212 [Rhodobacterales bacterium HTCC2654]
+TCCTTGACCCGGATCAAACA
+>RB2654_10034(uspA) Score=5.4 Pos=-143 [Rhodobacterales bacterium HTCC2654]
+ACCTTGATCCATGTCAAAAC
+>RB2654_10034(uspA) Score=5.3 Pos=-100 [Rhodobacterales bacterium HTCC2654]
+GATTTGACACATATCAAAGC
+>RB2654_03389(hemA) Score=5.3 Pos=-127 [Rhodobacterales bacterium HTCC2654]
+GGTTTGATCCACGTCAACGC
+>RB2654_10049(hemN) Score=5.3 Pos=-52 [Rhodobacterales bacterium HTCC2654]
+CATTTGATCCGTATCAATGT
+>RB2654_10029(ccoN) Score=5.3 Pos=-168 [Rhodobacterales bacterium HTCC2654]
+GCTTTGATATGTGTCAAATC
+>RB2654_10029(ccoN) Score=5.4 Pos=-125 [Rhodobacterales bacterium HTCC2654]
+GTTTTGACATGGATCAAGGT
+>RB2654_10004(ccoG) Score=5.2 Pos=0 [Rhodobacterales bacterium HTCC2654]
+ATGTTGATCCAAGTCAAGGC
+>MED193_08963(ctaC) Score=5.4 Pos=-178 [Roseobacter sp. MED193]
+TTTTTGATCTAAATCAAGAA
+>MED193_11238(fnrN) Score=5.3 Pos=-29 [Roseobacter sp. MED193]
+ACTTTGACTTGGATCAAACG
+>MED193_21064(hemA) Score=5.4 Pos=-162 [Roseobacter sp. MED193]
+TATTTGACCTGTATCAAAGT
+>MED193_08728(ctaD) Score=5.6 Pos=-122 [Roseobacter sp. MED193]
+ATCTTGATCCAGATCAAACT
+>MED193_11233(uspA) Score=5.5 Pos=-114 [Roseobacter sp. MED193]
+GCATTGATCTGCATCAAGAC
+>MED193_11228(ccoN) Score=5.5 Pos=-93 [Roseobacter sp. MED193]
+GTCTTGATGCAGATCAATGC
+>MED193_11193(ccoG) Score=5.4 Pos=-180 [Roseobacter sp. MED193]
+TTTTTGATCCACGTCAAAGA
+>ROS217_04445(ctaC) Score=5.2 Pos=-219 [Roseovarius sp. 217]
+AATTTGATTTAAATCAAAAA
+>ROS217_21737(hemA) Score=5.2 Pos=-168 [Roseovarius sp. 217]
+GACTTGACCCAAGTCAAGGA
+>ROS217_12216(fnrN) Score=5.3 Pos=-53 [Roseovarius sp. 217]
+GCTTTGATTTAGATCAACCG
+>ROS217_15111(ctaD) Score=5.4 Pos=-128 [Roseovarius sp. 217]
+TCTTTGATCTGCATCAATTT
+>ROS217_12221(uspA) Score=5.4 Pos=-111 [Roseovarius sp. 217]
+TCCTTGATCTGTGTCAAAAC
+>ROS217_12221(uspA) Score=5.4 Pos=-79 [Roseovarius sp. 217]
+CGTTTGATCCGCGTCAAGGC
+>ROS217_12211(hemN) Score=5.3 Pos=-51 [Roseovarius sp. 217]
+CGGTTGATCTAAATCAAAGC
+>ROS217_20807(ompW) Score=5.2 Pos=-75 [Roseovarius sp. 217]
+AACTTGACCCAAATCAATGT
+>ROS217_12226(ccoN) Score=5.4 Pos=-143 [Roseovarius sp. 217]
+GCCTTGACGCGGATCAAACG
+>ROS217_12226(ccoN) Score=5.4 Pos=-111 [Roseovarius sp. 217]
+GTTTTGACACAGATCAAGGA
+>ROS217_12261(ccoG) Score=5.5 Pos=-73 [Roseovarius sp. 217]
+AATTTGATGCAGGTCAAAGC
+>TM1040_2336(ctaC) Score=5.2 Pos=-164 [Silicibacter TM1040]
+TTTTTGATCTAAGTCAAGAA
+>TM1040_0860(hemA) Score=5.4 Pos=-169 [Silicibacter TM1040]
+TATTTGACCTGTATCAAGGA
+>TM1040_2547(fnrN) Score=5.2 Pos=-29 [Silicibacter TM1040]
+GCTTTGACACAGATCAACCA
+>TM1040_2291(ctaD) Score=5.6 Pos=-125 [Silicibacter TM1040]
+TTCTTGATCCAGATCAAACT
+>TM1040_2546(uspA) Score=5.4 Pos=-126 [Silicibacter TM1040]
+ACATTGATCTGTATCAAGAT
+>TM1040_2548(hemN) Score=5.2 Pos=-51 [Silicibacter TM1040]
+TGGTTGATCTGTGTCAAAGC
+>TM1040_0734(ompW) Score=5.2 Pos=-78 [Silicibacter TM1040]
+CATTTGATCTAGATCAGAGC
+>TM1040_2545(ccoN) Score=5.4 Pos=-117 [Silicibacter TM1040]
+ATCTTGATACAGATCAATGT
+>TM1040_2540(ccoG) Score=5.4 Pos=-79 [Silicibacter TM1040]
+TTTTTGATCCACGTCAAAGT
+>SPO3076(ctaC) Score=5.6 Pos=-162 [Silicibacter pomeroyi DSS-3]
+TGTTTGATCCAGATCAAAAA
+>SPO2596(hemA) Score=5.1 Pos=-146 [Silicibacter pomeroyi DSS-3]
+TAATTGACCCAAGTCAAGGC
+>SPO3531(fnrN) Score=5.4 Pos=-32 [Silicibacter pomeroyi DSS-3]
+ACCTTGACTCAGATCAAGTA
+>SPO1383(ctaD) Score=5.6 Pos=-120 [Silicibacter pomeroyi DSS-3]
+ATCTTGATCCAGATCAAACT
+>SPO3527(uspA) Score=5.7 Pos=-98 [Silicibacter pomeroyi DSS-3]
+GCTTTGATCTGCATCAAGAC
+>SPO3532(hemN) Score=5.4 Pos=-52 [Silicibacter pomeroyi DSS-3]
+TACTTGATCTGAGTCAAGGT
+>SPO2792(ompW) Score=5.2 Pos=-75 [Silicibacter pomeroyi DSS-3]
+ATCTTGATCCAGATCAGGGA
+>SPO0330(ccpR) Score=5.5 Pos=-96 [Silicibacter pomeroyi DSS-3]
+CGCTTGATCCATATCAAAGT
+>SPO3526(ccoN) Score=5.7 Pos=-110 [Silicibacter pomeroyi DSS-3]
+GTCTTGATGCAGATCAAAGC
+>SPO3522(ccoG) Score=5.4 Pos=-80 [Silicibacter pomeroyi DSS-3]
+TTTTTGACCCATATCAAAGT
+>EE36_02238(ccoN) Score=5.7 Pos=-72 [Sulfitobacter sp. EE-36]
+CATTTGATCTAGATCAAGGC
+>EE36_02218(ccoG) Score=5.6 Pos=-74 [Sulfitobacter sp. EE-36]
+TGTTTGATGCAGATCAAAGC

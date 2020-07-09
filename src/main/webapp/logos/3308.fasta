@@ -1,0 +1,24 @@
+>DIP0012(lldP) Score=5.4 Pos=-122 [Corynebacterium diphtheriae NCTC 13129]
+TGTGGTCTTACCACT
+>DIP1033(lldP) Score=5 Pos=-120 [Corynebacterium diphtheriae NCTC 13129]
+TGTGGTCCACCCAAA
+>DIP0012(lldP) Score=5.1 Pos=-108 [Corynebacterium diphtheriae NCTC 13129]
+TGTGGTCAGACCAAC
+>DIP1032(lldE) Score=3.9 Pos=-332 [Corynebacterium diphtheriae NCTC 13129]
+TTTGGGTGGACCACA
+>CE2753(ldhA) Score=4.8 Pos=-119 [Corynebacterium efficiens YS-314]
+AGTGGTCCGGCCAGA
+>CE2761 Score=5.1 Pos=-14 [Corynebacterium efficiens YS-314]
+CATGGCCTGACCACA
+>CE2761 Score=6 Pos=-27 [Corynebacterium efficiens YS-314]
+TGTGGTCTGACCACA
+>CE2754(CE2754) Score=4 Pos=-75 [Corynebacterium efficiens YS-314]
+TCTGGCCGGACCACT
+>cg3219(ldhA) Score=5.4 Pos=-137 [Corynebacterium glutamicum ATCC 13032]
+CTTGGTCTGACCACA
+>cg3226(cg3226) Score=5.3 Pos=-77 [Corynebacterium glutamicum ATCC 13032]
+TGTGGTCTGACCATG
+>cg2118(fruR) Score=4.2 Pos=-110 [Corynebacterium glutamicum ATCC 13032]
+TACGGTTCTTCCACA
+>cg3220(CE2754) Score=5.1 Pos=-106 [Corynebacterium glutamicum ATCC 13032]
+TGTGGTCAGACCAAG

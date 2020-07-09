@@ -1,0 +1,32 @@
+>BSU37460(rapF) Score=8.4 Pos=-106 [Bacillus subtilis subsp. subtilis str. 168]
+ATGCGGTGTAACGAAA--------------TTGCGG
+>BSU07560(pel) Score=8 Pos=-124 [Bacillus subtilis subsp. subtilis str. 168]
+TTGCAGAATGCCGCAA--------------TTTCGG
+>BSU03480(srfAC) Score=9.5 Pos=-364 [Bacillus subtilis subsp. subtilis str. 168]
+TTTCGGCATCCCGCAT--------------TTTCGG
+>BSU31720(degQ) Score=8.1 Pos=-145 [Bacillus subtilis subsp. subtilis str. 168]
+TTGCGGTGTCACGCAG--------------TTTCGG
+>BSU03770(rapC) Score=7.2 Pos=-104 [Bacillus subtilis subsp. subtilis str. 168]
+TTGCGTGCTCCCGAAA--------------TTTCGG
+>BSU12430(rapA) Score=8.1 Pos=-106 [Bacillus subtilis subsp. subtilis str. 168]
+TTGCGGTTAGCCGAAA--------------TTGCGG
+>BSU25830(rapE) Score=7.9 Pos=-108 [Bacillus subtilis subsp. subtilis str. 168]
+TTGCGGTCTCACCGAA--------------TTGCGG
+>RBAM_003650(srfAC) Score=9 Pos=-337 [Bacillus amyloliquefaciens FZB42]
+TTTCGGTGTGCCGCAT--------------TTTCGG
+>RBAM_004010(rapC) Score=7.1 Pos=-103 [Bacillus amyloliquefaciens FZB42]
+TTGCGCTCTGCCGAAA--------------TTTCGG
+>RBAM_012450(rapA) Score=7.3 Pos=-112 [Bacillus amyloliquefaciens FZB42]
+TTGCGGATATCCGAAA--------------TTGCGG
+>RBAM_028800(degQ) Score=8.1 Pos=-146 [Bacillus amyloliquefaciens FZB42]
+TTGCGGTGTCACGCAG--------------TTTCGG
+>BPUM_0319(srfAC) Score=8.8 Pos=-330 [Bacillus pumilus SAFR-032]
+ATTCGGCATAACGCAT--------------TTTCGG
+>BPUM_2841(degQ) Score=8.4 Pos=-145 [Bacillus pumilus SAFR-032]
+TTGCGGTATCACGCAC--------------TTTCGG
+>BLi00401(srfAC) Score=9.3 Pos=-372 [Bacillus licheniformis DSM 13]
+ATTCGGTATCCCGCAT--------------TTTCGG
+>BLi00401(srfAC) Score=8.2 Pos=-405 [Bacillus licheniformis DSM 13]
+TTTCGGGATCGCGCAT--------------ATTCGG
+>BLi03360(degQ) Score=8.4 Pos=-143 [Bacillus licheniformis DSM 13]
+TTGCGGTGTAACGCAT--------------TTTCGG

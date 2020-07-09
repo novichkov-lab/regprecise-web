@@ -1,0 +1,26 @@
+>BAV2306(metE) Score=5.2 Pos=-108 [Bordetella avium 197N]
+ATGAATACTTCTCAA
+>BAV2306(metE) Score=5.2 Pos=0 [Bordetella avium 197N]
+ATGACTATTACTCAT
+>BAV2307(metR) Score=5.2 Pos=-154 [Bordetella avium 197N]
+ATGAGTAATAGTCAT
+>BAV2307(metR) Score=5.2 Pos=-46 [Bordetella avium 197N]
+TTGAGAAGTATTCAT
+>BB2079(metE) Score=5.7 Pos=-108 [Bordetella bronchiseptica RB50]
+ATGAATAATACTCAA
+>BB2079(metE) Score=5.2 Pos=0 [Bordetella bronchiseptica RB50]
+ATGACTATTATTCAT
+>BB2078(metR) Score=5.2 Pos=-176 [Bordetella bronchiseptica RB50]
+ATGAATAATAGTCAT
+>BB2078(metR) Score=5.7 Pos=-68 [Bordetella bronchiseptica RB50]
+TTGAGTATTATTCAT
+>Bpet2059(metE) Score=4.7 Pos=-106 [Bordetella petrii DSM 12804]
+ATGAATAAATCTCAA
+>Bpet2059(metE) Score=5.2 Pos=0 [Bordetella petrii DSM 12804]
+ATGACTATTACTCAT
+>Bpet2058(metR) Score=5.2 Pos=-173 [Bordetella petrii DSM 12804]
+ATGAGTAATAGTCAT
+>Bpet2058(metR) Score=4.7 Pos=-67 [Bordetella petrii DSM 12804]
+TTGAGATTTATTCAT
+>Bpet0614(glyA) Score=5.1 Pos=-190 [Bordetella petrii DSM 12804]
+TTGAATATTCCTCAA

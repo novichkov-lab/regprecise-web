@@ -1,0 +1,12 @@
+>CKO_04056(srlA) Score=9 Pos=-122 [Citrobacter koseri ATCC BAA-895]
+AACTTTCA-------------ATCTTTCA
+>b2702(srlA) Score=9 Pos=-122 [Escherichia coli str. K-12 substr. MG1655]
+AACTTTCA-------------ATCTTTCA
+>KPN_03037(srlA) Score=8.7 Pos=-142 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATATTTCA-------------ATCTTTCA
+>KPN_03037(srlA) Score=9.3 Pos=-121 [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ATCTTTCA-------------ATCTTTCA
+>STM2832(srlA) Score=8.2 Pos=-122 [Salmonella typhimurium LT2]
+ATCTTTCA-------------TTCTTTTA
+>Spro_3569(srlA) Score=9 Pos=-139 [Serratia proteamaculans 568]
+AACTTTCA-------------ATCTTTCA

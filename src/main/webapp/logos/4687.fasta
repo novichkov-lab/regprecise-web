@@ -1,0 +1,32 @@
+>SDEG_0679(bgaC) Score=5.3 Pos=-89 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTAGCTATTATAACAAAAAA
+>SDEG_0678(agaR) Score=5.3 Pos=-51 [Streptococcus dysgalactiae subsp. equisimilis GGS_124]
+TTTTTTGTTATAATAGCTAA
+>Sez_0741(bgaC) Score=4.7 Pos=-116 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+AATACGATTATAGCAAAAAT
+>Sez_0740(agaR) Score=4.7 Pos=-43 [Streptococcus equi subsp. zooepidemicus MGCS10565]
+ATTTTTGCTATAATCGTATT
+>SGO_0043(bgaC) Score=5.6 Pos=-67 [Streptococcus gordonii str. Challis substr. CH1]
+AATGTTATTATATTAATTAA
+>SGO_0042(agaR) Score=5.6 Pos=-107 [Streptococcus gordonii str. Challis substr. CH1]
+TTAATTAATATAATAACATT
+>smi_0079(bgaC) Score=5.5 Pos=-56 [Streptococcus mitis B6]
+ATATTTAATATATCAACAAA
+>smi_0078(agaR) Score=5.5 Pos=-282 [Streptococcus mitis B6]
+TTTGTTGATATATTAAATAT
+>SP_0060(bgaC) Score=5.6 Pos=-56 [Streptococcus pneumoniae TIGR4]
+ATAATTAATATAACAACAAA
+>SP_0058(agaR) Score=5.6 Pos=-312 [Streptococcus pneumoniae TIGR4]
+TTTGTTGTTATATTAATTAT
+>SSA_0053(bgaC) Score=5.5 Pos=-61 [Streptococcus sanguinis SK36]
+AAATTTATTATATTAATATT
+>SSA_0052(agaR) Score=5.5 Pos=-98 [Streptococcus sanguinis SK36]
+AATATTAATATAATAAATTT
+>SSU05_0449(bgaC) Score=4.9 Pos=-48 [Streptococcus suis 05ZYH33]
+AGTGTTAGTATATTAATAGA
+>SSU05_0448(agaR) Score=4.9 Pos=-157 [Streptococcus suis 05ZYH33]
+TCTATTAATATACTAACACT
+>SUB0042(bgaC) Score=5.1 Pos=-103 [Streptococcus uberis 0140J]
+AGAACTATTATAACAGAAAT
+>SUB0041(agaR) Score=5.1 Pos=-53 [Streptococcus uberis 0140J]
+ATTTCTGTTATAATAGTTCT

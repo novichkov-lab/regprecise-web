@@ -1,0 +1,38 @@
+>SMc04128(cadA) Score=6 Pos=-54 [Sinorhizobium meliloti 1021]
+AACCTCTAGCCGCTAGAGGAC
+>NGR_c34490(cadA) Score=6 Pos=-54 [Rhizobium sp. NGR234]
+TAGCTCTAGTCGCTAGAGGTT
+>RL4262(cadA) Score=6.3 Pos=-58 [Rhizobium leguminosarum bv. viciae 3841]
+CACCTCTAGTCGCTAGAGGAT
+>RHE_CH03719(cadA) Score=6.3 Pos=-58 [Rhizobium etli CFN 42]
+CACCTCTAGTCGCTAGAGGAT
+>Atu0889 Score=5.2 Pos=-20 [Agrobacterium tumefaciens str. C58 (Cereon)]
+TATCTCCAGTCTCTAGAGATA
+>Atu0843(cadA) Score=5.8 Pos=-59 [Agrobacterium tumefaciens str. C58 (Cereon)]
+AAGCTCTAGTTGCTAGAGGTG
+>Meso_4426(cadR2) Score=5.1 Pos=-34 [Mesorhizobium sp. BNC1]
+ATGCTTTAGTCGCCAGAGGAT
+>Meso_4216(PF00501) Score=4.4 Pos=-64 [Mesorhizobium sp. BNC1]
+ATTCTGTAGTGGCCACAGGAA
+>Meso_4216(PF00501) Score=5 Pos=-280 [Mesorhizobium sp. BNC1]
+ATTCTTTAGTGGCTACAGAAT
+>Meso_2849(cadA) Score=6.2 Pos=-57 [Mesorhizobium sp. BNC1]
+CTCCTATAGTCACTAGAGGAA
+>Meso_4129(cadA2) Score=5.3 Pos=-57 [Mesorhizobium sp. BNC1]
+ACCCTCTAGCTGCTATAGGTC
+>mll2475(cadA) Score=6.1 Pos=-97 [Mesorhizobium loti MAFF303099]
+AAGCTCTAGTGACTAGAGCAA
+>BMEI0053(cadA) Score=6.3 Pos=-63 [Brucella melitensis 16M]
+CTCCTCTAGTTACTAGAGGAT
+>RPA3260(cadA) Score=4.6 Pos=-59 [Rhodopseudomonas palustris CGA009]
+ACCCTGTAGCCGCTACAGGGT
+>BBta_7421(cadA) Score=6.2 Pos=-46 [Bradyrhizobium sp. BTAi1]
+CTCCTCTAGCGACTAGAGGAC
+>Nwi_3134(cadA) Score=5.1 Pos=-59 [Nitrobacter winogradskyi Nb-255]
+ACCCTATAGTTACTACAGGGT
+>AZC_1456(cadA) Score=6.4 Pos=-55 [Azorhizobium caulinodans ORS 571]
+CTCCTCTAGTGACTAGAGGAC
+>Xaut_3978(cadA) Score=6 Pos=-28 [Xanthobacter autotrophicus Py2]
+CTCCTCTAGTGACTAGAGTAT
+>Xaut_3338(cadA) Score=6 Pos=-28 [Xanthobacter autotrophicus Py2]
+CTCCTCTAGTGACTAGAGTAT
