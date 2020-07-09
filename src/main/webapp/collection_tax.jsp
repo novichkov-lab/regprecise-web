@@ -19,13 +19,18 @@
 <%@page import="com.lbl.regprecise.ent.Genome"%>
 <%@page import="com.lbl.regprecise.ent.Term"%>
 
-
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
+
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int collectionId = 1;
-	String val = request.getParameter("collection_id");
+	
+	//String val = request.getParameter("collection_id");
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("collection_id"));
+	
 	if (val != null) { 
 		collectionId = Integer.valueOf(val);
 	}

@@ -26,13 +26,17 @@
 <%@page import="com.lbl.regprecise.ent.Gene"%>
 <%@page import="com.lbl.regprecise.ent.Site"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 
 
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	
 	int pgRegulonId = 0;
-	String val = request.getParameter("pg_regulon_id");
+	//String val = request.getParameter("pg_regulon_id");
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("pg_regulon_id"));
+	
 	if (val != null) {
 		pgRegulonId = Integer.valueOf(val);
 	}

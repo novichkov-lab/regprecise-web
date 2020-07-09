@@ -19,9 +19,13 @@
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
-	int genomeId = Integer.parseInt(request.getParameter("genome_id")) ;
+	//int genomeId = Integer.parseInt(request.getParameter("genome_id"));
+	//fixing Crosssite issue
+	int genomeId = Integer.parseInt(StringEscapeUtils.escapeHtml4(request.getParameter("genome_id")));
+	
 	int collectionId = Collection.COLLECTION_ID_PUBLIC_ALL; 	 
 	
 	Genome genome = dataProvider.getGenome(genomeId);  

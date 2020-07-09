@@ -12,14 +12,18 @@
 <%@page import="com.lbl.regprecise.web.WebLinksProvider"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
 
-
-
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
+
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int riboswitchId = 1;
-	String val = request.getParameter("riboswitch_id");
+	//String val = request.getParameter("riboswitch_id");
+	
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("riboswitch_id"));
+	
 	if (val != null) {
 		riboswitchId = Integer.valueOf(val);
 	} 

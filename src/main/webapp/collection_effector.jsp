@@ -12,10 +12,17 @@
 <%@page import="com.lbl.regprecise.ent.Term"%>
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int effectorId = 1;
-	String val = request.getParameter("effector_id");
+	
+	//String val = request.getParameter("effector_id");
+	
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("effector_id"));
+	
 	if (val != null) {
 		effectorId = Integer.valueOf(val);
 	} 

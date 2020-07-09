@@ -21,12 +21,18 @@
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
+
 
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 
 	int regulogId = 1;
-	String val = request.getParameter("regulog_id");
+	
+	//String val = request.getParameter("regulog_id");
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("regulog_id"));
+	
 	if (val != null) {
 		regulogId = Integer.valueOf(val);
 	}

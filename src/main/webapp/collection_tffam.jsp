@@ -12,13 +12,18 @@
 <%@page import="com.lbl.regprecise.ent.TFFamily"%>
 <%@page import="com.lbl.regprecise.web.WebLinksProvider"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
-
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
+
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int tfFamilyId = 1;
-	String val = request.getParameter("tffamily_id");
+	
+	//String val = request.getParameter("tffamily_id");
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("tffamily_id"));
+	
 	if (val != null) {
 		tfFamilyId = Integer.valueOf(val);
 	} 

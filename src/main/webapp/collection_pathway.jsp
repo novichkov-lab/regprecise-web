@@ -12,10 +12,17 @@
 <%@page import="com.lbl.regprecise.ent.Term"%>
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int pathwayId = 1;
-	String val = request.getParameter("pathway_id");
+	
+	//String val = request.getParameter("pathway_id");
+	
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("pathway_id"));
+	
 	if (val != null) {
 		pathwayId = Integer.valueOf(val);
 	} 

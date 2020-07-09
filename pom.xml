@@ -27,9 +27,15 @@
 			<artifactId>regprecise-dao</artifactId>
 			<version>${regPrecise-dao.version}</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-text -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-text</artifactId>
+			<version>1.8</version>
+		</dependency>
 	</dependencies>
 
-	
+
 
 	<build>
 		<!-- <sourceDirectory>src</sourceDirectory> -->
@@ -43,9 +49,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.3.0</version>
-				<!-- <configuration>
-					<warName>web-regprecise.war</warName>
-				</configuration> -->
+				<!-- <configuration> <warName>web-regprecise.war</warName> </configuration> -->
 				<!-- <configuration> <warSourceDirectory>WebContent</warSourceDirectory> 
 					</configuration> -->
 			</plugin>

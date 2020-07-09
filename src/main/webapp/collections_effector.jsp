@@ -9,6 +9,7 @@
 <%@page import="com.lbl.regprecise.ent.Term"%>
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.dto.EffectorStatDTO"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	List<EffectorStatDTO> collectionStats = dataProvider.getEffectorsStatDTO();		

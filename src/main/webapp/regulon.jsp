@@ -15,7 +15,7 @@
 <%@page import="com.lbl.regprecise.ent.Site"%>
 <%@page import="com.lbl.regprecise.web.WebLinksProvider"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
-
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
 
 
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
@@ -23,7 +23,10 @@
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	int regulonId = -1;
-	String val = request.getParameter("regulon_id");
+	/* String val = request.getParameter("regulon_id"); */
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("regulon_id"));
+	
 	if (val != null) {
 		regulonId = Integer.valueOf(val);
 	}

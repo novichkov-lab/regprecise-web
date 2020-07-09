@@ -19,9 +19,15 @@
 <%@page import="com.lbl.regprecise.dto.PropagatedCollectionStatDTO"%>
 <%@page import="com.lbl.regprecise.dto.PropagatedGenomeStatDTO"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
+
 <%
 	int prpCollectionId = 1;
-	String val = request.getParameter("pg_collection_id");
+	
+	//String val = request.getParameter("pg_collection_id");
+	//fixing Crosssite issue
+	String val = StringEscapeUtils.escapeHtml4(request.getParameter("pg_collection_id"));
+	
 	if (val != null) {
 		prpCollectionId = Integer.valueOf(val);
 	}

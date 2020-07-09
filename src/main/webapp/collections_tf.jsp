@@ -9,6 +9,7 @@
 <%@page import="com.lbl.regprecise.ent.Term"%>
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.dto.CollectionStatDTO"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();	
 	List<CollectionStatDTO> collectionStats = dataProvider.getCollectionsStatDTO(Term.COLLECTION_TYPE_BY_REGULATOR);

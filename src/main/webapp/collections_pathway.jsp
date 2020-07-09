@@ -9,6 +9,7 @@
 <%@page import="com.lbl.regprecise.ent.Term"%>
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.dto.PathwayStatDTO"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
 	List<PathwayStatDTO> collectionStats = dataProvider.getPathwaysStatDTO();		

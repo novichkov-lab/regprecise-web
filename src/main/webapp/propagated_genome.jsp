@@ -22,10 +22,16 @@
 <%@page import="com.lbl.regprecise.web.DataProviderHelper"%>
 <%@page import="com.lbl.regprecise.web.Formatter"%>
 
+<%@page import="org.apache.commons.text.StringEscapeUtils"%>
+
 <%
 	ConstrainedDataProvider dataProvider = DataProviderHelper.getDataProvider();
-	int pgpCollectionid = Integer.parseInt(request.getParameter("pgp_collection_id")) ;
-	int genomeId = Integer.parseInt(request.getParameter("genome_id")) ;
+	
+	//int pgpCollectionid = Integer.parseInt(request.getParameter("pgp_collection_id"));
+	//fixing Crosssite issue
+	int pgpCollectionid = Integer.parseInt(StringEscapeUtils.escapeHtml4(request.getParameter("pgp_collection_id")));
+	//int genomeId = Integer.parseInt(request.getParameter("genome_id"));
+	int genomeId = Integer.parseInt(StringEscapeUtils.escapeHtml4(request.getParameter("genome_id")));
 	
 	Genome genome = dataProvider.getGenome(genomeId);  
 	List<PropagatedRegulon> regulons  = dataProvider.getPropagatedRegulons(pgpCollectionid, genomeId);
