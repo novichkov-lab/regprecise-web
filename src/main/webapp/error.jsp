@@ -22,7 +22,7 @@
 			<h1>The page you are looking for does not exist.</h1> 
 		</div>
 			
-		<%
+		<%--<%
 		out.println("<!--");
 		StringWriter sw = new StringWriter();
 		PrintWriter pw = new PrintWriter(sw);
@@ -31,7 +31,7 @@
 		sw.close();
 		pw.close();
 		out.println("-->");
-		%>
+		%> --%>
 		
 	</div>
 	<%@ include file="/footer.jsp" %>
