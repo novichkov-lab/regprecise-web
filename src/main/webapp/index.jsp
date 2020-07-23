@@ -18,15 +18,6 @@ DatabaseRelease release = dataProvider.getCurrentDatabaseRelease();
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172052718-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-172052718-1');
-</script>
 
 <title></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />

@@ -1,6 +1,8 @@
 <!-- Start header -->
 <div class="wrapper">
 
+<%@ include file="/google_tag.jsp"%>
+
 	<div class="header">	
     
 	            <div class="logo"><a href="index.jsp"><img src="images/regprecise_logo.gif" alt="Regprecise Logo"/></a></div>
